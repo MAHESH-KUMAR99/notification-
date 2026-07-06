@@ -72,12 +72,6 @@
     "itemSelector": "div[class*=\"cssNLink\"]:has(a)"
   },
   {
-    "authorityId": "karnataka-kea",
-    "type": "html-list",
-    "url": "https://cetonline.karnataka.gov.in/kea/",
-    "itemSelector": "#ContentPlaceHolder1_Gridlatestannoc tr"
-  },
-  {
     "authorityId": "andhra-pradesh-uhsap",
     "type": "html-table",
     "url": "https://drntr.uhsap.in/index/",

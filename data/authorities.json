@@ -1959,7 +1959,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-06T05:56:05.882Z",
+    "lastUpdatedDate": "2026-07-06T08:10:15.981Z",
     "pinned": false,
     "notices": [
       {
@@ -2006,6 +2006,15 @@
         "sortTs": null,
         "source": "OVERALL",
         "detectedAt": "2026-07-06T05:56:05.882Z"
+      },
+      {
+        "id": "OVERALL:495903426637da71",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
+        "date": "01/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "detectedAt": "2026-07-06T08:10:15.981Z"
       },
       {
         "id": "OVERALL:6b32dac1f74248c5",
@@ -2134,13 +2143,13 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
-        "id": "OVERALL:1aee610365baf2cd",
-        "title": "NOTIFICATION - ENGAGEMENT OF RETIRED OFFICIAL AS CONSULTANT ON CONTRACT BASIS IN CENTAC, PUDUCHERRY",
-        "link": "https://drive.google.com/file/d/1JnF5sozVINprK-qQNi-SjuOcOPhOPZwT/view?usp=drivesdk",
-        "date": "10/06/2026",
+        "id": "PG DENTAL:495903426637da71",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
+        "date": "01/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
+        "source": "PG DENTAL",
+        "detectedAt": "2026-07-06T08:10:15.981Z"
       },
       {
         "id": "PG DENTAL:6b32dac1f74248c5",
