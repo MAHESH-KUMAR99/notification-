@@ -3680,9 +3680,63 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-06T06:11:53.960Z",
+    "lastUpdatedDate": "2026-07-06T12:14:04.582Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Notifications:2139c24903c22572",
+        "title": "Retotaling of B.Sc 4th Supplementary Examination Held in March 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/4th-sem-supply_0001.pdf",
+        "date": null,
+        "sortTs": 1784073600000,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:2dea4a7354e20097",
+        "title": "Retotaling of B.Sc 3rd Regular Examination Held in March 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/3rd-sem-Regular_0001.pdf",
+        "date": null,
+        "sortTs": 1784073600000,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:e2ced1d251fcba54",
+        "title": "Result Notification of M.Ch CTVS Final Year Annual Examination Held in May 2026 Batch 2021 Date Of Result 04-07-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notification-of-M.ch-CTVS-Final-Year-Batch-2021.pdf",
+        "date": "04/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:70ca47d57fd51739",
+        "title": "Result Notifications pertaining to BDS 1st year University Supplementary Examination held in the Month of March, 2026 [Date of Result 03-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notifications-BDS-1st-Year.pdf",
+        "date": "03/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:0ac049cb14d0ea12",
+        "title": "Schedule for the filling forms for the Retotalling of MBBS Phase III Part I Supplementary Examination held in the month of March, 2026 in reference to CMP 15732 of 2026. [Date of Schedule 03-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Retotalling-notification-as-per-CMP-15732-1.pdf",
+        "date": "03/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:86d6f7e49642caba",
+        "title": "The Founding of YouTube A Short History",
+        "link": "https://amruhp.ac.in/the-founding-of-youtube-a-short-history/",
+        "date": null,
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T12:14:04.582Z"
+      },
       {
         "id": "Announcements:d8f8e38996163ad2",
         "title": "Notice regarding Prospectus for the Common Entrance Test (CET) for Allied Healthcare Programmes and B.Pharmacy (Ayurved) Course,2026–27",
@@ -3772,51 +3826,6 @@
         "sortTs": null,
         "source": "Announcements",
         "detectedAt": "2026-07-06T06:11:53.960Z"
-      },
-      {
-        "id": "Latest Notifications:2139c24903c22572",
-        "title": "Retotaling of B.Sc 4th Supplementary Examination Held in March 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/4th-sem-supply_0001.pdf",
-        "date": null,
-        "sortTs": 1784073600000,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:2dea4a7354e20097",
-        "title": "Retotaling of B.Sc 3rd Regular Examination Held in March 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/3rd-sem-Regular_0001.pdf",
-        "date": null,
-        "sortTs": 1784073600000,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:e2ced1d251fcba54",
-        "title": "Result Notification of M.Ch CTVS Final Year Annual Examination Held in May 2026 Batch 2021 Date Of Result 04-07-2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notification-of-M.ch-CTVS-Final-Year-Batch-2021.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:70ca47d57fd51739",
-        "title": "Result Notifications pertaining to BDS 1st year University Supplementary Examination held in the Month of March, 2026 [Date of Result 03-07-2026]",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notifications-BDS-1st-Year.pdf",
-        "date": "03/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:0ac049cb14d0ea12",
-        "title": "Schedule for the filling forms for the Retotalling of MBBS Phase III Part I Supplementary Examination held in the month of March, 2026 in reference to CMP 15732 of 2026. [Date of Schedule 03-07-2026]",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Retotalling-notification-as-per-CMP-15732-1.pdf",
-        "date": "03/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
       }
     ]
   },
@@ -4373,9 +4382,25 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-04T11:09:04.660Z",
+    "lastUpdatedDate": "2026-07-06T12:13:20.466Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e3b9f757173de1b9",
+        "title": "SCHEDULE OFFLINE COUNSELLING ADMISSION FOR ORPHANED CHILDREN : 2026-27_dated-06.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026070644217311.pdf",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-06T12:13:20.466Z"
+      },
+      {
+        "id": "746c2779f62947e1",
+        "title": "Revised Guidelines for Admission under Sports Quota for various UG/PG Programmes offered at USS and Centers of Excellence, GGSIP University. 06.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607061399675849.pdf",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-06T12:13:20.466Z"
+      },
       {
         "id": "3ea730e77bc6d0e4",
         "title": "PHYSICAL REPORTING – OFFLINE COURSES : A.S: 2026-27_dated-03.07.2026",
@@ -4637,9 +4662,17 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-06T05:43:51.284Z",
+    "lastUpdatedDate": "2026-07-06T12:14:02.986Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b00deb0ecb7e48ef",
+        "title": "Centralised Allotment Process For Engineering Courses Online Options Invited- Date Extended",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/92/Upload1",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-06T12:14:02.986Z"
+      },
       {
         "id": "f7021ab96d9b0ce6",
         "title": "Final Category List Published",
@@ -5091,9 +5124,25 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-04T11:09:07.278Z",
+    "lastUpdatedDate": "2026-07-06T12:13:25.211Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d99c347a81191c50",
+        "title": "Notification CUET MERIT LIST 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notificaton-CUET-merit-list-2026.pdf",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-06T12:13:25.211Z"
+      },
+      {
+        "id": "a5eb885c48a4db6e",
+        "title": "CUET MERIT LIST 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/CUET-Merit-2026.pdf",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-06T12:13:25.211Z"
+      },
       {
         "id": "d57dfb03cf426615",
         "title": "Notification for Application medical courses NON-NEET UG 2026",
@@ -5234,22 +5283,6 @@
         "id": "69a034ef66c97b5a",
         "title": "Postponement of NEET and CUET State Counselling 2025",
         "link": "https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Postponement-of-NEET-CUET-state-counselling-2025.pdf",
-        "date": "29/07/2025",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:09:07.278Z"
-      },
-      {
-        "id": "6933412d1ccdcb67",
-        "title": "BAMS and BHMS Notification under NEIAH Shillong",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2025/07/BAMS-BHMS-notification.pdf",
-        "date": "29/07/2025",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:09:07.278Z"
-      },
-      {
-        "id": "8a2f01593da72d35",
-        "title": "Revised Provisional Selection List NEET UG 2025",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Revised-Provisional-Selection-List-NEEt-UG-2025.pdf",
         "date": "29/07/2025",
         "sortTs": null,
         "detectedAt": "2026-07-04T11:09:07.278Z"
