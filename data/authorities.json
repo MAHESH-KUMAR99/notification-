@@ -4662,9 +4662,17 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-06T12:14:02.986Z",
+    "lastUpdatedDate": "2026-07-06T20:30:22.277Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6fd3fa14221bdba1",
+        "title": "ENGINEERING: TRIAL ALLOTMENT PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/allotlist",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-06T20:30:22.277Z"
+      },
       {
         "id": "b00deb0ecb7e48ef",
         "title": "Centralised Allotment Process For Engineering Courses Online Options Invited- Date Extended",
