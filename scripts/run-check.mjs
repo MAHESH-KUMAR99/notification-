@@ -1,8 +1,7 @@
-// Standalone entry point for the GitHub Actions cron job — runs the same
-// scraping logic the admin "Check Now" button triggers, but outside the
-// Next.js server so it can run on a schedule and commit results straight
-// into the repo (Vercel's filesystem is read-only at runtime, so writes
-// there never persist — see notification/README or project notes).
+// Entry point for the GitHub Actions cron job — runs outside the Next.js
+// server so it can run on a schedule and commit results straight into the
+// repo (Vercel's filesystem is read-only at runtime, so writes there never
+// persist — see notification/README or project notes).
 import { checkAllWatchers } from "../lib/watcher.js";
 
 const results = await checkAllWatchers();
