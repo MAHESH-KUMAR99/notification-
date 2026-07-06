@@ -1,0 +1,42 @@
+name: Check for new notices
+
+on:
+  schedule:
+    # Every 30 minutes. Vercel's filesystem is read-only at runtime, so the
+    # actual scrape-and-save runs here instead — this job commits the
+    # updated data/*.json straight to the repo, which triggers a normal
+    # Vercel redeploy with the fresh notices.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-updates
+  cancel-in-progress: false
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run check
+        run: node scripts/run-check.mjs
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/authorities.json data/watch-state.json
+          git diff --cached --quiet || git commit -m "chore: auto-update notices [skip ci]"
+          git push

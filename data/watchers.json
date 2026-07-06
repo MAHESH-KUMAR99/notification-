@@ -1,0 +1,305 @@
+[
+  {
+    "authorityId": "mcc-ug",
+    "type": "html-table",
+    "url": "https://mcc.nic.in/current-events-ug/",
+    "rowSelector": "table.doc-table tr",
+    "titleCellIndex": 0
+  },
+  {
+    "authorityId": "nta-neet",
+    "type": "html-list",
+    "url": "https://neet.nta.nic.in/public-notices/",
+    "itemSelector": ".gen-list ul li"
+  },
+  {
+    "authorityId": "nmc",
+    "type": "nmc-json",
+    "url": "https://www.nmc.org.in/MCIRest/open/getDataFromService?service=getLatestNewsNmc",
+    "insecureTls": true
+  },
+  {
+    "authorityId": "gujarat",
+    "type": "html-list-grouped",
+    "url": "https://www.medadmgujarat.org/ug/home.aspx",
+    "groupSelector": "div[style*=\"2px solid purple\"]",
+    "itemSelector": "li"
+  },
+  {
+    "authorityId": "maharashtra-cet",
+    "type": "html-list",
+    "url": "https://medicalug2025.mahacet.org/NEET-UG-2025/login",
+    "itemSelector": "span.step-title a"
+  },
+  {
+    "authorityId": "jharkhand",
+    "type": "html-table",
+    "url": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
+    "rowSelector": "#ContentPlaceHolder1_GvImportantnotices tr",
+    "titleCellIndex": 1,
+    "linkCellIndex": 2
+  },
+  {
+    "authorityId": "punjab",
+    "type": "html-table",
+    "url": "https://bfuhs.ac.in/mbbs_bds/mbbsbds.asp",
+    "tableSelector": "table",
+    "tableIndex": 2,
+    "rowSelector": "tr",
+    "titleCellIndex": 2,
+    "dateCellIndex": 1,
+    "linkCellIndex": 2
+  },
+  {
+    "authorityId": "telangana-knruhs",
+    "type": "html-table",
+    "url": "https://www.knruhs.telangana.gov.in/all-notifications/",
+    "rowSelector": ".all-notification-table tr",
+    "titleCellIndex": 2,
+    "dateCellIndex": 1,
+    "linkCellIndex": 3
+  },
+  {
+    "authorityId": "west-bengal",
+    "type": "html-list",
+    "url": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
+    "itemSelector": "li:has(a[href$=\".pdf\"])"
+  },
+  {
+    "authorityId": "tamil-nadu",
+    "type": "html-list",
+    "url": "https://tnmedicalselection.net/",
+    "itemSelector": "div[class*=\"cssNLink\"]:has(a)"
+  },
+  {
+    "authorityId": "karnataka-kea",
+    "type": "html-list",
+    "url": "https://cetonline.karnataka.gov.in/kea/",
+    "itemSelector": "#ContentPlaceHolder1_Gridlatestannoc tr"
+  },
+  {
+    "authorityId": "andhra-pradesh-uhsap",
+    "type": "html-table",
+    "url": "https://drntr.uhsap.in/index/",
+    "rowSelector": "#ContentPlaceHolder1_GridView2 tr",
+    "hasHeaderRow": false,
+    "minCells": 2,
+    "titleCellIndex": 0,
+    "linkCellIndex": 0
+  },
+  {
+    "authorityId": "tripura",
+    "type": "html-list",
+    "url": "https://dme.tripura.gov.in/",
+    "itemSelector": "a[href$=\".pdf\"]"
+  },
+  {
+    "authorityId": "chhattisgarh",
+    "type": "html-list",
+    "url": "https://www.cgdme.in/",
+    "itemSelector": "table tr"
+  },
+  {
+    "authorityId": "haryana-dmer",
+    "type": "html-table",
+    "url": "https://dmer.haryana.gov.in/site/Dmer/home",
+    "rowSelector": "ul.demo1 li.news-item table tr",
+    "hasHeaderRow": false,
+    "titleCellIndex": 1,
+    "dateCellIndex": 0,
+    "linkCellIndex": 1,
+    "insecureTls": true
+  },
+  {
+    "authorityId": "delhi-ipu",
+    "type": "html-list",
+    "url": "https://ipu.admissions.nic.in/",
+    "itemSelector": "li:has(a[href$=\".pdf\"])"
+  },
+  {
+    "authorityId": "nagaland",
+    "type": "html-table",
+    "url": "https://dte.nagaland.gov.in/index.php/dept-2/",
+    "tableSelector": "table",
+    "tableIndex": 0,
+    "rowSelector": "tr",
+    "titleCellIndex": 0,
+    "dateCellIndex": 1,
+    "linkCellIndex": 2
+  },
+  {
+    "authorityId": "manipur",
+    "type": "html-list",
+    "url": "https://manipurhealthdirectorate.mn.gov.in/news/328",
+    "itemSelector": "div.list-group a[href$=\".pdf\"]"
+  },
+  {
+    "authorityId": "meghalaya",
+    "type": "html-list",
+    "url": "https://www.meghealth.gov.in/",
+    "itemSelector": "li:has(a[href*=\"news/\"][href$=\".pdf\"])"
+  },
+  {
+    "authorityId": "afmc-pune",
+    "type": "embedded-json",
+    "url": "https://afmc.nic.in/letestnews",
+    "variableName": "notificationsJSON1",
+    "idField": "id",
+    "titleField": "notificationTitle",
+    "dateField": "notificationDate",
+    "fallbackLink": "https://afmc.nic.in/letestnews"
+  },
+  {
+    "authorityId": "jammu-kashmir",
+    "type": "html-list",
+    "url": "https://www.jkbopee.gov.in/Notifications.aspx",
+    "itemSelector": "a[href*=\".ashx\"]"
+  },
+  {
+    "authorityId": "bihar",
+    "id": "bihar-latest",
+    "type": "html-list",
+    "url": "https://bceceboard.bihar.gov.in/",
+    "itemSelector": "div.update li",
+    "sourceLabel": "Latest Updates"
+  },
+  {
+    "authorityId": "bihar",
+    "id": "bihar-ugmac",
+    "type": "html-list",
+    "url": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
+    "itemSelector": "li:has(a[href$=\".pdf\"])",
+    "sourceLabel": "UGMAC"
+  },
+  {
+    "authorityId": "madhya-pradesh",
+    "id": "mp-latest-instructions",
+    "type": "html-list",
+    "url": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/Instructions.aspx?tab=tab1",
+    "itemSelector": "#tab1 .tab_content_area ul li",
+    "sourceLabel": "Latest Instructions",
+    "allowEmpty": true
+  },
+  {
+    "authorityId": "madhya-pradesh",
+    "id": "mp-counselling-schedule",
+    "type": "html-list",
+    "url": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/Instructions.aspx?tab=tab1",
+    "itemSelector": "#tab2 .tab_content_area ul li",
+    "sourceLabel": "Counselling Schedule",
+    "allowEmpty": true
+  },
+  {
+    "authorityId": "madhya-pradesh",
+    "id": "mp-seat-charts",
+    "type": "html-list",
+    "url": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/Instructions.aspx?tab=tab1",
+    "itemSelector": "#tab3 .tab_content_area ul li",
+    "sourceLabel": "Seat Charts",
+    "allowEmpty": true
+  },
+  {
+    "authorityId": "madhya-pradesh",
+    "id": "mp-state-merit",
+    "type": "html-list",
+    "url": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/Instructions.aspx?tab=tab1",
+    "itemSelector": "#tab4 .tab_content_area ul li",
+    "sourceLabel": "State Merit",
+    "allowEmpty": true
+  },
+  {
+    "authorityId": "madhya-pradesh",
+    "id": "mp-rule-book",
+    "type": "html-list",
+    "url": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/Instructions.aspx?tab=tab1",
+    "itemSelector": "#tab5 .tab_content_area ul li",
+    "sourceLabel": "Rule Book / Steps / User Manual",
+    "allowEmpty": true
+  },
+  {
+    "authorityId": "madhya-pradesh",
+    "id": "mp-allotment-list",
+    "type": "html-list",
+    "url": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/Instructions.aspx?tab=tab1",
+    "itemSelector": "#tab6 .tab_content_area ul li",
+    "sourceLabel": "Allotment List",
+    "allowEmpty": true
+  },
+  {
+    "authorityId": "delhi-fmsc",
+    "type": "html-list",
+    "url": "https://fmsc.du.ac.in/",
+    "itemSelector": "td.blacktextbold"
+  },
+  {
+    "authorityId": "assam",
+    "type": "html-list",
+    "url": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
+    "itemSelector": "span.file a"
+  },
+  {
+    "authorityId": "uttarakhand",
+    "type": "html-list",
+    "url": "https://meta-secure.com/HNBUMU_NEETUG",
+    "itemSelector": "a[href*=\"UploadDocs\"]"
+  },
+  {
+    "authorityId": "odisha",
+    "id": "odisha-ojee",
+    "type": "html-table",
+    "url": "https://ojee.nic.in/notices/",
+    "rowSelector": "table.data-table-1 tbody tr",
+    "hasHeaderRow": false,
+    "titleCellIndex": 0,
+    "dateCellIndex": 1,
+    "linkCellIndex": 0,
+    "sourceLabel": "OJEE"
+  },
+  {
+    "authorityId": "odisha",
+    "id": "odisha-dme",
+    "type": "html-list",
+    "url": "https://dmetodisha.gov.in/News%20archive.html",
+    "itemSelector": "a[href^=\"files/\"]",
+    "insecureTls": true,
+    "sourceLabel": "DME Odisha"
+  },
+  {
+    "authorityId": "arunachal-pradesh-dmet",
+    "type": "html-list",
+    "url": "https://dmetrap.in/notices/",
+    "itemSelector": "article.notice-archive-item"
+  },
+  {
+    "authorityId": "kerala",
+    "type": "html-list",
+    "url": "https://cee.kerala.gov.in/keam2026/notification",
+    "itemSelector": ".card-body .row",
+    "titleSelector": ".col-sm-10",
+    "dateSelector": ".col-sm-2"
+  },
+  {
+    "authorityId": "puducherry",
+    "type": "html-tabs-auto",
+    "url": "https://centacpuducherry.in/",
+    "tabNavSelector": ".desktop_div button.nav-link[data-bs-toggle=\"pill\"]",
+    "itemSelector": ".content",
+    "allowEmpty": true
+  },
+  {
+    "authorityId": "himachal-pradesh",
+    "id": "himachal-notifications",
+    "type": "html-list",
+    "url": "https://amruhp.ac.in/",
+    "itemSelector": ".notice_box:eq(0) p",
+    "sourceLabel": "Latest Notifications"
+  },
+  {
+    "authorityId": "himachal-pradesh",
+    "id": "himachal-announcements",
+    "type": "html-list",
+    "url": "https://amruhp.ac.in/",
+    "itemSelector": ".notice_box:eq(1) p",
+    "sourceLabel": "Announcements"
+  }
+]
