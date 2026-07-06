@@ -698,9 +698,17 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-04T12:49:38.493Z",
+    "lastUpdatedDate": "2026-07-06T16:01:45.811Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5cdc8569938b5bce",
+        "title": "SERVICE PROFORMA FOR FOR ADMISSION TO ALLIED AND HEALTHCARE DIPLOMA / CERTIFICATE COURSES/ MULTI PURPOSE HOSPITAL WORKER COURSES 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/06072026062913.pdf",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-06T16:01:45.811Z"
+      },
       {
         "id": "e87eb8f838c357b5",
         "title": "DATE EXTENDED FOR ONLINE SUBMISSION OF APPLICATIONS OF AHS DIPLOMA / CERTIFICATE COURSES/DIPLOMA IN OPTOMETRY/ DIPLOMA IN MEDICAL RECORD SCIENCE/MULTI PURPOSE HOSPITAL WORKER COURSE UPTO 21.07.2026 AT 5.00 PM",
@@ -849,14 +857,6 @@
         "id": "650930a55ce828bf",
         "title": "ENTRANCE EXAM MARKS FOR M.PHIL(CLINICAL PSYCHOLOGY) 2025-2026 SESSION",
         "link": "https://tnmedicalselection.net/news/21062026022644.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T10:50:28.110Z"
-      },
-      {
-        "id": "57c68e9c09e769c8",
-        "title": "PROSPECTUS FOR DIPLOMA IN GENERAL NURSING AND MIDWIFERY (DGNM) COURSE FOR GOVERNMENT COLLEGES (WOMEN ONLY) AND GOVERNMENT QUOTA SEATS IN SELF FINANCING COLLEGES (MEN AND WOMEN) 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/21062026021438.pdf",
         "date": "21/06/2026",
         "sortTs": null,
         "detectedAt": "2026-07-04T10:50:28.110Z"
