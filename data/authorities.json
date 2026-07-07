@@ -1397,27 +1397,9 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-04T12:20:26.139Z",
+    "lastUpdatedDate": "2026-07-07T09:51:06.529Z",
     "pinned": false,
     "notices": [
-      {
-        "id": "UGMAC:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "detectedAt": "2026-07-04T12:20:26.139Z"
-      },
-      {
-        "id": "UGMAC:434d52739f09976d",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
-        "date": "02/04/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "detectedAt": "2026-07-04T12:20:26.139Z"
-      },
       {
         "id": "Latest Updates:8aaa7b80e5cd5328",
         "title": "Important Notice Regarding List of Eligible / Not Eligible Candidates after Document Verification for the post of Junior Resident Under Health Department (Adv. No. BCECEB(Health(JR))-2025/05 Dated 16.12.2026)",
@@ -1426,6 +1408,24 @@
         "sortTs": null,
         "source": "Latest Updates",
         "detectedAt": "2026-07-04T12:20:26.069Z"
+      },
+      {
+        "id": "Latest Updates:ffe7166937e1e66d",
+        "title": "Important Notice for Filling up Online Application Form for Admission to Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/02 Dated 07.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_02.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "detectedAt": "2026-07-07T09:51:06.529Z"
+      },
+      {
+        "id": "Latest Updates:6657e5626f889a5b",
+        "title": "Details for Filling up Online Application Form for Admission to Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified (Adv. No. BCECEB(PGEAC)-2026/01 Dated 07.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_01.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "detectedAt": "2026-07-07T09:51:06.529Z"
       },
       {
         "id": "Latest Updates:7c350ab3388c1e22",
@@ -1581,22 +1581,22 @@
         "detectedAt": "2026-07-04T12:20:26.069Z"
       },
       {
-        "id": "Latest Updates:72da501bafaafcc3",
-        "title": "Important Notice Rank Card of DECE[LE]-2026 (Adv. No. BCECEB(DECE[LE])-2026/04 Dated 04.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DLE26_04.pdf",
-        "date": "04/06/2026",
+        "id": "UGMAC:11ee47ceaf3415d9",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
+        "date": "28/06/2026",
         "sortTs": null,
-        "source": "Latest Updates",
-        "detectedAt": "2026-07-04T12:20:26.069Z"
+        "source": "UGMAC",
+        "detectedAt": "2026-07-04T12:20:26.139Z"
       },
       {
-        "id": "Latest Updates:69270fb07fa5f97e",
-        "title": "Notice for Provisional List of Eligible and Not Eligible Candidates after Document Verification for the post of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026/06 Dated 29.05.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_SR26_06.pdf",
-        "date": "29/05/2026",
+        "id": "UGMAC:434d52739f09976d",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
+        "date": "02/04/2026",
         "sortTs": null,
-        "source": "Latest Updates",
-        "detectedAt": "2026-07-04T12:20:26.069Z"
+        "source": "UGMAC",
+        "detectedAt": "2026-07-04T12:20:26.139Z"
       }
     ]
   },
@@ -1959,9 +1959,18 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-06T08:10:15.981Z",
+    "lastUpdatedDate": "2026-07-07T09:51:29.917Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:f03f9bab2fc96409",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.ARCH. COURSE FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1HNDmgJePjrhIdIOsVqbGv-qYwc4b-uDp/view?usp=sharing",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "detectedAt": "2026-07-07T09:51:29.917Z"
+      },
       {
         "id": "OVERALL:ae760cfac4dba7c5",
         "title": "ANSWER KEY FOR PUDUCHERRY NURSING ( GQ) ENTRANCE EXAMINATION (PNET) - 2026",
@@ -2134,12 +2143,21 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
-        "id": "OVERALL:1022a987164e45f1",
-        "title": "CORRIGENDUM FOR UG NON-NEET BROCHURE 2026-2027 - PART-V : UNDERGRADUATE ARTS / SCIENCE / COMMERCE COURSES",
-        "link": "https://drive.google.com/file/d/10z5aW4hbzuj3mHNT1ZoHh9YDXFNu9RWr/view?usp=drivesdk",
-        "date": "12/06/2026",
+        "id": "B.ARCH.:f03f9bab2fc96409",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.ARCH. COURSE FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1HNDmgJePjrhIdIOsVqbGv-qYwc4b-uDp/view?usp=sharing",
+        "date": "07/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
+        "source": "B.ARCH.",
+        "detectedAt": "2026-07-07T09:51:29.917Z"
+      },
+      {
+        "id": "B.ARCH.:d405ef63e418afeb",
+        "title": "NOTICE : ADMISSION NOTIFICATION UG NON-NEET PROFESSIONALCOURSE - B.ARCH. FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1uud68meycRisSOeRdbNtWLzUBCUfpoLO/view?usp=sharing",
+        "date": "25/06/2026",
+        "sortTs": null,
+        "source": "B.ARCH.",
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
@@ -2386,15 +2404,6 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
-        "id": "B.ARCH.:d405ef63e418afeb",
-        "title": "NOTICE : ADMISSION NOTIFICATION UG NON-NEET PROFESSIONALCOURSE - B.ARCH. FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1uud68meycRisSOeRdbNtWLzUBCUfpoLO/view?usp=sharing",
-        "date": "25/06/2026",
-        "sortTs": null,
-        "source": "B.ARCH.",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
         "id": "B.TECH. LATERAL ENTRY:c8e6adca79665eed",
         "title": "LAST DATE FOR SUBMITTING OBJECTIONS, IF ANY, FOR UG B.T.ECH. LATERAL ENTRY HAS BEEN EXTENDED UPTO 04/07/2026,, 11.00 A.M.",
         "link": "https://centacpuducherry.in/#",
@@ -2620,9 +2629,17 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-05T07:37:29.629Z",
+    "lastUpdatedDate": "2026-07-07T09:50:28.815Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ec5098ea650c374b",
+        "title": "रुचि की अभिव्यक्ति (EOI No. 189345) की अवधि में वृद्धि की संशोधन सूचना.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2136",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-07T09:50:28.815Z"
+      },
       {
         "id": "65931f2263a9beaa",
         "title": "03 July 2026 अनंतमि पात्रता सूची- छ0ग0 एलाइड कांउसिल मेम्‍बर हेतु नामांकन के संबंध में।.....More",
@@ -2771,14 +2788,6 @@
         "id": "a1976d065003101b",
         "title": "Interview schedule for the selected candidates for faculty posts in new Physiotherapy Colleges, Chhattisgarh.....More",
         "link": "https://www.cgdme.in/notice.php?id=2132",
-        "date": null,
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:37:29.629Z"
-      },
-      {
-        "id": "cbada5894dc136c1",
-        "title": "Updated Merit List After resolution of all the claims and objections for faculty posts in new Physiotherapy Colleges, Chhattisgarh.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2131",
         "date": null,
         "sortTs": null,
         "detectedAt": "2026-07-05T07:37:29.629Z"
@@ -3680,7 +3689,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-06T12:14:04.582Z",
+    "lastUpdatedDate": "2026-07-07T09:51:33.306Z",
     "pinned": false,
     "notices": [
       {
@@ -3700,6 +3709,15 @@
         "sortTs": 1784073600000,
         "source": "Latest Notifications",
         "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:4393a3b253e8240d",
+        "title": "Result Notification of Post Basic B.Sc Nursing 2nd year Supplementary Examination Held in May 2026 Batch 2022, 2023 Date of Result 7-7-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-2nd-Supply-result.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-07T09:51:33.306Z"
       },
       {
         "id": "Latest Notifications:e2ced1d251fcba54",
@@ -4382,9 +4400,17 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-06T12:13:20.466Z",
+    "lastUpdatedDate": "2026-07-07T09:50:46.410Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a500b7e39d172cb2",
+        "title": "Extension of Last Date for submission of Part Academic Fee for the Programme LLM/BCA/B.TECH/BBA & ALLIED PROG/5 YEAR BBA MBA (Integrated) prog Round 1: A.S:2026-27_07.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260707160616221.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-07T09:50:46.410Z"
+      },
       {
         "id": "e3b9f757173de1b9",
         "title": "SCHEDULE OFFLINE COUNSELLING ADMISSION FOR ORPHANED CHILDREN : 2026-27_dated-06.07.2026",
