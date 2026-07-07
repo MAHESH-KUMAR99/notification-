@@ -2629,9 +2629,17 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-07T09:50:28.815Z",
+    "lastUpdatedDate": "2026-07-07T12:30:14.799Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d12fdf07466d59c9",
+        "title": "सहायक प्राध्यापक के पद पर छ.ग. लोक सेवा आयोग से चयनित अभ्यर्थियों के शैक्षणिक दस्तावेजों के परीक्षण कार्य हेतु की सूचना।.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2137",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-07T12:30:14.799Z"
+      },
       {
         "id": "ec5098ea650c374b",
         "title": "रुचि की अभिव्यक्ति (EOI No. 189345) की अवधि में वृद्धि की संशोधन सूचना.....More",
@@ -2780,14 +2788,6 @@
         "id": "69fd35ac48fd1cfa",
         "title": "आॅनलाईन रूचि की अभिव्यक्ति क्र. 194109.....More",
         "link": "https://www.cgdme.in/notice.php?id=2133",
-        "date": null,
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:37:29.629Z"
-      },
-      {
-        "id": "a1976d065003101b",
-        "title": "Interview schedule for the selected candidates for faculty posts in new Physiotherapy Colleges, Chhattisgarh.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2132",
         "date": null,
         "sortTs": null,
         "detectedAt": "2026-07-05T07:37:29.629Z"
