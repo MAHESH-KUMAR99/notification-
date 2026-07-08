@@ -4400,9 +4400,17 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-07T09:50:46.410Z",
+    "lastUpdatedDate": "2026-07-08T07:32:42.991Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c075537dc51f55f1",
+        "title": "SCHEDULE FOR VERIFICATION OF DOCUMENTS FOR PREPARATION OF RANK/MERIT FOR ADMISSION IN PROG. B.ARCH (CODE-100) A.S:2026-27_dated-08.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260708429262965.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-08T07:32:42.991Z"
+      },
       {
         "id": "a500b7e39d172cb2",
         "title": "Extension of Last Date for submission of Part Academic Fee for the Programme LLM/BCA/B.TECH/BBA & ALLIED PROG/5 YEAR BBA MBA (Integrated) prog Round 1: A.S:2026-27_07.07.2026",
