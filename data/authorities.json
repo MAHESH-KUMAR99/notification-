@@ -1959,9 +1959,18 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-07T09:51:29.917Z",
+    "lastUpdatedDate": "2026-07-08T10:24:29.735Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:cf9c6f7378e7666b",
+        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
+        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "detectedAt": "2026-07-08T10:24:29.735Z"
+      },
       {
         "id": "OVERALL:f03f9bab2fc96409",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.ARCH. COURSE FOR THE ACADEMIC YEAR 2026-2027",
@@ -2134,58 +2143,13 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
-        "id": "OVERALL:3f478f06c409f76c",
-        "title": "REVISED SCHEDULE FOR B.SC. NURSING ENTRANCE EXAMINATION (PNET), PUDUCHERRY FOR GOVERNMENT QUOTA SEATS",
-        "link": "https://drive.google.com/file/d/1gQQEat81VbMlfyjraAeI66bLl_hGe4n-/view?usp=drivesdk",
-        "date": "12/06/2026",
+        "id": "UG NON-NEET:cf9c6f7378e7666b",
+        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
+        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
+        "date": "08/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
-        "id": "B.ARCH.:f03f9bab2fc96409",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.ARCH. COURSE FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1HNDmgJePjrhIdIOsVqbGv-qYwc4b-uDp/view?usp=sharing",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "B.ARCH.",
-        "detectedAt": "2026-07-07T09:51:29.917Z"
-      },
-      {
-        "id": "B.ARCH.:d405ef63e418afeb",
-        "title": "NOTICE : ADMISSION NOTIFICATION UG NON-NEET PROFESSIONALCOURSE - B.ARCH. FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1uud68meycRisSOeRdbNtWLzUBCUfpoLO/view?usp=sharing",
-        "date": "25/06/2026",
-        "sortTs": null,
-        "source": "B.ARCH.",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
-        "id": "PG DENTAL:495903426637da71",
-        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "detectedAt": "2026-07-06T08:10:15.981Z"
-      },
-      {
-        "id": "PG DENTAL:6b32dac1f74248c5",
-        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1Pl1nG_4XfK3HYnGbJZJZhAvvPWbD_lDO/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
-        "id": "PG DENTAL:455e50f861a53f57",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
+        "source": "UG NON-NEET",
+        "detectedAt": "2026-07-08T10:24:29.735Z"
       },
       {
         "id": "UG NON-NEET:ae760cfac4dba7c5",
@@ -2359,12 +2323,48 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
-        "id": "UG NON-NEET:ad9aae3e636ab260",
-        "title": "SPORTS (MSP) CANDIDATES OF PUDUCHERRY REGION SHOULD SUBMIT COPY OF APPLICATION AND SELF ATTESTED COPY OF THE SPORTS CERTIFICATES AT CENTAC OFFICE, KAMARAJAR MANIMANDABAM IN PERSON ON OR BEFORE, 29/05/2026 5.00PM.",
-        "link": "https://centacpuducherry.in/#",
-        "date": "29/05/2026",
+        "id": "B.ARCH.:f03f9bab2fc96409",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.ARCH. COURSE FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1HNDmgJePjrhIdIOsVqbGv-qYwc4b-uDp/view?usp=sharing",
+        "date": "07/07/2026",
         "sortTs": null,
-        "source": "UG NON-NEET",
+        "source": "B.ARCH.",
+        "detectedAt": "2026-07-07T09:51:29.917Z"
+      },
+      {
+        "id": "B.ARCH.:d405ef63e418afeb",
+        "title": "NOTICE : ADMISSION NOTIFICATION UG NON-NEET PROFESSIONALCOURSE - B.ARCH. FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1uud68meycRisSOeRdbNtWLzUBCUfpoLO/view?usp=sharing",
+        "date": "25/06/2026",
+        "sortTs": null,
+        "source": "B.ARCH.",
+        "detectedAt": "2026-07-06T05:56:05.882Z"
+      },
+      {
+        "id": "PG DENTAL:495903426637da71",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
+        "date": "01/07/2026",
+        "sortTs": null,
+        "source": "PG DENTAL",
+        "detectedAt": "2026-07-06T08:10:15.981Z"
+      },
+      {
+        "id": "PG DENTAL:6b32dac1f74248c5",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1Pl1nG_4XfK3HYnGbJZJZhAvvPWbD_lDO/view?usp=sharing",
+        "date": "01/07/2026",
+        "sortTs": null,
+        "source": "PG DENTAL",
+        "detectedAt": "2026-07-06T05:56:05.882Z"
+      },
+      {
+        "id": "PG DENTAL:455e50f861a53f57",
+        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
+        "date": "01/07/2026",
+        "sortTs": null,
+        "source": "PG DENTAL",
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
@@ -4400,9 +4400,41 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T07:32:42.991Z",
+    "lastUpdatedDate": "2026-07-08T10:23:44.689Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d4b4f68e50d84777",
+        "title": "Revised list of candidates who applied for admission under the SINGLE GIRL CHILD QUOTA for the A.S: 2026-27, With the stipulated last dated, i.e., 25.06.2026_dated-08.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081596296897.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-08T10:23:44.689Z"
+      },
+      {
+        "id": "724bfda589d3216e",
+        "title": "SCHEDULE OF 1st OFFLINE COUNSELLING/ ADMISSION FOR B.PHARM (CODE-133) FOR THE ACADEMIC SESSION:2026-27_dated-08.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260708982879777.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-08T10:23:44.689Z"
+      },
+      {
+        "id": "79fc073857294e8e",
+        "title": "SCHEDULE OFFLINE COUNSELLING “SINGLE GIRL CHILD QUOTA” ADMISSION 2026-27_dated_08.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081324151835.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-08T10:23:44.689Z"
+      },
+      {
+        "id": "ca4185b999c64e0f",
+        "title": "SCHEDULE FOR VERIFICATION OF DOCUMENTS FOR PREPARATION OF RANK/MERIT FOR ADMISSION IN PROG. B.ARCH (CODE-100) A.S: 2026-27_dated-08.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260708628252788.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-08T10:23:44.689Z"
+      },
       {
         "id": "c075537dc51f55f1",
         "title": "SCHEDULE FOR VERIFICATION OF DOCUMENTS FOR PREPARATION OF RANK/MERIT FOR ADMISSION IN PROG. B.ARCH (CODE-100) A.S:2026-27_dated-08.07.2026",
@@ -4528,38 +4560,6 @@
         "title": "Regarding introduction of compulsory service bond for All India quota and State quota Undergraduate and Postgraduate Medical students New",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025060239.pdf",
         "date": "02/06/2025",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:09:04.660Z"
-      },
-      {
-        "id": "e92653f15c72ca89",
-        "title": "List of OBC approved by SC-ST-OBC welfare department in Delhi New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/04/2025040346.pdf",
-        "date": "03/04/2025",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:09:04.660Z"
-      },
-      {
-        "id": "e9723a97304becd1",
-        "title": "Fee Structure of Self Financing Institutes for Academic Year 2022-23, 2023-24, 2024-25 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2024/01/2024013127.pdf",
-        "date": "31/01/2024",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:09:04.660Z"
-      },
-      {
-        "id": "f45d3e01d181ea44",
-        "title": "Notification for verification of Delhi Scheduled Caste Certificates New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/05/2023051962.pdf",
-        "date": "19/05/2023",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:09:04.660Z"
-      },
-      {
-        "id": "d28a5ddbb984d24c",
-        "title": "Partial Amendment in fee structure of the Self-Financing Institutes for the Academic Year 2022-23, 2023-24, 2024-25 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/04/2023042548.pdf",
-        "date": "25/04/2023",
         "sortTs": null,
         "detectedAt": "2026-07-04T11:09:04.660Z"
       }
