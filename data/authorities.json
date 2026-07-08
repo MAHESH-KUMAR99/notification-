@@ -2870,9 +2870,18 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:39.948Z",
+    "lastUpdatedDate": "2026-07-08T14:57:40.306Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ed31d8e2a349b05b",
+        "title": "Provisional Eligibility list of Candidates for Various faculty Posts In New Nursing Colleges Chhattisgarh.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2138",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T14:57:40.306Z"
+      },
       {
         "id": "d12fdf07466d59c9",
         "title": "सहायक प्राध्यापक के पद पर छ.ग. लोक सेवा आयोग से चयनित अभ्यर्थियों के शैक्षणिक दस्तावेजों के परीक्षण कार्य हेतु की सूचना।.....More",
@@ -3033,9 +3042,209 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:52.765Z",
+    "lastUpdatedDate": "2026-07-08T14:58:36.427Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:2c13601991c007c9",
+        "title": "NOTICE FOR EXTENSION OF LAST DATE FOR DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEE FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.Tech./B.Arch./B.Plan./Int.M.Sc. PROGRAMMES",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607081095807093.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T14:58:36.427Z"
+      },
+      {
+        "id": "OJEE:0dd0f1d78d4d9e60",
+        "title": "ONLINE APPLICATION for 2nd/Second OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607071941473999.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:03584c028d2d8316",
+        "title": "List of Physically Challenged (PC) Candidates for B.TECH/ B.ARCH/ B.PLAN/ B.CAT/Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)/LE-B.Sc. and Int. MBA Programmes",
+        "link": "https://odishajee.com/news_document/PC_List_2026_Phase_1_473.pdf",
+        "date": null,
+        "sortTs": 1783126800000,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:2a1d4549045958b8",
+        "title": "LIST OF ELIGIBLE EX-SERVICEMEN CANDIDATES OF ODISHA FOR ADMISSION INTO B.TECH/B.ARCH/B.PLAN – 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202607042139832861.pdf",
+        "date": "04/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:90fb8b366a98e6a3",
+        "title": "NOTICE No: OJEE / 297 FOR CORRECTIONS IN 2nd/SPECIAL OJEE 2026 ONLINE APPLICATION",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260629733319959.pdf",
+        "date": "29/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:f7eef188e210c2c4",
+        "title": "Notice No-OJEE/0294 for OL BOARD OJEE-2026 RESULT",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606251566928633.pdf",
+        "date": "25/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:a77a47d62ae011ad",
+        "title": "Tentative Schedule of Activity of LE-TECH(DIPLOMA)/ LE-B.Sc./ Int. MBA and Working Professionals for Engineering Programme web-based Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623597135968.pdf",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 5,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:f75658d0f657a22c",
+        "title": "Tentative Schedule of Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606231209406600.pdf",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 6,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:1dfe3cea19255cd1",
+        "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 7,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:a7396bffb240afac",
+        "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201623814085.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 8,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:d10eebb362c6eed7",
+        "title": "NOTICE FOR CANDIDATES APPLYING UNDER EX-SERVICEMEN CATEGORY FOR ADMISSION INTO B.Tech./ B.Arch./ B. Plan/ B.CAT. Programmes",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620501047974.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 9,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:9a3a8f81348b5f21",
+        "title": "Notice regarding Registration for Odia Test of the OL category candidates for admission into (B. Tech/B. Plan/B. Arch)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620407083520.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 10,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:7b8b4ca609d4ccbd",
+        "title": "Revised Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201284821801.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 11,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:b2d387d2355798f0",
+        "title": "STEP BY STEP PROCEDURE FOR WEB BASED COUNSELLING",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616763291637.pdf",
+        "date": "16/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 12,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:f555e723e574cf57",
+        "title": "Notice for Online Application for 2nd/Special OJEE-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616757048993.pdf",
+        "date": "16/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 13,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:1d81d19cf3fcfaca",
+        "title": "Date Extension for Answer Key Challenge",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260518872949132.pdf",
+        "date": "18/05/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 14,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:6512d43bc2f68cbd",
+        "title": "Steps to view Question paper and Raise Objection",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260516767022405.pdf",
+        "date": "16/05/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 15,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:a39a13f11b2c0786",
+        "title": "Revised Public Notice regarding Display of Provisional Answer Keys and Question Paper with Recorded Responses for Answer Key Challenge",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260514830107077.pdf",
+        "date": "14/05/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 16,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:dec097b847f888c8",
+        "title": "Guidelines for Key challenge of OJEE Answer key",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/202605121282335995.pdf",
+        "date": "12/05/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 17,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:0a02274c1c71a773",
+        "title": "Notice Exam Schedule-OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/04/20260423667843586.pdf",
+        "date": "23/04/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 18,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
         "title": "ADVERTISEMENT FOR DIRECTOR VIMSAR",
@@ -3235,206 +3444,6 @@
         "source": "DME Odisha",
         "batchIndex": 236,
         "detectedAt": "2026-07-08T09:36:52.765Z"
-      },
-      {
-        "id": "OJEE:0dd0f1d78d4d9e60",
-        "title": "ONLINE APPLICATION for 2nd/Second OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607071941473999.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:03584c028d2d8316",
-        "title": "List of Physically Challenged (PC) Candidates for B.TECH/ B.ARCH/ B.PLAN/ B.CAT/Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)/LE-B.Sc. and Int. MBA Programmes",
-        "link": "https://odishajee.com/news_document/PC_List_2026_Phase_1_473.pdf",
-        "date": null,
-        "sortTs": 1783126800000,
-        "source": "OJEE",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:2a1d4549045958b8",
-        "title": "LIST OF ELIGIBLE EX-SERVICEMEN CANDIDATES OF ODISHA FOR ADMISSION INTO B.TECH/B.ARCH/B.PLAN – 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202607042139832861.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:90fb8b366a98e6a3",
-        "title": "NOTICE No: OJEE / 297 FOR CORRECTIONS IN 2nd/SPECIAL OJEE 2026 ONLINE APPLICATION",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260629733319959.pdf",
-        "date": "29/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f7eef188e210c2c4",
-        "title": "Notice No-OJEE/0294 for OL BOARD OJEE-2026 RESULT",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606251566928633.pdf",
-        "date": "25/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a77a47d62ae011ad",
-        "title": "Tentative Schedule of Activity of LE-TECH(DIPLOMA)/ LE-B.Sc./ Int. MBA and Working Professionals for Engineering Programme web-based Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623597135968.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f75658d0f657a22c",
-        "title": "Tentative Schedule of Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606231209406600.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:1dfe3cea19255cd1",
-        "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a7396bffb240afac",
-        "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201623814085.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:d10eebb362c6eed7",
-        "title": "NOTICE FOR CANDIDATES APPLYING UNDER EX-SERVICEMEN CATEGORY FOR ADMISSION INTO B.Tech./ B.Arch./ B. Plan/ B.CAT. Programmes",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620501047974.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:9a3a8f81348b5f21",
-        "title": "Notice regarding Registration for Odia Test of the OL category candidates for admission into (B. Tech/B. Plan/B. Arch)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620407083520.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:7b8b4ca609d4ccbd",
-        "title": "Revised Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201284821801.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:b2d387d2355798f0",
-        "title": "STEP BY STEP PROCEDURE FOR WEB BASED COUNSELLING",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616763291637.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f555e723e574cf57",
-        "title": "Notice for Online Application for 2nd/Special OJEE-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616757048993.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:1d81d19cf3fcfaca",
-        "title": "Date Extension for Answer Key Challenge",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260518872949132.pdf",
-        "date": "18/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:6512d43bc2f68cbd",
-        "title": "Steps to view Question paper and Raise Objection",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260516767022405.pdf",
-        "date": "16/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a39a13f11b2c0786",
-        "title": "Revised Public Notice regarding Display of Provisional Answer Keys and Question Paper with Recorded Responses for Answer Key Challenge",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260514830107077.pdf",
-        "date": "14/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:dec097b847f888c8",
-        "title": "Guidelines for Key challenge of OJEE Answer key",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/202605121282335995.pdf",
-        "date": "12/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:0a02274c1c71a773",
-        "title": "Notice Exam Schedule-OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/04/20260423667843586.pdf",
-        "date": "23/04/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:d39d81a321f123dc",
-        "title": "NOTICE FOR B.CAT APPLICANTS",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/04/202604099041768.pdf",
-        "date": "09/04/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
       }
     ]
   },
@@ -5094,9 +5103,18 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:45.313Z",
+    "lastUpdatedDate": "2026-07-08T14:58:03.894Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a1627b415a882c98",
+        "title": "Notice - Admission for various programmes at Lokpriya Gopinath Bordoloi Regional Institute of Mental Health (LGBRIMH), Tezpur Assam | Online Admission Form",
+        "link": "https://www.meghealth.gov.in/news/260708213548.pdf",
+        "date": "21/08/2607",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T14:58:03.894Z"
+      },
       {
         "id": "d6ff58d8c7355ef6",
         "title": "Results for the posts of Centre Manager, Peer Educator-cum-Ward Attendant & Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong,",
@@ -5266,15 +5284,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "dd113d0f84a170d3",
-        "title": "Notification - Nommination for the post of Registrar of the Meghalaya Medical Council",
-        "link": "https://www.meghealth.gov.in/news/MMC-REGST-APPT-27-26-1042.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 19,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
