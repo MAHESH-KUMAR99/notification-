@@ -2,11 +2,10 @@ name: Source health check
 
 on:
   schedule:
-    # Every 6 hours — this is a full audit of all 39 sites (not just the
-    # notice fetch check-updates.yml does every 30 min), so a lighter
-    # schedule is enough to catch a broken selector within a few hours
-    # without piling on extra Actions usage.
-    - cron: "17 */6 * * *"
+    # Every hour — a full audit of all 39 sites, run more often than
+    # check-updates.yml's 30-min notice fetch on request, to catch a
+    # broken selector faster.
+    - cron: "17 * * * *"
   workflow_dispatch: {}
 
 permissions:
