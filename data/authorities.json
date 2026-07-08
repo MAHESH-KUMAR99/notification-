@@ -1959,7 +1959,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T10:24:29.735Z",
+    "lastUpdatedDate": "2026-07-08T12:06:51.655Z",
     "pinned": false,
     "notices": [
       {
@@ -2098,6 +2098,15 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
+        "id": "OVERALL:97ebd64edd114ccb",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "detectedAt": "2026-07-08T12:06:51.655Z"
+      },
+      {
         "id": "OVERALL:75a9abaffeae7ce0",
         "title": "REVISED DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
         "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Revised_draft_merit_list_ugNonNEET_23062026.html",
@@ -2116,28 +2125,19 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
+        "id": "OVERALL:ad62c49ef28d37a8",
+        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
+        "date": "17/06/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "detectedAt": "2026-07-08T12:06:51.655Z"
+      },
+      {
         "id": "OVERALL:894f58aa6da6a825",
         "title": "DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
         "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Draft_merit_list_ugNonNEET_17062026.html",
         "date": "17/06/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
-        "id": "OVERALL:9ba9fbc1bca3c64b",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1cnmnyfps6BZoLGts9TEqNlUEDR_wQNtf/view?usp=sharing",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
-        "id": "OVERALL:817f9eb634f2ebef",
-        "title": "B.SC NURSING COMMON ENTRANCE TEST SCHEDULED ON 14.06.2026, STANDS POSTPONED AND THE FRESH DATE WILL BE ANNOUNCED - DMS OFFICE",
-        "link": "https://centacpuducherry.in/#",
-        "date": "14/06/2026",
         "sortTs": null,
         "source": "OVERALL",
         "detectedAt": "2026-07-06T05:56:05.882Z"
@@ -2197,6 +2197,15 @@
         "detectedAt": "2026-07-06T05:56:05.882Z"
       },
       {
+        "id": "UG NON-NEET:97ebd64edd114ccb",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "UG NON-NEET",
+        "detectedAt": "2026-07-08T12:06:51.655Z"
+      },
+      {
         "id": "UG NON-NEET:75a9abaffeae7ce0",
         "title": "REVISED DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
         "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Revised_draft_merit_list_ugNonNEET_23062026.html",
@@ -2213,6 +2222,15 @@
         "sortTs": null,
         "source": "UG NON-NEET",
         "detectedAt": "2026-07-06T05:56:05.882Z"
+      },
+      {
+        "id": "UG NON-NEET:ad62c49ef28d37a8",
+        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
+        "date": "17/06/2026",
+        "sortTs": null,
+        "source": "UG NON-NEET",
+        "detectedAt": "2026-07-08T12:06:51.655Z"
       },
       {
         "id": "UG NON-NEET:894f58aa6da6a825",
@@ -2300,24 +2318,6 @@
         "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
         "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
         "date": "01/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
-        "id": "UG NON-NEET:234ac4e49d0dc85d",
-        "title": "ADMISSION TERMS AND CONDITIONS B.SC NURSING PCET 2026-27",
-        "link": "https://drive.google.com/file/d/1l4oSykFSzPeXGnjdXa4o79xLFtkaWWm_/view?usp=sharing",
-        "date": "29/05/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "detectedAt": "2026-07-06T05:56:05.882Z"
-      },
-      {
-        "id": "UG NON-NEET:ca59f7749a102cb4",
-        "title": "SPORTS (MSP) CANDIDATES OF KARAIKAL REGION SHOULD SUBMIT COPY OF APPLICATION AND SELF ATTESTED COPY OF THE SPORTS CERTIFICATES AT HELP DESK, PERUNTHALAIVAR KAMARAJAR INSTITUTE OF ENGINEERING AND TECHNOLOGY (PKIET) IN PERSON ON OR BEFORE, 29/05/2026 5.00PM",
-        "link": "https://centacpuducherry.in/#",
-        "date": "29/05/2026",
         "sortTs": null,
         "source": "UG NON-NEET",
         "detectedAt": "2026-07-06T05:56:05.882Z"
@@ -3689,71 +3689,17 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-07T09:51:33.306Z",
+    "lastUpdatedDate": "2026-07-08T12:06:53.277Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Latest Notifications:2139c24903c22572",
-        "title": "Retotaling of B.Sc 4th Supplementary Examination Held in March 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/4th-sem-supply_0001.pdf",
+        "id": "Announcements:e786b1a7b9d2ff00",
+        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
         "date": null,
         "sortTs": 1784073600000,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:2dea4a7354e20097",
-        "title": "Retotaling of B.Sc 3rd Regular Examination Held in March 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/3rd-sem-Regular_0001.pdf",
-        "date": null,
-        "sortTs": 1784073600000,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:4393a3b253e8240d",
-        "title": "Result Notification of Post Basic B.Sc Nursing 2nd year Supplementary Examination Held in May 2026 Batch 2022, 2023 Date of Result 7-7-2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-2nd-Supply-result.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-07T09:51:33.306Z"
-      },
-      {
-        "id": "Latest Notifications:e2ced1d251fcba54",
-        "title": "Result Notification of M.Ch CTVS Final Year Annual Examination Held in May 2026 Batch 2021 Date Of Result 04-07-2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notification-of-M.ch-CTVS-Final-Year-Batch-2021.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:70ca47d57fd51739",
-        "title": "Result Notifications pertaining to BDS 1st year University Supplementary Examination held in the Month of March, 2026 [Date of Result 03-07-2026]",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notifications-BDS-1st-Year.pdf",
-        "date": "03/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:0ac049cb14d0ea12",
-        "title": "Schedule for the filling forms for the Retotalling of MBBS Phase III Part I Supplementary Examination held in the month of March, 2026 in reference to CMP 15732 of 2026. [Date of Schedule 03-07-2026]",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Retotalling-notification-as-per-CMP-15732-1.pdf",
-        "date": "03/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T06:11:53.681Z"
-      },
-      {
-        "id": "Latest Notifications:86d6f7e49642caba",
-        "title": "The Founding of YouTube A Short History",
-        "link": "https://amruhp.ac.in/the-founding-of-youtube-a-short-history/",
-        "date": null,
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-06T12:14:04.582Z"
+        "source": "Announcements",
+        "detectedAt": "2026-07-08T12:06:53.277Z"
       },
       {
         "id": "Announcements:d8f8e38996163ad2",
@@ -3837,6 +3783,15 @@
         "detectedAt": "2026-07-06T06:11:53.960Z"
       },
       {
+        "id": "Announcements:7927e7ef3f9ab0f9",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/notice-regarding-admit-cards-of-common-entrance-testcet-of-allied-healthcare-programmesparamedical-b-pharmacy-ayurved-2026-27/",
+        "date": null,
+        "sortTs": null,
+        "source": "Announcements",
+        "detectedAt": "2026-07-08T12:06:53.277Z"
+      },
+      {
         "id": "Announcements:750f63d0f7fac08f",
         "title": "for Apply Allied and Health Care Programmes(Paramedical) & B.Pharmacy Ayurved Counselling 2026",
         "link": "https://erpamruhp.in/applicantLogins.htm?link=bb09b81c5721cd003d40752c2fbc9f1a",
@@ -3844,6 +3799,96 @@
         "sortTs": null,
         "source": "Announcements",
         "detectedAt": "2026-07-06T06:11:53.960Z"
+      },
+      {
+        "id": "Latest Notifications:e786b1a7b9d2ff00",
+        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
+        "date": null,
+        "sortTs": 1784073600000,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-08T12:06:52.887Z"
+      },
+      {
+        "id": "Latest Notifications:2139c24903c22572",
+        "title": "Retotaling of B.Sc 4th Supplementary Examination Held in March 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/4th-sem-supply_0001.pdf",
+        "date": null,
+        "sortTs": 1784073600000,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:2dea4a7354e20097",
+        "title": "Retotaling of B.Sc 3rd Regular Examination Held in March 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/3rd-sem-Regular_0001.pdf",
+        "date": null,
+        "sortTs": 1784073600000,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:9f1c542e7fe1800a",
+        "title": "Result Notification pertaining to BDS 3rd year University Supplementary Examination held in the month of March, 2026. [Date of Result 08-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-3rd-year-result.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-08T12:06:52.887Z"
+      },
+      {
+        "id": "Latest Notifications:4393a3b253e8240d",
+        "title": "Result Notification of Post Basic B.Sc Nursing 2nd year Supplementary Examination Held in May 2026 Batch 2022, 2023 Date of Result 7-7-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-2nd-Supply-result.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-07T09:51:33.306Z"
+      },
+      {
+        "id": "Latest Notifications:e2ced1d251fcba54",
+        "title": "Result Notification of M.Ch CTVS Final Year Annual Examination Held in May 2026 Batch 2021 Date Of Result 04-07-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notification-of-M.ch-CTVS-Final-Year-Batch-2021.pdf",
+        "date": "04/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:70ca47d57fd51739",
+        "title": "Result Notifications pertaining to BDS 1st year University Supplementary Examination held in the Month of March, 2026 [Date of Result 03-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-Notifications-BDS-1st-Year.pdf",
+        "date": "03/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:0ac049cb14d0ea12",
+        "title": "Schedule for the filling forms for the Retotalling of MBBS Phase III Part I Supplementary Examination held in the month of March, 2026 in reference to CMP 15732 of 2026. [Date of Schedule 03-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Retotalling-notification-as-per-CMP-15732-1.pdf",
+        "date": "03/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T06:11:53.681Z"
+      },
+      {
+        "id": "Latest Notifications:7927e7ef3f9ab0f9",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/notice-regarding-admit-cards-of-common-entrance-testcet-of-allied-healthcare-programmesparamedical-b-pharmacy-ayurved-2026-27/",
+        "date": null,
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-08T12:06:52.887Z"
+      },
+      {
+        "id": "Latest Notifications:86d6f7e49642caba",
+        "title": "The Founding of YouTube A Short History",
+        "link": "https://amruhp.ac.in/the-founding-of-youtube-a-short-history/",
+        "date": null,
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-06T12:14:04.582Z"
       }
     ]
   },
@@ -4400,9 +4445,17 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T10:23:44.689Z",
+    "lastUpdatedDate": "2026-07-08T12:06:08.823Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "94a63cc5aedd06cc",
+        "title": "Schedule of 1st Offline Counselling MA (Mass Communication) (Code-106) Academic Session:2026-27_dated-08.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081629068560.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "detectedAt": "2026-07-08T12:06:08.823Z"
+      },
       {
         "id": "d4b4f68e50d84777",
         "title": "Revised list of candidates who applied for admission under the SINGLE GIRL CHILD QUOTA for the A.S: 2026-27, With the stipulated last dated, i.e., 25.06.2026_dated-08.07.2026",
@@ -4552,14 +4605,6 @@
         "title": "Delhi Professional Colleges and Institutions Rules 2007 New",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025061673.pdf",
         "date": "16/06/2025",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:09:04.660Z"
-      },
-      {
-        "id": "f9750328943b9e52",
-        "title": "Regarding introduction of compulsory service bond for All India quota and State quota Undergraduate and Postgraduate Medical students New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025060239.pdf",
-        "date": "02/06/2025",
         "sortTs": null,
         "detectedAt": "2026-07-04T11:09:04.660Z"
       }
