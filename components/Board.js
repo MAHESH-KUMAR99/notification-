@@ -1,65 +1,31 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
+import Link from "next/link";
 import Sidebar from "./Sidebar";
 import DetailPanel from "./DetailPanel";
-import { getSeenIds, hasSeenRecord, markSeen } from "@/lib/seenNotices";
+import { isNewNotice } from "@/lib/noticeFreshness";
 
 function pickDefaultId(authorities) {
   const firstWithNotices = authorities.find((a) => (a.notices?.length ?? 0) > 0);
   return (firstWithNotices ?? authorities[0])?.id ?? null;
 }
 
-export default function Board({ authorities }) {
+export default function Board({ authorities, healthStatus }) {
   const [query, setQuery] = useState("");
   const [selectedId, setSelectedId] = useState(() => pickDefaultId(authorities));
-  // Starts empty on both server and first client render (localStorage isn't
-  // available during SSR) so no badges flash on load — populated for real
-  // right after mount, once we know what this browser has already seen.
-  const [newCounts, setNewCounts] = useState({});
 
-  function recomputeNewCounts() {
-    const counts = {};
-    for (const a of authorities) {
-      const seen = getSeenIds(a.id);
-      counts[a.id] = (a.notices ?? []).filter((n) => !seen.has(n.id)).length;
-    }
-    setNewCounts(counts);
+  // Not memoized: "new" is a function of wall-clock time, not just
+  // `authorities`, so caching it in useMemo would go stale between renders.
+  const newCounts = {};
+  for (const a of authorities) {
+    newCounts[a.id] = (a.notices ?? []).filter((n) => isNewNotice(n)).length;
   }
 
   const selectedAuthority = useMemo(
     () => authorities.find((a) => a.id === selectedId) ?? null,
     [authorities, selectedId]
   );
-
-  function markAuthoritySeen(id) {
-    const authority = authorities.find((a) => a.id === id);
-    if (!authority) return;
-    markSeen(id, (authority.notices ?? []).map((n) => n.id));
-    recomputeNewCounts();
-  }
-
-  function handleSelect(id) {
-    setSelectedId(id);
-    markAuthoritySeen(id);
-  }
-
-  useEffect(() => {
-    // First-ever visit to this browser: baseline every authority's current
-    // notices as already "seen" instead of flagging the entire pre-existing
-    // backlog as new — a badge should only ever mean "posted after you
-    // started using this site", not "everything that already existed".
-    for (const a of authorities) {
-      if (!hasSeenRecord(a.id)) {
-        markSeen(a.id, (a.notices ?? []).map((n) => n.id));
-      }
-    }
-    // The initially-selected authority is shown immediately, so re-mark it
-    // seen in case new notices arrived since the last visit.
-    if (selectedId) markAuthoritySeen(selectedId);
-    recomputeNewCounts();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
 
   return (
     <div className="mx-auto flex h-screen max-w-6xl flex-col bg-slate-50 dark:bg-slate-950">
@@ -73,10 +39,21 @@ export default function Board({ authorities }) {
         </p>
       </header>
 
+      {healthStatus && !healthStatus.healthy && (
+        <Link
+          href="/health"
+          className="flex items-center gap-2 border-b border-amber-200 bg-amber-50 px-4 py-2 text-xs font-medium text-amber-800 transition hover:bg-amber-100 dark:border-amber-900 dark:bg-amber-950/40 dark:text-amber-300 dark:hover:bg-amber-950/60"
+        >
+          <span className="h-1.5 w-1.5 shrink-0 rounded-full bg-amber-500" />
+          Some sources need attention ({healthStatus.errorCount} broken, {healthStatus.emptyCount} empty,{" "}
+          {healthStatus.orderMismatchCount} order mismatch) — view health check →
+        </Link>
+      )}
+
       <Sidebar
         authorities={authorities}
         selectedId={selectedId}
-        onSelect={handleSelect}
+        onSelect={setSelectedId}
         newCounts={newCounts}
         query={query}
         onQueryChange={setQuery}

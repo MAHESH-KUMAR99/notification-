@@ -9,8 +9,8 @@
   {
     "authorityId": "nta-neet",
     "type": "html-list",
-    "url": "https://neet.nta.nic.in/public-notices/",
-    "itemSelector": ".gen-list ul li"
+    "url": "https://neet.nta.nic.in/",
+    "itemSelector": "#1648449005032-46466f25-2ebe .gen-list ul li"
   },
   {
     "authorityId": "nmc",
@@ -69,7 +69,7 @@
     "authorityId": "tamil-nadu",
     "type": "html-list",
     "url": "https://tnmedicalselection.net/",
-    "itemSelector": "div[class*=\"cssNLink\"]:has(a)"
+    "itemSelector": "div.cssNLink.cssUG001:has(a)"
   },
   {
     "authorityId": "andhra-pradesh-uhsap",
@@ -108,7 +108,8 @@
     "authorityId": "delhi-ipu",
     "type": "html-list",
     "url": "https://ipu.admissions.nic.in/",
-    "itemSelector": "li:has(a[href$=\".pdf\"])"
+    "itemSelector": "li:has(a[href$=\".pdf\"])",
+    "deepDateInference": true
   },
   {
     "authorityId": "nagaland",
@@ -124,8 +125,9 @@
   {
     "authorityId": "manipur",
     "type": "html-list",
-    "url": "https://manipurhealthdirectorate.mn.gov.in/news/328",
-    "itemSelector": "div.list-group a[href$=\".pdf\"]"
+    "url": "https://manipurmc.mn.gov.in/",
+    "itemSelector": "ul.wlc-notice-list li",
+    "dateSelector": ".wlc-date-badge"
   },
   {
     "authorityId": "meghalaya",
@@ -221,15 +223,18 @@
   },
   {
     "authorityId": "delhi-fmsc",
-    "type": "html-list",
+    "type": "html-list-section",
     "url": "https://fmsc.du.ac.in/",
-    "itemSelector": "td.blacktextbold"
+    "headerSelector": "td.bodytextbold",
+    "itemSelector": "td.blacktextbold",
+    "sectionStartText": "2026-27"
   },
   {
     "authorityId": "assam",
     "type": "html-list",
     "url": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
-    "itemSelector": "span.file a"
+    "itemSelector": "span.file a",
+    "deepDateInference": true
   },
   {
     "authorityId": "uttarakhand",
@@ -285,7 +290,7 @@
     "id": "himachal-notifications",
     "type": "html-list",
     "url": "https://amruhp.ac.in/",
-    "itemSelector": ".notice_box:eq(0) p",
+    "itemSelector": ".notice_box:eq(0) p:has(a[href$=\".pdf\"])",
     "sourceLabel": "Latest Notifications"
   },
   {
@@ -295,5 +300,15 @@
     "url": "https://amruhp.ac.in/",
     "itemSelector": ".notice_box:eq(1) p",
     "sourceLabel": "Announcements"
+  },
+  {
+    "authorityId": "uttar-pradesh",
+    "type": "html-table",
+    "url": "https://dgme.up.gov.in/Welcome/linkfiles?catid=news",
+    "rowSelector": "table#example tbody tr",
+    "hasHeaderRow": false,
+    "titleCellIndex": 1,
+    "linkCellIndex": 2,
+    "insecureTls": true
   }
 ]
