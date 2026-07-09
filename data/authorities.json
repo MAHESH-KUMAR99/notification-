@@ -201,9 +201,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:35:43.856Z",
+    "lastUpdatedDate": "2026-07-09T22:00:33.412Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1001",
+        "title": "09/07/2026 - Login Credentials to be used by Medical Colleges/Institutions for Accessing the Online Appeal Portal for Filing Appeals-reg.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Pubnotice%20june%20-9.pdf",
+        "date": "09/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-09T22:00:33.412Z"
+      },
       {
         "id": "nmc-1000",
         "title": "07/07/2026 - Installation of CCTV Systems at Medical Colleges and their access to NMC Command & Control Center via NVR - reg",
@@ -354,14 +362,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PubNotice_NEET_UG_Merged.pdf",
         "date": "23/04/2026",
         "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-979",
-        "title": "16/04/2026 - Registration of Medical Practitioners and Licence to Practice medicine (Amendment) Regulations, 2026",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Gazette%20Notification%20dated%2007.04.2026.pdf",
-        "date": "16/04/2026",
-        "batchIndex": 19,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
