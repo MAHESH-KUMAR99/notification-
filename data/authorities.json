@@ -545,9 +545,76 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:11.871Z",
+    "lastUpdatedDate": "2026-07-09T05:42:54.357Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "44629d6749c54773",
+        "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.20/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
+        "link": null,
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Students who have got admission in Graduate Medical/Dental/Ayurveda/Homeopathy/Cancelled admission/Not got admission/Not got refund of fee in 1st, 2nd, 3rd, 4th, 5th and 6th round and are eligible for tuition fee refund, their bank account details from 09/07/2026 Must be filled up to 05:00 PM on 20/07/2026.",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-09T05:42:54.357Z"
+      },
+      {
+        "id": "436c4d338ac7561d",
+        "title": "List of the candidates whose Tuition fee is Refundable and pending with Admission Committee are required to fill their bank details",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Fees%20Refund%20R7.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-09T05:42:54.357Z"
+      },
+      {
+        "id": "061d5ffad6df0673",
+        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 6",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR6.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-09T05:42:54.357Z"
+      },
+      {
+        "id": "279e922e1fa9ec50",
+        "title": "જે વિધાર્થીઓએ રૂ.૧૦,૦૦૦/- સિક્યુરિટી ડિપોઝિટ પરત લેવા માટે લાયક છે અને પ્રથમ,બીજા ત્રીજા,ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં સિક્યુરિટી ડિપોઝિટ પરત મેળવેલ નથી, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.20/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
+        "link": null,
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 13,
+        "titleEn": "Students who are eligible to get back the security deposit of Rs.10,000/- and have not got the security deposit back in the first, second, third, fourth, fifth and sixth round, have to fill their bank account details from 09/07/2026 to 05:00 PM on 20/07/2026.",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-09T05:42:54.357Z"
+      },
+      {
+        "id": "a7be09b5a32fbf10",
+        "title": "List of the candidates whose Security Deposit is Refundable and pending with Admission Committee are required to fill their bank details",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Deposite%20Refund%20R7.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 14,
+        "detectedAt": "2026-07-09T05:42:54.357Z"
+      },
+      {
+        "id": "ceed11c7f79fabc2",
+        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 6",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR6.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 21,
+        "detectedAt": "2026-07-09T05:42:54.357Z"
+      },
+      {
+        "id": "482638b805c9a968",
+        "title": "List of the unsuccessful candidates whose Security Deposit is not Refunded in Round 6",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_FAIL_UGR6.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 27,
+        "detectedAt": "2026-07-09T05:42:54.357Z"
+      },
       {
         "id": "fd49334c6162d51a",
         "title": "જે વિધાર્થીઓએ સિક્યુરિટી ડિપોઝિટ અને ફી રિફંડ રાઉન્ડ-6 માં પોતાના બેંક ખાતા ની વિગતો તા.12/06/2026 થી તા.25/06/2026 સુધી માં ભરી છે, તેવા વિદ્યાર્થીઓની ફી રીફંડ કરવાની પ્રક્રિયા ચાલુ છે, તેઓએ પોતાના રીફન્ડ માટેની વિગત પોતાના બેંક ખાતામાં તા.10/07/2026 પછી જોવી.",
@@ -667,71 +734,6 @@
         "date": "12/06/2026",
         "sortTs": null,
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "a80c9e0332f780bd",
-        "title": "જે વિધાર્થીઓએ રૂ.૧૦,૦૦૦/- સિક્યુરિટી ડિપોઝિટ પરત લેવા માટે લાયક છે અને પ્રથમ,બીજા ત્રીજા,ચોથા અને પાંચમા રાઉન્ડમાં સિક્યુરિટી ડિપોઝિટ પરત મેળવેલ નથી, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.12/06/2026 થી તા.25/06/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
-        "link": null,
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 13,
-        "titleEn": "Those students who are eligible to get back the security deposit of Rs.10,000/- and have not got the security deposit back in the first, second, third, fourth and fifth round, have to fill their bank account details from 12/06/2026 to 05:00 PM on 25/06/2026.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "30729618eb56113d",
-        "title": "List of the candidates whose Security Deposit is Refundable and pending with Admission Committee are required to fill their bank details",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Deposite%20Refund%20R6.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "62512873c5aff039",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR1.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "efb947da7ecab72a",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 1.1(Updated 06-02-2026)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR1.1.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "83be8c9d344ee9dc",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 2",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR2.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "3b831ffd8b3beedd",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 3",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR3.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "8a8c8d7f7659f5e3",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 4",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR4.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 19,
         "detectedAt": "2026-07-08T09:36:11.871Z"
       }
     ]
