@@ -2102,9 +2102,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:32:51.578Z",
+    "lastUpdatedDate": "2026-07-09T16:03:24.609Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:0b7f2980eacf9897",
+        "title": "DRAFT MERIT LIST FOR B.SC. NURSING GOVERNMENT QUOTA SEATS (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1r6AgDvQ9U8m3M1c-sBK9x0tL5-Hz2FQm/view?usp=sharing",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-09T16:03:24.609Z"
+      },
+      {
+        "id": "OVERALL:0fe1da2bf0db18af",
+        "title": "NOTICE : DRAFT MERIT LIST FOR UG NON-NEET B.SC. NURSING - GOVERNMENT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1oDl9tEU5GTZ0u6MrpNbr4OaQnG9xtJkb/view?usp=sharing",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-09T16:03:24.609Z"
+      },
       {
         "id": "OVERALL:cf9c6f7378e7666b",
         "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
@@ -2114,6 +2134,16 @@
         "source": "OVERALL",
         "batchIndex": 0,
         "detectedAt": "2026-07-08T11:32:51.578Z"
+      },
+      {
+        "id": "UG NON-NEET:cf9c6f7378e7666b",
+        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
+        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 16,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
         "id": "OVERALL:f03f9bab2fc96409",
@@ -2246,15 +2276,6 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:97ebd64edd114ccb",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-08T12:06:51.655Z"
-      },
-      {
         "id": "OVERALL:75a9abaffeae7ce0",
         "title": "REVISED DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
         "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Revised_draft_merit_list_ugNonNEET_23062026.html",
@@ -2285,43 +2306,24 @@
         "detectedAt": "2026-07-08T11:32:51.578Z"
       },
       {
-        "id": "OVERALL:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
+        "id": "UG NON-NEET:0b7f2980eacf9897",
+        "title": "DRAFT MERIT LIST FOR B.SC. NURSING GOVERNMENT QUOTA SEATS (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1r6AgDvQ9U8m3M1c-sBK9x0tL5-Hz2FQm/view?usp=sharing",
+        "date": "09/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-08T12:06:51.655Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 53,
+        "detectedAt": "2026-07-09T16:03:24.609Z"
       },
       {
-        "id": "OVERALL:894f58aa6da6a825",
-        "title": "DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Draft_merit_list_ugNonNEET_17062026.html",
-        "date": "17/06/2026",
+        "id": "UG NON-NEET:0fe1da2bf0db18af",
+        "title": "NOTICE : DRAFT MERIT LIST FOR UG NON-NEET B.SC. NURSING - GOVERNMENT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1oDl9tEU5GTZ0u6MrpNbr4OaQnG9xtJkb/view?usp=sharing",
+        "date": "09/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:cf9c6f7378e7666b",
-        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
-        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "OVERALL:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T11:32:51.578Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 54,
+        "detectedAt": "2026-07-09T16:03:24.609Z"
       },
       {
         "id": "UG NON-NEET:cf9c6f7378e7666b",
@@ -2384,15 +2386,6 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "UG NON-NEET:97ebd64edd114ccb",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "detectedAt": "2026-07-08T12:06:51.655Z"
-      },
-      {
         "id": "UG NON-NEET:75a9abaffeae7ce0",
         "title": "REVISED DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
         "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Revised_draft_merit_list_ugNonNEET_23062026.html",
@@ -2423,10 +2416,10 @@
         "detectedAt": "2026-07-08T11:32:51.578Z"
       },
       {
-        "id": "UG NON-NEET:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
+        "id": "UG NON-NEET:97ebd64edd114ccb",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
+        "date": "23/06/2026",
         "sortTs": null,
         "source": "UG NON-NEET",
         "detectedAt": "2026-07-08T12:06:51.655Z"
@@ -2460,6 +2453,15 @@
         "source": "UG NON-NEET",
         "batchIndex": 60,
         "detectedAt": "2026-07-08T11:32:51.578Z"
+      },
+      {
+        "id": "UG NON-NEET:ad62c49ef28d37a8",
+        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
+        "date": "17/06/2026",
+        "sortTs": null,
+        "source": "UG NON-NEET",
+        "detectedAt": "2026-07-08T12:06:51.655Z"
       },
       {
         "id": "UG NON-NEET:817f9eb634f2ebef",
@@ -2499,46 +2501,6 @@
         "sortTs": null,
         "source": "UG NON-NEET",
         "batchIndex": 62,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:5b5098a07d5e3e71",
-        "title": "B.SC. NURSING ENTRANCE EXAMINATION (PNET) - SAMPLE QUESTING PAPER -2025",
-        "link": "https://drive.google.com/file/d/1kH_Qsfg2ml4diFenCYCfDanqW3lrIfcs/view?usp=sharing",
-        "date": "10/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 63,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:4bac80414b20a285",
-        "title": "REVISED FEE STRUCTURE FOR WOMEN'S ENGINEERING COLLEGE - B.TECH. & B.COM. COURSES",
-        "link": "https://drive.google.com/file/d/1KeeSttSOg4Mh5bJ5BELdWlpKZ9O60PBS/view?usp=sharing",
-        "date": "10/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 64,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:7967c9b1b7c6e667",
-        "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NON-NEET COURSES FOR THE YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1dPFS7h9PKkrTxx3K1FA0J5c9JxGODe7S/view?usp=sharing",
-        "date": "07/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 65,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:598c7bc87aa95b13",
-        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
-        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
-        "date": "01/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 66,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -5346,9 +5308,18 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-09T09:48:04.353Z",
+    "lastUpdatedDate": "2026-07-09T16:02:47.332Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "26e50ec0e680d4f1",
+        "title": "Bachelor of Nutrition & Dietetics (Hons.) [BND] notification",
+        "link": "https://manipurmc.mn.gov.in/media/1783591080_BND%20notification.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-09T16:02:47.332Z"
+      },
       {
         "id": "0bb4fdc5c4fab7de",
         "title": "BND notification",
@@ -5518,15 +5489,6 @@
         "date": "22/12/2025",
         "sortTs": null,
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:44.500Z"
-      },
-      {
-        "id": "d3d45756847defcf",
-        "title": "Notification of the allotment results for the Stray vacancy round of eCounselling 2025",
-        "link": "https://manipurmc.mn.gov.in/media/1763534996_Notification%20of%20the%20allotment%20results%20for%20the%20Stray%20vacancy%20round%20of%20eCounselling%202025.pdf",
-        "date": "19/11/2025",
-        "sortTs": null,
-        "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:44.500Z"
       }
     ]
