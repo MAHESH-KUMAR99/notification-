@@ -4052,9 +4052,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:47:52.795Z",
+    "lastUpdatedDate": "2026-07-09T09:48:46.284Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Announcements:c3556be780484a1d",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/notice-regarding-Admit-cards.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Announcements",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-09T09:48:46.284Z"
+      },
       {
         "id": "Announcements:7927e7ef3f9ab0f9",
         "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
@@ -4084,15 +4094,6 @@
         "source": "Announcements",
         "batchIndex": 2,
         "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:7927e7ef3f9ab0f9",
-        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/notice-regarding-admit-cards-of-common-entrance-testcet-of-allied-healthcare-programmesparamedical-b-pharmacy-ayurved-2026-27/",
-        "date": null,
-        "sortTs": null,
-        "source": "Announcements",
-        "detectedAt": "2026-07-08T12:06:53.277Z"
       },
       {
         "id": "Announcements:750f63d0f7fac08f",
@@ -4165,6 +4166,24 @@
         "detectedAt": "2026-07-08T11:47:52.795Z"
       },
       {
+        "id": "Announcements:7927e7ef3f9ab0f9",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/notice-regarding-admit-cards-of-common-entrance-testcet-of-allied-healthcare-programmesparamedical-b-pharmacy-ayurved-2026-27/",
+        "date": null,
+        "sortTs": null,
+        "source": "Announcements",
+        "detectedAt": "2026-07-08T12:06:53.277Z"
+      },
+      {
+        "id": "Latest Notifications:e786b1a7b9d2ff00",
+        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
+        "date": null,
+        "sortTs": 1784073600000,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-08T12:06:52.887Z"
+      },
+      {
         "id": "Latest Notifications:9f1c542e7fe1800a",
         "title": "Result Notification pertaining to BDS 3rd year University Supplementary Examination held in the month of March, 2026. [Date of Result 08-07-2026]",
         "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-3rd-year-result.pdf",
@@ -4185,6 +4204,16 @@
         "detectedAt": "2026-07-08T11:47:52.578Z"
       },
       {
+        "id": "Latest Notifications:c3556be780484a1d",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/notice-regarding-Admit-cards.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-09T09:48:45.852Z"
+      },
+      {
         "id": "Latest Notifications:e786b1a7b9d2ff00",
         "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
         "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
@@ -4193,15 +4222,6 @@
         "source": "Latest Notifications",
         "batchIndex": 1,
         "detectedAt": "2026-07-08T11:47:52.578Z"
-      },
-      {
-        "id": "Latest Notifications:e786b1a7b9d2ff00",
-        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
-        "date": null,
-        "sortTs": 1784073600000,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-08T12:06:52.887Z"
       },
       {
         "id": "Latest Notifications:2139c24903c22572",
@@ -5326,9 +5346,18 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:44.500Z",
+    "lastUpdatedDate": "2026-07-09T09:48:04.353Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0bb4fdc5c4fab7de",
+        "title": "BND notification",
+        "link": "https://manipurmc.mn.gov.in/media/1783590461_BND%20notification.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-09T09:48:04.353Z"
+      },
       {
         "id": "930450ddb7b6a04c",
         "title": "Results of the Entrance Examination for M.Sc Nursing Courses for the Academic Session 2026-27",
@@ -5498,15 +5527,6 @@
         "date": "19/11/2025",
         "sortTs": null,
         "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:44.500Z"
-      },
-      {
-        "id": "5ee9fde6501b504c",
-        "title": "Merit list of candidates applying for Management Quota Seats in the Stray vacancy round of Ma nipur Medical e-Counselling 2025-25 in SAHS, Langol",
-        "link": "https://manipurmc.mn.gov.in/media/1763441573_Management.pdf",
-        "date": "17/11/2025",
-        "sortTs": null,
-        "batchIndex": 19,
         "detectedAt": "2026-07-08T09:36:44.500Z"
       }
     ]
