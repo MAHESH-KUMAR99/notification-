@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-07-09T04:16:50.635Z",
+  "checkedAt": "2026-07-09T07:57:24.554Z",
   "healthy": false,
   "errorCount": 7,
   "emptyCount": 0,
-  "orderMismatchCount": 1,
+  "orderMismatchCount": 0,
   "knownIssueCount": 12
 }
