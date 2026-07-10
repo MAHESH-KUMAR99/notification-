@@ -3006,9 +3006,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T14:58:36.427Z",
+    "lastUpdatedDate": "2026-07-10T09:44:06.951Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:a0c7972e3aacafcb",
+        "title": "CBT Schedule for 2nd/Special OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260710417903752.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-10T09:44:06.951Z"
+      },
       {
         "id": "OJEE:2c13601991c007c9",
         "title": "NOTICE FOR EXTENSION OF LAST DATE FOR DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEE FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.Tech./B.Arch./B.Plan./Int.M.Sc. PROGRAMMES",
@@ -3197,16 +3207,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:0a02274c1c71a773",
-        "title": "Notice Exam Schedule-OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/04/20260423667843586.pdf",
-        "date": "23/04/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
@@ -4687,9 +4687,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:47:30.484Z",
+    "lastUpdatedDate": "2026-07-10T09:43:03.969Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "27ca79c7a5396aa5",
+        "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN PG COURSES INCLUDING B.ED. (CODE-122) AND B.ED. (SPECIAL EDUCATION) (CODE-159) A.S:2026-27_dated-10.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607102025494401.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-10T09:43:03.969Z"
+      },
       {
         "id": "94a63cc5aedd06cc",
         "title": "Schedule of 1st Offline Counselling MA (Mass Communication) (Code-106) Academic Session:2026-27_dated-08.07.2026",
