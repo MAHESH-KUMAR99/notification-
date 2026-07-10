@@ -5009,9 +5009,36 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T16:47:06.544Z",
+    "lastUpdatedDate": "2026-07-10T15:17:49.070Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6b2b57376f7e533c",
+        "title": "ADMISSION TO ENGINEERING COURSES 2026 - PROVISIONAL LIST OF ELIGIBLE CANDIDATES FOR COMMUNITY/REGISTERED SCOCIETY/TRUST QUOTA AND CB SEATS PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/109/Upload1",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-10T15:17:49.070Z"
+      },
+      {
+        "id": "fd0c4513e84fa88a",
+        "title": "KERALA ARCHITECTURE COURSES 2026 - PROVISIONAL CATEGORY LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/108/Upload1",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-10T15:17:49.070Z"
+      },
+      {
+        "id": "4d106ac3dfe3da96",
+        "title": "KERALA ARCHITECTURE COURSE 2026 - PROVISIONAL RANK LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/107/Upload1",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-10T15:17:49.070Z"
+      },
       {
         "id": "148ca220392e7e1e",
         "title": "Engineering: First phase allotment publishedഎഞ്ചിനീയറിംഗ്: ഒന്നാം ഘട്ട അലോട്ട്മെന്റ് പ്രസിദ്ധീകരിച്ചു.",
@@ -5539,9 +5566,18 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:43.983Z",
+    "lastUpdatedDate": "2026-07-10T15:17:07.914Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "55ba9e321a54a18e",
+        "title": "Notification CUET MERIT LIST 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-rectification-CUET.pdf",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-10T15:17:07.914Z"
+      },
       {
         "id": "d99c347a81191c50",
         "title": "Notification CUET MERIT LIST 2026",
@@ -5711,15 +5747,6 @@
         "date": "03/09/2025",
         "sortTs": null,
         "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "69a034ef66c97b5a",
-        "title": "Postponement of NEET and CUET State Counselling 2025",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Postponement-of-NEET-CUET-state-counselling-2025.pdf",
-        "date": "29/07/2025",
-        "sortTs": null,
-        "batchIndex": 21,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
