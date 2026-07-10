@@ -2102,9 +2102,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-09T16:03:24.609Z",
+    "lastUpdatedDate": "2026-07-10T12:29:30.241Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:b03459a68004b737",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-10T12:29:30.241Z"
+      },
       {
         "id": "OVERALL:0b7f2980eacf9897",
         "title": "DRAFT MERIT LIST FOR B.SC. NURSING GOVERNMENT QUOTA SEATS (2026 - 2027)",
@@ -2296,14 +2306,34 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:97ebd64edd114ccb",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
-        "date": "23/06/2026",
+        "id": "PG DENTAL:b03459a68004b737",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
+        "date": "10/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T11:32:51.578Z"
+        "source": "PG DENTAL",
+        "batchIndex": 52,
+        "detectedAt": "2026-07-10T12:29:30.241Z"
+      },
+      {
+        "id": "PG DENTAL:495903426637da71",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
+        "date": "01/07/2026",
+        "sortTs": null,
+        "source": "PG DENTAL",
+        "batchIndex": 48,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "PG DENTAL:455e50f861a53f57",
+        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
+        "date": "01/07/2026",
+        "sortTs": null,
+        "source": "PG DENTAL",
+        "batchIndex": 49,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
         "id": "UG NON-NEET:0b7f2980eacf9897",
@@ -2501,26 +2531,6 @@
         "sortTs": null,
         "source": "UG NON-NEET",
         "batchIndex": 62,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "PG DENTAL:495903426637da71",
-        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 48,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "PG DENTAL:455e50f861a53f57",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 49,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -3006,9 +3016,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-10T09:44:06.951Z",
+    "lastUpdatedDate": "2026-07-10T12:29:25.757Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:c4cd184bc62a8d3b",
+        "title": "NOTICE FOR WORKING PROFESSIONALS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607101541931856.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-10T12:29:25.757Z"
+      },
       {
         "id": "OJEE:a0c7972e3aacafcb",
         "title": "CBT Schedule for 2nd/Special OJEE 2026",
@@ -3197,16 +3217,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:dec097b847f888c8",
-        "title": "Guidelines for Key challenge of OJEE Answer key",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/202605121282335995.pdf",
-        "date": "12/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 17,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
@@ -4687,9 +4697,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-10T09:43:03.969Z",
+    "lastUpdatedDate": "2026-07-10T12:28:40.474Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "de2a25fa3987233b",
+        "title": "MBA (CODE-101) ROUND 01_ ACTIVITIES AFTER DECLARATION OF RESULT A.S: 2026-27_dated-10.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607101223656253.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-10T12:28:40.474Z"
+      },
       {
         "id": "27ca79c7a5396aa5",
         "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN PG COURSES INCLUDING B.ED. (CODE-122) AND B.ED. (SPECIAL EDUCATION) (CODE-159) A.S:2026-27_dated-10.07.2026",
