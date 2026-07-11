@@ -4697,9 +4697,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-11T08:03:19.984Z",
+    "lastUpdatedDate": "2026-07-11T10:01:02.940Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a05a183569638c79",
+        "title": "BHMCT_127 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711429636215.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-11T10:01:02.940Z"
+      },
       {
         "id": "79e0f8689aa9ce61",
         "title": "Round 2 Process- LLM, BCA,BA-LLB (H)/ BBA-LLB(H), B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA),B.TECH, B.COM(H), B.Ed (SPL EDU), BA(ENGLISH),BA(ECONOMICS) A.S.2026-27_dated-11.07.2026",
@@ -4708,6 +4717,33 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-11T08:03:19.984Z"
+      },
+      {
+        "id": "335361d55cada6bd",
+        "title": "MA(ECONOMICS)_162 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711333423263.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-11T10:01:02.940Z"
+      },
+      {
+        "id": "90569536fb1a19be",
+        "title": "MA(ENGLISH)_113 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607112111269835.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-11T10:01:02.940Z"
+      },
+      {
+        "id": "aaf4ec7ec96c4127",
+        "title": "MPH(FE)_412 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111205439117.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-11T10:01:02.940Z"
       },
       {
         "id": "de2a25fa3987233b",
@@ -4842,33 +4878,6 @@
         "date": "03/04/2025",
         "sortTs": null,
         "batchIndex": 13,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "e9723a97304becd1",
-        "title": "Fee Structure of Self Financing Institutes for Academic Year 2022-23, 2023-24, 2024-25 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2024/01/2024013127.pdf",
-        "date": "31/01/2024",
-        "sortTs": null,
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "f45d3e01d181ea44",
-        "title": "Notification for verification of Delhi Scheduled Caste Certificates New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/05/2023051962.pdf",
-        "date": "19/05/2023",
-        "sortTs": null,
-        "batchIndex": 12,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "d28a5ddbb984d24c",
-        "title": "Partial Amendment in fee structure of the Self-Financing Institutes for the Academic Year 2022-23, 2023-24, 2024-25 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2023/04/2023042548.pdf",
-        "date": "25/04/2023",
-        "sortTs": null,
-        "batchIndex": 15,
         "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
