@@ -4697,9 +4697,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-11T10:01:02.940Z",
+    "lastUpdatedDate": "2026-07-11T11:16:34.336Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "87b01501e22cdafb",
+        "title": "B.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111662117469.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-11T11:16:34.336Z"
+      },
       {
         "id": "a05a183569638c79",
         "title": "BHMCT_127 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
@@ -4719,6 +4728,15 @@
         "detectedAt": "2026-07-11T08:03:19.984Z"
       },
       {
+        "id": "65a72c46db8846e5",
+        "title": "M.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111925493358.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-11T11:16:34.336Z"
+      },
+      {
         "id": "335361d55cada6bd",
         "title": "MA(ECONOMICS)_162 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711333423263.pdf",
@@ -4728,6 +4746,15 @@
         "detectedAt": "2026-07-11T10:01:02.940Z"
       },
       {
+        "id": "ddfbee3b3a028e6e",
+        "title": "M.Sc(Packaging Technology)_604 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711857844425.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-11T11:16:34.336Z"
+      },
+      {
         "id": "90569536fb1a19be",
         "title": "MA(ENGLISH)_113 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607112111269835.pdf",
@@ -4735,6 +4762,15 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-11T10:01:02.940Z"
+      },
+      {
+        "id": "147d4bef12f27309",
+        "title": "B.Sc(Packaging Technology)_136 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111266972408.pdf",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-11T11:16:34.336Z"
       },
       {
         "id": "aaf4ec7ec96c4127",
@@ -4842,42 +4878,6 @@
         "date": null,
         "sortTs": 1767225600000,
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "5331ab092369448b",
-        "title": "Delhi Professional Colleges and Institutions Act 2007 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025061648.pdf",
-        "date": "16/06/2025",
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "ac031e6b3dfc7836",
-        "title": "Delhi Professional Colleges and Institutions Rules 2007 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025061673.pdf",
-        "date": "16/06/2025",
-        "sortTs": null,
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "f9750328943b9e52",
-        "title": "Regarding introduction of compulsory service bond for All India quota and State quota Undergraduate and Postgraduate Medical students New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/06/2025060239.pdf",
-        "date": "02/06/2025",
-        "sortTs": null,
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "e92653f15c72ca89",
-        "title": "List of OBC approved by SC-ST-OBC welfare department in Delhi New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/04/2025040346.pdf",
-        "date": "03/04/2025",
-        "sortTs": null,
-        "batchIndex": 13,
         "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
