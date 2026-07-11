@@ -5027,9 +5027,36 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-10T15:17:49.070Z",
+    "lastUpdatedDate": "2026-07-11T14:25:32.567Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "06b010b27bfb28e4",
+        "title": "KERALA MEDICAL COURSES CANDIDATES CAN RECTIFY DEFECTS IN NRI DOCUMENT",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/112/Upload1",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-11T14:25:32.567Z"
+      },
+      {
+        "id": "f5d1a7c33a57de2b",
+        "title": "ADMISSION TO ENGINEERING COURSES - 2026 FINAL LIST OF ELIGIBLE CANDIDATES FOR COMMUNITY/REGISTERED SCOCIETY/TRUST/WARDS OF EMPLOYEES OF CO-OPERATIVE DEPARTMENT AND SOCIETIES QUOTA SEATS PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/111/Upload1",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-11T14:25:32.567Z"
+      },
+      {
+        "id": "4e963e5a27df24d7",
+        "title": "ADMISSION TO ARCHITECTURE COURSE - 2026 RANK LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/110/Upload1",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-11T14:25:32.567Z"
+      },
       {
         "id": "6b2b57376f7e533c",
         "title": "ADMISSION TO ENGINEERING COURSES 2026 - PROVISIONAL LIST OF ELIGIBLE CANDIDATES FOR COMMUNITY/REGISTERED SCOCIETY/TRUST QUOTA AND CB SEATS PUBLISHED",
