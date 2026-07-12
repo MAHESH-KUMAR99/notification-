@@ -1461,28 +1461,48 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:47.664Z",
+    "lastUpdatedDate": "2026-07-12T10:56:03.716Z",
     "pinned": false,
     "notices": [
       {
-        "id": "UGMAC:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
+        "id": "Latest Updates:71490e08f26a01c7",
+        "title": "Important Notice for Choice Filling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/07 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_07.pdf",
+        "date": "12/07/2026",
         "sortTs": null,
-        "source": "UGMAC",
+        "source": "Latest Updates",
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
+        "detectedAt": "2026-07-12T10:56:03.716Z"
       },
       {
-        "id": "UGMAC:434d52739f09976d",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
-        "date": "02/04/2026",
+        "id": "Latest Updates:93a400bc76d9d196",
+        "title": "Details for Choice Filling of BCECE[LE][ENGINEERING]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/06 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_06.pdf",
+        "date": "12/07/2026",
         "sortTs": null,
-        "source": "UGMAC",
+        "source": "Latest Updates",
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
+        "detectedAt": "2026-07-12T10:56:03.716Z"
+      },
+      {
+        "id": "Latest Updates:aa7612441e1777f2",
+        "title": "Notice for online counselling of BCECE-JOINT[PCM/PCB/PCMB] & AGRICULTURE[CBA/MBA/MCA/PCA] Group-2026 (Adv. No. BCECEB(BCECE)-2026/07 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_07.pdf",
+        "date": "12/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-12T10:56:03.716Z"
+      },
+      {
+        "id": "Latest Updates:bfb920786e722b68",
+        "title": "Details of online counselling of BCECE-JOINT[PCM/PCB/PCMB] & AGRICULTURE[CBA/MBA/MCA/PCA] Group-2026 (Adv. No. BCECEB(BCECE)-2026/06 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_06.pdf",
+        "date": "12/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-12T10:56:03.716Z"
       },
       {
         "id": "Latest Updates:ffe7166937e1e66d",
@@ -1563,6 +1583,16 @@
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
+        "id": "UGMAC:11ee47ceaf3415d9",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
+        "date": "28/06/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 19,
+        "detectedAt": "2026-07-08T09:36:47.587Z"
+      },
+      {
         "id": "Latest Updates:899212cb200b6019",
         "title": "Notice for Rank Card of BCECE-2026 (Adv. No. BCECEB(BCECE)-2026/05 Dated 24.06.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_05.pdf",
@@ -1633,74 +1663,24 @@
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
-        "id": "Latest Updates:344ecdabff1f8048",
-        "title": "Detail Notice for Choice Filling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/07 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_07.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:2789c06057cb0824",
-        "title": "Important Notice for Choice Filling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/07 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_07.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:9a00e4dad44a2169",
-        "title": "Detail Notice for Choice Filling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/06 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_06.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:cdac1cb35d6e4b12",
-        "title": "Important Notice for Rank Card of DCECE[PE/PMM/PM]-2026(Adv. No. BCECEB(DCECE)-2026/06 Dated 11.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_06.pdf",
-        "date": "11/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:260082259594e8e2",
-        "title": "Notice for List of Eligible and Not Eligible Candidates after Document Verification for the post of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026/07 Dated 04.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_SR26_07.pdf",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:dd22507b7ed76f20",
-        "title": "Important Notice Rank Card of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/05 Dated 04.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_05.pdf",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
         "id": "UGMAC:11ee47ceaf3415d9",
         "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
         "date": "28/06/2026",
         "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "UGMAC:434d52739f09976d",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
+        "date": "02/04/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
       }
     ]
   },
