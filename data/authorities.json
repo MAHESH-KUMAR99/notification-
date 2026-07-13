@@ -4004,7 +4004,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T07:50:30.989Z",
+    "lastUpdatedDate": "2026-07-13T11:18:18.900Z",
     "pinned": false,
     "notices": [
       {
@@ -4015,6 +4015,16 @@
         "sortTs": 1784073600000,
         "source": "Latest Notifications",
         "detectedAt": "2026-07-08T12:06:52.887Z"
+      },
+      {
+        "id": "Latest Notifications:fa9299471b22ecb3",
+        "title": "Result Notifications of BDS 2nd Year University Supplementary Examination held in the month of March, 2026 of various batches. [Date of Result 13-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-2ND-YEAR-RESULT-13-07-2026.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T11:18:18.900Z"
       },
       {
         "id": "Latest Notifications:9f1c542e7fe1800a",
@@ -4057,6 +4067,16 @@
         "detectedAt": "2026-07-09T09:48:45.852Z"
       },
       {
+        "id": "Latest Notifications:5b8f6e8d8f664c1d",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-D",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-D-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-13T11:18:18.900Z"
+      },
+      {
         "id": "Latest Notifications:b87986557f2dd0d8",
         "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-C",
         "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-C.pdf",
@@ -4077,6 +4097,16 @@
         "detectedAt": "2026-07-08T11:47:52.578Z"
       },
       {
+        "id": "Latest Notifications:a27a9d912dc0ca5f",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-C",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-C-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-13T11:18:18.900Z"
+      },
+      {
         "id": "Latest Notifications:3c44b13495af1f7e",
         "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-B",
         "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-B.pdf",
@@ -4085,6 +4115,16 @@
         "source": "Latest Notifications",
         "batchIndex": 2,
         "detectedAt": "2026-07-13T07:50:30.989Z"
+      },
+      {
+        "id": "Latest Notifications:b3b8c2b00b8e875b",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-B",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-B-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-13T11:18:18.900Z"
       },
       {
         "id": "Latest Notifications:b8c63433766ca55e",
@@ -4105,6 +4145,16 @@
         "source": "Latest Notifications",
         "batchIndex": 3,
         "detectedAt": "2026-07-08T11:47:52.578Z"
+      },
+      {
+        "id": "Latest Notifications:30c198738d7849ff",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-A",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-A-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-13T11:18:18.900Z"
       },
       {
         "id": "Latest Notifications:a04e7c3ca883cd04",
@@ -4727,9 +4777,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T07:49:46.605Z",
+    "lastUpdatedDate": "2026-07-13T11:17:33.117Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7b596c80155664b0",
+        "title": "Schedule 1st Offline Counselling BA B.Ed. (Code-161) Admission Session:2026-27_dated-13.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260713216267429.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T11:17:33.117Z"
+      },
       {
         "id": "74a2c7a793ebd74d",
         "title": "Schedule of 1st Counselling M.Ed. (Special Education) (ID) , CET CODE-612 Admission Session: 2026-27_dated-13.07.2026",
@@ -4899,15 +4958,6 @@
         "date": "21/01/2026",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "fee3b7cf64e0dd22",
-        "title": "Fee Structure of Self Financing Institutes for Academic Year 2025-2026, 2026-2027, 2027-2028__6th SFRC Gazette Notification dated 14.07.2025 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/20260102850241896.pdf",
-        "date": "02/01/2026",
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
