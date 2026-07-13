@@ -2824,9 +2824,18 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T14:57:40.306Z",
+    "lastUpdatedDate": "2026-07-13T13:40:57.591Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a520620743fddea1",
+        "title": "Eligible candidates for assistant professor having mpt state council registration if anyone have that and there name in not eligible can raise claim and objection from application portal.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2139",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T13:40:57.591Z"
+      },
       {
         "id": "ed31d8e2a349b05b",
         "title": "Provisional Eligibility list of Candidates for Various faculty Posts In New Nursing Colleges Chhattisgarh.....More",
@@ -4004,7 +4013,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T11:18:18.900Z",
+    "lastUpdatedDate": "2026-07-13T13:41:59.828Z",
     "pinned": false,
     "notices": [
       {
@@ -4015,6 +4024,16 @@
         "sortTs": 1784073600000,
         "source": "Latest Notifications",
         "detectedAt": "2026-07-08T12:06:52.887Z"
+      },
+      {
+        "id": "Latest Notifications:b99198a7a2b0b128",
+        "title": "Result Notification of Post Basic B.Sc. Nursing 1st year Supplementary Examination Held in May 2026 Batch 2023, 2024 Dated-13-07-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-1st-year-supplementary-Result.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T13:41:59.828Z"
       },
       {
         "id": "Latest Notifications:fa9299471b22ecb3",
@@ -4777,9 +4796,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T11:17:33.117Z",
+    "lastUpdatedDate": "2026-07-13T13:41:14.753Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f9b796ec09f3e791",
+        "title": "LLB (3 Year) (CODE-238) Seat Status of after the End of 1st Round of offline Counselling 2026.27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131105253681.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T13:41:14.753Z"
+      },
       {
         "id": "7b596c80155664b0",
         "title": "Schedule 1st Offline Counselling BA B.Ed. (Code-161) Admission Session:2026-27_dated-13.07.2026",
@@ -4950,15 +4978,6 @@
         "sortTs": null,
         "batchIndex": 6,
         "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "393eb8f48b9848de",
-        "title": "NCR Fee for 2025-2026, 2026-2027 & 2027-2028 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/202601211445219950.pdf",
-        "date": "21/01/2026",
-        "sortTs": null,
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
   },
@@ -5107,9 +5126,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-11T14:25:32.567Z",
+    "lastUpdatedDate": "2026-07-13T13:41:58.294Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c630563ef0986725",
+        "title": "SECOND PHASE OPTION CONFIRMATION FOR ENGINEERING COURSES & FIRST PHASE OPTION REGISTRATION FOR ARCHITECTURE COURSE HAVE STARTED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/115/Upload1",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T13:41:58.294Z"
+      },
       {
         "id": "06b010b27bfb28e4",
         "title": "KERALA MEDICAL COURSES CANDIDATES CAN RECTIFY DEFECTS IN NRI DOCUMENT",
