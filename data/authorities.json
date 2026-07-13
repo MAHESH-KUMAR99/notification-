@@ -201,9 +201,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-09T22:00:33.412Z",
+    "lastUpdatedDate": "2026-07-13T07:49:01.140Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1002",
+        "title": "13/07/2026 - Draft Amendment wrt \"Establishment Of New Medical Institutions Assessment & Rating (Amendment) Regulations, 2026\" REG",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Pre-published%20draft%20regulation%20-%20Establishment%20of%20New%20Medical%20Institutions%20Assessment%20Rating%20(Amendment)%20Regulations%202026.pdf",
+        "date": "13/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T07:49:01.140Z"
+      },
       {
         "id": "nmc-1001",
         "title": "09/07/2026 - Login Credentials to be used by Medical Colleges/Institutions for Accessing the Online Appeal Portal for Filing Appeals-reg.",
@@ -354,14 +362,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Gazette%20Notification_amendment_27_4_26.pdf",
         "date": "28/04/2026",
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-980",
-        "title": "23/04/2026 - Compliance of Instructions of Department of Higher Education (Ministry of Education).",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PubNotice_NEET_UG_Merged.pdf",
-        "date": "23/04/2026",
-        "batchIndex": 18,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -1077,9 +1077,18 @@
     "category": "state",
     "officialLink": "https://bfuhs.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:30.560Z",
+    "lastUpdatedDate": "2026-07-13T07:49:11.040Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "22e2907fe2be066b",
+        "title": "Admission under NEET UG 2026 Notification Dated 10-07-2026",
+        "link": "https://bfuhs.ac.in/MBBS2026/Notification%20MBBS%20BDS%202026.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T07:49:11.040Z"
+      },
       {
         "id": "63fb4da5d3c4e5c7",
         "title": "Click here to download allotment letter for MBBS Round of counselling Click here to pay Tution fee+HSLIBNET Fee",
@@ -1249,15 +1258,6 @@
         "date": "10/11/2025",
         "sortTs": null,
         "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "9ea519b8ba05b00e",
-        "title": "Regarding addendum revised result for Round III under NEET UG 2025",
-        "link": "https://bfuhs.ac.in/mbbs_bds/6-11-25/AddendumRevisedResult.pdf",
-        "date": "06/11/2025",
-        "sortTs": null,
-        "batchIndex": 19,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -4004,9 +4004,118 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-09T09:48:46.284Z",
+    "lastUpdatedDate": "2026-07-13T07:50:30.989Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Notifications:e786b1a7b9d2ff00",
+        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
+        "date": null,
+        "sortTs": 1784073600000,
+        "source": "Latest Notifications",
+        "detectedAt": "2026-07-08T12:06:52.887Z"
+      },
+      {
+        "id": "Latest Notifications:9f1c542e7fe1800a",
+        "title": "Result Notification pertaining to BDS 3rd year University Supplementary Examination held in the month of March, 2026. [Date of Result 08-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-3rd-year-result.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T11:47:52.578Z"
+      },
+      {
+        "id": "Latest Notifications:4393a3b253e8240d",
+        "title": "Result Notification of Post Basic B.Sc Nursing 2nd year Supplementary Examination Held in May 2026 Batch 2022, 2023 Date of Result 7-7-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-2nd-Supply-result.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "Latest Notifications",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-08T11:47:52.578Z"
+      },
+      {
+        "id": "Latest Notifications:13f69dc8d51fcb9c",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-D",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-D.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T07:50:30.989Z"
+      },
+      {
+        "id": "Latest Notifications:c3556be780484a1d",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/notice-regarding-Admit-cards.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-09T09:48:45.852Z"
+      },
+      {
+        "id": "Latest Notifications:b87986557f2dd0d8",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-C",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-C.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-13T07:50:30.989Z"
+      },
+      {
+        "id": "Latest Notifications:e786b1a7b9d2ff00",
+        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-08T11:47:52.578Z"
+      },
+      {
+        "id": "Latest Notifications:3c44b13495af1f7e",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-B",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-B.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-13T07:50:30.989Z"
+      },
+      {
+        "id": "Latest Notifications:b8c63433766ca55e",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-A",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-A.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-13T07:50:30.989Z"
+      },
+      {
+        "id": "Latest Notifications:2139c24903c22572",
+        "title": "Retotaling of B.Sc 4th Supplementary Examination Held in March 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/4th-sem-supply_0001.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-08T11:47:52.578Z"
+      },
+      {
+        "id": "Latest Notifications:a04e7c3ca883cd04",
+        "title": "Notice for provisional answer keys for Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Notice-for-answer-keys-CET-2026.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Latest Notifications",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-13T07:50:30.989Z"
+      },
       {
         "id": "Announcements:c3556be780484a1d",
         "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
@@ -4125,65 +4234,6 @@
         "sortTs": null,
         "source": "Announcements",
         "detectedAt": "2026-07-08T12:06:53.277Z"
-      },
-      {
-        "id": "Latest Notifications:e786b1a7b9d2ff00",
-        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
-        "date": null,
-        "sortTs": 1784073600000,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-08T12:06:52.887Z"
-      },
-      {
-        "id": "Latest Notifications:9f1c542e7fe1800a",
-        "title": "Result Notification pertaining to BDS 3rd year University Supplementary Examination held in the month of March, 2026. [Date of Result 08-07-2026]",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-3rd-year-result.pdf",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
-      },
-      {
-        "id": "Latest Notifications:4393a3b253e8240d",
-        "title": "Result Notification of Post Basic B.Sc Nursing 2nd year Supplementary Examination Held in May 2026 Batch 2022, 2023 Date of Result 7-7-2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-2nd-Supply-result.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
-      },
-      {
-        "id": "Latest Notifications:c3556be780484a1d",
-        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/notice-regarding-Admit-cards.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "source": "Latest Notifications",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-09T09:48:45.852Z"
-      },
-      {
-        "id": "Latest Notifications:e786b1a7b9d2ff00",
-        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "source": "Latest Notifications",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
-      },
-      {
-        "id": "Latest Notifications:2139c24903c22572",
-        "title": "Retotaling of B.Sc 4th Supplementary Examination Held in March 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/4th-sem-supply_0001.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "source": "Latest Notifications",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
       }
     ]
   },
@@ -4677,9 +4727,27 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-11T11:16:34.336Z",
+    "lastUpdatedDate": "2026-07-13T07:49:46.605Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "74a2c7a793ebd74d",
+        "title": "Schedule of 1st Counselling M.Ed. (Special Education) (ID) , CET CODE-612 Admission Session: 2026-27_dated-13.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131299994140.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-13T07:49:46.605Z"
+      },
+      {
+        "id": "7c897039597d9995",
+        "title": "Schedule of 2nd Offline Counselling ADCGC (CET CODE-175) Admission Session:2026-27_dated-13.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131169075618.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-13T07:49:46.605Z"
+      },
       {
         "id": "87b01501e22cdafb",
         "title": "B.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
@@ -4840,24 +4908,6 @@
         "date": "02/01/2026",
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "e67dbf1abf57ca88",
-        "title": "UG Admission Brochure 2026-2027 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/UG.pdf",
-        "date": null,
-        "sortTs": 1767225600000,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "1b5102bf798efd76",
-        "title": "PG Admission Brochure 2026-2027 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/01/PG.pdf",
-        "date": null,
-        "sortTs": 1767225600000,
-        "batchIndex": 5,
         "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
