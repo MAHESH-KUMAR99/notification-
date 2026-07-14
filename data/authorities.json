@@ -5135,9 +5135,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T13:41:58.294Z",
+    "lastUpdatedDate": "2026-07-14T05:54:52.311Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d23a56c30650e997",
+        "title": "Second Phase Option Confirmation For Engineering Courses & First Phase Option Registration For Architecture Course Have Started",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/115/Upload1",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T05:54:52.311Z"
+      },
       {
         "id": "c630563ef0986725",
         "title": "SECOND PHASE OPTION CONFIRMATION FOR ENGINEERING COURSES & FIRST PHASE OPTION REGISTRATION FOR ARCHITECTURE COURSE HAVE STARTED",
@@ -5313,15 +5322,6 @@
         "date": "27/06/2026",
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "423284d3268d1b09",
-        "title": "KERALA ENGINEERING, PHARMACY RANK LIST - 2026 PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/75/Upload1",
-        "date": "27/06/2026",
-        "sortTs": null,
-        "batchIndex": 9,
         "detectedAt": "2026-07-08T09:36:55.009Z"
       }
     ]
