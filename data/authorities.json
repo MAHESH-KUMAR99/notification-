@@ -1775,9 +1775,20 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:30.070Z",
+    "lastUpdatedDate": "2026-07-14T11:56:26.098Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "27344091d7144835",
+        "title": "Advt. No. 34 dated-14.07.2026 शैक्षणिक सत्र 2026-28 में बी०एड०/एम०एड०/ बी०पी०एड० पाठ्यक्रम (B.Ed./M.Ed./B.P.Ed. Course) में नामांकन हेतु ऑनलाईन साक्षात्कारों से संबंधित महत्वपूर्ण सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/748.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 34 dated-14.07.2026 Important information related to online interviews for enrollment in B.Ed./M.Ed./B.P.Ed. Course in the academic session 2026-28.",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-14T11:56:26.098Z"
+      },
       {
         "id": "3aea7ec47c36fc2d",
         "title": "Advt. No. 30 dated-02.07.2026 Important Notice regarding 1st, 2nd, 3rd & 4th Round of Online Counselling on the basis of State Merit List based on JEE (Main)-2026 Result",
@@ -1948,15 +1959,6 @@
         "sortTs": null,
         "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "44fd64190a0e4cc1",
-        "title": "Advt. No. - 151 Dated :- 03/12/2025 Notice regarding Stray Round of Online Counselling for Post-Graduate (Homoeopathic) State Quota Seats of Devki Mahavir Homeopathic Medical College & Research Hospital, Garhwa seats on the basis of AIAPGET-2025 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/728.pdf",
-        "date": "03/12/2025",
-        "sortTs": null,
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
   },
@@ -2091,9 +2093,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-10T12:29:30.241Z",
+    "lastUpdatedDate": "2026-07-14T11:57:57.558Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:aa8f30fd264349f9",
+        "title": "PHASE - I - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/15tUzJhpEjel-ggUXHG_de8kYourFhJ1R/view?usp=sharing",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T11:57:57.558Z"
+      },
+      {
+        "id": "OVERALL:fc7d7457ec869393",
+        "title": "MERIT LIST OF OTHER STATE CANDIDATES FOR PAJANCOA - B.SC. AGRICULTURE AND B.SC. HORTICULTURE - O.S. - SELF-SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1mymgnF-O46adcpPv0w7K97qG03dpHKhj/view?usp=sharing",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-14T11:57:57.558Z"
+      },
       {
         "id": "OVERALL:b03459a68004b737",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -2275,54 +2297,24 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:75a9abaffeae7ce0",
-        "title": "REVISED DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Revised_draft_merit_list_ugNonNEET_23062026.html",
-        "date": "23/06/2026",
+        "id": "UG NON-NEET:aa8f30fd264349f9",
+        "title": "PHASE - I - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/15tUzJhpEjel-ggUXHG_de8kYourFhJ1R/view?usp=sharing",
+        "date": "14/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 57,
+        "detectedAt": "2026-07-14T11:57:57.558Z"
       },
       {
-        "id": "OVERALL:11c61cb1010ea753",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1R6Ub_lyObe40FsL8RMCjeAww8MXMOavx/view?usp=sharing",
-        "date": "23/06/2026",
+        "id": "UG NON-NEET:fc7d7457ec869393",
+        "title": "MERIT LIST OF OTHER STATE CANDIDATES FOR PAJANCOA - B.SC. AGRICULTURE AND B.SC. HORTICULTURE - O.S. - SELF-SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1mymgnF-O46adcpPv0w7K97qG03dpHKhj/view?usp=sharing",
+        "date": "14/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "PG DENTAL:b03459a68004b737",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 52,
-        "detectedAt": "2026-07-10T12:29:30.241Z"
-      },
-      {
-        "id": "PG DENTAL:495903426637da71",
-        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 48,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "PG DENTAL:455e50f861a53f57",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 49,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 58,
+        "detectedAt": "2026-07-14T11:57:57.558Z"
       },
       {
         "id": "UG NON-NEET:0b7f2980eacf9897",
@@ -2503,23 +2495,33 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "UG NON-NEET:1022a987164e45f1",
-        "title": "CORRIGENDUM FOR UG NON-NEET BROCHURE 2026-2027 - PART-V : UNDERGRADUATE ARTS / SCIENCE / COMMERCE COURSES",
-        "link": "https://drive.google.com/file/d/10z5aW4hbzuj3mHNT1ZoHh9YDXFNu9RWr/view?usp=drivesdk",
-        "date": "12/06/2026",
+        "id": "PG DENTAL:b03459a68004b737",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
+        "date": "10/07/2026",
         "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 60,
+        "source": "PG DENTAL",
+        "batchIndex": 52,
+        "detectedAt": "2026-07-10T12:29:30.241Z"
+      },
+      {
+        "id": "PG DENTAL:495903426637da71",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
+        "date": "01/07/2026",
+        "sortTs": null,
+        "source": "PG DENTAL",
+        "batchIndex": 48,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "UG NON-NEET:b123d6e3f5ab48f2",
-        "title": "B.SC. NURSING ENTRANCE EXAMINATION (PNET) - SAMPLE QUESTING PAPER -2024",
-        "link": "https://drive.google.com/file/d/1u7Lil1N5Mg8A72rVy_YvizzLkd8lD0zF/view?usp=sharing",
-        "date": "10/06/2026",
+        "id": "PG DENTAL:455e50f861a53f57",
+        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
+        "date": "01/07/2026",
         "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 62,
+        "source": "PG DENTAL",
+        "batchIndex": 49,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -4805,9 +4807,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-14T10:19:18.383Z",
+    "lastUpdatedDate": "2026-07-14T11:57:10.300Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "16f20e4be2019c5a",
+        "title": "BBA INSTITUTES AVAILABLE FOR ROUND 02 FOR THE ACADEMIC SESSION 2026-27. DATED 14.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607141882638612.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T11:57:10.300Z"
+      },
       {
         "id": "1810752ad6d67b71",
         "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR B.TECH, MCA, MA ENG, BA ENG, BA ECO, B PHARMA, MS MICROBIOLOGY, BA LIBERAL ARTS, BA.B.ED., BAJMC & B.SC / M.SC P/C/M.",
@@ -4978,15 +4989,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "79fc073857294e8e",
-        "title": "SCHEDULE OFFLINE COUNSELLING “SINGLE GIRL CHILD QUOTA” ADMISSION 2026-27_dated_08.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081324151835.pdf",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
   },
@@ -5135,9 +5137,20 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-14T10:20:03.033Z",
+    "lastUpdatedDate": "2026-07-14T11:57:57.372Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "07a4a7fa5dce3da4",
+        "title": "സ്വകാര്യ സ്വാശ്രയ ആർക്കിടെക്ചർ കോളേജുകളിലെ കമ്മ്യൂണിറ്റി ക്വാട്ട സീറ്റുകളിലേയ്ക്കുള്ള പ്രത്യേക സംവരണം-അപേക്ഷ സമർപ്പിക്കുന്നതിന് അവസരം",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/121/Upload1",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Special Reservation for Community Quota Seats in Private Self-Supporting Architecture Colleges-Opportunity to Apply",
+        "titleLang": "ml",
+        "detectedAt": "2026-07-14T11:57:57.372Z"
+      },
       {
         "id": "9d66337a18c2f93d",
         "title": "Second Phase Allotment For Engineering Courses – Information Regarding Newly Added Courses",
@@ -5146,6 +5159,26 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T10:20:03.033Z"
+      },
+      {
+        "id": "dc340306ef6b08e6",
+        "title": "Admission To Architecture Course (B.Arch) Final Category-Wise List Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/120/Upload1",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-14T11:57:57.372Z"
+      },
+      {
+        "id": "b2d805b2aae976ff",
+        "title": "സ്വകാര്യ സ്വാശ്രയ ആർക്കിടെക്ചർ കോളേജുകളിലെ കമ്മ്യൂണിറ്റി ക്വോട്ട സീറ്റുകളിലേക്കുള്ള പ്രത്യേക സംവരണം - അപേക്ഷ സമർപ്പിക്കുന്നതിന് അവസരം.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/119/Upload1",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "titleEn": "Special Reservation of Community Quota Seats in Private Self-Help Architecture Colleges - Opportunity to Submit Application.",
+        "titleLang": "ml",
+        "detectedAt": "2026-07-14T11:57:57.372Z"
       },
       {
         "id": "d23a56c30650e997",
@@ -5296,33 +5329,6 @@
         "titleEn": "Special reserved seats in private self-financing and Cape Engineering Colleges - Applications invited. CB Quota in Engineering Colleges under Cooperative Academy of Professional Education (CAPE). Community/Trust Quota in Private Self Help Engineering Colleges.",
         "titleLang": "ml",
         "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "f224ae74af35d2f4",
-        "title": "Centralised Allotment Process for Engineering courses - Options invited",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/87/Upload1",
-        "date": "02/07/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "104268cb58857036",
-        "title": "Online Submission Of Marks Data For The Preparation Of Architecture Rank List 2026",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/85/Upload1",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "820394b1ae7761f2",
-        "title": "Admission to Kerala Engineering, Pharmacy Courses - Provisional Category List Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/81/Upload1",
-        "date": "29/06/2026",
-        "sortTs": null,
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:55.009Z"
       }
     ]
   },
@@ -5333,9 +5339,18 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T14:58:03.894Z",
+    "lastUpdatedDate": "2026-07-14T11:57:19.979Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "087dd4f7f2d79c10",
+        "title": "Notice - Shortlist Candidayes for the Written Examination for the post of Radiology Technologist at the Centre for Evolution, under R.P. Chest Hospital, Shillong",
+        "link": "https://www.meghealth.gov.in/news/Notice_%20Shortlisted%20Candidates%20for%20the%20Post%20of%20Radiology%20Technologist_Written%20Examination.pdf",
+        "date": null,
+        "sortTs": 20121782400000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
       {
         "id": "a1627b415a882c98",
         "title": "Notice - Admission for various programmes at Lokpriya Gopinath Bordoloi Regional Institute of Mental Health (LGBRIMH), Tezpur Assam | Online Admission Form",
@@ -5505,15 +5520,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "31feb0c616508b6d",
-        "title": "List of Successful Candidate for the post of Medical Officer (AYUSH) for South-West Garo Hills",
-        "link": "https://www.meghealth.gov.in/news/HSM-AYUSH-CONTRACTUAL-25.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
