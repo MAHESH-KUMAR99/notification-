@@ -4805,9 +4805,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T13:41:14.753Z",
+    "lastUpdatedDate": "2026-07-14T10:19:18.383Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1810752ad6d67b71",
+        "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR B.TECH, MCA, MA ENG, BA ENG, BA ECO, B PHARMA, MS MICROBIOLOGY, BA LIBERAL ARTS, BA.B.ED., BAJMC & B.SC / M.SC P/C/M.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260714803820991.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T10:19:18.383Z"
+      },
       {
         "id": "f9b796ec09f3e791",
         "title": "LLB (3 Year) (CODE-238) Seat Status of after the End of 1st Round of offline Counselling 2026.27",
@@ -4978,15 +4987,6 @@
         "sortTs": null,
         "batchIndex": 3,
         "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "db0131ff6877e4dd",
-        "title": "Ph.D Admission Brochure 2026-2027 New",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2025/01/202601291362467936.pdf",
-        "date": "29/01/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
   },
@@ -5135,9 +5135,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-14T05:54:52.311Z",
+    "lastUpdatedDate": "2026-07-14T10:20:03.033Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9d66337a18c2f93d",
+        "title": "Second Phase Allotment For Engineering Courses – Information Regarding Newly Added Courses",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/118/Upload1",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T10:20:03.033Z"
+      },
       {
         "id": "d23a56c30650e997",
         "title": "Second Phase Option Confirmation For Engineering Courses & First Phase Option Registration For Architecture Course Have Started",
@@ -5313,15 +5322,6 @@
         "date": "29/06/2026",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "81b4cb3e42bfe808",
-        "title": "KERALA ARCHITECTURE COURSE CANDIDATES CAN VERIFY THEIR PROFILE AND RECTIFY DEFECTS",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/76/Upload1",
-        "date": "27/06/2026",
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-08T09:36:55.009Z"
       }
     ]
