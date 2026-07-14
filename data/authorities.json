@@ -126,9 +126,18 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T16:37:39.006Z",
+    "lastUpdatedDate": "2026-07-14T15:38:28.613Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "2b40cd1ad0fb4dd8",
+        "title": "Regarding Refund of Examination Fee of NEET (UG) 2026 (Examination held on 03 May 2026)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607141430274592.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T15:38:28.613Z"
+      },
       {
         "id": "b30762c48093e392",
         "title": "Display of Scanned Images of OMR Answer Sheet and Recorded Response for National Eligibility cum Entrance Test (UG)-2026-reg.",
