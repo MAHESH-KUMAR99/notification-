@@ -219,9 +219,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T07:49:01.140Z",
+    "lastUpdatedDate": "2026-07-14T18:40:34.837Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1003",
+        "title": "14/07/2026 - Seat Matrix for Undergraduate (MBBS) Courses (excluding INIs) for the Academic Year 2026 - 27 - reg.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_Merged_seatmatrix_Secretary_covering.pdf",
+        "date": "14/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-14T18:40:34.837Z"
+      },
       {
         "id": "nmc-1002",
         "title": "13/07/2026 - Draft Amendment wrt \"Establishment Of New Medical Institutions Assessment & Rating (Amendment) Regulations, 2026\" REG",
@@ -372,14 +380,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_NBEMS.pdf",
         "date": "08/05/2026",
         "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-981",
-        "title": "28/04/2026 - Gazette Notification wrt amendments in the Guidelines under Regulation 10 of the Establishment of New Medical Institutions, Starting of New Medical Courses, Increase of Seats for Existing Courses & Assessment and Rating Regulation 2023 and Regulation 19 of the Graduate Medical Education Regulations 2023.",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Gazette%20Notification_amendment_27_4_26.pdf",
-        "date": "28/04/2026",
-        "batchIndex": 17,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
