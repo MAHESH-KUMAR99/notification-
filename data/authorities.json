@@ -126,9 +126,27 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:35:42.709Z",
+    "lastUpdatedDate": "2026-07-15T11:44:58.422Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "2b40cd1ad0fb4dd8",
+        "title": "Regarding Refund of Examination Fee of NEET (UG) 2026 (Examination held on 03 May 2026)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607141430274592.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:44:58.422Z"
+      },
+      {
+        "id": "b30762c48093e392",
+        "title": "Display of Scanned Images of OMR Answer Sheet and Recorded Response for National Eligibility cum Entrance Test (UG)-2026-reg.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260713497007800.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:44:58.422Z"
+      },
       {
         "id": "5e22b9a50af7bd43",
         "title": "Another Opportunity for Confirmation, Correction or Updation of Bank Account Details for Refund of Examination Fee of NEET (UG) 2026 (Examination held on 03 May 2026).",
@@ -201,9 +219,33 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:35:43.856Z",
+    "lastUpdatedDate": "2026-07-15T11:45:20.408Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1003",
+        "title": "14/07/2026 - Seat Matrix for Undergraduate (MBBS) Courses (excluding INIs) for the Academic Year 2026 - 27 - reg.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_Merged_seatmatrix_Secretary_covering.pdf",
+        "date": "14/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:20.408Z"
+      },
+      {
+        "id": "nmc-1002",
+        "title": "13/07/2026 - Draft Amendment wrt \"Establishment Of New Medical Institutions Assessment & Rating (Amendment) Regulations, 2026\" REG",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Pre-published%20draft%20regulation%20-%20Establishment%20of%20New%20Medical%20Institutions%20Assessment%20Rating%20(Amendment)%20Regulations%202026.pdf",
+        "date": "13/07/2026",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:20.408Z"
+      },
+      {
+        "id": "nmc-1001",
+        "title": "09/07/2026 - Login Credentials to be used by Medical Colleges/Institutions for Accessing the Online Appeal Portal for Filing Appeals-reg.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Pubnotice%20june%20-9.pdf",
+        "date": "09/07/2026",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:45:20.408Z"
+      },
       {
         "id": "nmc-1000",
         "title": "07/07/2026 - Installation of CCTV Systems at Medical Colleges and their access to NMC Command & Control Center via NVR - reg",
@@ -339,30 +381,6 @@
         "date": "08/05/2026",
         "batchIndex": 16,
         "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-981",
-        "title": "28/04/2026 - Gazette Notification wrt amendments in the Guidelines under Regulation 10 of the Establishment of New Medical Institutions, Starting of New Medical Courses, Increase of Seats for Existing Courses & Assessment and Rating Regulation 2023 and Regulation 19 of the Graduate Medical Education Regulations 2023.",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Gazette%20Notification_amendment_27_4_26.pdf",
-        "date": "28/04/2026",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-980",
-        "title": "23/04/2026 - Compliance of Instructions of Department of Higher Education (Ministry of Education).",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PubNotice_NEET_UG_Merged.pdf",
-        "date": "23/04/2026",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-979",
-        "title": "16/04/2026 - Registration of Medical Practitioners and Licence to Practice medicine (Amendment) Regulations, 2026",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Gazette%20Notification%20dated%2007.04.2026.pdf",
-        "date": "16/04/2026",
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
   },
@@ -373,9 +391,17 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:45.770Z",
+    "lastUpdatedDate": "2026-07-15T11:45:47.504Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-106",
+        "title": "INTERVIEW FOR THE POST OF STAFF NURSE AT ART PLUS CENTRE, AFMC PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "10/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:47.504Z"
+      },
       {
         "id": "afmc-pune-105",
         "title": "VACANCY FOR PROJECT RESEARCH SCIENTIST-II ALL CONTRACTUAL BASIS.",
@@ -527,14 +553,6 @@
         "date": "03/02/2026",
         "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-75",
-        "title": "RECRUITMENT OF DATA ENTRY OPERATOR AND MULTI-TASKING STAFF (MTS) FOR VIRAL RESEARCH AND DIAGNOSTIC LABORATORY (VRDL), AFMC, PUNE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "22/01/2026",
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
   },
@@ -545,9 +563,76 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:11.871Z",
+    "lastUpdatedDate": "2026-07-15T11:45:21.900Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "44629d6749c54773",
+        "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.20/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
+        "link": null,
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Students who have got admission in Graduate Medical/Dental/Ayurveda/Homeopathy/Cancelled admission/Not got admission/Not got refund of fee in 1st, 2nd, 3rd, 4th, 5th and 6th round and are eligible for tuition fee refund, their bank account details from 09/07/2026 Must be filled up to 05:00 PM on 20/07/2026.",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-15T11:45:21.900Z"
+      },
+      {
+        "id": "436c4d338ac7561d",
+        "title": "List of the candidates whose Tuition fee is Refundable and pending with Admission Committee are required to fill their bank details",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Fees%20Refund%20R7.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:21.900Z"
+      },
+      {
+        "id": "061d5ffad6df0673",
+        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 6",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR6.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-15T11:45:21.900Z"
+      },
+      {
+        "id": "279e922e1fa9ec50",
+        "title": "જે વિધાર્થીઓએ રૂ.૧૦,૦૦૦/- સિક્યુરિટી ડિપોઝિટ પરત લેવા માટે લાયક છે અને પ્રથમ,બીજા ત્રીજા,ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં સિક્યુરિટી ડિપોઝિટ પરત મેળવેલ નથી, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.20/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
+        "link": null,
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 13,
+        "titleEn": "Students who are eligible to get back the security deposit of Rs.10,000/- and have not got the security deposit back in the first, second, third, fourth, fifth and sixth round, have to fill their bank account details from 09/07/2026 to 05:00 PM on 20/07/2026.",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-15T11:45:21.900Z"
+      },
+      {
+        "id": "a7be09b5a32fbf10",
+        "title": "List of the candidates whose Security Deposit is Refundable and pending with Admission Committee are required to fill their bank details",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Deposite%20Refund%20R7.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 14,
+        "detectedAt": "2026-07-15T11:45:21.900Z"
+      },
+      {
+        "id": "ceed11c7f79fabc2",
+        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 6",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR6.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 21,
+        "detectedAt": "2026-07-15T11:45:21.900Z"
+      },
+      {
+        "id": "482638b805c9a968",
+        "title": "List of the unsuccessful candidates whose Security Deposit is not Refunded in Round 6",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_FAIL_UGR6.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 27,
+        "detectedAt": "2026-07-15T11:45:21.900Z"
+      },
       {
         "id": "fd49334c6162d51a",
         "title": "જે વિધાર્થીઓએ સિક્યુરિટી ડિપોઝિટ અને ફી રિફંડ રાઉન્ડ-6 માં પોતાના બેંક ખાતા ની વિગતો તા.12/06/2026 થી તા.25/06/2026 સુધી માં ભરી છે, તેવા વિદ્યાર્થીઓની ફી રીફંડ કરવાની પ્રક્રિયા ચાલુ છે, તેઓએ પોતાના રીફન્ડ માટેની વિગત પોતાના બેંક ખાતામાં તા.10/07/2026 પછી જોવી.",
@@ -667,71 +752,6 @@
         "date": "12/06/2026",
         "sortTs": null,
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "a80c9e0332f780bd",
-        "title": "જે વિધાર્થીઓએ રૂ.૧૦,૦૦૦/- સિક્યુરિટી ડિપોઝિટ પરત લેવા માટે લાયક છે અને પ્રથમ,બીજા ત્રીજા,ચોથા અને પાંચમા રાઉન્ડમાં સિક્યુરિટી ડિપોઝિટ પરત મેળવેલ નથી, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.12/06/2026 થી તા.25/06/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
-        "link": null,
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 13,
-        "titleEn": "Those students who are eligible to get back the security deposit of Rs.10,000/- and have not got the security deposit back in the first, second, third, fourth and fifth round, have to fill their bank account details from 12/06/2026 to 05:00 PM on 25/06/2026.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "30729618eb56113d",
-        "title": "List of the candidates whose Security Deposit is Refundable and pending with Admission Committee are required to fill their bank details",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Deposite%20Refund%20R6.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "62512873c5aff039",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR1.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "efb947da7ecab72a",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 1.1(Updated 06-02-2026)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR1.1.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "83be8c9d344ee9dc",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 2",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR2.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "3b831ffd8b3beedd",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 3",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR3.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "8a8c8d7f7659f5e3",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 4",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR4.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 19,
         "detectedAt": "2026-07-08T09:36:11.871Z"
       }
     ]
@@ -1075,9 +1095,18 @@
     "category": "state",
     "officialLink": "https://bfuhs.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:30.560Z",
+    "lastUpdatedDate": "2026-07-15T11:45:24.805Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "22e2907fe2be066b",
+        "title": "Admission under NEET UG 2026 Notification Dated 10-07-2026",
+        "link": "https://bfuhs.ac.in/MBBS2026/Notification%20MBBS%20BDS%202026.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:24.805Z"
+      },
       {
         "id": "63fb4da5d3c4e5c7",
         "title": "Click here to download allotment letter for MBBS Round of counselling Click here to pay Tution fee+HSLIBNET Fee",
@@ -1248,15 +1277,6 @@
         "sortTs": null,
         "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "9ea519b8ba05b00e",
-        "title": "Regarding addendum revised result for Round III under NEET UG 2025",
-        "link": "https://bfuhs.ac.in/mbbs_bds/6-11-25/AddendumRevisedResult.pdf",
-        "date": "06/11/2025",
-        "sortTs": null,
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
   },
@@ -1267,9 +1287,90 @@
     "category": "state",
     "officialLink": "https://www.jkbopee.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:47.113Z",
+    "lastUpdatedDate": "2026-07-15T11:45:55.701Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a126276a8a9cb083",
+        "title": "Conduct of 2nd / Mop-Up Round of offline/physical counselling for admission to M.Sc. Nursing Courses-2026 in various Government/Private Colleges/Institutions of UT of J&K. [MSC-NURSING-NN-108 Dt. 15-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17859&type=n",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "3e16aa79eba5baca",
+        "title": "Conduct of 2nd/Mop-Up Round of offline/physical counselling for admission to M.Sc. Technology Courses-2026 in SKIMS, Soura, Srinagar [MSC-TECHNOLOGY-NN-107 Dt. 15-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17858&type=n",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "e57da70d9aca2cf7",
+        "title": "Provisional Selection List of candidates for admission to the B. Architecture Course 2026 at the School of Architecture, GCET Jammu/GCET, Safapora, Ganderbal. [B-ARCH-NN-106 Dt. 15-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17857&type=n",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "1086ca6aa5f56da3",
+        "title": "Provisional Selection List of candidates for admission to Post-Basic B.Sc. Nursing Courses-2026 in various Government/Private Colleges/Institutions of the UT of J&K/Ladakh after conduct of 1st round of online counselling. [PB-BSC-N-NN-105 Dt. 14-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17854&type=n",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "1b3a8c59c8380e61",
+        "title": "Conduct of 1st Round/ Counselling Schedule for submission of Online Preferences by the eligible candidates for admission to GNM/ANM Courses-2026. [GNM-ANM-NN-104 Dt. 14-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17852&type=n",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "634f5a5ff880fa10",
+        "title": "Provisional Selection List of candidates for admission to B.E./B.Tech. Courses 2026 in various Government/Private Colleges/Institutions of the UT of J&K after conduct of the 3rd/Mop-up Round of Online Counselling. [CET-ENGINEERING-NN-103 Dt. 11-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17847&type=n",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 5,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "dda2a77337ec34ec",
+        "title": "Provisional Selection List of candidates for admission to B.Sc. Nursing/B.Sc. Paramedical/B.Sc. Technology Courses-2026 in various Government/Private Colleges/Institutions of the UT of J&K/Ladakh after conduct of 1st round of Online Counselling. [BSC-NPT-NN-102 Dt. 10-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17843&type=n",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 6,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "6a8a8d16092349d4",
+        "title": "Conduct of Round-1/Counselling Schedule for submission of Online Preferences by the eligible candidates for admission to B-Pharmacy/D-Pharmacy Courses-2026. [B-D-PHARMACY-NN-101 Dt. 09-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17839&type=n",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
+      {
+        "id": "dccb1018526a7cf7",
+        "title": "Provisional Selection List of candidates for admission to M.Sc. Nursing Course-2026 in various Govt./Pvt. Colleges/Institutions of the UT of J&K after conduct of the 1st round of physical counselling. [MSC-NURSING-NN-100 Dt. 09-07-2026]",
+        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17837&type=n",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 8,
+        "detectedAt": "2026-07-15T11:45:55.701Z"
+      },
       {
         "id": "f9e4df3eb5aed3b7",
         "title": "Invitation of offline applications for admission to one seat of five (05) year integrated BA LLB degree course at Andaman Law College, Port Blair under the reserved nomination quota.[BA-LLB-NN-099 Dated 07-07-2026]",
@@ -1368,87 +1469,6 @@
         "sortTs": null,
         "batchIndex": 10,
         "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "650640014c2ac6fd",
-        "title": "Selection List of candidates for admission to 10th-Based Paramedical Diploma Courses-2026 (FMPHW/MMPHW) in various Government/Private Colleges/Institutions of the UT of J&K/Ladakh after the conduct of 3rd/Mop-up Round of Online Counselling. [10B-BPM-NN-088 Dt. 27-06-2026]",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17795&type=n",
-        "date": "27/06/2026",
-        "sortTs": null,
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "c4a53fa0d02052f8",
-        "title": "Counselling Schedule for submission of Online Preferences by the eligible candidates for admission to B.Sc. Nursing/B.Sc. Paramedical/ B.Sc. Technology Courses-2026. [BSC-NPT-NN-087 Dt. 25-06-2026]",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17787&type=n",
-        "date": "25/06/2026",
-        "sortTs": null,
-        "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "a88ef40efa86a821",
-        "title": "Provisional Merit List/Result of the common Entrance Test conducted by the J&K BOPEE at Srinagar/Jammu on 06-06-2026 for admission to the GNM (Lateral Entry) Course-2026. [GNM-LE-NN-086 Dt. 23-06-2026]",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17784&type=n",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "2ba4e29b72578263",
-        "title": "Provisional Selection List of candidates for admission to B.E./B.Tech. Courses-2026 in various Government/Private Colleges/Institutions of the UT of J&K after the conduct of the 2nd Round of Online Counselling. [CET-ENGINEERING-NN-085 Dt. 20-06-2026]",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17777&type=n",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "fbb86625523b1a0c",
-        "title": "Conduct of the 3rd/Mop-up Round of Counselling/Submission of Online Preferences by the eligible candidates for admission to 10th-Based Paramedical Diploma Courses (FMPHW/MMPHW)-2026. [10B-DPM-NN-084 Dt. 18-06-2026] -",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17774&type=n",
-        "date": "18/06/2026",
-        "sortTs": null,
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "619e5e79c9c2c528",
-        "title": "Revised Provisional Merit List/Result of Common Entrance Test conducted by the J&K BOPEE at Jammu/Srinagar on 26th of April 2026 for admission to the B.Sc. Nursing/B.Sc. Paramedical/B.Sc. Technology Courses-2026. [BSC-NPT-NN-083 Dt. 17-06-2026] -",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17771&type=n",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "5ab64a5027c8d988",
-        "title": "Admit Cards download and Instructions for Candidates appearing in Common Entrance Test (CET) for admission to M.Sc. Technology Courses-2026 in SKIMS Soura, Srinagar. [MSC-TECHNOLOGY-NN-082 Dt. 14-06-2026]",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17764&type=n",
-        "date": "14/06/2026",
-        "sortTs": null,
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "5ad64968a1a82d22",
-        "title": "Conduct of 2nd Round of Counselling / Submission of Online Preferences by the eligible candidates for admission to B.E/B.Tech. Courses-2026.[CET-E-NN-081 Dt.11-06-2026]",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17761&type=n",
-        "date": "11/06/2026",
-        "sortTs": null,
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
-      },
-      {
-        "id": "77728280b1bfd709",
-        "title": "Admit Cards download and Instructions for Candidates appearing in Common Entrance Test (CET) for M.Sc. Nursing Courses-2026 at Government/Private Institutions of the UT of J&K. [MSC-NURSING-NN-080 Dt. 10-06-2026]",
-        "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17759&type=n",
-        "date": "10/06/2026",
-        "sortTs": null,
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:47.113Z"
       }
     ]
   },
@@ -1459,28 +1479,48 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:47.664Z",
+    "lastUpdatedDate": "2026-07-15T11:45:56.157Z",
     "pinned": false,
     "notices": [
       {
-        "id": "UGMAC:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
+        "id": "Latest Updates:71490e08f26a01c7",
+        "title": "Important Notice for Choice Filling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/07 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_07.pdf",
+        "date": "12/07/2026",
         "sortTs": null,
-        "source": "UGMAC",
+        "source": "Latest Updates",
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
+        "detectedAt": "2026-07-15T11:45:56.157Z"
       },
       {
-        "id": "UGMAC:434d52739f09976d",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
-        "date": "02/04/2026",
+        "id": "Latest Updates:93a400bc76d9d196",
+        "title": "Details for Choice Filling of BCECE[LE][ENGINEERING]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/06 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_06.pdf",
+        "date": "12/07/2026",
         "sortTs": null,
-        "source": "UGMAC",
+        "source": "Latest Updates",
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
+        "detectedAt": "2026-07-15T11:45:56.157Z"
+      },
+      {
+        "id": "Latest Updates:aa7612441e1777f2",
+        "title": "Notice for online counselling of BCECE-JOINT[PCM/PCB/PCMB] & AGRICULTURE[CBA/MBA/MCA/PCA] Group-2026 (Adv. No. BCECEB(BCECE)-2026/07 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_07.pdf",
+        "date": "12/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:45:56.157Z"
+      },
+      {
+        "id": "Latest Updates:bfb920786e722b68",
+        "title": "Details of online counselling of BCECE-JOINT[PCM/PCB/PCMB] & AGRICULTURE[CBA/MBA/MCA/PCA] Group-2026 (Adv. No. BCECEB(BCECE)-2026/06 Dated 12.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_06.pdf",
+        "date": "12/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:45:56.157Z"
       },
       {
         "id": "Latest Updates:ffe7166937e1e66d",
@@ -1561,6 +1601,16 @@
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
+        "id": "UGMAC:11ee47ceaf3415d9",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
+        "date": "28/06/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 19,
+        "detectedAt": "2026-07-08T09:36:47.587Z"
+      },
+      {
         "id": "Latest Updates:899212cb200b6019",
         "title": "Notice for Rank Card of BCECE-2026 (Adv. No. BCECEB(BCECE)-2026/05 Dated 24.06.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_05.pdf",
@@ -1631,74 +1681,24 @@
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
-        "id": "Latest Updates:344ecdabff1f8048",
-        "title": "Detail Notice for Choice Filling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/07 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_07.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:2789c06057cb0824",
-        "title": "Important Notice for Choice Filling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/07 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_07.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:9a00e4dad44a2169",
-        "title": "Detail Notice for Choice Filling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/06 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_06.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:cdac1cb35d6e4b12",
-        "title": "Important Notice for Rank Card of DCECE[PE/PMM/PM]-2026(Adv. No. BCECEB(DCECE)-2026/06 Dated 11.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_06.pdf",
-        "date": "11/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:260082259594e8e2",
-        "title": "Notice for List of Eligible and Not Eligible Candidates after Document Verification for the post of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026/07 Dated 04.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_SR26_07.pdf",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:dd22507b7ed76f20",
-        "title": "Important Notice Rank Card of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/05 Dated 04.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_05.pdf",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
         "id": "UGMAC:11ee47ceaf3415d9",
         "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
         "date": "28/06/2026",
         "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "UGMAC:434d52739f09976d",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
+        "date": "02/04/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
       }
     ]
   },
@@ -1709,9 +1709,27 @@
     "category": "state",
     "officialLink": "https://dme.tripura.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:34.780Z",
+    "lastUpdatedDate": "2026-07-15T11:45:39.687Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c5b3fb263d2d186f",
+        "title": "Corrigendum in-connection with the partial modification of the Educational Notification regarding admission into GNM & ANM training courses for the academic session 2026-27..pdf",
+        "link": "https://dme.tripura.gov.in/sites/default/files/2026-07/Corrigendum%20in-connection%20with%20the%20%20partial%20modification%20of%20the%20Educational%20Notification%20regarding%20admission%20into%20GNM%20%26%20ANM%20training%20courses%20for%20the%20academic%20session%202026-27..pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:39.687Z"
+      },
+      {
+        "id": "501c3fa5034a6371",
+        "title": "Educational Notification regarding online application for admission to the GNM (Male & Female) and ANM (Female) training course for the academic session 2026-27..pdf",
+        "link": "https://dme.tripura.gov.in/sites/default/files/2026-07/Educational%20Notification%20regarding%20online%20application%20for%20admission%20to%20the%20GNM%20%28Male%20%26%20Female%29%20and%20ANM%20%28Female%29%20training%20course%20for%20the%20academic%20session%202026-27..pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:39.687Z"
+      },
       {
         "id": "2ad0a6b8d2d2403f",
         "title": "Employment Notification for Contractual Recruitment for a period of 11 (eleven) months in the various categories posts and Senior Resident (Tenure post) for 1 (one) year in the different disciplines of AGMC & GBPH..pdf",
@@ -1784,9 +1802,20 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:30.070Z",
+    "lastUpdatedDate": "2026-07-15T11:45:24.454Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "27344091d7144835",
+        "title": "Advt. No. 34 dated-14.07.2026 शैक्षणिक सत्र 2026-28 में बी०एड०/एम०एड०/ बी०पी०एड० पाठ्यक्रम (B.Ed./M.Ed./B.P.Ed. Course) में नामांकन हेतु ऑनलाईन साक्षात्कारों से संबंधित महत्वपूर्ण सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/748.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 34 dated-14.07.2026 Important information related to online interviews for enrollment in B.Ed./M.Ed./B.P.Ed. Course in the academic session 2026-28.",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-15T11:45:24.454Z"
+      },
       {
         "id": "3aea7ec47c36fc2d",
         "title": "Advt. No. 30 dated-02.07.2026 Important Notice regarding 1st, 2nd, 3rd & 4th Round of Online Counselling on the basis of State Merit List based on JEE (Main)-2026 Result",
@@ -1957,15 +1986,6 @@
         "sortTs": null,
         "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "44fd64190a0e4cc1",
-        "title": "Advt. No. - 151 Dated :- 03/12/2025 Notice regarding Stray Round of Online Counselling for Post-Graduate (Homoeopathic) State Quota Seats of Devki Mahavir Homeopathic Medical College & Research Hospital, Garhwa seats on the basis of AIAPGET-2025 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/728.pdf",
-        "date": "03/12/2025",
-        "sortTs": null,
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
   },
@@ -2100,9 +2120,59 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:32:51.578Z",
+    "lastUpdatedDate": "2026-07-15T11:46:03.557Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:877b49afbf159ce8",
+        "title": "PHASE - I - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1HBy6rRAUEFPk6IlmTRi6epSMZfvw-rAC/view?usp=sharing",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
+      },
+      {
+        "id": "OVERALL:fc7d7457ec869393",
+        "title": "MERIT LIST OF OTHER STATE CANDIDATES FOR PAJANCOA - B.SC. AGRICULTURE AND B.SC. HORTICULTURE - O.S. - SELF-SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1mymgnF-O46adcpPv0w7K97qG03dpHKhj/view?usp=sharing",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
+      },
+      {
+        "id": "OVERALL:b03459a68004b737",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
+      },
+      {
+        "id": "OVERALL:0b7f2980eacf9897",
+        "title": "DRAFT MERIT LIST FOR B.SC. NURSING GOVERNMENT QUOTA SEATS (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1r6AgDvQ9U8m3M1c-sBK9x0tL5-Hz2FQm/view?usp=sharing",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
+      },
+      {
+        "id": "OVERALL:0fe1da2bf0db18af",
+        "title": "NOTICE : DRAFT MERIT LIST FOR UG NON-NEET B.SC. NURSING - GOVERNMENT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1oDl9tEU5GTZ0u6MrpNbr4OaQnG9xtJkb/view?usp=sharing",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
+      },
       {
         "id": "OVERALL:cf9c6f7378e7666b",
         "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
@@ -2112,6 +2182,16 @@
         "source": "OVERALL",
         "batchIndex": 0,
         "detectedAt": "2026-07-08T11:32:51.578Z"
+      },
+      {
+        "id": "UG NON-NEET:cf9c6f7378e7666b",
+        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
+        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 16,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
         "id": "OVERALL:f03f9bab2fc96409",
@@ -2244,82 +2324,74 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:97ebd64edd114ccb",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
-        "date": "23/06/2026",
+        "id": "PG DENTAL:b03459a68004b737",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
+        "date": "10/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-08T12:06:51.655Z"
+        "source": "PG DENTAL",
+        "batchIndex": 54,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
       },
       {
-        "id": "OVERALL:75a9abaffeae7ce0",
-        "title": "REVISED DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Revised_draft_merit_list_ugNonNEET_23062026.html",
-        "date": "23/06/2026",
+        "id": "PG DENTAL:495903426637da71",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
+        "date": "01/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 13,
+        "source": "PG DENTAL",
+        "batchIndex": 48,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:11c61cb1010ea753",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1R6Ub_lyObe40FsL8RMCjeAww8MXMOavx/view?usp=sharing",
-        "date": "23/06/2026",
+        "id": "PG DENTAL:455e50f861a53f57",
+        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
+        "date": "01/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 14,
+        "source": "PG DENTAL",
+        "batchIndex": 49,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:97ebd64edd114ccb",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
-        "date": "23/06/2026",
+        "id": "UG NON-NEET:877b49afbf159ce8",
+        "title": "PHASE - I - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1HBy6rRAUEFPk6IlmTRi6epSMZfvw-rAC/view?usp=sharing",
+        "date": "14/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T11:32:51.578Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 57,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
       },
       {
-        "id": "OVERALL:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
+        "id": "UG NON-NEET:fc7d7457ec869393",
+        "title": "MERIT LIST OF OTHER STATE CANDIDATES FOR PAJANCOA - B.SC. AGRICULTURE AND B.SC. HORTICULTURE - O.S. - SELF-SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1mymgnF-O46adcpPv0w7K97qG03dpHKhj/view?usp=sharing",
+        "date": "14/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "detectedAt": "2026-07-08T12:06:51.655Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 58,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
       },
       {
-        "id": "OVERALL:894f58aa6da6a825",
-        "title": "DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Draft_merit_list_ugNonNEET_17062026.html",
-        "date": "17/06/2026",
+        "id": "UG NON-NEET:0b7f2980eacf9897",
+        "title": "DRAFT MERIT LIST FOR B.SC. NURSING GOVERNMENT QUOTA SEATS (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1r6AgDvQ9U8m3M1c-sBK9x0tL5-Hz2FQm/view?usp=sharing",
+        "date": "09/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 59,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
       },
       {
-        "id": "UG NON-NEET:cf9c6f7378e7666b",
-        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
-        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
-        "date": "08/07/2026",
+        "id": "UG NON-NEET:0fe1da2bf0db18af",
+        "title": "NOTICE : DRAFT MERIT LIST FOR UG NON-NEET B.SC. NURSING - GOVERNMENT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1oDl9tEU5GTZ0u6MrpNbr4OaQnG9xtJkb/view?usp=sharing",
+        "date": "09/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "OVERALL:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T11:32:51.578Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 60,
+        "detectedAt": "2026-07-15T11:46:03.557Z"
       },
       {
         "id": "UG NON-NEET:cf9c6f7378e7666b",
@@ -2382,15 +2454,6 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "UG NON-NEET:97ebd64edd114ccb",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "detectedAt": "2026-07-08T12:06:51.655Z"
-      },
-      {
         "id": "UG NON-NEET:75a9abaffeae7ce0",
         "title": "REVISED DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
         "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Revised_draft_merit_list_ugNonNEET_23062026.html",
@@ -2421,10 +2484,10 @@
         "detectedAt": "2026-07-08T11:32:51.578Z"
       },
       {
-        "id": "UG NON-NEET:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
+        "id": "UG NON-NEET:97ebd64edd114ccb",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1-WChs_muVvM75m_ZEVH-VRFLY71BCReX/view?usp=sharing",
+        "date": "23/06/2026",
         "sortTs": null,
         "source": "UG NON-NEET",
         "detectedAt": "2026-07-08T12:06:51.655Z"
@@ -2460,6 +2523,15 @@
         "detectedAt": "2026-07-08T11:32:51.578Z"
       },
       {
+        "id": "UG NON-NEET:ad62c49ef28d37a8",
+        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
+        "date": "17/06/2026",
+        "sortTs": null,
+        "source": "UG NON-NEET",
+        "detectedAt": "2026-07-08T12:06:51.655Z"
+      },
+      {
         "id": "UG NON-NEET:817f9eb634f2ebef",
         "title": "B.SC NURSING COMMON ENTRANCE TEST SCHEDULED ON 14.06.2026, STANDS POSTPONED AND THE FRESH DATE WILL BE ANNOUNCED - DMS OFFICE",
         "link": "https://centacpuducherry.in/#",
@@ -2477,86 +2549,6 @@
         "sortTs": null,
         "source": "UG NON-NEET",
         "batchIndex": 59,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:1022a987164e45f1",
-        "title": "CORRIGENDUM FOR UG NON-NEET BROCHURE 2026-2027 - PART-V : UNDERGRADUATE ARTS / SCIENCE / COMMERCE COURSES",
-        "link": "https://drive.google.com/file/d/10z5aW4hbzuj3mHNT1ZoHh9YDXFNu9RWr/view?usp=drivesdk",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 60,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:b123d6e3f5ab48f2",
-        "title": "B.SC. NURSING ENTRANCE EXAMINATION (PNET) - SAMPLE QUESTING PAPER -2024",
-        "link": "https://drive.google.com/file/d/1u7Lil1N5Mg8A72rVy_YvizzLkd8lD0zF/view?usp=sharing",
-        "date": "10/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 62,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:5b5098a07d5e3e71",
-        "title": "B.SC. NURSING ENTRANCE EXAMINATION (PNET) - SAMPLE QUESTING PAPER -2025",
-        "link": "https://drive.google.com/file/d/1kH_Qsfg2ml4diFenCYCfDanqW3lrIfcs/view?usp=sharing",
-        "date": "10/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 63,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:4bac80414b20a285",
-        "title": "REVISED FEE STRUCTURE FOR WOMEN'S ENGINEERING COLLEGE - B.TECH. & B.COM. COURSES",
-        "link": "https://drive.google.com/file/d/1KeeSttSOg4Mh5bJ5BELdWlpKZ9O60PBS/view?usp=sharing",
-        "date": "10/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 64,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:7967c9b1b7c6e667",
-        "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NON-NEET COURSES FOR THE YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1dPFS7h9PKkrTxx3K1FA0J5c9JxGODe7S/view?usp=sharing",
-        "date": "07/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 65,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:598c7bc87aa95b13",
-        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
-        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
-        "date": "01/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 66,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "PG DENTAL:495903426637da71",
-        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 48,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "PG DENTAL:455e50f861a53f57",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 49,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -2870,9 +2862,38 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:39.948Z",
+    "lastUpdatedDate": "2026-07-15T11:45:41.762Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9eb89f548d497989",
+        "title": "छत्तीसगढ़ राज्य के निजी नर्सिंग महाविद्यालयों हेतु बी.एस.सी. नर्सिंग एवं बी.एस.सी. नर्सिंग (पोस्ट बेसिक) पाठ्यक्रम की शुल्क अधिसूचना.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2140",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "B.Sc. for private nursing colleges of Chhattisgarh state. Nursing and B.Sc. Fee Notification of Nursing (Post Basic) Course.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-15T11:45:41.762Z"
+      },
+      {
+        "id": "a520620743fddea1",
+        "title": "Eligible candidates for assistant professor having mpt state council registration if anyone have that and there name in not eligible can raise claim and objection from application portal.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2139",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:41.762Z"
+      },
+      {
+        "id": "ed31d8e2a349b05b",
+        "title": "Provisional Eligibility list of Candidates for Various faculty Posts In New Nursing Colleges Chhattisgarh.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2138",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:45:41.762Z"
+      },
       {
         "id": "d12fdf07466d59c9",
         "title": "सहायक प्राध्यापक के पद पर छ.ग. लोक सेवा आयोग से चयनित अभ्यर्थियों के शैक्षणिक दस्तावेजों के परीक्षण कार्य हेतु की सूचना।.....More",
@@ -3033,9 +3054,209 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:52.765Z",
+    "lastUpdatedDate": "2026-07-15T11:46:00.089Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:c4cd184bc62a8d3b",
+        "title": "NOTICE FOR WORKING PROFESSIONALS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607101541931856.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:46:00.089Z"
+      },
+      {
+        "id": "OJEE:a0c7972e3aacafcb",
+        "title": "CBT Schedule for 2nd/Special OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260710417903752.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:46:00.089Z"
+      },
+      {
+        "id": "OJEE:2c13601991c007c9",
+        "title": "NOTICE FOR EXTENSION OF LAST DATE FOR DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEE FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.Tech./B.Arch./B.Plan./Int.M.Sc. PROGRAMMES",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607081095807093.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:46:00.089Z"
+      },
+      {
+        "id": "OJEE:0dd0f1d78d4d9e60",
+        "title": "ONLINE APPLICATION for 2nd/Second OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607071941473999.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:03584c028d2d8316",
+        "title": "List of Physically Challenged (PC) Candidates for B.TECH/ B.ARCH/ B.PLAN/ B.CAT/Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)/LE-B.Sc. and Int. MBA Programmes",
+        "link": "https://odishajee.com/news_document/PC_List_2026_Phase_1_473.pdf",
+        "date": null,
+        "sortTs": 1783126800000,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:2a1d4549045958b8",
+        "title": "LIST OF ELIGIBLE EX-SERVICEMEN CANDIDATES OF ODISHA FOR ADMISSION INTO B.TECH/B.ARCH/B.PLAN – 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202607042139832861.pdf",
+        "date": "04/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:90fb8b366a98e6a3",
+        "title": "NOTICE No: OJEE / 297 FOR CORRECTIONS IN 2nd/SPECIAL OJEE 2026 ONLINE APPLICATION",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260629733319959.pdf",
+        "date": "29/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:f7eef188e210c2c4",
+        "title": "Notice No-OJEE/0294 for OL BOARD OJEE-2026 RESULT",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606251566928633.pdf",
+        "date": "25/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:a77a47d62ae011ad",
+        "title": "Tentative Schedule of Activity of LE-TECH(DIPLOMA)/ LE-B.Sc./ Int. MBA and Working Professionals for Engineering Programme web-based Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623597135968.pdf",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 5,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:f75658d0f657a22c",
+        "title": "Tentative Schedule of Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606231209406600.pdf",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 6,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:1dfe3cea19255cd1",
+        "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
+        "date": "23/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 7,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:a7396bffb240afac",
+        "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201623814085.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 8,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:d10eebb362c6eed7",
+        "title": "NOTICE FOR CANDIDATES APPLYING UNDER EX-SERVICEMEN CATEGORY FOR ADMISSION INTO B.Tech./ B.Arch./ B. Plan/ B.CAT. Programmes",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620501047974.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 9,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:9a3a8f81348b5f21",
+        "title": "Notice regarding Registration for Odia Test of the OL category candidates for admission into (B. Tech/B. Plan/B. Arch)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620407083520.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 10,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:7b8b4ca609d4ccbd",
+        "title": "Revised Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201284821801.pdf",
+        "date": "20/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 11,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:b2d387d2355798f0",
+        "title": "STEP BY STEP PROCEDURE FOR WEB BASED COUNSELLING",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616763291637.pdf",
+        "date": "16/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 12,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:f555e723e574cf57",
+        "title": "Notice for Online Application for 2nd/Special OJEE-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616757048993.pdf",
+        "date": "16/06/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 13,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:1d81d19cf3fcfaca",
+        "title": "Date Extension for Answer Key Challenge",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260518872949132.pdf",
+        "date": "18/05/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 14,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:6512d43bc2f68cbd",
+        "title": "Steps to view Question paper and Raise Objection",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260516767022405.pdf",
+        "date": "16/05/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 15,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
+      {
+        "id": "OJEE:a39a13f11b2c0786",
+        "title": "Revised Public Notice regarding Display of Provisional Answer Keys and Question Paper with Recorded Responses for Answer Key Challenge",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260514830107077.pdf",
+        "date": "14/05/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 16,
+        "detectedAt": "2026-07-08T09:36:52.043Z"
+      },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
         "title": "ADVERTISEMENT FOR DIRECTOR VIMSAR",
@@ -3235,206 +3456,6 @@
         "source": "DME Odisha",
         "batchIndex": 236,
         "detectedAt": "2026-07-08T09:36:52.765Z"
-      },
-      {
-        "id": "OJEE:0dd0f1d78d4d9e60",
-        "title": "ONLINE APPLICATION for 2nd/Second OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607071941473999.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:03584c028d2d8316",
-        "title": "List of Physically Challenged (PC) Candidates for B.TECH/ B.ARCH/ B.PLAN/ B.CAT/Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)/LE-B.Sc. and Int. MBA Programmes",
-        "link": "https://odishajee.com/news_document/PC_List_2026_Phase_1_473.pdf",
-        "date": null,
-        "sortTs": 1783126800000,
-        "source": "OJEE",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:2a1d4549045958b8",
-        "title": "LIST OF ELIGIBLE EX-SERVICEMEN CANDIDATES OF ODISHA FOR ADMISSION INTO B.TECH/B.ARCH/B.PLAN – 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202607042139832861.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:90fb8b366a98e6a3",
-        "title": "NOTICE No: OJEE / 297 FOR CORRECTIONS IN 2nd/SPECIAL OJEE 2026 ONLINE APPLICATION",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260629733319959.pdf",
-        "date": "29/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f7eef188e210c2c4",
-        "title": "Notice No-OJEE/0294 for OL BOARD OJEE-2026 RESULT",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606251566928633.pdf",
-        "date": "25/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a77a47d62ae011ad",
-        "title": "Tentative Schedule of Activity of LE-TECH(DIPLOMA)/ LE-B.Sc./ Int. MBA and Working Professionals for Engineering Programme web-based Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623597135968.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f75658d0f657a22c",
-        "title": "Tentative Schedule of Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606231209406600.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:1dfe3cea19255cd1",
-        "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a7396bffb240afac",
-        "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201623814085.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:d10eebb362c6eed7",
-        "title": "NOTICE FOR CANDIDATES APPLYING UNDER EX-SERVICEMEN CATEGORY FOR ADMISSION INTO B.Tech./ B.Arch./ B. Plan/ B.CAT. Programmes",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620501047974.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:9a3a8f81348b5f21",
-        "title": "Notice regarding Registration for Odia Test of the OL category candidates for admission into (B. Tech/B. Plan/B. Arch)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620407083520.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:7b8b4ca609d4ccbd",
-        "title": "Revised Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201284821801.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:b2d387d2355798f0",
-        "title": "STEP BY STEP PROCEDURE FOR WEB BASED COUNSELLING",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616763291637.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f555e723e574cf57",
-        "title": "Notice for Online Application for 2nd/Special OJEE-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616757048993.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:1d81d19cf3fcfaca",
-        "title": "Date Extension for Answer Key Challenge",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260518872949132.pdf",
-        "date": "18/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:6512d43bc2f68cbd",
-        "title": "Steps to view Question paper and Raise Objection",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260516767022405.pdf",
-        "date": "16/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a39a13f11b2c0786",
-        "title": "Revised Public Notice regarding Display of Provisional Answer Keys and Question Paper with Recorded Responses for Answer Key Challenge",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260514830107077.pdf",
-        "date": "14/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:dec097b847f888c8",
-        "title": "Guidelines for Key challenge of OJEE Answer key",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/202605121282335995.pdf",
-        "date": "12/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:0a02274c1c71a773",
-        "title": "Notice Exam Schedule-OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/04/20260423667843586.pdf",
-        "date": "23/04/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:d39d81a321f123dc",
-        "title": "NOTICE FOR B.CAT APPLICANTS",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/04/202604099041768.pdf",
-        "date": "09/04/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
       }
     ]
   },
@@ -3445,208 +3466,80 @@
     "category": "state",
     "officialLink": "https://cetonline.karnataka.gov.in/kea/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-05T07:33:22.707Z",
+    "lastUpdatedDate": "2026-07-15T11:46:07.219Z",
     "pinned": false,
     "notices": [
       {
-        "id": "ad465a3328175361",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/vdptrecnhk2025/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
+        "id": "472700f2aea14f6d",
+        "title": "16-06 KREIS - 2026 Admission Notification (16-06-2026)",
+        "link": "https://cetonline.karnataka.gov.in/keawebentry456/kreis2026/KREIS2026_ADM_NOT_16062026english.pdf",
+        "date": "16/06/2026",
         "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
       },
       {
-        "id": "e9f6ee747f4b239b",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/vdptrechk2025/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
+        "id": "7882563c658b4ac4",
+        "title": "15-06 PGCET - 2026 (MBA / MCA) KEY ANSWER OBJECTION LINK (15-06-2026)",
+        "link": "https://cetonline.karnataka.gov.in/keaobjections/forms/login.aspx",
+        "date": "15/06/2026",
         "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
+        "batchIndex": 5,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
       },
       {
-        "id": "f011fb21a33bf8ee",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/cpcrpc2026/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "80cb430a074534a2",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/cpckk2026/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "80e227e6827252ee",
-        "title": "04-07 AO ಮತ್ತು AAO ಪರೀಕ್ಷೆಯ ಅಂತಿಮ ವೇಳಾಪಟ್ಟಿ (04/07/2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/agrirpc2026/ao_aao_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 AO & AAO Exam Final Schedule (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "086468a04663046a",
-        "title": "04-07 AO ಮತ್ತು AAO ಪರೀಕ್ಷೆಯ ಅಂತಿಮ ವೇಳಾಪಟ್ಟಿ (04/07/2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/agrikk2026/ao_aao_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 AO & AAO Exam Final Schedule (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "28b8d4736036d875",
-        "title": "04-07 ಆನ್‌ಲೈನ್ ಅರ್ಜಿ ವಿಸ್ತರಣೆ ಮತ್ತು ತಿದ್ದುಪಡಿ ಕುರಿತು ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್‌ಸ್ಟೆಬಲ್ ಪರೀಕ್ಷೆ (04/07/2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/cpcrpc2026/pc_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 CIVIL POLICE CONSTABLE EXAMINATION ON ONLINE APPLICATION EXTENSION AND CORRECTION (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "a3c2d064aee17174",
-        "title": "04-07 ಆನ್‌ಲೈನ್ ಅರ್ಜಿ ವಿಸ್ತರಣೆ ಮತ್ತು ತಿದ್ದುಪಡಿ ಕುರಿತು ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್‌ಸ್ಟೆಬಲ್ ಪರೀಕ್ಷೆ (04/07/2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/cpckk2026/pc_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-05T07:33:22.707Z",
-        "titleEn": "04-07 CIVIL POLICE CONSTABLE EXAMINATION ON ONLINE APPLICATION EXTENSION AND CORRECTION (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "dfa12254a6b82501",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://164.100.133.71/keawebentry456/vdptrecnhk2025/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T13:02:52.738Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "a96c2815f81f745a",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://164.100.133.71/keawebentry456/vdptrechk2025/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T13:02:52.738Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "22bf519b0f9e90ee",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://164.100.133.71/keawebentry456/cpcrpc2026/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T13:02:52.738Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "d790b75c421a8616",
-        "title": "04-07 ಕರ್ನಾಟಕ ಪರೀಕ್ಷಾ ಪ್ರಾಧಿಕಾರದಿಂದ ಅಧಿಸೂಚಿಸಲಾದ ವಿವಿಧ ಇಲಾಖೆ/ನಿಗಮ/ಮಂಡಳಿಗಳ ಗ್ರೂಪ್-ಎ & ಬಿ ಹುದ್ದೆಗಳಿಗೆ ಮತ್ತು ಪೊಲೀಸ್ ಇಲಾಖೆಯ ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್ಸ್‌ಟೇಬಲ್ ಹುದ್ದೆಗಳಿಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕನ್ನಡ ಭಾಷಾ ಪರೀಕ್ಷೆ ನಡೆಸುವ ಸಂಬಂಧ ಪರೀಕ್ಷಾ ವೇಳಾಪಟ್ಟಿ (04-07-2026)",
-        "link": "https://164.100.133.71/keawebentry456/cpckk2026/REC_VER_CPC_04072026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T13:02:52.738Z",
-        "titleEn": "04-07 Kannada Language Test Schedule for Candidates who have applied for Group-A & B Posts of Various Departments/Corporations/Boards and Civil Police Constable Posts of Police Department notified by Karnataka Examination Authority (04-07-2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "390045e6c35b69f5",
-        "title": "04-07 AO ಮತ್ತು AAO ಪರೀಕ್ಷೆಯ ಅಂತಿಮ ವೇಳಾಪಟ್ಟಿ (04/07/2026)",
-        "link": "https://164.100.133.71/keawebentry456/agrirpc2026/ao_aao_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "04-07 AO & AAO Exam Final Schedule (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "e4953008a502f927",
-        "title": "04-07 AO ಮತ್ತು AAO ಪರೀಕ್ಷೆಯ ಅಂತಿಮ ವೇಳಾಪಟ್ಟಿ (04/07/2026)",
-        "link": "https://164.100.133.71/keawebentry456/agrikk2026/ao_aao_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "04-07 AO & AAO Exam Final Schedule (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "720c3ff219b91962",
-        "title": "04-07 ಆನ್‌ಲೈನ್ ಅರ್ಜಿ ವಿಸ್ತರಣೆ ಮತ್ತು ತಿದ್ದುಪಡಿ ಕುರಿತು ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್‌ಸ್ಟೆಬಲ್ ಪರೀಕ್ಷೆ (04/07/2026)",
-        "link": "https://164.100.133.71/keawebentry456/cpcrpc2026/pc_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "04-07 CIVIL POLICE CONSTABLE EXAMINATION ON ONLINE APPLICATION EXTENSION AND CORRECTION (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "a75203cc010156a6",
-        "title": "04-07 ಆನ್‌ಲೈನ್ ಅರ್ಜಿ ವಿಸ್ತರಣೆ ಮತ್ತು ತಿದ್ದುಪಡಿ ಕುರಿತು ಸಿವಿಲ್ ಪೊಲೀಸ್ ಕಾನ್‌ಸ್ಟೆಬಲ್ ಪರೀಕ್ಷೆ (04/07/2026)",
-        "link": "https://164.100.133.71/keawebentry456/cpckk2026/pc_2026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "04-07 CIVIL POLICE CONSTABLE EXAMINATION ON ONLINE APPLICATION EXTENSION AND CORRECTION (04/07/2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "a3a4a4cf59dc63c5",
-        "title": "04-07 AHS ಕೋರ್ಸ್‌ಗಳ ಅಧಿಸೂಚನೆ (04-07-2026)",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/ugcet2026/UGCET_SSSUH_add_02062026kannada.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "04-07 AHS Courses Notification (04-07-2026)",
-        "titleLang": "kn"
-      },
-      {
-        "id": "e3bab97f9c3afa7f",
-        "title": "02-07 04/07/2026 ರ ನೇಮಕಾತಿ ಪರೀಕ್ಷೆಗೆ ಹಾಜರಾಗುವ ಅಭ್ಯರ್ಥಿಗಳ PH ಪಟ್ಟಿ",
-        "link": null,
-        "date": "04/07/2026",
-        "sortTs": null,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "02-07 PH LIST OF CANDIDATES APPEARING FOR THE RECRUITMENT EXAMINATION ON 04/07/2026",
-        "titleLang": "kn"
-      },
-      {
-        "id": "7a5209c96f032116",
-        "title": "03-07 UGCET - 2026 ಸಿಬಿಎಸ್‌ಇ / ಸಿಐಎಸ್‌ಸಿಇ ಮತ್ತು ಇತರೆ ರಾಜ್ಯ ಪರೀಕ್ಷಾ ಮಂಡಳಿಗಳಿಂದ 12ನೇ ತರಗತಿಯ ಅಂಕಗಳ ಮರುಮೌಲ್ಯಮಾಪನ ಸಲ್ಲಿಸುವ ಕುರಿತು",
-        "link": "https://cetonline.karnataka.gov.in/keawebentry456/ugcet2026/UGCE_MARKS_RE_NOTI_03072026kannada.pdf",
+        "id": "85be5b1b87c8dbb1",
+        "title": "UGCET - 2026 OPTION ENTRY LINK - 2",
+        "link": "https://keaonline.karnataka.gov.in/ugcet_opt_etry_2026_V1/main/index.php",
         "date": null,
-        "sortTs": 1783036800000,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "03-07 UGCET - 2026 Regarding Submission of Revaluation of Class 12 Marks by CBSE / CISCE and Other State Examination Boards",
-        "titleLang": "kn"
+        "sortTs": 1781222400000,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
       },
       {
-        "id": "7f9bd86ae2f839ae",
-        "title": "02-07 05/07/2026 ನೇಮಕಾತಿ ಪರೀಕ್ಷೆಗೆ ಹಾಜರಾಗುವ ಅಭ್ಯರ್ಥಿಗಳ PH ಪಟ್ಟಿ (02/07/2026)",
-        "link": null,
-        "date": "02/07/2026",
+        "id": "ec4409b0311e558d",
+        "title": "06-12 KREIS -2026 SECOND ROUND ALLOTMENT NOTIFICATION (12-06-2026)",
+        "link": "https://cetonline.karnataka.gov.in/keawebentry456/kreis2026/KREIS_NOTE_12062026english.pdf",
+        "date": "12/06/2026",
         "sortTs": null,
-        "detectedAt": "2026-07-04T11:45:02.701Z",
-        "titleEn": "02-07 05/07/2026 PH List of Candidates Appearing for Recruitment Test (02/07/2026)",
-        "titleLang": "kn"
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
+      },
+      {
+        "id": "a747158cd6f6e19e",
+        "title": "04-11 NWKSRT -2025 Objection Link for Provisional Key Answers. 11-04-2026",
+        "link": "https://cetonline.karnataka.gov.in/keAOBJECTIONS/FORMS/Login.aspx",
+        "date": "11/04/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
+      },
+      {
+        "id": "97b21f3c1e45fc1d",
+        "title": "UGCET - 2026 OPTION ENTRY LINK - 1",
+        "link": "https://keaonline.karnataka.gov.in/ugcet_opt_etry_2026_V1/main/index.php",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
+      },
+      {
+        "id": "48ffcef5bf0a38a4",
+        "title": "15-06 PGCET - 2026 Key Answer - MCA",
+        "link": "https://cetonline.karnataka.gov.in/keawebentry456/pgcet2026/MCA_KEY_15626english.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 6,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
+      },
+      {
+        "id": "27f32e6e1a9141b7",
+        "title": "15-06 PGCET - 2026 Key Answer- MBA",
+        "link": "https://cetonline.karnataka.gov.in/keawebentry456/pgcet2026/MBA_KEY_15626english.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-15T11:46:07.219Z"
       }
     ]
   },
@@ -4041,166 +3934,98 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:47:52.795Z",
+    "lastUpdatedDate": "2026-07-15T11:53:34.805Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Announcements:7927e7ef3f9ab0f9",
-        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/notice-regarding-admit-cards-of-common-entrance-testcet-of-allied-healthcare-programmesparamedical-b-pharmacy-ayurved-2026-27/",
-        "date": null,
-        "sortTs": 1782864000000,
-        "source": "Announcements",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:e786b1a7b9d2ff00",
-        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "source": "Announcements",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:d8f8e38996163ad2",
-        "title": "Notice regarding Prospectus for the Common Entrance Test (CET) for Allied Healthcare Programmes and B.Pharmacy (Ayurved) Course,2026–27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/06/Corrigendum-Allied-health-care-programmes-2026.pdf",
-        "date": null,
-        "sortTs": 1780272000000,
-        "source": "Announcements",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:7927e7ef3f9ab0f9",
-        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/notice-regarding-admit-cards-of-common-entrance-testcet-of-allied-healthcare-programmesparamedical-b-pharmacy-ayurved-2026-27/",
-        "date": null,
+        "id": "b99198a7a2b0b128",
+        "title": "Result Notification of Post Basic B.Sc. Nursing 1st year Supplementary Examination Held in May 2026 Batch 2023, 2024 Dated-13-07-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-1st-year-supplementary-Result.pdf",
+        "date": "13/07/2026",
         "sortTs": null,
-        "source": "Announcements",
-        "detectedAt": "2026-07-08T12:06:53.277Z"
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
       },
       {
-        "id": "Announcements:750f63d0f7fac08f",
-        "title": "for Apply Allied and Health Care Programmes(Paramedical) & B.Pharmacy Ayurved Counselling 2026",
-        "link": "https://erpamruhp.in/applicantLogins.htm?link=bb09b81c5721cd003d40752c2fbc9f1a",
-        "date": null,
-        "sortTs": 1780272000000,
-        "source": "Announcements",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
+        "id": "fa9299471b22ecb3",
+        "title": "Result Notifications of BDS 2nd Year University Supplementary Examination held in the month of March, 2026 of various batches. [Date of Result 13-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-2ND-YEAR-RESULT-13-07-2026.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
       },
       {
-        "id": "Announcements:456b9522acbe9eeb",
-        "title": "Notice for Allied Healthcare Programmes (Paramedical Course)& B. Pharmacy (Ayurved) Courses Common Entrance Examinations for Academic Session 2026-2027",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/06/Notice-for-Allied-and-healthcare-counselling.pdf",
-        "date": null,
-        "sortTs": 1780272000000,
-        "source": "Announcements",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:69df4a9ea13382c3",
-        "title": "Prospectus for Allied Healthcare Programmes (Paramedical courses) and B.Pharmacy (Ayurved) Course 2026-27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/06/Final-B.SC-Medical-Technology-and-B.-Pharmacy-Ayurveda-prospectus-2026.pdf",
-        "date": null,
-        "sortTs": 1780272000000,
-        "source": "Announcements",
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:e3e4d8ceedf4db18",
-        "title": "NOTICE REGARDING STATE COMMON/CENTERALIZED ONLINE COUNSELLING FOR POST BASIC B.SC NURSING COURSES FOR THE SESSION 2026-2027 NOC-CUM-ELIGIBILITY CERTIFICATE THEREOF IN R/O IN-SERVCE CANDIDATE.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/06/Post-Basic-inservice-notice.pdf",
-        "date": null,
-        "sortTs": 1780272000000,
-        "source": "Announcements",
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:4c5a055fcbcbc68b",
-        "title": "NOTICE REGARDING STATE COMMON/CENTERALIZED ONLINE COUNSELLING FOR PG (MDS) COURSES FOR THE SESSION 2026-2027 INCENTIVE/NOC CERTIFICATE THEREOF IN WO IN-SERVCE GDO (M.O.)",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/06/MDS-incentyive-NOC-certificate-of-IN-service-GDO-candidates.pdf",
-        "date": null,
-        "sortTs": 1780272000000,
-        "source": "Announcements",
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:1974a03067a34d80",
-        "title": "NOTICE REGARDING STATE COMMON/CENTERALIZED ONLINE COUNSELLING FOR M.Sc (N) COURSES FOR THE SESSION 2026-2027 to Apply NOC CUM- ELIGIBILITY CERTIFICATE THEREOF IN WO IN-SERVCE CANDIDATE",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/06/Provisional-NOC-cum-eligibility-certificate-in-respest-of-M.Sc-Nursing-inservice-candidates.pdf",
-        "date": null,
-        "sortTs": 1780272000000,
-        "source": "Announcements",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Announcements:050582be18d2a23f",
-        "title": "Senior Residents/Tutors result in compliance with the orders passed by the Hon’ble High Court of Himachal Pradesh in cwp No. 3017 of 2026 a/w CWP Nos. 3689, 3694, 3695, 3818 & 3825 of 2026 titled as Arunika Thakur vs. State of H.P. & Ors",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/05/Sr-Result-dated-23.05.2026.pdf",
-        "date": null,
-        "sortTs": 1777593600000,
-        "source": "Announcements",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T11:47:52.795Z"
-      },
-      {
-        "id": "Latest Notifications:9f1c542e7fe1800a",
+        "id": "9f1c542e7fe1800a",
         "title": "Result Notification pertaining to BDS 3rd year University Supplementary Examination held in the month of March, 2026. [Date of Result 08-07-2026]",
         "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-3rd-year-result.pdf",
         "date": "08/07/2026",
         "sortTs": null,
-        "source": "Latest Notifications",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
+        "batchIndex": 8,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
       },
       {
-        "id": "Latest Notifications:4393a3b253e8240d",
-        "title": "Result Notification of Post Basic B.Sc Nursing 2nd year Supplementary Examination Held in May 2026 Batch 2022, 2023 Date of Result 7-7-2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-2nd-Supply-result.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "Latest Notifications",
+        "id": "5b8f6e8d8f664c1d",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-D",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-D-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
+        "detectedAt": "2026-07-15T11:53:34.805Z"
       },
       {
-        "id": "Latest Notifications:e786b1a7b9d2ff00",
-        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
+        "id": "a27a9d912dc0ca5f",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-C",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-C-1.pdf",
         "date": null,
         "sortTs": 1782864000000,
-        "source": "Latest Notifications",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
-      },
-      {
-        "id": "Latest Notifications:e786b1a7b9d2ff00",
-        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
-        "date": null,
-        "sortTs": 1784073600000,
-        "source": "Latest Notifications",
-        "detectedAt": "2026-07-08T12:06:52.887Z"
-      },
-      {
-        "id": "Latest Notifications:2139c24903c22572",
-        "title": "Retotaling of B.Sc 4th Supplementary Examination Held in March 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/4th-sem-supply_0001.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "source": "Latest Notifications",
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T11:47:52.578Z"
+        "detectedAt": "2026-07-15T11:53:34.805Z"
+      },
+      {
+        "id": "b3b8c2b00b8e875b",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-B",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-B-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
+      },
+      {
+        "id": "30c198738d7849ff",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-A",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-A-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 5,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
+      },
+      {
+        "id": "a04e7c3ca883cd04",
+        "title": "Notice for provisional answer keys for Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Notice-for-answer-keys-CET-2026.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 6,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
+      },
+      {
+        "id": "c3556be780484a1d",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/notice-regarding-Admit-cards.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
+      },
+      {
+        "id": "e786b1a7b9d2ff00",
+        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 9,
+        "detectedAt": "2026-07-15T11:53:34.805Z"
       }
     ]
   },
@@ -4694,9 +4519,45 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:47:30.484Z",
+    "lastUpdatedDate": "2026-07-15T11:45:42.832Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "79e7244a2ff0cb0b",
+        "title": "Extend Schedule of Round 2 Process- LLM, BCA,BA-LLB (H)/ BBA-LLB(H), B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA),B.TECH, B.COM(H), BA(ENGLISH),BA(ECONOMICS) A.S.2026-27.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260715230387130.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:42.832Z"
+      },
+      {
+        "id": "16f20e4be2019c5a",
+        "title": "BBA INSTITUTES AVAILABLE FOR ROUND 02 FOR THE ACADEMIC SESSION 2026-27. DATED 14.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607141882638612.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:42.832Z"
+      },
+      {
+        "id": "1810752ad6d67b71",
+        "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR B.TECH, MCA, MA ENG, BA ENG, BA ECO, B PHARMA, MS MICROBIOLOGY, BA LIBERAL ARTS, BA.B.ED., BAJMC & B.SC / M.SC P/C/M.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260714803820991.pdf",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:45:42.832Z"
+      },
+      {
+        "id": "f9b796ec09f3e791",
+        "title": "LLB (3 Year) (CODE-238) Seat Status of after the End of 1st Round of offline Counselling 2026.27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131105253681.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:45:42.832Z"
+      },
       {
         "id": "94a63cc5aedd06cc",
         "title": "Schedule of 1st Offline Counselling MA (Mass Communication) (Code-106) Academic Session:2026-27_dated-08.07.2026",
@@ -4988,9 +4849,101 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:55.009Z",
+    "lastUpdatedDate": "2026-07-15T11:46:02.464Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "dc340306ef6b08e6",
+        "title": "Admission To Architecture Course (B.Arch) Final Category-Wise List Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/120/Upload1",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "b2d805b2aae976ff",
+        "title": "സ്വകാര്യ സ്വാശ്രയ ആർക്കിടെക്ചർ കോളേജുകളിലെ കമ്മ്യൂണിറ്റി ക്വോട്ട സീറ്റുകളിലേക്കുള്ള പ്രത്യേക സംവരണം - അപേക്ഷ സമർപ്പിക്കുന്നതിന് അവസരം.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/119/Upload1",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "titleEn": "Special Reservation of Community Quota Seats in Private Self-Help Architecture Colleges - Opportunity to Submit Application.",
+        "titleLang": "ml",
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "9d66337a18c2f93d",
+        "title": "Second Phase Allotment For Engineering Courses – Information Regarding Newly Added Courses",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/118/Upload1",
+        "date": "14/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "d23a56c30650e997",
+        "title": "Second Phase Option Confirmation For Engineering Courses & First Phase Option Registration For Architecture Course Have Started",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/115/Upload1",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "06b010b27bfb28e4",
+        "title": "KERALA MEDICAL COURSES CANDIDATES CAN RECTIFY DEFECTS IN NRI DOCUMENT",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/112/Upload1",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "f5d1a7c33a57de2b",
+        "title": "ADMISSION TO ENGINEERING COURSES - 2026 FINAL LIST OF ELIGIBLE CANDIDATES FOR COMMUNITY/REGISTERED SCOCIETY/TRUST/WARDS OF EMPLOYEES OF CO-OPERATIVE DEPARTMENT AND SOCIETIES QUOTA SEATS PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/111/Upload1",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 5,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "4e963e5a27df24d7",
+        "title": "ADMISSION TO ARCHITECTURE COURSE - 2026 RANK LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/110/Upload1",
+        "date": "11/07/2026",
+        "sortTs": null,
+        "batchIndex": 6,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "6b2b57376f7e533c",
+        "title": "ADMISSION TO ENGINEERING COURSES 2026 - PROVISIONAL LIST OF ELIGIBLE CANDIDATES FOR COMMUNITY/REGISTERED SCOCIETY/TRUST QUOTA AND CB SEATS PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/109/Upload1",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "fd0c4513e84fa88a",
+        "title": "KERALA ARCHITECTURE COURSES 2026 - PROVISIONAL CATEGORY LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/108/Upload1",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 8,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
+      {
+        "id": "4d106ac3dfe3da96",
+        "title": "KERALA ARCHITECTURE COURSE 2026 - PROVISIONAL RANK LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/107/Upload1",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "batchIndex": 9,
+        "detectedAt": "2026-07-15T11:46:02.464Z"
+      },
       {
         "id": "dbdd6f575b108002",
         "title": "Engineering: The first phase provisional allotment list has been published for verification.എഞ്ചിനീയറിംഗ്: ഒന്നാം ഘട്ട താൽക്കാലിക അലോട്ട്മെന്റ് പരിശോധനക്കായി പ്രസിദ്ധീകരിച്ചു.",
@@ -5094,9 +5047,27 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:45.313Z",
+    "lastUpdatedDate": "2026-07-15T11:45:47.268Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "087dd4f7f2d79c10",
+        "title": "Notice - Shortlist Candidayes for the Written Examination for the post of Radiology Technologist at the Centre for Evolution, under R.P. Chest Hospital, Shillong",
+        "link": "https://www.meghealth.gov.in/news/Notice_%20Shortlisted%20Candidates%20for%20the%20Post%20of%20Radiology%20Technologist_Written%20Examination.pdf",
+        "date": null,
+        "sortTs": 20121782400000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:47.268Z"
+      },
+      {
+        "id": "a1627b415a882c98",
+        "title": "Notice - Admission for various programmes at Lokpriya Gopinath Bordoloi Regional Institute of Mental Health (LGBRIMH), Tezpur Assam | Online Admission Form",
+        "link": "https://www.meghealth.gov.in/news/260708213548.pdf",
+        "date": "21/08/2607",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:47.268Z"
+      },
       {
         "id": "d6ff58d8c7355ef6",
         "title": "Results for the posts of Centre Manager, Peer Educator-cum-Ward Attendant & Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong,",
@@ -5258,24 +5229,6 @@
         "sortTs": null,
         "batchIndex": 17,
         "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "31feb0c616508b6d",
-        "title": "List of Successful Candidate for the post of Medical Officer (AYUSH) for South-West Garo Hills",
-        "link": "https://www.meghealth.gov.in/news/HSM-AYUSH-CONTRACTUAL-25.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "dd113d0f84a170d3",
-        "title": "Notification - Nommination for the post of Registrar of the Meghalaya Medical Council",
-        "link": "https://www.meghealth.gov.in/news/MMC-REGST-APPT-27-26-1042.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
   },
@@ -5286,9 +5239,18 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:44.500Z",
+    "lastUpdatedDate": "2026-07-15T11:45:45.859Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "26e50ec0e680d4f1",
+        "title": "Bachelor of Nutrition & Dietetics (Hons.) [BND] notification",
+        "link": "https://manipurmc.mn.gov.in/media/1783591080_BND%20notification.pdf",
+        "date": "09/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:45.859Z"
+      },
       {
         "id": "930450ddb7b6a04c",
         "title": "Results of the Entrance Examination for M.Sc Nursing Courses for the Academic Session 2026-27",
@@ -5459,15 +5421,6 @@
         "sortTs": null,
         "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:44.500Z"
-      },
-      {
-        "id": "5ee9fde6501b504c",
-        "title": "Merit list of candidates applying for Management Quota Seats in the Stray vacancy round of Ma nipur Medical e-Counselling 2025-25 in SAHS, Langol",
-        "link": "https://manipurmc.mn.gov.in/media/1763441573_Management.pdf",
-        "date": "17/11/2025",
-        "sortTs": null,
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:44.500Z"
       }
     ]
   },
@@ -5489,9 +5442,45 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:43.983Z",
+    "lastUpdatedDate": "2026-07-15T11:45:45.317Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "160dcc8445b4e101",
+        "title": "Notification BTech/BE courses session 2026-27",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-B.-Tech-BE-courses-for-the-session-2026-27.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:45:45.317Z"
+      },
+      {
+        "id": "f976b7e9cef8a078",
+        "title": "Provisional Selected List CUET 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Provisional-selected-lsit-CUET2026.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:45:45.317Z"
+      },
+      {
+        "id": "6896bcef01c95007",
+        "title": "MERIT LIST 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Merit-list-B.-Tech-2026-27.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:45:45.317Z"
+      },
+      {
+        "id": "f9df7e79a81c5a79",
+        "title": "Provisional Selected LIST Non JEE 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Provisional-select-list-non-JEE-2026.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:45:45.317Z"
+      },
       {
         "id": "d99c347a81191c50",
         "title": "Notification CUET MERIT LIST 2026",
@@ -5509,6 +5498,15 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:43.983Z"
+      },
+      {
+        "id": "55ba9e321a54a18e",
+        "title": "Notification CUET MERIT LIST 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-rectification-CUET.pdf",
+        "date": "06/07/2026",
+        "sortTs": null,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T11:45:45.317Z"
       },
       {
         "id": "d57dfb03cf426615",
@@ -5626,51 +5624,6 @@
         "sortTs": null,
         "batchIndex": 14,
         "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "81bd28c883c4ebfc",
-        "title": "ICIT Authorization letter for Online SC",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/01/ICIT-Authorization-letter.pdf",
-        "date": "15/01/2026",
-        "sortTs": null,
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "279a369adbffc68c",
-        "title": "Notice Inviting Tender 14th Jan 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/04/NIT-14th-Jan-2026.pdf",
-        "date": "14/01/2026",
-        "sortTs": null,
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "60c1f222c77473c4",
-        "title": "Notification for BHMS & BAMS at NEIH, Shillong",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2025/09/Notification-BAMS-BHMS-NEIAH-Shillong.pdf",
-        "date": "24/09/2025",
-        "sortTs": null,
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "82e29360092372cd",
-        "title": "Final List of MBBS & Allied courses 2025-26",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2025/09/Final-List-of-MBBS-Allied-courses-2025-26.pdf",
-        "date": "03/09/2025",
-        "sortTs": null,
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "69a034ef66c97b5a",
-        "title": "Postponement of NEET and CUET State Counselling 2025",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Postponement-of-NEET-CUET-state-counselling-2025.pdf",
-        "date": "29/07/2025",
-        "sortTs": null,
-        "batchIndex": 21,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
   },
@@ -5681,9 +5634,27 @@
     "category": "state",
     "officialLink": "https://dgme.up.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:47:55.567Z",
+    "lastUpdatedDate": "2026-07-15T11:53:37.636Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "149ca4a72c519b89",
+        "title": "Important notice regarding choice filling for candidates participating in the MBBS 2020 batch Non-PG Junior Resident (JR) bond counseling (Uploaded on dated 15-07-2026) Size: :686kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/1350.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:53:37.636Z"
+      },
+      {
+        "id": "90fc24434f73fde5",
+        "title": "Important notice regarding choice filling for candidates participating in the MBBS 2020 batch Non-PG Junior Resident (JR) bond counseling (Uploaded on dated 15-07-2026) Size: :764kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/1350.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T11:46:06.880Z"
+      },
       {
         "id": "35f185186b3ec772",
         "title": "Important notice for Non PG JR Bond Counselling MBBS 2020 batch (Uploaded on dated 07.07.2026) Size: :830kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
@@ -5710,6 +5681,24 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-08T09:36:59.624Z"
+      },
+      {
+        "id": "6c00a5b5bc55ae14",
+        "title": "Important notice for Non PG JR Bond Counselling MBBS 2020 batch (Uploaded on dated 07.07.2026) Size: :836kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/DocScanner%20Jul%207,%202026%208-24%20PM.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:53:37.636Z"
+      },
+      {
+        "id": "c655c832ba6f4cd0",
+        "title": "Important notice for Non PG JR Bond Counselling MBBS 2020 batch (Uploaded on dated 07.07.2026) Size: :579kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/DocScanner%20Jul%207,%202026%208-24%20PM.pdf",
+        "date": "07/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T11:46:06.880Z"
       },
       {
         "id": "1d951cbf062e8e35",
@@ -5739,6 +5728,24 @@
         "detectedAt": "2026-07-08T09:36:59.624Z"
       },
       {
+        "id": "67301612fb16b246",
+        "title": "Important direction regarding online counseling for the deployment of MBBS candidates from NEET-UG 2020, 2019, and 2018 under the compulsory government service bond (Uploaded on dated 30-06-2026) Size: :506kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/document%20(31).pdf",
+        "date": "30/06/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:53:37.636Z"
+      },
+      {
+        "id": "fb05f5dcdbf12fe2",
+        "title": "Important direction regarding online counseling for the deployment of MBBS candidates from NEET-UG 2020, 2019, and 2018 under the compulsory government service bond (Uploaded on dated 30-06-2026) Size: :667kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/document%20(31).pdf",
+        "date": "30/06/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T11:46:06.880Z"
+      },
+      {
         "id": "c31518acc35efb56",
         "title": "Time Schedule for Online Counseling for Candidates of the NEET UG 2020, 2019 & 2018 MBBS Batch regarding Deployment as Non-PG Junior Residents under the Mandatory Government Service Bond (Uploaded on dated 30-06-2026) Size: :733kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
         "link": "https://dgme.up.gov.in/assets/admin/news/DocScanner%20Jun%2030,%202026%2012-45%20PM.pdf",
@@ -5766,6 +5773,24 @@
         "detectedAt": "2026-07-08T09:36:59.624Z"
       },
       {
+        "id": "225cd87da8f6fd56",
+        "title": "Time Schedule for Online Counseling for Candidates of the NEET UG 2020, 2019 & 2018 MBBS Batch regarding Deployment as Non-PG Junior Residents under the Mandatory Government Service Bond (Uploaded on dated 30-06-2026) Size: :706kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/DocScanner%20Jun%2030,%202026%2012-45%20PM.pdf",
+        "date": "30/06/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:53:37.636Z"
+      },
+      {
+        "id": "82d385b346941ba4",
+        "title": "Time Schedule for Online Counseling for Candidates of the NEET UG 2020, 2019 & 2018 MBBS Batch regarding Deployment as Non-PG Junior Residents under the Mandatory Government Service Bond (Uploaded on dated 30-06-2026) Size: :779kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
+        "link": "https://dgme.up.gov.in/assets/admin/news/DocScanner%20Jun%2030,%202026%2012-45%20PM.pdf",
+        "date": "30/06/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T11:46:06.880Z"
+      },
+      {
         "id": "3f15d140b52fbb7d",
         "title": "ADVERTISEMENT FOR THE POST OF DIRECTOR AT POSTGRADUATE INSTITUTE OF CHILD HEALTH, NOIDA (Uploaded on dated 23-06-2026) Size: :714kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
         "link": "https://dgme.up.gov.in/assets/admin/news/798.pdf",
@@ -5791,78 +5816,6 @@
         "sortTs": null,
         "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:59.624Z"
-      },
-      {
-        "id": "f3d39cc76284925e",
-        "title": "Important information regarding the deployment under the compulsory government service bond for candidates of the MBBS course (NEET-UG 2020 batch) and candidates of the NEET-UG 2019 and 2018 batches who completed their course and internship alongside the NEET-UG 2020 batch candidates (Uploaded on dated 19-06-2026) Size: :542kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/Non%20PG%20JR.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T11:47:55.567Z"
-      },
-      {
-        "id": "4c8d03ec07b5cfb5",
-        "title": "Important information regarding the deployment under the compulsory government service bond for candidates of the MBBS course (NEET-UG 2020 batch) and candidates of the NEET-UG 2019 and 2018 batches who completed their course and internship alongside the NEET-UG 2020 batch candidates (Uploaded on dated 19-06-2026) Size: :785kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/Non%20PG%20JR.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T11:32:54.961Z"
-      },
-      {
-        "id": "f5372eec555a4b63",
-        "title": "Important information regarding the deployment under the compulsory government service bond for candidates of the MBBS course (NEET-UG 2020 batch) and candidates of the NEET-UG 2019 and 2018 batches who completed their course and internship alongside the NEET-UG 2020 batch candidates (Uploaded on dated 19-06-2026) Size: :744kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/Non%20PG%20JR.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:59.624Z"
-      },
-      {
-        "id": "740c42a57e523d89",
-        "title": "Important notice regarding the counseling conducted for the deployment of candidates from the NEET PG 2022 (MD/MS) and NEET PG 2023 (Diploma) batches under the compalsory government service bond (Uploaded on dated 17-06-2026) Size: :758kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/1124.pdf",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T11:47:55.567Z"
-      },
-      {
-        "id": "4ea0b2099edc9f78",
-        "title": "Important notice regarding the counseling conducted for the deployment of candidates from the NEET PG 2022 (MD/MS) and NEET PG 2023 (Diploma) batches under the compalsory government service bond (Uploaded on dated 17-06-2026) Size: :626kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/1124.pdf",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T11:32:54.961Z"
-      },
-      {
-        "id": "a29aa616837af7d7",
-        "title": "Important notice regarding the counseling conducted for the deployment of candidates from the NEET PG 2022 (MD/MS) and NEET PG 2023 (Diploma) batches under the compalsory government service bond (Uploaded on dated 17-06-2026) Size: :733kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/1124.pdf",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:59.624Z"
-      },
-      {
-        "id": "2b6facafee499f23",
-        "title": "Important notice regarding the counseling conducted for the deployment of candidates from the NEET PG 2022 (MD/MS) and NEET PG 2023 (Diploma) batches under the compalsary government service bond (Uploaded on dated 16-06-2026) Size: :890kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/1118.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T11:47:55.567Z"
-      },
-      {
-        "id": "9afcc77b4c7737c0",
-        "title": "Important notice regarding the counseling conducted for the deployment of candidates from the NEET PG 2022 (MD/MS) and NEET PG 2023 (Diploma) batches under the compalsary government service bond (Uploaded on dated 16-06-2026) Size: :730kb Language: : Hindi | Uploading Date:N/A |Format: : PDF",
-        "link": "https://dgme.up.gov.in/assets/admin/news/1118.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T11:32:54.961Z"
       }
     ]
   }

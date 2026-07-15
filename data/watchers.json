@@ -287,19 +287,10 @@
   },
   {
     "authorityId": "himachal-pradesh",
-    "id": "himachal-notifications",
+    "id": "himachal-notices",
     "type": "html-list",
-    "url": "https://amruhp.ac.in/",
-    "itemSelector": ".notice_box:eq(0) p:has(a[href$=\".pdf\"])",
-    "sourceLabel": "Latest Notifications"
-  },
-  {
-    "authorityId": "himachal-pradesh",
-    "id": "himachal-announcements",
-    "type": "html-list",
-    "url": "https://amruhp.ac.in/",
-    "itemSelector": ".notice_box:eq(1) p",
-    "sourceLabel": "Announcements"
+    "url": "https://amruhp.ac.in/notices/",
+    "itemSelector": "p:has(a.text-white[href$=\".pdf\"])"
   },
   {
     "authorityId": "uttar-pradesh",
@@ -310,5 +301,14 @@
     "titleCellIndex": 1,
     "linkCellIndex": 2,
     "insecureTls": true
+  },
+  {
+    "authorityId": "karnataka-kea",
+    "type": "html-table",
+    "url": "https://cetonline.karnataka.gov.in/kea/",
+    "rowSelector": "table#ContentPlaceHolder1_Gridlatestannoc tr",
+    "hasHeaderRow": false,
+    "titleCellIndex": 0,
+    "stripBeforeMarker": "<table[^>]*id=\"ContentPlaceHolder1_Gridlatestannoc\""
   }
 ]
