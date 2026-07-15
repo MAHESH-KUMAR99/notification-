@@ -2844,9 +2844,20 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T13:40:57.591Z",
+    "lastUpdatedDate": "2026-07-15T08:56:23.922Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9eb89f548d497989",
+        "title": "छत्तीसगढ़ राज्य के निजी नर्सिंग महाविद्यालयों हेतु बी.एस.सी. नर्सिंग एवं बी.एस.सी. नर्सिंग (पोस्ट बेसिक) पाठ्यक्रम की शुल्क अधिसूचना.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2140",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "B.Sc. for private nursing colleges of Chhattisgarh state. Nursing and B.Sc. Fee Notification of Nursing (Post Basic) Course.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-15T08:56:23.922Z"
+      },
       {
         "id": "a520620743fddea1",
         "title": "Eligible candidates for assistant professor having mpt state council registration if anyone have that and there name in not eligible can raise claim and objection from application portal.....More",
@@ -3841,9 +3852,72 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T03:45:30.782Z",
+    "lastUpdatedDate": "2026-07-15T08:56:07.375Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "72508d09f59f3abc",
+        "title": "KNRUHS - EXAMINATIONS - RESULTS OF POST BASIC BSC NURSING FIRST YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070531KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20POST%20BASIC%20BSC%20NURSING%20FIRST%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T08:56:07.375Z"
+      },
+      {
+        "id": "33390c04725a43dd",
+        "title": "KNRUHS - EXAMINATIONS - RESULTS OF POST BASIC BSC NURSING FINAL YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070516KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20POST%20BASIC%20BSC%20NURSING%20FINAL%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T08:56:07.375Z"
+      },
+      {
+        "id": "c5586fe2c28a4d64",
+        "title": "KNRUHS - EXAMINATIONS - RESULTS OF POST BASIC BSC NURSING FINAL YEAR EXAMINATIONS - MAY 2026 - REFERRED CANDIDATES",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070504KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20POST%20BASIC%20BSC%20NURSING%20FINAL%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20REFERRED%20CANDIDATES.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T08:56:07.375Z"
+      },
+      {
+        "id": "75d5c65c5195692e",
+        "title": "KNRUHS - EXAMINATIONS - RESULTS OF NURSE PRACTITIONER IN MIDWIFERY EXAMINATIONS - MAY 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070450KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20NURSE%20PRACTITIONER%20IN%20MIDWIFERY%20EXAMINATIONS%20-%20MAY%202026.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T08:56:07.375Z"
+      },
+      {
+        "id": "cdc0d31afbebfc2d",
+        "title": "KNRUHS - EXAMINATIONS - RESULTS OF SECOND PROFESSIONAL BAMS (NEW REGULATIONS) EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070434KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20SECOND%20PROFESSIONAL%20BAMS%20(NEW%20REGULATIONS)%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T08:56:07.375Z"
+      },
+      {
+        "id": "a10c60b3c0ec4199",
+        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MD UNANI FIRST SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070416KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MD%20UNANI%20FIRST%20SUMMATIVE%20ASSESSMENT%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 5,
+        "detectedAt": "2026-07-15T08:56:07.375Z"
+      },
+      {
+        "id": "e479dfed7a2321eb",
+        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MD UNANI FIRST SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026 - REGULAR CANDIDATES",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070400KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MD%20UNANI%20FIRST%20SUMMATIVE%20ASSESSMENT%20EXAMINATIONS%20-%20MAY%202026%20-%20REGULAR%20CANDIDATES.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 6,
+        "detectedAt": "2026-07-15T08:56:07.375Z"
+      },
       {
         "id": "26f4ed252c2ad413",
         "title": "KNRUHS - EXAMINATIONS - RESULTS OF MDMS AYURVEDA FIRST SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026",
@@ -3960,69 +4034,6 @@
         "sortTs": null,
         "batchIndex": 3,
         "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "7ad6a9800488655a",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MPT FINAL YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095716KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MPT%20FINAL%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "1491c4d34bdf7db3",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF BUMS FINAL YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095655KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20BUMS%20FINAL%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "c445f2b037346731",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF BUMS FINAL YEAR EXAMINATIONS - MAY 2026 - REFFERED CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095636KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20BUMS%20FINAL%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20REFFERED%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "fa430b5682b6f658",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF FIRST PROFESSIONAL BUMS (NEW REGULATIONS) EXAMINATIONS - MARCH 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095616KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20FIRST%20PROFESSIONAL%20BUMS%20(NEW%20REGULATIONS)%20EXAMINATIONS%20-%20MARCH%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 7,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "dbeb5b801944e3bb",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF FIRST PROFESSIONAL BUMS (NEW REGULATIONS) EXAMINATIONS - MARCH 2026 - REGULAR CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095556KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20FIRST%20PROFESSIONAL%20BUMS%20(NEW%20REGULATIONS)%20EXAMINATIONS%20-%20MARCH%202026%20-%20REGULAR%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 8,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "5a55f4306f5fcab6",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF BAMS FINAL YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095418KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20BAMS%20FINAL%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "fd2219ca5b2eaa31",
-        "title": "KNRUHS - Dissertations - MD Unani - 2025-26 batch - Notification for Submission of synopsis",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260619112718MD%20Unani%20-%202025-26%20-%20Synopsis%20Notification.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:31.120Z"
       }
     ]
   },
@@ -5743,9 +5754,18 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T06:19:55.070Z",
+    "lastUpdatedDate": "2026-07-15T08:56:48.933Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "160dcc8445b4e101",
+        "title": "Notification BTech/BE courses session 2026-27",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-B.-Tech-BE-courses-for-the-session-2026-27.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T08:56:48.933Z"
+      },
       {
         "id": "cd665b880623931d",
         "title": "LIST-4 2026",
@@ -5754,6 +5774,15 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-15T06:19:55.070Z"
+      },
+      {
+        "id": "f976b7e9cef8a078",
+        "title": "Provisional Selected List CUET 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Provisional-selected-lsit-CUET2026.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T08:56:48.933Z"
       },
       {
         "id": "8baaa397e0317334",
@@ -5906,24 +5935,6 @@
         "date": "29/04/2026",
         "sortTs": null,
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "5d7133b9b1ac7244",
-        "title": "Diploma Application Form 2026 date extended",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/04/Diploma-Application-2026-extension.pdf",
-        "date": "06/04/2026",
-        "sortTs": null,
-        "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "1f9794764b7a12f1",
-        "title": "Public Notification for NEET and CUET 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/03/Publice-Notice-NEET-and-CUET-2026.pdf",
-        "date": "25/03/2026",
-        "sortTs": null,
-        "batchIndex": 13,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
