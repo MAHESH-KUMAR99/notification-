@@ -5754,7 +5754,7 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T08:56:48.933Z",
+    "lastUpdatedDate": "2026-07-15T10:56:03.856Z",
     "pinned": false,
     "notices": [
       {
@@ -5801,6 +5801,15 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-15T06:19:55.070Z"
+      },
+      {
+        "id": "f9df7e79a81c5a79",
+        "title": "Provisional Selected LIST Non JEE 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Provisional-select-list-non-JEE-2026.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T10:56:03.856Z"
       },
       {
         "id": "6896bcef01c95007",
@@ -5926,15 +5935,6 @@
         "date": "04/05/2026",
         "sortTs": null,
         "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "20fc96c06c291465",
-        "title": "Notification Diploma Admission 2026-27",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/04/notification-Diploma-admission.pdf",
-        "date": "29/04/2026",
-        "sortTs": null,
-        "batchIndex": 11,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
