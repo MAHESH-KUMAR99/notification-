@@ -3934,9 +3934,99 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T13:41:59.828Z",
+    "lastUpdatedDate": "2026-07-15T14:22:33.737Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b99198a7a2b0b128",
+        "title": "Result Notification of Post Basic B.Sc. Nursing 1st year Supplementary Examination Held in May 2026 Batch 2023, 2024 Dated-13-07-2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Post-Basic-Nursing-1st-year-supplementary-Result.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "fa9299471b22ecb3",
+        "title": "Result Notifications of BDS 2nd Year University Supplementary Examination held in the month of March, 2026 of various batches. [Date of Result 13-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-2ND-YEAR-RESULT-13-07-2026.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "9f1c542e7fe1800a",
+        "title": "Result Notification pertaining to BDS 3rd year University Supplementary Examination held in the month of March, 2026. [Date of Result 08-07-2026]",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/BDS-3rd-year-result.pdf",
+        "date": "08/07/2026",
+        "sortTs": null,
+        "batchIndex": 8,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "5b8f6e8d8f664c1d",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-D",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-D-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "a27a9d912dc0ca5f",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-C",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-C-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "b3b8c2b00b8e875b",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-B",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-B-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "30c198738d7849ff",
+        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-A",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-A-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 5,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "a04e7c3ca883cd04",
+        "title": "Notice for provisional answer keys for Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Notice-for-answer-keys-CET-2026.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 6,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "c3556be780484a1d",
+        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/notice-regarding-Admit-cards.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "e786b1a7b9d2ff00",
+        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 9,
+        "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
       {
         "id": "Latest Notifications:e786b1a7b9d2ff00",
         "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
@@ -5441,7 +5531,7 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-09T16:02:47.332Z",
+    "lastUpdatedDate": "2026-07-15T14:21:53.976Z",
     "pinned": false,
     "notices": [
       {
