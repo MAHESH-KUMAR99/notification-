@@ -4827,9 +4827,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T06:19:51.375Z",
+    "lastUpdatedDate": "2026-07-15T12:20:06.938Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c2726407d498d374",
+        "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR LLM, (Int) BA/BBA LLB, B.Design, B.Tech.(BT), B.Com(H), BBA, LLB(3 year). merit list of B.Arch, MBA and M.Arch will prepare at counselling venue A.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607151833804603.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-15T12:20:06.938Z"
+      },
       {
         "id": "79e7244a2ff0cb0b",
         "title": "Extend Schedule of Round 2 Process- LLM, BCA,BA-LLB (H)/ BBA-LLB(H), B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA),B.TECH, B.COM(H), BA(ENGLISH),BA(ECONOMICS) A.S.2026-27.",
@@ -4999,15 +5008,6 @@
         "date": "08/07/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T11:47:30.484Z"
-      },
-      {
-        "id": "d4b4f68e50d84777",
-        "title": "Revised list of candidates who applied for admission under the SINGLE GIRL CHILD QUOTA for the A.S: 2026-27, With the stipulated last dated, i.e., 25.06.2026_dated-08.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607081596296897.pdf",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T11:47:30.484Z"
       }
     ]
