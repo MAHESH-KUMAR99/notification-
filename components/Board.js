@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import Sidebar from "./Sidebar";
 import DetailPanel from "./DetailPanel";
+import SearchResults from "./SearchResults";
 import { isNewNotice } from "@/lib/noticeFreshness";
 
 function pickDefaultId(authorities) {
@@ -26,6 +27,26 @@ export default function Board({ authorities, healthStatus }) {
     () => authorities.find((a) => a.id === selectedId) ?? null,
     [authorities, selectedId]
   );
+
+  // Cross-authority notice search — lets a student search "fee refund" or
+  // "counselling" once and see which states currently have a matching
+  // notice, instead of clicking through all 38 one at a time. Only
+  // computed when actually searching (not memoized past that) since it
+  // scans every notice on every keystroke; fine at this data size.
+  const q = query.trim().toLowerCase();
+  const isSearchingNotices = q.length > 0;
+  const noticeResults = isSearchingNotices
+    ? authorities.flatMap((a) =>
+        (a.notices ?? [])
+          .filter((n) => n.title.toLowerCase().includes(q) || n.titleEn?.toLowerCase().includes(q))
+          .map((n) => ({ notice: n, authorityId: a.id, authorityName: a.name }))
+      )
+    : [];
+
+  function jumpToAuthority(id) {
+    setSelectedId(id);
+    setQuery("");
+  }
 
   return (
     <div className="mx-auto flex h-screen max-w-6xl flex-col bg-slate-50 dark:bg-slate-950">
@@ -59,7 +80,11 @@ export default function Board({ authorities, healthStatus }) {
         onQueryChange={setQuery}
       />
 
-      <DetailPanel authority={selectedAuthority} />
+      {isSearchingNotices ? (
+        <SearchResults query={query} results={noticeResults} onJump={jumpToAuthority} />
+      ) : (
+        <DetailPanel authority={selectedAuthority} />
+      )}
     </div>
   );
 }
