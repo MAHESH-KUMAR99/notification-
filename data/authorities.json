@@ -219,9 +219,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-14T18:40:34.837Z",
+    "lastUpdatedDate": "2026-07-16T14:33:46.976Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1004",
+        "title": "16/07/2026 - Participation in 'Awareness Quiz' and 'Online Course' on the International Day of Deafblindness - Reg",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_AwarenessQuiz_Deafblindness.pdf",
+        "date": "16/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T14:33:46.976Z"
+      },
       {
         "id": "nmc-1003",
         "title": "14/07/2026 - Seat Matrix for Undergraduate (MBBS) Courses (excluding INIs) for the Academic Year 2026 - 27 - reg.",
@@ -372,14 +380,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_ADR_26_27_Merged.pdf",
         "date": "13/05/2026",
         "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-982",
-        "title": "08/05/2026 - Advisory to Government Medical Colleges/Institutions regarding cooperation for conduct of NBEMS Practical Examinations- reg.",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_NBEMS.pdf",
-        "date": "08/05/2026",
-        "batchIndex": 16,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -3742,9 +3742,36 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T08:56:07.375Z",
+    "lastUpdatedDate": "2026-07-16T14:33:59.692Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9ed690729004dec2",
+        "title": "KNRUHS – Examination Wing – Medical PG MD/MS Regular Examinations, August 2026 – Change in Internal marks and Attendance capture dates and Examination fee payment dates – Communicated – Reg.",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260716121844Medical%20PG%20MDMS.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T14:33:59.692Z"
+      },
+      {
+        "id": "de800cef54b72218",
+        "title": "KNRUHS – Examination Wing – Final MBBS Part-I (New Regulations) Regular and Final MBBS Part-I (Old Regulations) Examinations, August 2026 – Change in Internal assessment marks and Attendance capture dates and Examination fee payment dates – Communicated –",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260716121823Final%20MBBS%20Part-I.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-16T14:33:59.692Z"
+      },
+      {
+        "id": "8329bdac6f913e0c",
+        "title": "KNRUHS – Examination Wing – First MBBS (New Regulations) Regular Examinations, August 2026 – Change in Internal assessment marks and Attendance capture dates and Examination fee payment dates – Communicated – Reg.",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260716121743First%20MBBS.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-16T14:33:59.692Z"
+      },
       {
         "id": "72508d09f59f3abc",
         "title": "KNRUHS - EXAMINATIONS - RESULTS OF POST BASIC BSC NURSING FIRST YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
@@ -3897,33 +3924,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "bdec0e89522b83a0",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MPT FIRST YEAR EXAMINATIONS - MAY 2026 - REGULAR CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713100134KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MPT%20FIRST%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20REGULAR%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "3ff09838adb9bfab",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF SUPER SPECIALITY EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095934KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20SUPER%20SPECIALITY%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
-      },
-      {
-        "id": "ff9e354956ccf56a",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF POST DOCTORAL FELLOWSHIP EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713095904KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20POST%20DOCTORAL%20FELLOWSHIP%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
       }
     ]
   },
@@ -3934,7 +3934,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T14:22:33.737Z",
+    "lastUpdatedDate": "2026-07-16T14:35:20.173Z",
     "pinned": false,
     "notices": [
       {
@@ -3963,6 +3963,33 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "c89dfe5a365ccf7d",
+        "title": "Prospectus for B.Sc Nursing course for academic session 2026-2027",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/final-prospectus-for-B.Sc-Nursing-courses-2026-27.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T14:35:20.173Z"
+      },
+      {
+        "id": "01815669a5647afd",
+        "title": "Prospectus for M.Sc. Nursing Counselling 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Final-M.Sc-Nursing-prospectus-2026-nnn.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-16T14:35:20.173Z"
+      },
+      {
+        "id": "6d6a4ea0021914ad",
+        "title": "Notice for Online Application form for B.Sc. Nursing, Post Basic B.Sc. Nursing and M.Sc. Nursing courses Entrance Exam for 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Nursing-application-notice-for-2026-27.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-16T14:35:20.173Z"
       },
       {
         "id": "5b8f6e8d8f664c1d",
@@ -4807,9 +4834,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T08:21:05.426Z",
+    "lastUpdatedDate": "2026-07-16T14:34:33.505Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "67b2ea0770b29ce9",
+        "title": "Notice Regarding Admission/Counselling for the Programme B.Ed. (Special Education) (Code-159)_dated-16.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716115731206.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T14:34:33.505Z"
+      },
       {
         "id": "ebadb5c2d65b646f",
         "title": "Schedule of 2nd Offline Counselling MA (Economics) (Code-162) A.S: 2026-27_dated-16.07.2026",
@@ -4820,6 +4856,15 @@
         "detectedAt": "2026-07-16T08:21:05.426Z"
       },
       {
+        "id": "b2b4de162c214d43",
+        "title": "Information regarding Round 02 Onwards, for the MBA Programmes through (CAT 2025/ CMAT 2026/ CET 2026) for the A.S: 2026-27_dated-16.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716691067491.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-16T14:34:33.505Z"
+      },
+      {
         "id": "cffd9c65ab99308d",
         "title": "Extended Schedule for Choice Filling B.Tech, LLB (5Year), BBA & Allied Programmes/ 5 Year BBA MBA (Integrated) for the Session 2026-27_dated-16.07.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607161469594490.pdf",
@@ -4827,6 +4872,24 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-16T08:21:05.426Z"
+      },
+      {
+        "id": "a057c848830860f6",
+        "title": "Schedule of 2nd Counselling MA(Economics) Followed by Open House Counselling A.S:2026-27_dated-16.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607161010706824.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-16T14:34:33.505Z"
+      },
+      {
+        "id": "8cc9a570397456de",
+        "title": "Schedule of 2nd Counselling B.Sc(Yoga) Code-117, M.Sc(Yoga) Code-187 Followed by Open House Counselling A.S:2026-27_dated-16.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716517829194.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-16T14:34:33.505Z"
       },
       {
         "id": "c2726407d498d374",
@@ -4953,42 +5016,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-11T11:16:34.336Z"
-      },
-      {
-        "id": "90569536fb1a19be",
-        "title": "MA(ENGLISH)_113 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607112111269835.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-11T10:01:02.940Z"
-      },
-      {
-        "id": "147d4bef12f27309",
-        "title": "B.Sc(Packaging Technology)_136 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111266972408.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-11T11:16:34.336Z"
-      },
-      {
-        "id": "aaf4ec7ec96c4127",
-        "title": "MPH(FE)_412 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111205439117.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-11T10:01:02.940Z"
-      },
-      {
-        "id": "de2a25fa3987233b",
-        "title": "MBA (CODE-101) ROUND 01_ ACTIVITIES AFTER DECLARATION OF RESULT A.S: 2026-27_dated-10.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607101223656253.pdf",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-10T12:28:40.474Z"
       }
     ]
   },
@@ -5734,9 +5761,18 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T10:56:03.856Z",
+    "lastUpdatedDate": "2026-07-16T14:34:38.597Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "22e4dd03b58c4e72",
+        "title": "Schedule for CSAB-NEUT2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Schedule-for-CSAB-NEUT-2026.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T14:34:38.597Z"
+      },
       {
         "id": "160dcc8445b4e101",
         "title": "Notification BTech/BE courses session 2026-27",
@@ -5906,24 +5942,6 @@
         "date": "21/05/2026",
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "6d98e9d87af468d0",
-        "title": "Spot Diploma Admission 2026-27",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/05/Spot-admission-for-Diploma-courses.pdf",
-        "date": "05/05/2026",
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "1c0207db1f71c80d",
-        "title": "NIT AI & ML Lab",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/05/NIT.pdf",
-        "date": "04/05/2026",
-        "sortTs": null,
-        "batchIndex": 10,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
