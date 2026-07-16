@@ -126,9 +126,18 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T17:47:07.061Z",
+    "lastUpdatedDate": "2026-07-16T19:18:00.587Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "3029bac59087930d",
+        "title": "KEY DATA POINTS OF NEET (UG) OVER YEARS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607161539405935.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T19:18:00.587Z"
+      },
       {
         "id": "e6bf5e6c8c7cab70",
         "title": "Press Release for NEET (UG) – 2026 Results (21st June 2026)",
@@ -146,6 +155,15 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-16T16:19:58.445Z"
+      },
+      {
+        "id": "c030c1fbc9119a40",
+        "title": "List of Toppers of NEET(UG) – 2026 (Held on 21st June, 2026)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716180970800.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-16T19:18:00.587Z"
       },
       {
         "id": "2b40cd1ad0fb4dd8",
