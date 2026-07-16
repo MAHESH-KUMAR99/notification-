@@ -126,9 +126,18 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T16:19:58.445Z",
+    "lastUpdatedDate": "2026-07-16T17:47:07.061Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "e6bf5e6c8c7cab70",
+        "title": "Press Release for NEET (UG) – 2026 Results (21st June 2026)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716477215762.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T17:47:07.061Z"
+      },
       {
         "id": "0d09ca0e52121715",
         "title": "Final Answer Keys for NEET (UG) – 2026 Re-Examination",
@@ -4843,9 +4852,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T14:34:33.505Z",
+    "lastUpdatedDate": "2026-07-16T17:48:06.243Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d460fa60e0e7dbd3",
+        "title": "SCHEDULE OF ACTIVITIES PURSUANT TO DECLARATION OF RESULT OF ROUND 02 B.ED/BA (JMC)/ BCOM (H)/ BA ENG(H) / BA ECO(H)/ LE B TECH/ BCA/ LLM FOR THE A. S. 2026-27. DATED 16.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716797381880.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T17:48:06.243Z"
+      },
       {
         "id": "67b2ea0770b29ce9",
         "title": "Notice Regarding Admission/Counselling for the Programme B.Ed. (Special Education) (Code-159)_dated-16.07.2026",
@@ -5016,15 +5034,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-11T10:01:02.940Z"
-      },
-      {
-        "id": "ddfbee3b3a028e6e",
-        "title": "M.Sc(Packaging Technology)_604 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711857844425.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-11T11:16:34.336Z"
       }
     ]
   },
