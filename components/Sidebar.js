@@ -14,16 +14,16 @@ function AuthorityPill({ authority, isSelected, onSelect, newCount }) {
   return (
     <button
       onClick={() => onSelect(authority.id)}
-      className={`flex shrink-0 items-center gap-1.5 rounded-full border px-3.5 py-1.5 text-sm font-medium transition ${
+      className={`flex shrink-0 items-center gap-1.5 rounded-full border px-3.5 py-1.5 text-sm font-medium transition-colors ${
         isSelected
           ? "border-slate-900 bg-slate-900 text-white shadow-sm dark:border-slate-100 dark:bg-slate-100 dark:text-slate-900"
-          : "border-slate-200 bg-white text-slate-600 hover:border-slate-300 hover:text-slate-900 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300 dark:hover:border-slate-600 dark:hover:text-white"
+          : "border-slate-200 bg-white text-slate-600 hover:border-slate-300 hover:bg-slate-50 hover:text-slate-900 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300 dark:hover:border-slate-600 dark:hover:bg-slate-800 dark:hover:text-white"
       }`}
     >
       <span>{authority.name}</span>
       {newCount > 0 && (
         <span
-          className={`shrink-0 rounded-full px-1.5 py-0.5 text-xs font-semibold tabular-nums ${
+          className={`shrink-0 rounded-full px-1.5 py-0.5 text-[11px] font-semibold tabular-nums ${
             isSelected
               ? "bg-white/20 text-white dark:bg-slate-900/10 dark:text-slate-900"
               : "bg-emerald-500 text-white dark:bg-emerald-500"
@@ -66,21 +66,21 @@ export default function Sidebar({ authorities, selectedId, onSelect, newCounts, 
 
   return (
     <div className="border-b border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900">
-      <div className="flex flex-col gap-3 px-4 pt-4">
-        <div className="flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between">
-          <div className="flex w-full flex-col gap-3 sm:flex-row sm:items-center lg:max-w-xl">
+      <div className="flex flex-col gap-3.5 px-5 pb-4 pt-3.5">
+        <div className="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
+          <div className="flex w-full flex-col gap-2.5 sm:flex-row sm:items-center lg:max-w-xl">
             <input
               type="text"
               value={query}
               onChange={(e) => onQueryChange(e.target.value)}
               placeholder="Search authority or notice text…"
-              className="w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm text-slate-900 placeholder-slate-400 outline-none focus:border-slate-500 sm:flex-1 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-100 dark:placeholder-slate-500 dark:focus:border-slate-400"
+              className="w-full rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-sm text-slate-900 placeholder-slate-400 outline-none transition-colors focus:border-slate-400 focus:bg-white sm:flex-1 dark:border-slate-700 dark:bg-slate-800/60 dark:text-slate-100 dark:placeholder-slate-500 dark:focus:border-slate-500 dark:focus:bg-slate-800"
             />
 
             <select
               value={selectedState}
               onChange={(e) => setSelectedState(e.target.value)}
-              className="w-full shrink-0 rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm text-slate-900 outline-none focus:border-slate-500 sm:w-48 dark:border-slate-700 dark:bg-slate-800 dark:text-slate-100 dark:focus:border-slate-400"
+              className="w-full shrink-0 rounded-lg border border-slate-200 bg-slate-50 px-3 py-2 text-sm text-slate-900 outline-none transition-colors focus:border-slate-400 focus:bg-white sm:w-44 dark:border-slate-700 dark:bg-slate-800/60 dark:text-slate-100 dark:focus:border-slate-500 dark:focus:bg-slate-800"
             >
               <option value="">All states</option>
               {states.map((s) => (
@@ -97,7 +97,7 @@ export default function Sidebar({ authorities, selectedId, onSelect, newCounts, 
                 <button
                   key={category}
                   onClick={() => setActiveCategory(category)}
-                  className={`rounded-md px-3 py-1.5 text-xs font-semibold uppercase tracking-wide transition ${
+                  className={`rounded-md px-3 py-1.5 text-xs font-semibold uppercase tracking-wide transition-colors ${
                     category === activeCategory
                       ? "bg-white text-slate-900 shadow-sm dark:bg-slate-700 dark:text-white"
                       : "text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200"
@@ -110,7 +110,7 @@ export default function Sidebar({ authorities, selectedId, onSelect, newCounts, 
           )}
         </div>
 
-        <div className="flex max-h-32 flex-wrap gap-2 overflow-y-auto pb-4">
+        <div className="flex max-h-32 flex-wrap gap-2 overflow-y-auto">
           {filtered.map((a) => (
             <AuthorityPill
               key={a.id}

@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { isNewNotice } from "@/lib/noticeFreshness";
 import { languageName } from "@/lib/translate";
+import TickerStar from "./TickerStar";
 
 const CATEGORY_LABELS = {
   central: "Central",
@@ -24,32 +25,32 @@ function formatDate(iso) {
   });
 }
 
-function NoticesList({ notices, showOriginal, startIndex }) {
+function NoticesList({ notices, showOriginal, startIndex, admin }) {
   return (
     <ol className="divide-y divide-slate-100 dark:divide-slate-800">
       {notices.map((notice, i) => {
         const title = !showOriginal && notice.titleEn ? notice.titleEn : notice.title;
         return (
-          <li key={notice.id} className="flex gap-3 px-4 py-3">
+          <li key={notice.id} className="flex items-start gap-3 px-4 py-3 transition-colors hover:bg-slate-50/80 dark:hover:bg-slate-800/40">
             <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-slate-100 text-xs font-medium text-slate-500 dark:bg-slate-800 dark:text-slate-400">
               {startIndex + i + 1}
             </span>
             <div className="min-w-0 flex-1">
-              <div className="flex items-start gap-2">
+              <div className="flex flex-wrap items-center gap-x-2 gap-y-1">
                 {notice.link ? (
                   <a
                     href={notice.link}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-sm text-slate-800 hover:text-slate-950 hover:underline dark:text-slate-200 dark:hover:text-white"
+                    className="text-sm leading-snug text-slate-800 hover:text-slate-950 hover:underline dark:text-slate-200 dark:hover:text-white"
                   >
                     {title}
                   </a>
                 ) : (
-                  <span className="text-sm text-slate-800 dark:text-slate-200">{title}</span>
+                  <span className="text-sm leading-snug text-slate-800 dark:text-slate-200">{title}</span>
                 )}
                 {isNewNotice(notice) && (
-                  <span className="mt-0.5 shrink-0 rounded-full bg-emerald-500 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-white">
+                  <span className="shrink-0 rounded-full bg-emerald-500 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-white">
                     New
                   </span>
                 )}
@@ -58,6 +59,16 @@ function NoticesList({ notices, showOriginal, startIndex }) {
                 <div className="mt-0.5 text-xs text-slate-400 dark:text-slate-500">{notice.date}</div>
               )}
             </div>
+            {admin && (
+              <TickerStar
+                noticeId={notice.id}
+                pin={admin.pin}
+                approved={admin.approvedIds.has(notice.id)}
+                onInvalidPin={admin.onInvalidPin}
+                onToggled={admin.onToggled}
+                onToast={admin.onToast}
+              />
+            )}
           </li>
         );
       })}
@@ -65,7 +76,7 @@ function NoticesList({ notices, showOriginal, startIndex }) {
   );
 }
 
-export default function DetailPanel({ authority }) {
+export default function DetailPanel({ authority, admin }) {
   const [activeTab, setActiveTab] = useState(null);
   const [showOriginal, setShowOriginal] = useState(false);
   const [page, setPage] = useState(0);
@@ -126,33 +137,34 @@ export default function DetailPanel({ authority }) {
 
   return (
     <div className="flex-1 overflow-y-auto p-6">
-      <div className="mb-4 flex flex-wrap items-start justify-between gap-3">
-        <div>
-          <h1 className="text-xl font-bold text-slate-900 dark:text-slate-100">
+      <div className="mb-5 flex flex-wrap items-start justify-between gap-4">
+        <div className="min-w-0">
+          <h1 className="text-xl font-semibold text-slate-900 dark:text-slate-100">
             {authority.name}
           </h1>
-          <span className="mt-1 inline-block rounded-full bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-600 dark:bg-slate-800 dark:text-slate-300">
-            {CATEGORY_LABELS[authority.category] ?? authority.category}
-            {authority.state ? ` · ${authority.state}` : ""}
-          </span>
+          <div className="mt-1.5 flex flex-wrap items-center gap-x-3 gap-y-1">
+            <span className="rounded-full bg-slate-100 px-2 py-0.5 text-xs font-medium text-slate-600 dark:bg-slate-800 dark:text-slate-300">
+              {CATEGORY_LABELS[authority.category] ?? authority.category}
+              {authority.state ? ` · ${authority.state}` : ""}
+            </span>
+            <span className="text-xs text-slate-400 dark:text-slate-500">
+              Updated {formatDate(authority.lastUpdatedDate)}
+            </span>
+          </div>
         </div>
         <a
           href={authority.officialLink}
           target="_blank"
           rel="noopener noreferrer"
-          className="shrink-0 rounded-lg bg-slate-900 px-4 py-2 text-sm font-medium text-white transition hover:bg-slate-700 dark:bg-slate-100 dark:text-slate-900 dark:hover:bg-white"
+          className="shrink-0 rounded-lg bg-slate-900 px-4 py-2 text-sm font-medium text-white transition-colors hover:bg-slate-700 dark:bg-slate-100 dark:text-slate-900 dark:hover:bg-white"
         >
           Official Site ↗
         </a>
       </div>
 
-      <p className="mb-4 text-xs text-slate-500 dark:text-slate-400">
-        Last updated: {formatDate(authority.lastUpdatedDate)}
-      </p>
-
       {currentTab?.items.length > 0 ? (
-        <div className="rounded-xl border border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900">
-          <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-200 px-4 py-3 dark:border-slate-800">
+        <div className="overflow-hidden rounded-xl border border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900">
+          <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-200 bg-slate-50/60 px-4 py-3 dark:border-slate-800 dark:bg-slate-800/20">
             <h2 className="text-sm font-semibold text-slate-900 dark:text-slate-100">
               Recent Notices
             </h2>
@@ -166,7 +178,7 @@ export default function DetailPanel({ authority }) {
                     <button
                       key={String(opt.key)}
                       onClick={() => setShowOriginal(opt.key)}
-                      className={`rounded-full px-2.5 py-1 text-xs font-medium transition ${
+                      className={`rounded-full px-2.5 py-1 text-xs font-medium transition-colors ${
                         showOriginal === opt.key
                           ? "bg-white text-slate-900 shadow-sm dark:bg-slate-700 dark:text-white"
                           : "text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200"
@@ -183,7 +195,7 @@ export default function DetailPanel({ authority }) {
                     <button
                       key={g.label}
                       onClick={() => setActiveTab(g.label)}
-                      className={`rounded-full px-3 py-1 text-xs font-medium transition ${
+                      className={`rounded-full px-3 py-1 text-xs font-medium transition-colors ${
                         g.label === currentTab.label
                           ? "bg-slate-900 text-white dark:bg-slate-100 dark:text-slate-900"
                           : "bg-slate-100 text-slate-600 hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700"
@@ -196,13 +208,18 @@ export default function DetailPanel({ authority }) {
               )}
             </div>
           </div>
-          <NoticesList notices={pagedItems} showOriginal={showOriginal} startIndex={effectivePage * PAGE_SIZE} />
+          <NoticesList
+            notices={pagedItems}
+            showOriginal={showOriginal}
+            startIndex={effectivePage * PAGE_SIZE}
+            admin={admin}
+          />
           {pageCount > 1 && (
             <div className="flex items-center justify-between gap-3 border-t border-slate-100 px-4 py-3 dark:border-slate-800">
               <button
                 onClick={() => setPage((p) => Math.max(0, p - 1))}
                 disabled={effectivePage === 0}
-                className="rounded-lg px-3 py-1.5 text-xs font-medium text-slate-600 transition hover:bg-slate-100 disabled:opacity-40 disabled:hover:bg-transparent dark:text-slate-300 dark:hover:bg-slate-800"
+                className="rounded-lg px-3 py-1.5 text-xs font-medium text-slate-600 transition-colors hover:bg-slate-100 disabled:opacity-40 disabled:hover:bg-transparent dark:text-slate-300 dark:hover:bg-slate-800"
               >
                 ← Previous
               </button>
@@ -212,7 +229,7 @@ export default function DetailPanel({ authority }) {
               <button
                 onClick={() => setPage((p) => Math.min(pageCount - 1, p + 1))}
                 disabled={effectivePage === pageCount - 1}
-                className="rounded-lg px-3 py-1.5 text-xs font-medium text-slate-600 transition hover:bg-slate-100 disabled:opacity-40 disabled:hover:bg-transparent dark:text-slate-300 dark:hover:bg-slate-800"
+                className="rounded-lg px-3 py-1.5 text-xs font-medium text-slate-600 transition-colors hover:bg-slate-100 disabled:opacity-40 disabled:hover:bg-transparent dark:text-slate-300 dark:hover:bg-slate-800"
               >
                 Next →
               </button>
