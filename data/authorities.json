@@ -126,9 +126,18 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-14T15:38:28.613Z",
+    "lastUpdatedDate": "2026-07-16T16:19:58.445Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "0d09ca0e52121715",
+        "title": "Final Answer Keys for NEET (UG) – 2026 Re-Examination",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260716131467523.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T16:19:58.445Z"
+      },
       {
         "id": "2b40cd1ad0fb4dd8",
         "title": "Regarding Refund of Examination Fee of NEET (UG) 2026 (Examination held on 03 May 2026)",
@@ -219,9 +228,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T14:33:46.976Z",
+    "lastUpdatedDate": "2026-07-16T16:20:01.024Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1005",
+        "title": "16/07/2026 - Call for Proposals:\"Research for Strengthening and Enhancing Quality of Medical Education\" - A Joint Initiative of ICMR and NMC - 2026",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_ICMR_Merged.pdf",
+        "date": "16/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T16:20:01.024Z"
+      },
       {
         "id": "nmc-1004",
         "title": "16/07/2026 - Participation in 'Awareness Quiz' and 'Online Course' on the International Day of Deafblindness - Reg",
@@ -372,14 +389,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PubliceNotice_AdmissionPortalPG_merged.pdf",
         "date": "22/05/2026",
         "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-983",
-        "title": "13/05/2026 - Subject: Submission of Annual Disclusure Report by existing Medical Colleges for Annual Renewal of MBBS seats for AY 2026-27 - Reg",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_ADR_26_27_Merged.pdf",
-        "date": "13/05/2026",
-        "batchIndex": 15,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -5366,7 +5375,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-14T11:57:19.979Z",
+    "lastUpdatedDate": "2026-07-16T16:20:57.291Z",
     "pinned": false,
     "notices": [
       {
@@ -5377,6 +5386,15 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "b17ebf315c61f626",
+        "title": "Advertisement for Teaching Faculty in the 2 (two) Upgraded College of Nursing | Download Application Form",
+        "link": "https://www.meghealth.gov.in/news/DHSMER-Upgradation-CON-20254-Pt-4077%20-Advertisement%20PDF.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-16T16:20:57.291Z"
       },
       {
         "id": "a1627b415a882c98",
@@ -5538,15 +5556,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "50e9e88fc4851680",
-        "title": "Request for Proposal (RFP) from Eligible and Authorized Bidders for Procurement and Institutional Access of Digital Medical e-Book Collection for Shillong Medical College, Shillong",
-        "link": "https://www.meghealth.gov.in/news/Tender_eBooks.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 17,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
