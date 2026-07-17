@@ -1524,9 +1524,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-12T10:56:03.716Z",
+    "lastUpdatedDate": "2026-07-17T14:47:47.012Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:8b16b992552d94b8",
+        "title": "Notice for Extension in Date for Choice Filling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/08 Dated 17.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_08.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T14:47:47.012Z"
+      },
       {
         "id": "Latest Updates:71490e08f26a01c7",
         "title": "Important Notice for Choice Filling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/07 Dated 12.07.2026)",
@@ -1713,16 +1723,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:d4307a85d8d1f10c",
-        "title": "Important Notice for Choice Filling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/08 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_08.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
