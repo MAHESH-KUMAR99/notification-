@@ -255,9 +255,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T09:28:03.110Z",
+    "lastUpdatedDate": "2026-07-17T11:07:35.928Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1007",
+        "title": "17/07/2026 - Implementation of ABDM compliant HMIS (Health Management Information System) in Medical Colleges/ Institutions under NMC - reg.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Secretary_HMIS_OM_17_7_2026_Merged.pdf",
+        "date": "17/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T11:07:35.928Z"
+      },
       {
         "id": "nmc-1006",
         "title": "17/07/2026 - Determination of Eligibility for Teaching Positions under the Medical Institutions (Qualifications of Faculty) Regulations, 2025 (MIQF - 2025).",
@@ -408,14 +416,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/ADR_PG_2025_PGMEB_PublicNotice_Merged.pdf",
         "date": "29/05/2026",
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-985",
-        "title": "Seeking comments from stakeholders and public on amendment of graduate medical education regulation 2023",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Notification%20-%20GMER%20(Amendment)%202026%20(1).pdf",
-        "date": "27/05/2026",
-        "batchIndex": 13,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -3980,7 +3980,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T09:29:41.276Z",
+    "lastUpdatedDate": "2026-07-17T11:09:10.781Z",
     "pinned": false,
     "notices": [
       {
@@ -4009,6 +4009,15 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "4d6a7f843c30315d",
+        "title": "Schedule of Retotalling filling forms for BDS 1st, 2nd and 3rd Supplementary Examination held in the month of March, 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Notification-of-Retotalling-filling-forms-for-BDS-1st2nd-and-3rd-Supplementary-Examination-March-2026.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T11:09:10.781Z"
       },
       {
         "id": "1e027db9a8322b56",
@@ -4907,9 +4916,36 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T17:48:06.243Z",
+    "lastUpdatedDate": "2026-07-17T11:08:20.930Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "51509afbb5ff15c7",
+        "title": "Tentative Merit/Rank List for B.Arch Programme (Code 100) A.S: 2026-27_dated-17.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717998335412.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T11:08:20.930Z"
+      },
+      {
+        "id": "ffbe0a1361084d22",
+        "title": "Declaration Of Result of Round 01 for the Programme MCA (NIMCET/CET) (Code-105) A.S: 2026-27_dated-17.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607171654634562.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-17T11:08:20.930Z"
+      },
+      {
+        "id": "35636ace736cb47c",
+        "title": "Schedule of 2nd Offline Counselling BA (Liberal Arts) (Code-451) A.S: 2026-27_dated-17.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717112542273.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-17T11:08:20.930Z"
+      },
       {
         "id": "d460fa60e0e7dbd3",
         "title": "SCHEDULE OF ACTIVITIES PURSUANT TO DECLARATION OF RESULT OF ROUND 02 B.ED/BA (JMC)/ BCOM (H)/ BA ENG(H) / BA ECO(H)/ LE B TECH/ BCA/ LLM FOR THE A. S. 2026-27. DATED 16.07.2026",
@@ -5061,33 +5097,6 @@
         "date": "11/07/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-11T10:01:02.940Z"
-      },
-      {
-        "id": "79e0f8689aa9ce61",
-        "title": "Round 2 Process- LLM, BCA,BA-LLB (H)/ BBA-LLB(H), B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA),B.TECH, B.COM(H), B.Ed (SPL EDU), BA(ENGLISH),BA(ECONOMICS) A.S.2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111540352304.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-11T08:03:19.984Z"
-      },
-      {
-        "id": "65a72c46db8846e5",
-        "title": "M.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111925493358.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-11T11:16:34.336Z"
-      },
-      {
-        "id": "335361d55cada6bd",
-        "title": "MA(ECONOMICS)_162 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711333423263.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-11T10:01:02.940Z"
       }
     ]
