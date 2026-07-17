@@ -2165,9 +2165,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T09:29:39.991Z",
+    "lastUpdatedDate": "2026-07-17T12:45:07.053Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:aca7fe1be3cdfd42",
+        "title": "REVISED DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1wxN3dMDgSxqzjdz0yPotukNeixLvQak-/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
       {
         "id": "OVERALL:7e370cbd24a63b2e",
         "title": "CORRIGENDUM FOR UG NON-NEET INFORMATION BROCHURE - PART I - GENERAL INFORMATION - MERITORIOUS SPORTS PERSON (MSP) QUOTA",
@@ -2179,6 +2189,16 @@
         "detectedAt": "2026-07-17T09:29:39.991Z"
       },
       {
+        "id": "OVERALL:bc2b56f242ffe5c1",
+        "title": "B.TECH. LATERAL ENTRY SEAT MATRIX FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1FpcWLxtFtlPOVdTqmSxT_RU5wxSpXYA0/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
+      {
         "id": "OVERALL:8847cb3dafb6add0",
         "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
         "link": "https://drive.google.com/file/d/1FvGDHgNmDn9WJhFqLwDlC3xJlQDFgAGs/view?usp=sharing",
@@ -2187,6 +2207,16 @@
         "source": "OVERALL",
         "batchIndex": 1,
         "detectedAt": "2026-07-17T09:29:39.991Z"
+      },
+      {
+        "id": "OVERALL:5f21bd0792b0779e",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ahzuXfY1JjCGN77CvUxUCZnSuIeBaHEa/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
       },
       {
         "id": "OVERALL:877b49afbf159ce8",
@@ -2339,33 +2369,83 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:455e50f861a53f57",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
-        "date": "01/07/2026",
+        "id": "B.TECH. LATERAL ENTRY:aca7fe1be3cdfd42",
+        "title": "REVISED DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1wxN3dMDgSxqzjdz0yPotukNeixLvQak-/view?usp=sharing",
+        "date": "17/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 5,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 110,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:bc2b56f242ffe5c1",
+        "title": "B.TECH. LATERAL ENTRY SEAT MATRIX FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1FpcWLxtFtlPOVdTqmSxT_RU5wxSpXYA0/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 111,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:5f21bd0792b0779e",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ahzuXfY1JjCGN77CvUxUCZnSuIeBaHEa/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 112,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:c8e6adca79665eed",
+        "title": "LAST DATE FOR SUBMITTING OBJECTIONS, IF ANY, FOR UG B.T.ECH. LATERAL ENTRY HAS BEEN EXTENDED UPTO 04/07/2026,, 11.00 A.M.",
+        "link": "https://centacpuducherry.in/#",
+        "date": "04/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 91,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:b466061792a735c4",
-        "title": "PRESS RELEASE (ENGLISH) : B.SC. NURSING ENTRANCE EXAMINATION (PNET - 2026) - DOWNLOADING HALL TICKET / ADMIT CARD - REG",
-        "link": "https://drive.google.com/file/d/1r07n6D7jr2QPBWxFAsnTVMigQT7OKIt_/view?usp=sharing",
-        "date": "30/06/2026",
+        "id": "B.TECH. LATERAL ENTRY:288442f0ef7e1752",
+        "title": "DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1uKGnF09HDpwGZNfrasvZYYBoMe_JW6Lw/view?usp=sharing",
+        "date": "24/06/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 8,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 92,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:d405ef63e418afeb",
-        "title": "NOTICE : ADMISSION NOTIFICATION UG NON-NEET PROFESSIONALCOURSE - B.ARCH. FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1uud68meycRisSOeRdbNtWLzUBCUfpoLO/view?usp=sharing",
-        "date": "25/06/2026",
+        "id": "B.TECH. LATERAL ENTRY:7c8484284ae4e723",
+        "title": "PRESS RELEASE : DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Vg-2zWVUR0UX2oCazHhbScaS6n1iYQ6A/view?usp=sharing",
+        "date": "24/06/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 9,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 93,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:afc53e327bc35877",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1yHzS1HNIGkiHF966u2nYetnaP9LTAZ7Z/view?usp=sharing",
+        "date": "05/06/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 94,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:09030f7f9614265a",
+        "title": "NOTICE : ADMISSION NOTIFICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1IGXtQzE15Ud6VVy5VUWnJ5yFE6L0WRFO/view?usp=sharing",
+        "date": "25/05/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 95,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -2655,56 +2735,6 @@
         "sortTs": null,
         "source": "B.ARCH.",
         "batchIndex": 90,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:c8e6adca79665eed",
-        "title": "LAST DATE FOR SUBMITTING OBJECTIONS, IF ANY, FOR UG B.T.ECH. LATERAL ENTRY HAS BEEN EXTENDED UPTO 04/07/2026,, 11.00 A.M.",
-        "link": "https://centacpuducherry.in/#",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 91,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:288442f0ef7e1752",
-        "title": "DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1uKGnF09HDpwGZNfrasvZYYBoMe_JW6Lw/view?usp=sharing",
-        "date": "24/06/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 92,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:7c8484284ae4e723",
-        "title": "PRESS RELEASE : DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Vg-2zWVUR0UX2oCazHhbScaS6n1iYQ6A/view?usp=sharing",
-        "date": "24/06/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 93,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:afc53e327bc35877",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1yHzS1HNIGkiHF966u2nYetnaP9LTAZ7Z/view?usp=sharing",
-        "date": "05/06/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 94,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:09030f7f9614265a",
-        "title": "NOTICE : ADMISSION NOTIFICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1IGXtQzE15Ud6VVy5VUWnJ5yFE6L0WRFO/view?usp=sharing",
-        "date": "25/05/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 95,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       }
     ]
@@ -3100,9 +3130,39 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-10T12:29:25.757Z",
+    "lastUpdatedDate": "2026-07-17T12:45:02.404Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:1738fb20890e3653",
+        "title": "NOTICE FOR EXTENSION OF LAST DATE FOR DOCUMENT UPLOAD PAYMENT OF SEAT ACCEPTANCE FEE FOR 1st ROUND ALLOTTED CANDIDATES UNDER M.TECH/M.ARCH/M.PLAN/MBA/MCA/MSc.CompSc./MBA(Working Professional)PROGRAMME",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260713949591022.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T12:45:02.404Z"
+      },
+      {
+        "id": "OJEE:12f23d385f69818b",
+        "title": "URGENT NOTICE: DOCUMENT VERIFICATION DISCREPANCIES ATTENTION ,CANDIDATES PARTCIPATED FOR B.TECH./B.ARCH/B.PLAN/B.CAT/Int MSC.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607131017720276.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-17T12:45:02.404Z"
+      },
+      {
+        "id": "OJEE:205a67f6398cf3cd",
+        "title": "NOTICE FOR EXTENSION OF LAST DATE FOR WITHDRAWAL OF SEATS / EXIT FROM SEAT ALLOCATION PROCESS FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.TECH./B.ARCH./B.PLAN./INT.M.SC. PROGRAMMES",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607121544268647.pdf",
+        "date": "12/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-17T12:45:02.404Z"
+      },
       {
         "id": "OJEE:c4cd184bc62a8d3b",
         "title": "NOTICE FOR WORKING PROFESSIONALS",
@@ -3271,36 +3331,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:1d81d19cf3fcfaca",
-        "title": "Date Extension for Answer Key Challenge",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260518872949132.pdf",
-        "date": "18/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:6512d43bc2f68cbd",
-        "title": "Steps to view Question paper and Raise Objection",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260516767022405.pdf",
-        "date": "16/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a39a13f11b2c0786",
-        "title": "Revised Public Notice regarding Display of Provisional Answer Keys and Question Paper with Recorded Responses for Answer Key Challenge",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/05/20260514830107077.pdf",
-        "date": "14/05/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 16,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
@@ -4916,9 +4946,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T11:08:20.930Z",
+    "lastUpdatedDate": "2026-07-17T12:44:10.998Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "63c6bce08dbab809",
+        "title": "Schedule of 2nd Counselling M.Tech(AI&DS) followed by Open House Counselling A.S: 2026-27_dated-17.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717297046847.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T12:44:10.998Z"
+      },
       {
         "id": "51509afbb5ff15c7",
         "title": "Tentative Merit/Rank List for B.Arch Programme (Code 100) A.S: 2026-27_dated-17.07.2026",
@@ -5089,15 +5128,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-11T11:16:34.336Z"
-      },
-      {
-        "id": "a05a183569638c79",
-        "title": "BHMCT_127 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260711429636215.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-11T10:01:02.940Z"
       }
     ]
   },
