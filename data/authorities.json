@@ -799,9 +799,18 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:32.898Z",
+    "lastUpdatedDate": "2026-07-17T07:20:47.362Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "53033b36bc5ed40d",
+        "title": "Notification No - 006 - LAST DATE OF APPLICATION FOR MBBS & BDS 2026-2027",
+        "link": "https://tnmedicalselection.net/news/16072026232237.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T07:20:47.362Z"
+      },
       {
         "id": "0c3a13f0b4635549",
         "title": "NOTIFICATION-005 - KIND ATTENTION TO THE 7.5 PREFERENTIAL QUOTA CANDIDATES 2026-2027",
@@ -3970,7 +3979,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T14:35:20.173Z",
+    "lastUpdatedDate": "2026-07-17T07:22:10.919Z",
     "pinned": false,
     "notices": [
       {
@@ -4001,6 +4010,15 @@
         "detectedAt": "2026-07-15T14:22:33.737Z"
       },
       {
+        "id": "2dfed1eeef34960b",
+        "title": "Prospectus for B.Sc Nursing course for academic session 2026-2027",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/final-prospectus-for-B.Sc-Nursing-courses-2026-27-1.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T07:22:10.919Z"
+      },
+      {
         "id": "c89dfe5a365ccf7d",
         "title": "Prospectus for B.Sc Nursing course for academic session 2026-2027",
         "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/final-prospectus-for-B.Sc-Nursing-courses-2026-27.pdf",
@@ -4008,6 +4026,15 @@
         "sortTs": 1782864000000,
         "batchIndex": 0,
         "detectedAt": "2026-07-16T14:35:20.173Z"
+      },
+      {
+        "id": "431e253bf828e6b0",
+        "title": "Post Basic B.SC Nursing Prospectus for academic session 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Final-Post-basic-b.sc-nursing-prospectus-2026.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-17T07:22:10.919Z"
       },
       {
         "id": "01815669a5647afd",
