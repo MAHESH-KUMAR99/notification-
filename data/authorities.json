@@ -255,9 +255,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T16:20:01.024Z",
+    "lastUpdatedDate": "2026-07-17T09:28:03.110Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1006",
+        "title": "17/07/2026 - Determination of Eligibility for Teaching Positions under the Medical Institutions (Qualifications of Faculty) Regulations, 2025 (MIQF - 2025).",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_Merged_PGMEB_TEQ.pdf",
+        "date": "17/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T09:28:03.110Z"
+      },
       {
         "id": "nmc-1005",
         "title": "16/07/2026 - Call for Proposals:\"Research for Strengthening and Enhancing Quality of Medical Education\" - A Joint Initiative of ICMR and NMC - 2026",
@@ -408,14 +416,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Notification%20-%20GMER%20(Amendment)%202026%20(1).pdf",
         "date": "27/05/2026",
         "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-984",
-        "title": "22/05/2026 - Re-opening of Admission portal for submission of information relating to admissions made in Medical Colleges/Postgraduate Institutions through NEET-PG-2025 for the Academic Year 2025-26-reg.",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PubliceNotice_AdmissionPortalPG_merged.pdf",
-        "date": "22/05/2026",
-        "batchIndex": 14,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -2165,9 +2165,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T06:20:42.932Z",
+    "lastUpdatedDate": "2026-07-17T09:29:39.991Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7e370cbd24a63b2e",
+        "title": "CORRIGENDUM FOR UG NON-NEET INFORMATION BROCHURE - PART I - GENERAL INFORMATION - MERITORIOUS SPORTS PERSON (MSP) QUOTA",
+        "link": "https://drive.google.com/file/d/1VMKbRGMR-eEl7PZlMReDBGWGOvJFepQw/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T09:29:39.991Z"
+      },
+      {
+        "id": "OVERALL:8847cb3dafb6add0",
+        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
+        "link": "https://drive.google.com/file/d/1FvGDHgNmDn9WJhFqLwDlC3xJlQDFgAGs/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-17T09:29:39.991Z"
+      },
       {
         "id": "OVERALL:877b49afbf159ce8",
         "title": "PHASE - I - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
@@ -2349,24 +2369,24 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:8ab6a696489dd241",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF OBJECTIONS FOR THE REVISED DRAFT MERIT LIST FOR UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1jwcJEAypBV49UipVxmWTkcekPmt4y9my/view?usp=sharing",
-        "date": "25/06/2026",
+        "id": "UG NON-NEET:7e370cbd24a63b2e",
+        "title": "CORRIGENDUM FOR UG NON-NEET INFORMATION BROCHURE - PART I - GENERAL INFORMATION - MERITORIOUS SPORTS PERSON (MSP) QUOTA",
+        "link": "https://drive.google.com/file/d/1VMKbRGMR-eEl7PZlMReDBGWGOvJFepQw/view?usp=sharing",
+        "date": "17/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 59,
+        "detectedAt": "2026-07-17T09:29:39.991Z"
       },
       {
-        "id": "OVERALL:288442f0ef7e1752",
-        "title": "DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1uKGnF09HDpwGZNfrasvZYYBoMe_JW6Lw/view?usp=sharing",
-        "date": "24/06/2026",
+        "id": "UG NON-NEET:8847cb3dafb6add0",
+        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
+        "link": "https://drive.google.com/file/d/1FvGDHgNmDn9WJhFqLwDlC3xJlQDFgAGs/view?usp=sharing",
+        "date": "17/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 60,
+        "detectedAt": "2026-07-17T09:29:39.991Z"
       },
       {
         "id": "UG NON-NEET:877b49afbf159ce8",
@@ -2546,25 +2566,6 @@
         "source": "UG NON-NEET",
         "batchIndex": 60,
         "detectedAt": "2026-07-08T11:32:51.578Z"
-      },
-      {
-        "id": "UG NON-NEET:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "detectedAt": "2026-07-08T12:06:51.655Z"
-      },
-      {
-        "id": "UG NON-NEET:817f9eb634f2ebef",
-        "title": "B.SC NURSING COMMON ENTRANCE TEST SCHEDULED ON 14.06.2026, STANDS POSTPONED AND THE FRESH DATE WILL BE ANNOUNCED - DMS OFFICE",
-        "link": "https://centacpuducherry.in/#",
-        "date": "14/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 61,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
         "id": "PG DENTAL:b03459a68004b737",
@@ -3979,7 +3980,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T07:22:10.919Z",
+    "lastUpdatedDate": "2026-07-17T09:29:41.276Z",
     "pinned": false,
     "notices": [
       {
@@ -4008,6 +4009,15 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "1e027db9a8322b56",
+        "title": "Notice for submission of valid certificates by candidates applying for B.Sc(N), Post Basic B.Sc(N) and M.Sc(N) courses Entrance Examinations session 2026-2027",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/submission-of-valid-certificates-by-candidate-for-nursing-2026.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T09:29:41.276Z"
       },
       {
         "id": "2dfed1eeef34960b",
