@@ -2165,9 +2165,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T12:45:07.053Z",
+    "lastUpdatedDate": "2026-07-17T16:19:50.872Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:91e682bbf093111b",
+        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
       {
         "id": "OVERALL:aca7fe1be3cdfd42",
         "title": "REVISED DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
@@ -2187,6 +2197,16 @@
         "source": "OVERALL",
         "batchIndex": 0,
         "detectedAt": "2026-07-17T09:29:39.991Z"
+      },
+      {
+        "id": "OVERALL:dcab0b481a444ef9",
+        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
       },
       {
         "id": "OVERALL:bc2b56f242ffe5c1",
@@ -2349,23 +2369,63 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:36fe37a2d9660b07",
+        "id": "FINE ARTS:91e682bbf093111b",
+        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 106,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:dcab0b481a444ef9",
+        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 107,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:36fe37a2d9660b07",
         "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
         "date": "02/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 3,
+        "source": "FINE ARTS",
+        "batchIndex": 85,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:495903426637da71",
-        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
-        "date": "01/07/2026",
+        "id": "FINE ARTS:0849b5615f7a110f",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
+        "date": "04/06/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 4,
+        "source": "FINE ARTS",
+        "batchIndex": 86,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:598c7bc87aa95b13",
+        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
+        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
+        "date": "01/06/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 87,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:0e33385a9ea4a9bc",
+        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
+        "date": "22/05/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 88,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -2675,46 +2735,6 @@
         "sortTs": null,
         "source": "PG DENTAL",
         "batchIndex": 49,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:36fe37a2d9660b07",
-        "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
-        "date": "02/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 85,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0849b5615f7a110f",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 86,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:598c7bc87aa95b13",
-        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
-        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
-        "date": "01/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 87,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0e33385a9ea4a9bc",
-        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
-        "date": "22/05/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 88,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -4946,9 +4966,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T12:44:10.998Z",
+    "lastUpdatedDate": "2026-07-17T16:19:02.397Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4e447f09877800cb",
+        "title": "Schedule of activities pursuant to declaration of result of Round 02 B.Tech/ LLB/ BBA Programme for the Academic Session: 2026-27_dated-17.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717436075304.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T16:19:02.397Z"
+      },
       {
         "id": "63c6bce08dbab809",
         "title": "Schedule of 2nd Counselling M.Tech(AI&DS) followed by Open House Counselling A.S: 2026-27_dated-17.07.2026",
@@ -4966,6 +4995,15 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-17T11:08:20.930Z"
+      },
+      {
+        "id": "3f5f8846f10efb51",
+        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING LLB (3 YEAR) (CODE-238) ADMISSION SESSION: 2026-27_dated-17.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717118374213.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-17T16:19:02.397Z"
       },
       {
         "id": "ffbe0a1361084d22",
@@ -5110,24 +5148,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-13T07:49:46.605Z"
-      },
-      {
-        "id": "7c897039597d9995",
-        "title": "Schedule of 2nd Offline Counselling ADCGC (CET CODE-175) Admission Session:2026-27_dated-13.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131169075618.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-13T07:49:46.605Z"
-      },
-      {
-        "id": "87b01501e22cdafb",
-        "title": "B.Sc(YOGA)_187 Seat Status after the end of 1st Round of offline Counselling 2026-27_dated-11.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607111662117469.pdf",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-11T11:16:34.336Z"
       }
     ]
   },
@@ -5478,7 +5498,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T04:44:06.839Z",
+    "lastUpdatedDate": "2026-07-17T16:19:14.312Z",
     "pinned": false,
     "notices": [
       {
@@ -5498,6 +5518,15 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "113edd40b79e4572",
+        "title": "Advertisement for Teaching Faculty in the 2 (two) Upgraded College of Nursing | Online Application Form",
+        "link": "https://www.meghealth.gov.in/news/DHSMER-Upgradation-CON-20254-Pt-4077%20-Advertisement%20PDF.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T16:19:14.312Z"
       },
       {
         "id": "b17ebf315c61f626",
@@ -5650,15 +5679,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "239bdf49a5f5a3ca",
-        "title": "Advertisement for post of Cath Lab Technician under Meghalayan Medical Drugs & Services Ltd",
-        "link": "https://www.meghealth.gov.in/news/MMDSL_Ad%20with%20TOR_Cath%20Lab.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 15,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
