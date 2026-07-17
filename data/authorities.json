@@ -5402,9 +5402,18 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T16:20:57.291Z",
+    "lastUpdatedDate": "2026-07-17T04:44:06.839Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "de28af1d95f8e21e",
+        "title": "Notice - Shortlist Candidates for the Written Examination for the post of Radiology Technologist at the Centre for Evolution, under R.P. Chest Hospital, Shillong",
+        "link": "https://www.meghealth.gov.in/news/Notice_%20Shortlisted%20Candidates%20for%20the%20Post%20of%20Radiology%20Technologist_Written%20Examination.pdf",
+        "date": null,
+        "sortTs": 20121782400000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-17T04:44:06.839Z"
+      },
       {
         "id": "087dd4f7f2d79c10",
         "title": "Notice - Shortlist Candidayes for the Written Examination for the post of Radiology Technologist at the Centre for Evolution, under R.P. Chest Hospital, Shillong",
@@ -5574,15 +5583,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "57736736f359486e",
-        "title": "Notice - Sanction of Stipend/Book Grant for B.Pharm./B.Sc. MLT/B.Sc. RIT/B.Sc. OPT/B.Sc. RICI courses batches 2019-19 to 2023-24 from RIPANS, Aizawl",
-        "link": "https://www.meghealth.gov.in/news/DHSMER-Para-Med-Stipend-11-2026-3197.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 16,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
