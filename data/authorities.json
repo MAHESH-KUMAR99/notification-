@@ -5893,9 +5893,18 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T14:34:38.597Z",
+    "lastUpdatedDate": "2026-07-18T06:30:11.500Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "31693ddeeb34ef26",
+        "title": "Notification NEET UG 2026 form/score card submission extended",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-extension-NEET-UG-last-date-2026.pdf",
+        "date": "18/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-18T06:30:11.500Z"
+      },
       {
         "id": "22e4dd03b58c4e72",
         "title": "Schedule for CSAB-NEUT2026",
@@ -6065,15 +6074,6 @@
         "date": "22/05/2026",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "620b3d8313b32f9b",
-        "title": "Notification CUET 2026-27",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/05/Notification-cuet-2026.pdf",
-        "date": "21/05/2026",
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
