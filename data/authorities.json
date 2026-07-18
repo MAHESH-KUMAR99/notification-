@@ -5363,9 +5363,20 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-18T00:58:46.185Z",
+    "lastUpdatedDate": "2026-07-18T14:02:11.861Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c5a87c201bde2b76",
+        "title": "സ്വാശ്രയ എൻജിനീയറിങ് കോളേജുകൾ - പലിശ രഹിത ഡിപ്പോസിറ്റ് - വ്യവസ്ഥ ഒഴിവാക്കി",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/130/Upload3",
+        "date": "18/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Self-supporting engineering colleges - interest free deposit - provision waived",
+        "titleLang": "ml",
+        "detectedAt": "2026-07-18T14:02:11.861Z"
+      },
       {
         "id": "337ea76124dcde83",
         "title": "SECOND PHASE ALLOTMENT TO ENGINEERING COURSES AND FIRST PHASE ALLOTMENT TO ARCHITECTURE COURSE - PROVISIONAL ALLOTMENT LIST PUBLISHED",
@@ -5374,6 +5385,15 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-18T00:58:46.185Z"
+      },
+      {
+        "id": "58695f9be1c2fddf",
+        "title": "Engg. Colleges -- Revision of fee structure",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/129/Upload1",
+        "date": "18/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-18T14:02:11.861Z"
       },
       {
         "id": "599eb5d9878d7638",
@@ -5536,24 +5556,6 @@
         "batchIndex": 0,
         "titleEn": "Engineering: The first phase provisional allotment list has been published for verification.",
         "titleLang": "ml",
-        "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "6fd3fa14221bdba1",
-        "title": "ENGINEERING: TRIAL ALLOTMENT PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/allotlist",
-        "date": "06/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "b00deb0ecb7e48ef",
-        "title": "Centralised Allotment Process For Engineering Courses Online Options Invited- Date Extended",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/92/Upload1",
-        "date": "06/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-08T09:36:55.009Z"
       }
     ]
