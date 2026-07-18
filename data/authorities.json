@@ -126,7 +126,7 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T19:18:00.587Z",
+    "lastUpdatedDate": "2026-07-18T11:13:14.478Z",
     "pinned": true,
     "notices": [
       {
@@ -245,6 +245,69 @@
         "sortTs": null,
         "batchIndex": 6,
         "detectedAt": "2026-07-08T09:35:42.709Z"
+      },
+      {
+        "id": "3774f7081e9f7928",
+        "title": "NTA Fully Prepared for Smooth and Secure Conduct of NEET (UG) 2026 Re-Examination on 21 June 2026-reg.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260619440433404.pdf",
+        "date": "19/06/2026",
+        "sortTs": null,
+        "batchIndex": 13,
+        "detectedAt": "2026-07-18T11:13:14.478Z"
+      },
+      {
+        "id": "88f3e831ebdd1477",
+        "title": "National Testing Agency (NTA) – Official WhatsApp Updates for NEET (UG) 2026 Re- Examination",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260619457888100.pdf",
+        "date": "19/06/2026",
+        "sortTs": null,
+        "batchIndex": 14,
+        "detectedAt": "2026-07-18T11:13:14.478Z"
+      },
+      {
+        "id": "6bd9ee96759d3f35",
+        "title": "Change of Venue of Examination for Candidates Scheduled to Appear in Harivansh Rai Bachchan Cultural Centre; University of Allahabad, Prayagraj (UP) for NEET(UG) 2026, Scheduled on 21 June 2026 – reg.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260619304486804.pdf",
+        "date": "19/06/2026",
+        "sortTs": null,
+        "batchIndex": 15,
+        "detectedAt": "2026-07-18T11:13:14.478Z"
+      },
+      {
+        "id": "9a81b06d59e64863",
+        "title": "Advisory for Biometric Verification and Exception Protocol for NEET (UG)-2026 Re Examination- reg.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260618620515611.pdf",
+        "date": "18/06/2026",
+        "sortTs": null,
+        "batchIndex": 16,
+        "detectedAt": "2026-07-18T11:13:14.478Z"
+      },
+      {
+        "id": "1bc66053a76f0f0a",
+        "title": "Advisory for Candidates Regarding Dress Code and Permissible Items at Examination Centres for NEET (UG) 2026 Re-Examination – reg.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260618310811791.pdf",
+        "date": "18/06/2026",
+        "sortTs": null,
+        "batchIndex": 17,
+        "detectedAt": "2026-07-18T11:13:14.478Z"
+      },
+      {
+        "id": "9e8a6ae7a9454357",
+        "title": "Downloading of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026, Scheduled on 21 June 2026- reg.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260617412348097.pdf",
+        "date": "17/06/2026",
+        "sortTs": null,
+        "batchIndex": 18,
+        "detectedAt": "2026-07-18T11:13:14.478Z"
+      },
+      {
+        "id": "dc75bebd405e0d5d",
+        "title": "NTA Launches Dedicated Platform to Report Suspicious Claims Regarding NEET (UG)- 2026 Examination-reg.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/2026061533684089.pdf",
+        "date": "15/06/2026",
+        "sortTs": null,
+        "batchIndex": 19,
+        "detectedAt": "2026-07-18T11:13:14.478Z"
       }
     ]
   },
