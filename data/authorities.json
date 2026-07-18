@@ -599,9 +599,31 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-09T05:42:54.357Z",
+    "lastUpdatedDate": "2026-07-18T08:24:25.743Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "26d3e953417d1fa8",
+        "title": "શૈક્ષાણિક વર્ષ ૨૦૨૬-૨૭ માટે મેડિકલ /ડેન્ટલ સ્નાતક અભ્યાસક્રમમાં પ્રવેશ માટેની ઓનલાઈન રજીસ્ટ્રેશન ની કાર્યવાહી ટૂંક સમય માં ચાલુ કરવામાં આવશે. [Online registration process for admission to Medical/Dental undergraduate courses for the academic year 2026-27 will begin shortly.]",
+        "link": null,
+        "date": "18/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "The online registration process for admission to Medical/Dental Graduation Course for the academic year 2026-27 will be launched soon. [Online registration process for admission to Medical/Dental undergraduate courses for the academic year 2026-27 will begin shortly.]",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-18T08:24:25.743Z"
+      },
+      {
+        "id": "7a604a663926b62e",
+        "title": "ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રો ની યાદી (List of Documents Required for Admission Process of ACPUGMEC)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
+        "date": "18/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "titleEn": "List of Documents Required for Admission Process of ACPUGMEC",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-18T08:24:25.743Z"
+      },
       {
         "id": "44629d6749c54773",
         "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.20/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
@@ -770,24 +792,6 @@
         "date": "12/06/2026",
         "sortTs": null,
         "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "02a834d565f5c60b",
-        "title": "List of the unsuccessful candidates whose Tuition fee is not Refunded in Round 4",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_fail_UGR4.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "2d3e4a5f5399424a",
-        "title": "List of the unsuccessful candidates whose Tuition fee is not Refunded in Round 5",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_fail_UGR5.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:11.871Z"
       }
     ]
