@@ -5296,9 +5296,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T08:21:54.411Z",
+    "lastUpdatedDate": "2026-07-18T00:58:46.185Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "337ea76124dcde83",
+        "title": "SECOND PHASE ALLOTMENT TO ENGINEERING COURSES AND FIRST PHASE ALLOTMENT TO ARCHITECTURE COURSE - PROVISIONAL ALLOTMENT LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/127/Upload1",
+        "date": "18/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-18T00:58:46.185Z"
+      },
       {
         "id": "599eb5d9878d7638",
         "title": "ആർക്കിടെക്ചർ കോഴ്‌സുകളിലേക്കുള്ള കമ്മ്യൂണിറ്റി ക്വാട്ട സീറ്റുകളിലെ പ്രവേശനം",
@@ -5478,15 +5487,6 @@
         "date": "06/07/2026",
         "sortTs": null,
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:55.009Z"
-      },
-      {
-        "id": "f7021ab96d9b0ce6",
-        "title": "Final Category List Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/90/Upload1",
-        "date": "05/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:55.009Z"
       }
     ]
