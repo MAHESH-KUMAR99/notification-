@@ -126,9 +126,18 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-18T11:13:14.478Z",
+    "lastUpdatedDate": "2026-07-20T05:07:31.742Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "aa3a5994e7745498",
+        "title": "Notice on Fake, Altered, or AI-Generated NEET (UG) 2026 Documents",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/202607201141028453.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-20T05:07:31.742Z"
+      },
       {
         "id": "3029bac59087930d",
         "title": "KEY DATA POINTS OF NEET (UG) OVER YEARS",
@@ -298,15 +307,6 @@
         "date": "17/06/2026",
         "sortTs": null,
         "batchIndex": 18,
-        "detectedAt": "2026-07-18T11:13:14.478Z"
-      },
-      {
-        "id": "dc75bebd405e0d5d",
-        "title": "NTA Launches Dedicated Platform to Report Suspicious Claims Regarding NEET (UG)- 2026 Examination-reg.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/2026061533684089.pdf",
-        "date": "15/06/2026",
-        "sortTs": null,
-        "batchIndex": 19,
         "detectedAt": "2026-07-18T11:13:14.478Z"
       }
     ]
