@@ -3228,9 +3228,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T12:45:02.404Z",
+    "lastUpdatedDate": "2026-07-20T11:24:42.976Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:6906657b61a9920b",
+        "title": "Notice for extension of last date for payment of part admission fees for B.Tech/B.Arch/B.Plan/Int.MSc (2nd Round)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607201663395720.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-20T11:24:42.976Z"
+      },
       {
         "id": "OJEE:1738fb20890e3653",
         "title": "NOTICE FOR EXTENSION OF LAST DATE FOR DOCUMENT UPLOAD PAYMENT OF SEAT ACCEPTANCE FEE FOR 1st ROUND ALLOTTED CANDIDATES UNDER M.TECH/M.ARCH/M.PLAN/MBA/MCA/MSc.CompSc./MBA(Working Professional)PROGRAMME",
@@ -3419,16 +3429,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f555e723e574cf57",
-        "title": "Notice for Online Application for 2nd/Special OJEE-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616757048993.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 13,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
@@ -5044,9 +5044,45 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T16:19:02.397Z",
+    "lastUpdatedDate": "2026-07-20T11:24:05.472Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f302377141756fac",
+        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING B.PHARM (CODE-133) THROUGH THE MERIT OF CET 2026 A.S:2026-27_dated-20.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607201386712137.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-20T11:24:05.472Z"
+      },
+      {
+        "id": "427d7703a2ab7213",
+        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING B.MRIT(CODE-134) FOLLOWED BY OPEN HOUSE A.S:2026-27_dated-20.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607201690357836.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-20T11:24:05.472Z"
+      },
+      {
+        "id": "64cb4300466b54c5",
+        "title": "Schedule of activities partaining to declaration of result of Round 01 MCA (NIMCET 2026/ CET 2026) (Code-105) A.S: 2026-27_dated-20.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260720719487069.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-20T11:24:05.472Z"
+      },
+      {
+        "id": "86de09bfd28d5b78",
+        "title": "SCHEDULE FOR VERIFICATION BA B.ED. (CODE-161 DOCUMENT FOR PREPARATION OF MERIT FOR ADMISSION SESSION 2026-27_dated-20.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607201268193523.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-20T11:24:05.472Z"
+      },
       {
         "id": "4e447f09877800cb",
         "title": "Schedule of activities pursuant to declaration of result of Round 02 B.Tech/ LLB/ BBA Programme for the Academic Session: 2026-27_dated-17.07.2026",
@@ -5190,42 +5226,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:10.300Z"
-      },
-      {
-        "id": "1810752ad6d67b71",
-        "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR B.TECH, MCA, MA ENG, BA ENG, BA ECO, B PHARMA, MS MICROBIOLOGY, BA LIBERAL ARTS, BA.B.ED., BAJMC & B.SC / M.SC P/C/M.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260714803820991.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-14T10:19:18.383Z"
-      },
-      {
-        "id": "f9b796ec09f3e791",
-        "title": "LLB (3 Year) (CODE-238) Seat Status of after the End of 1st Round of offline Counselling 2026.27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131105253681.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-13T13:41:14.753Z"
-      },
-      {
-        "id": "7b596c80155664b0",
-        "title": "Schedule 1st Offline Counselling BA B.Ed. (Code-161) Admission Session:2026-27_dated-13.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260713216267429.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-13T11:17:33.117Z"
-      },
-      {
-        "id": "74a2c7a793ebd74d",
-        "title": "Schedule of 1st Counselling M.Ed. (Special Education) (ID) , CET CODE-612 Admission Session: 2026-27_dated-13.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607131299994140.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-13T07:49:46.605Z"
       }
     ]
   },
@@ -5971,9 +5971,36 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-18T06:30:11.500Z",
+    "lastUpdatedDate": "2026-07-20T11:24:08.162Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d8c5dcbc77ee18d5",
+        "title": "Notification CUET",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/CUET-2026.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-20T11:24:08.162Z"
+      },
+      {
+        "id": "cdccb906f3b69ce2",
+        "title": "CUET MERIT LIST 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Final-Merit-List-selected-under-CUET-UG-2026-20th-July-2026.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-20T11:24:08.162Z"
+      },
+      {
+        "id": "a6a5d01255f1624e",
+        "title": "CUET rejected list 2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Rejected-List-CUET-UG-2026-20th-July-2026.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-20T11:24:08.162Z"
+      },
       {
         "id": "31693ddeeb34ef26",
         "title": "Notification NEET UG 2026 form/score card submission extended",
@@ -6125,33 +6152,6 @@
         "date": "16/06/2026",
         "sortTs": null,
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "ab79a0da09788aa4",
-        "title": "Notification for ITI Lateral Entry into Polytechnics 2026-27",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/06/ITI-lateral-admission-notice.pdf",
-        "date": "02/06/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "bb0986c9181e8174",
-        "title": "Notification for Diploma outside the State",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/05/Diploma-outside-Notification-2026.pdf",
-        "date": "29/05/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "950c52d1e2324765",
-        "title": "Notification Private Counselling",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/05/Notification-Private-counselling.pdf",
-        "date": "22/05/2026",
-        "sortTs": null,
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
