@@ -126,9 +126,18 @@
     "category": "central",
     "officialLink": "https://neet.nta.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T05:07:31.742Z",
+    "lastUpdatedDate": "2026-07-20T08:25:17.129Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "696a187f48ec9b0d",
+        "title": "Claims regarding OMR answer sheets of NEET (UG) 2026 being circulated on social media.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260720623209264.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-20T08:25:17.129Z"
+      },
       {
         "id": "aa3a5994e7745498",
         "title": "Notice on Fake, Altered, or AI-Generated NEET (UG) 2026 Documents",
@@ -298,15 +307,6 @@
         "date": "18/06/2026",
         "sortTs": null,
         "batchIndex": 17,
-        "detectedAt": "2026-07-18T11:13:14.478Z"
-      },
-      {
-        "id": "9e8a6ae7a9454357",
-        "title": "Downloading of Admit Cards for the Candidates of National Eligibility cum Entrance Test [NEET (UG)]-2026, Scheduled on 21 June 2026- reg.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260617412348097.pdf",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "batchIndex": 18,
         "detectedAt": "2026-07-18T11:13:14.478Z"
       }
     ]
@@ -3025,9 +3025,20 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T08:56:23.922Z",
+    "lastUpdatedDate": "2026-07-20T08:25:50.866Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d49c1976c7caa008",
+        "title": "नर्सिंग पाठ्यक्रम प्रवेश वर्ष 2026 के काउंसिलिंग प्रक्रिया में सम्मिलित होने के लिए संबधित संस्थाओं से आमंत्रित ऑनलाईन जानकारी में तिथि वृद्धि सूचना.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2141",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Date extension notice in the online information inviting concerned institutions to participate in the counseling process for Nursing course admission year 2026.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-20T08:25:50.866Z"
+      },
       {
         "id": "9eb89f548d497989",
         "title": "छत्तीसगढ़ राज्य के निजी नर्सिंग महाविद्यालयों हेतु बी.एस.सी. नर्सिंग एवं बी.एस.सी. नर्सिंग (पोस्ट बेसिक) पाठ्यक्रम की शुल्क अधिसूचना.....More",
@@ -5363,9 +5374,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-18T14:02:11.861Z",
+    "lastUpdatedDate": "2026-07-20T08:26:54.662Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d58dcc404504811b",
+        "title": "Centralised Second Phase Allotment To Engineering Courses And First Phase Allotment To Architecture Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/131/Upload1",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-20T08:26:54.662Z"
+      },
       {
         "id": "c5a87c201bde2b76",
         "title": "സ്വാശ്രയ എൻജിനീയറിങ് കോളേജുകൾ - പലിശ രഹിത ഡിപ്പോസിറ്റ് - വ്യവസ്ഥ ഒഴിവാക്കി",
@@ -5546,17 +5566,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-08T16:47:06.544Z"
-      },
-      {
-        "id": "dbdd6f575b108002",
-        "title": "Engineering: The first phase provisional allotment list has been published for verification.എഞ്ചിനീയറിംഗ്: ഒന്നാം ഘട്ട താൽക്കാലിക അലോട്ട്മെന്റ് പരിശോധനക്കായി പ്രസിദ്ധീകരിച്ചു.",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/94/Upload1",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Engineering: The first phase provisional allotment list has been published for verification.",
-        "titleLang": "ml",
-        "detectedAt": "2026-07-08T09:36:55.009Z"
       }
     ]
   },
