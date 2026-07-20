@@ -2234,9 +2234,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T16:19:50.872Z",
+    "lastUpdatedDate": "2026-07-20T18:09:37.876Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:f5bebac14e2e6ded",
+        "title": "NOTICE : SUBMISSION OF NEET SCORE CARD IN UG NON-NEET APPLICATION FOR B.SC. NURSING SELF-SUPPORTING SEATS & NRI SEATS",
+        "link": "https://drive.google.com/file/d/1UAYb-qqM42mLCcY5DtI7COAMq3ZIaSG3/view?usp=drivesdk",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-20T18:09:37.876Z"
+      },
       {
         "id": "OVERALL:91e682bbf093111b",
         "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
@@ -2428,154 +2438,14 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:c8e6adca79665eed",
-        "title": "LAST DATE FOR SUBMITTING OBJECTIONS, IF ANY, FOR UG B.T.ECH. LATERAL ENTRY HAS BEEN EXTENDED UPTO 04/07/2026,, 11.00 A.M.",
-        "link": "https://centacpuducherry.in/#",
-        "date": "04/07/2026",
+        "id": "UG NON-NEET:f5bebac14e2e6ded",
+        "title": "NOTICE : SUBMISSION OF NEET SCORE CARD IN UG NON-NEET APPLICATION FOR B.SC. NURSING SELF-SUPPORTING SEATS & NRI SEATS",
+        "link": "https://drive.google.com/file/d/1UAYb-qqM42mLCcY5DtI7COAMq3ZIaSG3/view?usp=drivesdk",
+        "date": "20/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:91e682bbf093111b",
-        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 106,
-        "detectedAt": "2026-07-17T16:19:50.872Z"
-      },
-      {
-        "id": "FINE ARTS:dcab0b481a444ef9",
-        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 107,
-        "detectedAt": "2026-07-17T16:19:50.872Z"
-      },
-      {
-        "id": "FINE ARTS:36fe37a2d9660b07",
-        "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
-        "date": "02/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 85,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0849b5615f7a110f",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 86,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:598c7bc87aa95b13",
-        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
-        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
-        "date": "01/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 87,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0e33385a9ea4a9bc",
-        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
-        "date": "22/05/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 88,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:aca7fe1be3cdfd42",
-        "title": "REVISED DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1wxN3dMDgSxqzjdz0yPotukNeixLvQak-/view?usp=sharing",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 110,
-        "detectedAt": "2026-07-17T12:45:07.053Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:bc2b56f242ffe5c1",
-        "title": "B.TECH. LATERAL ENTRY SEAT MATRIX FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1FpcWLxtFtlPOVdTqmSxT_RU5wxSpXYA0/view?usp=sharing",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 111,
-        "detectedAt": "2026-07-17T12:45:07.053Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:5f21bd0792b0779e",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1ahzuXfY1JjCGN77CvUxUCZnSuIeBaHEa/view?usp=sharing",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 112,
-        "detectedAt": "2026-07-17T12:45:07.053Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:c8e6adca79665eed",
-        "title": "LAST DATE FOR SUBMITTING OBJECTIONS, IF ANY, FOR UG B.T.ECH. LATERAL ENTRY HAS BEEN EXTENDED UPTO 04/07/2026,, 11.00 A.M.",
-        "link": "https://centacpuducherry.in/#",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 91,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:288442f0ef7e1752",
-        "title": "DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1uKGnF09HDpwGZNfrasvZYYBoMe_JW6Lw/view?usp=sharing",
-        "date": "24/06/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 92,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:7c8484284ae4e723",
-        "title": "PRESS RELEASE : DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Vg-2zWVUR0UX2oCazHhbScaS6n1iYQ6A/view?usp=sharing",
-        "date": "24/06/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 93,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:afc53e327bc35877",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1yHzS1HNIGkiHF966u2nYetnaP9LTAZ7Z/view?usp=sharing",
-        "date": "05/06/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 94,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:09030f7f9614265a",
-        "title": "NOTICE : ADMISSION NOTIFICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1IGXtQzE15Ud6VVy5VUWnJ5yFE6L0WRFO/view?usp=sharing",
-        "date": "25/05/2026",
-        "sortTs": null,
-        "source": "B.TECH. LATERAL ENTRY",
-        "batchIndex": 95,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 65,
+        "detectedAt": "2026-07-20T18:09:37.876Z"
       },
       {
         "id": "UG NON-NEET:7e370cbd24a63b2e",
@@ -2767,14 +2637,144 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "UG NON-NEET:ad62c49ef28d37a8",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hyRuGwJCDkYqdbZPxTzzhZF0teM4b54x/view?usp=sharing",
-        "date": "17/06/2026",
+        "id": "FINE ARTS:91e682bbf093111b",
+        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
+        "date": "17/07/2026",
         "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 60,
-        "detectedAt": "2026-07-08T11:32:51.578Z"
+        "source": "FINE ARTS",
+        "batchIndex": 106,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:dcab0b481a444ef9",
+        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 107,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:36fe37a2d9660b07",
+        "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
+        "date": "02/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 85,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:0849b5615f7a110f",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
+        "date": "04/06/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 86,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:598c7bc87aa95b13",
+        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
+        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
+        "date": "01/06/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 87,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:0e33385a9ea4a9bc",
+        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
+        "date": "22/05/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 88,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:aca7fe1be3cdfd42",
+        "title": "REVISED DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1wxN3dMDgSxqzjdz0yPotukNeixLvQak-/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 110,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:bc2b56f242ffe5c1",
+        "title": "B.TECH. LATERAL ENTRY SEAT MATRIX FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1FpcWLxtFtlPOVdTqmSxT_RU5wxSpXYA0/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 111,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:5f21bd0792b0779e",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ahzuXfY1JjCGN77CvUxUCZnSuIeBaHEa/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 112,
+        "detectedAt": "2026-07-17T12:45:07.053Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:c8e6adca79665eed",
+        "title": "LAST DATE FOR SUBMITTING OBJECTIONS, IF ANY, FOR UG B.T.ECH. LATERAL ENTRY HAS BEEN EXTENDED UPTO 04/07/2026,, 11.00 A.M.",
+        "link": "https://centacpuducherry.in/#",
+        "date": "04/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 91,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:288442f0ef7e1752",
+        "title": "DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1uKGnF09HDpwGZNfrasvZYYBoMe_JW6Lw/view?usp=sharing",
+        "date": "24/06/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 92,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:7c8484284ae4e723",
+        "title": "PRESS RELEASE : DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO UG B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Vg-2zWVUR0UX2oCazHhbScaS6n1iYQ6A/view?usp=sharing",
+        "date": "24/06/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 93,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:afc53e327bc35877",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1yHzS1HNIGkiHF966u2nYetnaP9LTAZ7Z/view?usp=sharing",
+        "date": "05/06/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 94,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:09030f7f9614265a",
+        "title": "NOTICE : ADMISSION NOTIFICATION FOR UG B.TECH. LATERAL ENTRY COURSES IN GOVERNMENT AND SELF-FINANCING COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1IGXtQzE15Ud6VVy5VUWnJ5yFE6L0WRFO/view?usp=sharing",
+        "date": "25/05/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 95,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
         "id": "PG DENTAL:b03459a68004b737",
