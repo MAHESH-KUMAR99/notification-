@@ -1914,9 +1914,20 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-14T11:56:26.098Z",
+    "lastUpdatedDate": "2026-07-20T15:30:59.252Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "34d3bf17c2a789c9",
+        "title": "Advt. No. 41 dated-20.07.2026 डिप्लोमा प्रवेश प्रतियोगिता परीक्षा (पाश्विक प्रवेश)-2026 के परीक्षाफल (Result) प्रकाशन एवं परीक्षाफल आधारित प्रथम एवं द्वितीय चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/749.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 41 dated-20.07.2026 Information related to publication of result of Diploma Entrance Competitive Examination (Lateral Entry)-2026 and organization of result based first and second round online interview.",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-20T15:30:59.252Z"
+      },
       {
         "id": "27344091d7144835",
         "title": "Advt. No. 34 dated-14.07.2026 शैक्षणिक सत्र 2026-28 में बी०एड०/एम०एड०/ बी०पी०एड० पाठ्यक्रम (B.Ed./M.Ed./B.P.Ed. Course) में नामांकन हेतु ऑनलाईन साक्षात्कारों से संबंधित महत्वपूर्ण सूचना",
@@ -2088,15 +2099,6 @@
         "date": "05/12/2025",
         "sortTs": null,
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "e2699733e8992315",
-        "title": "Advt. No. - 152 Dated :- 03/12/2025 Notice regarding Stray Round of Online Counselling for Post-Graduate (Homoeopathic) All India Seats of Devki Mahavir Homeopathic Medical College & Research Hospital, Garhwa on the basis of AIAPGET-2025 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/729.pdf",
-        "date": "03/12/2025",
-        "sortTs": null,
-        "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
