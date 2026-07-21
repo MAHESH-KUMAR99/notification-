@@ -3040,9 +3040,18 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T12:09:50.632Z",
+    "lastUpdatedDate": "2026-07-21T16:25:39.688Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "186bf9b173d2b3b8",
+        "title": "Final list of eligible candidates shortlisted for Document Verification and Interview after disposal of claims and objections for the post of Assistant Professor (Physiotherapy)......More",
+        "link": "https://www.cgdme.in/notice.php?id=2145",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-21T16:25:39.688Z"
+      },
       {
         "id": "0c8f5e5dcc3a4d5b",
         "title": "रूचि की अभिव्यक्ति क्र. 189345 (EOI No. 189345) मे Pre-Bid Clarification एवं निविदा अवधि मे वृद्धि सूचना |.....More",
@@ -3095,6 +3104,15 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-13T13:40:57.591Z"
+      },
+      {
+        "id": "1e9d38ee784bf7b8",
+        "title": "Resolution of all claims and objections received from 13 July 2026 to 17 July 2026 against the provisional merit list for the post of Assistant Professor (Physiotherapy)......More",
+        "link": "https://www.cgdme.in/notice.php?id=2144",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-21T16:25:39.688Z"
       },
       {
         "id": "ed31d8e2a349b05b",
@@ -3224,26 +3242,6 @@
         "sortTs": null,
         "batchIndex": 11,
         "titleEn": "Amendment notice of extension in the period of expression of interest (EOI No. 189345).....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "7c95301c00cabc2f",
-        "title": "Final Selected Candidates for the Post of Senior Resident (SR) and Junior Resident (JR) in New Medical Colleges.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2125",
-        "date": "18/06/2026",
-        "sortTs": null,
-        "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "de2d8bf40e3b8aeb",
-        "title": "नवीन शासकीय फिजियोथेरेपी महाविद्यालयों में प्राध्यापक, सह-प्राध्यापक, सहायक प्राध्यापक, प्रदर्शक, ट्यूटर के पदो पर संविदा भर्ती हेतु विज्ञापन ......More",
-        "link": "https://www.cgdme.in/notice.php?id=2124",
-        "date": "15/06/2026",
-        "sortTs": null,
-        "batchIndex": 13,
-        "titleEn": "Advertisement for contractual recruitment to the posts of professor, co-professor, assistant professor, demonstrator, tutor in new government physiotherapy colleges......More",
         "titleLang": "hi",
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
