@@ -5070,9 +5070,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T11:24:05.472Z",
+    "lastUpdatedDate": "2026-07-21T10:04:29.736Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "43429a827ceca832",
+        "title": "Opening of Fresh Registration MBA (CAT 2025/ CMAT 2026 ) ROUND 02 Choice Filling A.S: 2026-27_Dated-21.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607211621352296.pdf",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-21T10:04:29.736Z"
+      },
       {
         "id": "f302377141756fac",
         "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING B.PHARM (CODE-133) THROUGH THE MERIT OF CET 2026 A.S:2026-27_dated-20.07.2026",
@@ -5243,15 +5252,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-15T06:19:51.375Z"
-      },
-      {
-        "id": "16f20e4be2019c5a",
-        "title": "BBA INSTITUTES AVAILABLE FOR ROUND 02 FOR THE ACADEMIC SESSION 2026-27. DATED 14.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607141882638612.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-14T11:57:10.300Z"
       }
     ]
   },
