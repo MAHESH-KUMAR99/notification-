@@ -2247,9 +2247,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T18:09:37.876Z",
+    "lastUpdatedDate": "2026-07-21T14:36:57.761Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:6ade2ad2233753d5",
+        "title": "NOTICE : ADMISSION NOTIFICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES",
+        "link": "https://drive.google.com/file/d/1eJnMt2GxuaGHi0sI5Bg6uQ4r1da39w9W/view?usp=drivesdk",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-21T14:36:57.761Z"
+      },
+      {
+        "id": "OVERALL:def9b02cac405943",
+        "title": "NOTICE : ADMISSION NOTIFICATION FOR UG NON-NEET - BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) COURSE FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ZcWJqiFmbfe7ei5UYSYr-kjBrpRu_sss/view?usp=drivesdk",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-21T14:36:57.761Z"
+      },
       {
         "id": "OVERALL:f5bebac14e2e6ded",
         "title": "NOTICE : SUBMISSION OF NEET SCORE CARD IN UG NON-NEET APPLICATION FOR B.SC. NURSING SELF-SUPPORTING SEATS & NRI SEATS",
@@ -2431,24 +2451,14 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:8292f8c31a03c92b",
-        "title": "TO DOWNLOAD HALL TICKET FOR B.SC. NURSING ENTRANCE EXAMINATION, USE SMS OTP RECEIVED IN INBOX OR SPAM FOLDER",
-        "link": "https://centacpuducherry.in/#",
-        "date": "04/07/2026",
+        "id": "UG NON-NEET:def9b02cac405943",
+        "title": "NOTICE : ADMISSION NOTIFICATION FOR UG NON-NEET - BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) COURSE FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ZcWJqiFmbfe7ei5UYSYr-kjBrpRu_sss/view?usp=drivesdk",
+        "date": "21/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "OVERALL:f9c3df54dca3d67d",
-        "title": "LAST DATE FOR SUBMITTING OBJECTIONS, IF ANY, FOR UG NON-NEET COURSES HAS BEEN EXTENDED UPTO 04/07/2026,, 11.00 A.M.",
-        "link": "https://centacpuducherry.in/#",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 67,
+        "detectedAt": "2026-07-21T14:36:57.761Z"
       },
       {
         "id": "UG NON-NEET:f5bebac14e2e6ded",
@@ -2637,16 +2647,6 @@
         "sortTs": null,
         "source": "UG NON-NEET",
         "batchIndex": 57,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "UG NON-NEET:9ba9fbc1bca3c64b",
-        "title": "NOTICE : DRAFT MERIT LIST UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1cnmnyfps6BZoLGts9TEqNlUEDR_wQNtf/view?usp=sharing",
-        "date": "17/06/2026",
-        "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 58,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
