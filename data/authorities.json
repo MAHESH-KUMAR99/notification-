@@ -3040,9 +3040,20 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T13:27:38.612Z",
+    "lastUpdatedDate": "2026-07-21T12:09:50.632Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0c8f5e5dcc3a4d5b",
+        "title": "रूचि की अभिव्यक्ति क्र. 189345 (EOI No. 189345) मे Pre-Bid Clarification एवं निविदा अवधि मे वृद्धि सूचना |.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2143",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Expression of Interest Sl. 189345 (EOI No. 189345) Notice of Pre-Bid Clarification and Extension of Tender Period |.....More",
+        "titleLang": "sa",
+        "detectedAt": "2026-07-21T12:09:50.632Z"
+      },
       {
         "id": "c57e42e88c49e1f4",
         "title": "छत्तीसगढ़ एलाइड परिषद के सदस्यों को नामित करने हेतु प्राप्त आवेदनों की अंतिम पात्रता सूची।.....More",
@@ -3234,15 +3245,6 @@
         "batchIndex": 13,
         "titleEn": "Advertisement for contractual recruitment to the posts of professor, co-professor, assistant professor, demonstrator, tutor in new government physiotherapy colleges......More",
         "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "7d42119096dc1ad8",
-        "title": ": Chhattisgarh FMG Clinical Clerkship & Internship Counselling (April 2026 Session) – Round 2 Allotment Notice & List.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2123",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 14,
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
@@ -5070,9 +5072,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T10:04:29.736Z",
+    "lastUpdatedDate": "2026-07-21T12:10:08.255Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f3412f9fda0ff8d0",
+        "title": "REGARDING VALIDITY OF SUBMITTED DOCUMENTS VIZ-A-VIZ MARKSHEET(S)/CATEGORY CERTIFICATES SUCH AS SC/ST/OBC/DEFENCE/EWS/PWD ETC. A.S: 2026-27_dated-21.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607211721439468.pdf",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-21T12:10:08.255Z"
+      },
       {
         "id": "43429a827ceca832",
         "title": "Opening of Fresh Registration MBA (CAT 2025/ CMAT 2026 ) ROUND 02 Choice Filling A.S: 2026-27_Dated-21.07.2026",
@@ -5081,6 +5092,24 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-21T10:04:29.736Z"
+      },
+      {
+        "id": "8e7e496d7919438c",
+        "title": "WARNING AGAINST UPLOADING OF AI GENERATED CERTIFICATES ACADEMIC SESSION 2026-27_dated-21.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260721781089944.pdf",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-21T12:10:08.255Z"
+      },
+      {
+        "id": "cc26d7e135bf7218",
+        "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN UNDER GRADUATE COURSES A.S.2026-27_dated-21.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607212086262139.pdf",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-21T12:10:08.255Z"
       },
       {
         "id": "f302377141756fac",
@@ -5225,33 +5254,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-16T14:34:33.505Z"
-      },
-      {
-        "id": "8cc9a570397456de",
-        "title": "Schedule of 2nd Counselling B.Sc(Yoga) Code-117, M.Sc(Yoga) Code-187 Followed by Open House Counselling A.S:2026-27_dated-16.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716517829194.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-16T14:34:33.505Z"
-      },
-      {
-        "id": "c2726407d498d374",
-        "title": "TENTATIVE MERIT LIST “SINGLE GIRL CHILD” QUOTA FOR LLM, (Int) BA/BBA LLB, B.Design, B.Tech.(BT), B.Com(H), BBA, LLB(3 year). merit list of B.Arch, MBA and M.Arch will prepare at counselling venue A.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607151833804603.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-15T12:20:06.938Z"
-      },
-      {
-        "id": "79e7244a2ff0cb0b",
-        "title": "Extend Schedule of Round 2 Process- LLM, BCA,BA-LLB (H)/ BBA-LLB(H), B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA),B.TECH, B.COM(H), BA(ENGLISH),BA(ECONOMICS) A.S.2026-27.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260715230387130.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-15T06:19:51.375Z"
       }
     ]
   },
