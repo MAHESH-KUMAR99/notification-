@@ -662,9 +662,31 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-18T08:24:25.743Z",
+    "lastUpdatedDate": "2026-07-21T07:10:51.404Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7f1b126caa4ccab4",
+        "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.25/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
+        "link": null,
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "titleEn": "Students who have got admission in Graduate Medical/Dental/Ayurveda/Homeopathy/Cancelled admission/Not got admission/Not got refund of fee in 1st, 2nd, 3rd, 4th, 5th and 6th round and are eligible for tuition fee refund, their bank account details from 09/07/2026 Must be filled up to 05:00 PM on 25/07/2026.",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-21T07:10:51.404Z"
+      },
+      {
+        "id": "7fe740541d6118f1",
+        "title": "જે વિધાર્થીઓએ રૂ.૧૦,૦૦૦/- સિક્યુરિટી ડિપોઝિટ પરત લેવા માટે લાયક છે અને પ્રથમ,બીજા ત્રીજા,ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં સિક્યુરિટી ડિપોઝિટ પરત મેળવેલ નથી, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.25/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
+        "link": null,
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 13,
+        "titleEn": "Those students who are eligible to get back the security deposit of Rs.10,000/- and have not got the security deposit back in the first, second, third, fourth, fifth and sixth round, have to fill their bank account details from 09/07/2026 to 05:00 PM on 25/07/2026.",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-21T07:10:51.404Z"
+      },
       {
         "id": "26d3e953417d1fa8",
         "title": "શૈક્ષાણિક વર્ષ ૨૦૨૬-૨૭ માટે મેડિકલ /ડેન્ટલ સ્નાતક અભ્યાસક્રમમાં પ્રવેશ માટેની ઓનલાઈન રજીસ્ટ્રેશન ની કાર્યવાહી ટૂંક સમય માં ચાલુ કરવામાં આવશે. [Online registration process for admission to Medical/Dental undergraduate courses for the academic year 2026-27 will begin shortly.]",
@@ -838,24 +860,6 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "5666a395775f1209",
-        "title": "List of the unsuccessful candidates whose Tuition fee is not Refunded in Round 2",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_fail_UGR2.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "bd9e806573cc20ae",
-        "title": "List of the unsuccessful candidates whose Tuition fee is not Refunded in Round 3",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_fail_UGR3.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
       }
     ]
   },
@@ -866,9 +870,18 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T07:20:47.362Z",
+    "lastUpdatedDate": "2026-07-21T07:11:03.221Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bcb6e4a1bb70071c",
+        "title": "KIND ATTENTION TO THE PWD CANDIDATES 2026-2027",
+        "link": "https://tnmedicalselection.net/news/20072026230939.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-21T07:11:03.221Z"
+      },
       {
         "id": "53033b36bc5ed40d",
         "title": "Notification No - 006 - LAST DATE OF APPLICATION FOR MBBS & BDS 2026-2027",
@@ -5589,7 +5602,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T16:19:14.312Z",
+    "lastUpdatedDate": "2026-07-21T07:11:41.151Z",
     "pinned": false,
     "notices": [
       {
@@ -5609,6 +5622,15 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "3cbd743b196befd7",
+        "title": "Notice - Results of the Written Examination held for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong",
+        "link": "https://www.meghealth.gov.in/news/DHS-JDQC-CFE-26-12-Result%20for%20the%20written%20exam%20for%20th%20epost%20of%20Radiology%20Technologist.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-21T07:11:41.151Z"
       },
       {
         "id": "113edd40b79e4572",
@@ -5761,15 +5783,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "fb9a8a219805758f",
-        "title": "Notice - Cancellation of RFQ for “Procurement and institutional access of Digital Medical E-Book Collection for Shillong Medical College, Shillong",
-        "link": "https://www.meghealth.gov.in/news/RFP%20Cancellation%20Notice_SMC_eBooks.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 14,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
@@ -5984,9 +5997,18 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T11:24:08.162Z",
+    "lastUpdatedDate": "2026-07-21T07:11:38.383Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "dd48129929091776",
+        "title": "Notification Sl-No.-174-to-195-CUET-final-merit-list",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Sl-No.-174-to-195-CUET-final-merit-list.pdf",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-21T07:11:38.383Z"
+      },
       {
         "id": "d8c5dcbc77ee18d5",
         "title": "Notification CUET",
@@ -6156,15 +6178,6 @@
         "date": "16/06/2026",
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "74561f48dbcfa4b5",
-        "title": "Notification for Engineering courses 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/06/Nofication-for-Engg-courses-2026-27-session.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
