@@ -5004,9 +5004,27 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:50.385Z",
+    "lastUpdatedDate": "2026-07-22T13:02:11.109Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "883a3b4e66eb9f56",
+        "title": "Link for-seeking-admission-under-CW-category-Delhi 2026-27",
+        "link": "https://www.forms.du.ac.in/mac/view.php?id=125054",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T13:02:11.109Z"
+      },
+      {
+        "id": "479568652831cb0f",
+        "title": "Notice regarding Submission of documents for entitlement / concession for seeking admission under CW category (85% Delhi Quota) for UG courses(MBBS/BDS/BAMS/BUMS/BHMS) for the Academic Session 2026.",
+        "link": "https://fmsc.du.ac.in/upload/CW%20verification%20Notice%20Academic%20Session%202026%20(1).pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-22T13:02:11.109Z"
+      },
       {
         "id": "384048631f0ad8e0",
         "title": "Notice-for-seeking-admission-under-CW-category-Delhi-Academic-Session-2026-27",
@@ -5070,9 +5088,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T11:13:13.324Z",
+    "lastUpdatedDate": "2026-07-22T13:01:44.356Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e2d906c45cd29047",
+        "title": "EXTENSION LAST DATE OF M.Tech (IBT) (Code-151) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260722155224409.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T13:01:44.356Z"
+      },
       {
         "id": "01f12aeb31836d70",
         "title": "Schedule Of 1st Offline Counselling B.Arch (Code-100) Display of Final Rank/ Merit list of Candidate Admission Session 2026-27_dated-22.07.2026",
@@ -5090,6 +5117,15 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T08:35:29.379Z"
+      },
+      {
+        "id": "6d4a2937470bf1a7",
+        "title": "EXTENSION OF LAST DATE OF M.Pharm (Code-189) D.Pharm (Code-190) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072276444880.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-22T13:01:44.356Z"
       },
       {
         "id": "29eaefa45f46f330",
@@ -5234,24 +5270,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-17T11:08:20.930Z"
-      },
-      {
-        "id": "d460fa60e0e7dbd3",
-        "title": "SCHEDULE OF ACTIVITIES PURSUANT TO DECLARATION OF RESULT OF ROUND 02 B.ED/BA (JMC)/ BCOM (H)/ BA ENG(H) / BA ECO(H)/ LE B TECH/ BCA/ LLM FOR THE A. S. 2026-27. DATED 16.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716797381880.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-16T17:48:06.243Z"
-      },
-      {
-        "id": "67b2ea0770b29ce9",
-        "title": "Notice Regarding Admission/Counselling for the Programme B.Ed. (Special Education) (Code-159)_dated-16.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716115731206.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-16T14:34:33.505Z"
       }
     ]
   },
