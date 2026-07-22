@@ -3040,9 +3040,18 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T16:25:39.688Z",
+    "lastUpdatedDate": "2026-07-22T16:57:29.547Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6f615b6406610b76",
+        "title": "Notice regarding Resolution of Claims & Objections and Document Verification in Newly Established Nursing Colleges.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2146",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T16:57:29.547Z"
+      },
       {
         "id": "186bf9b173d2b3b8",
         "title": "Final list of eligible candidates shortlisted for Document Verification and Interview after disposal of claims and objections for the post of Assistant Professor (Physiotherapy)......More",
@@ -3231,17 +3240,6 @@
         "sortTs": null,
         "batchIndex": 10,
         "titleEn": "Advertisement for contractual recruitment to the posts of professor, co-professor, assistant professor, demonstrator, tutor in new government nursing colleges.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "63a26a627841d198",
-        "title": "रुचि की अभिव्यक्ति (EOI No. 189345) की अवधि में वृद्धि की संशोधन सूचना .....More",
-        "link": "https://www.cgdme.in/notice.php?id=2126",
-        "date": "18/06/2026",
-        "sortTs": null,
-        "batchIndex": 11,
-        "titleEn": "Amendment notice of extension in the period of expression of interest (EOI No. 189345).....More",
         "titleLang": "hi",
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
@@ -5629,7 +5627,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T15:21:37.365Z",
+    "lastUpdatedDate": "2026-07-22T16:57:54.672Z",
     "pinned": false,
     "notices": [
       {
@@ -5649,6 +5647,15 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "8089226af24a0a32",
+        "title": "Notice - Interview Schedule for the shortlisted candidates for the Walk-In Interview for Lateral Entry of Teaching Faculty for the 2 (two) Upgraded Colleges of Nursing | List of Candidates",
+        "link": "https://www.meghealth.gov.in/news/DHS-MER-Upgradation-CON-2025-4-Pt-4232-Notice.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T16:57:54.672Z"
       },
       {
         "id": "7f46c84439d83170",
@@ -5801,15 +5808,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "0135da6ec01dc942",
-        "title": "Notice - List of Short-listed Candidates for the post of Programme Associate under Joint Director Quality Committee, DHS (MI), Meghalaya with details of the Personal Interview scheduled for 23rd June, 2026",
-        "link": "https://www.meghealth.gov.in/news/HSM-ESTT-MHSSP-JDQC-44-23-VOL-III-481-SHORTLISTED%20CANDIDATE.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
