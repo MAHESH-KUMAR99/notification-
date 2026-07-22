@@ -5070,9 +5070,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T08:35:29.379Z",
+    "lastUpdatedDate": "2026-07-22T11:13:13.324Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "01f12aeb31836d70",
+        "title": "Schedule Of 1st Offline Counselling B.Arch (Code-100) Display of Final Rank/ Merit list of Candidate Admission Session 2026-27_dated-22.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221955613706.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T11:13:13.324Z"
+      },
       {
         "id": "346580bfe879fb5a",
         "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
@@ -5081,6 +5090,24 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T08:35:29.379Z"
+      },
+      {
+        "id": "29eaefa45f46f330",
+        "title": "Preponement of Schedule Opening of Fresh Registration MBA (CAT 2025/ CMAT 2026) ROUND 2 Choice Filling A.S: 2026-27_dated-22.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221516002588.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-22T11:13:13.324Z"
+      },
+      {
+        "id": "5114271b38895c4b",
+        "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221674368846.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-22T11:13:13.324Z"
       },
       {
         "id": "f3412f9fda0ff8d0",
@@ -5225,33 +5252,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-16T14:34:33.505Z"
-      },
-      {
-        "id": "ebadb5c2d65b646f",
-        "title": "Schedule of 2nd Offline Counselling MA (Economics) (Code-162) A.S: 2026-27_dated-16.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716633506132.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-16T08:21:05.426Z"
-      },
-      {
-        "id": "b2b4de162c214d43",
-        "title": "Information regarding Round 02 Onwards, for the MBA Programmes through (CAT 2025/ CMAT 2026/ CET 2026) for the A.S: 2026-27_dated-16.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260716691067491.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-16T14:34:33.505Z"
-      },
-      {
-        "id": "cffd9c65ab99308d",
-        "title": "Extended Schedule for Choice Filling B.Tech, LLB (5Year), BBA & Allied Programmes/ 5 Year BBA MBA (Integrated) for the Session 2026-27_dated-16.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607161469594490.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-16T08:21:05.426Z"
       }
     ]
   },
@@ -5997,9 +5997,18 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T07:11:38.383Z",
+    "lastUpdatedDate": "2026-07-22T11:13:17.598Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "70c5c68acad8de35",
+        "title": "CUET Counselling",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/CUET-Counselling.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T11:13:17.598Z"
+      },
       {
         "id": "dd48129929091776",
         "title": "Notification Sl-No.-174-to-195-CUET-final-merit-list",
@@ -6169,15 +6178,6 @@
         "date": "16/06/2026",
         "sortTs": null,
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "0e8819b48467fa1e",
-        "title": "Notification for Application of NEET UG 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/06/Notification-under-the-purview-of-NEET-2026.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
