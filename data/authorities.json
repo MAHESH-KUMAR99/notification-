@@ -1028,9 +1028,18 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:34.039Z",
+    "lastUpdatedDate": "2026-07-22T08:35:01.150Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "25e06e6f239ef0f4",
+        "title": "22-07-2026: Admission into MBBS& BDS courses -CQ(Convenor) 2026-27 - Provisional list of Documents required MBBS-BDS- CQ(Convenor) - 2026-27 -Sports & Games Category - Proformas 1 to 4 Admission into MBBS& BDS courses -CQ(Convenor) 2026-27 -Sports & Games - List of Priorities",
+        "link": "https://drntr.uhsap.in/index/notification/20260722131451123.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T08:35:01.150Z"
+      },
       {
         "id": "53414ac43c9e224f",
         "title": "07-05-2026: MBBS_CQ 2025-26-CATEGORY-WISE, COLLEGE-WISE, UNIVERSITY-AREA WISE LAST RANKS WITH NEET SCORES",
@@ -1200,15 +1209,6 @@
         "date": "15/02/2026",
         "sortTs": null,
         "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "db77d0d58df0d9f6",
-        "title": "14-02-2026: PG (Medical) CQ 2025-26 - Phase-III (Mop Up) MRC List of Non-service PG (Medical) CQ 2025-26 - Non-service Phase-III (Mop Up) Provisional College wise Allotments List",
-        "link": "https://drntr.uhsap.in/index/notification/20260214203820547.pdf",
-        "date": "14/02/2026",
-        "sortTs": null,
-        "batchIndex": 19,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -1604,9 +1604,49 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T14:47:47.012Z",
+    "lastUpdatedDate": "2026-07-22T08:35:48.216Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:8ca13af4865214c1",
+        "title": "Notice for First Counselling of Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/04 Dated 22.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_04.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T08:35:48.216Z"
+      },
+      {
+        "id": "Latest Updates:a47b66a8def27bf7",
+        "title": "Details of First Counselling of Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/03 Dated 22.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_03.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-22T08:35:48.216Z"
+      },
+      {
+        "id": "Latest Updates:9bb10784b779b408",
+        "title": "Notice for First Counselling of Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/08 Dated 22.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_08.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-22T08:35:48.216Z"
+      },
+      {
+        "id": "Latest Updates:675be3a127a9884f",
+        "title": "Details for First Counselling of Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/07 Dated 22.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_07.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-22T08:35:48.216Z"
+      },
       {
         "id": "Latest Updates:8b16b992552d94b8",
         "title": "Notice for Extension in Date for Choice Filling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/08 Dated 17.07.2026)",
@@ -1763,46 +1803,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:a4cf3b9271da8ad2",
-        "title": "Important Notice for Rank Card and Choice filling for Under Graduate Engineering Admission Counselling [UGEAC-2026]in Govt Colleges of Bihar on the basis of JEE(MAIN)-2026 (Adv. No. BCECEB(UGEAC)-2026/04 Dated 23.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_04.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:fb6dd7a7d1829a4d",
-        "title": "Detail Notice for Rank Card and Choice filling for Under Graduate Engineering Admission Counselling [UGEAC-2026]in Govt Colleges of Bihar on the basis of JEE(MAIN)-2026 (Adv. No. BCECEB(UGEAC)-2026/03 Dated 23.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_03.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:6c5eca84cf3600ee",
-        "title": "Important Notice for Choice of DECE[LE]-2026 (Adv. No. BCECEB(DECE[LE])-2026/06 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DLE26_06.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:99340ea993166157",
-        "title": "Detail Notice for Choice of DECE[LE]-2026 (Adv. No. BCECEB(DECE[LE])-2026/05 Dated 21.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DLE26_05.pdf",
-        "date": "21/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 11,
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
@@ -2247,9 +2247,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T14:36:57.761Z",
+    "lastUpdatedDate": "2026-07-22T08:36:12.205Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:6dfd39048e2851b1",
+        "title": "NOTICE : ADMISSION NOTIFICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES",
+        "link": "https://drive.google.com/file/d/1dTGQbyw2mjDvLrQwMwIv7qC0-J9RYeLs/view?usp=sharing",
+        "date": "21/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T08:36:12.205Z"
+      },
       {
         "id": "OVERALL:6ade2ad2233753d5",
         "title": "NOTICE : ADMISSION NOTIFICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES",
@@ -2438,16 +2448,6 @@
         "sortTs": null,
         "source": "OVERALL",
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "OVERALL:ae760cfac4dba7c5",
-        "title": "ANSWER KEY FOR PUDUCHERRY NURSING ( GQ) ENTRANCE EXAMINATION (PNET) - 2026",
-        "link": "https://drive.google.com/file/d/19ZJmCOoeba_tAAQDzMPBJK4ctGsEWBSr/view?usp=sharing",
-        "date": "05/07/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -5070,9 +5070,18 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T12:10:08.255Z",
+    "lastUpdatedDate": "2026-07-22T08:35:29.379Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "346580bfe879fb5a",
+        "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221799647711.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T08:35:29.379Z"
+      },
       {
         "id": "f3412f9fda0ff8d0",
         "title": "REGARDING VALIDITY OF SUBMITTED DOCUMENTS VIZ-A-VIZ MARKSHEET(S)/CATEGORY CERTIFICATES SUCH AS SC/ST/OBC/DEFENCE/EWS/PWD ETC. A.S: 2026-27_dated-21.07.2026",
@@ -5243,15 +5252,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-16T08:21:05.426Z"
-      },
-      {
-        "id": "a057c848830860f6",
-        "title": "Schedule of 2nd Counselling MA(Economics) Followed by Open House Counselling A.S:2026-27_dated-16.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607161010706824.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-16T14:34:33.505Z"
       }
     ]
   },
