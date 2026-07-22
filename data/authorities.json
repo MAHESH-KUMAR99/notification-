@@ -4134,7 +4134,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T11:09:10.781Z",
+    "lastUpdatedDate": "2026-07-22T15:22:15.640Z",
     "pinned": false,
     "notices": [
       {
@@ -4163,6 +4163,15 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "2d9b6c682b6f6647",
+        "title": "Final revised answer keys of CET Examination Paper Code-2604 Series A, B, C & D",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Revised-Answer-Key-of-CET-Examination-.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T15:22:15.640Z"
       },
       {
         "id": "4d6a7f843c30315d",
@@ -5620,7 +5629,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T07:11:41.151Z",
+    "lastUpdatedDate": "2026-07-22T15:21:37.365Z",
     "pinned": false,
     "notices": [
       {
@@ -5640,6 +5649,15 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "7f46c84439d83170",
+        "title": "Advertisement for the post of OBB Accountant under DHS (MCH&FW)",
+        "link": "https://www.meghealth.gov.in/news/Advertisement%20for%20the%20post%20of%20OBB%20ACCOUNTANT%20-%20DHS%20MCH&FW.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T15:21:37.365Z"
       },
       {
         "id": "3cbd743b196befd7",
@@ -5793,15 +5811,6 @@
         "sortTs": null,
         "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "965d1f1edb4382bd",
-        "title": "Request for Proposal (RFP) from Eligible and Authorized Bidders for Procurement and Institutional Access of Digital Medical e-Book Collection for Shillong Medical College, Shillong",
-        "link": "https://www.meghealth.gov.in/news/Tender%20SMC%20E%20Books.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
   },
@@ -5812,9 +5821,18 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T14:21:53.976Z",
+    "lastUpdatedDate": "2026-07-22T15:21:36.116Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "fc66a4e44532dfd5",
+        "title": "Notification for 1st round counselling",
+        "link": "https://manipurmc.mn.gov.in/media/1784726291_Notification%20for%201st%20round%20counselling.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-22T15:21:36.116Z"
+      },
       {
         "id": "26e50ec0e680d4f1",
         "title": "Bachelor of Nutrition & Dietetics (Hons.) [BND] notification",
@@ -5985,15 +6003,6 @@
         "sortTs": null,
         "batchIndex": 17,
         "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "126ab18bbb53dd5a",
-        "title": "Notification for Special Stray round of eCounselling 2025-26",
-        "link": "https://manipurmc.mn.gov.in/media/1766403958_Notification%20for%20Special%20Stray%20round%20of%20eCounselling%202025-26_001.pdf",
-        "date": "22/12/2025",
-        "sortTs": null,
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:44.500Z"
       }
     ]
   },
