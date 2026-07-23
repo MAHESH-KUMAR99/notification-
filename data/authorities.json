@@ -3099,9 +3099,18 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T16:57:29.547Z",
+    "lastUpdatedDate": "2026-07-23T18:48:05.540Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "39b6f4b45b7e1b90",
+        "title": "After due consideration of all Claims & Objections received against the previously published interview eligibility list, the Final List of Eligible Candidates for Document Verification and Interview for the recruitment of Assistant Professor (Physiotherapy) has been published......More",
+        "link": "https://www.cgdme.in/notice.php?id=2147",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T18:48:05.540Z"
+      },
       {
         "id": "6f615b6406610b76",
         "title": "Notice regarding Resolution of Claims & Objections and Document Verification in Newly Established Nursing Colleges.....More",
@@ -3289,17 +3298,6 @@
         "date": "24/06/2026",
         "sortTs": null,
         "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "9f80af36bdb26c9e",
-        "title": "नवीन शासकीय नर्सिंग महाविद्यालयों में प्राध्यापक, सह-प्राध्यापक, सहायक प्राध्यापक, प्रदर्शक, ट्यूटर के पदों पर संविदा भर्ती हेतु विज्ञापन.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2127",
-        "date": "22/06/2026",
-        "sortTs": null,
-        "batchIndex": 10,
-        "titleEn": "Advertisement for contractual recruitment to the posts of professor, co-professor, assistant professor, demonstrator, tutor in new government nursing colleges.....More",
-        "titleLang": "hi",
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
