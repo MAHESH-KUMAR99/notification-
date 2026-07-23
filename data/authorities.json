@@ -1613,9 +1613,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T08:35:48.216Z",
+    "lastUpdatedDate": "2026-07-23T11:27:44.182Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:cf24ef00872aafe2",
+        "title": "Schedule for Revised Second Document Verification of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/09 Dated 23.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_09.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T11:27:44.182Z"
+      },
       {
         "id": "Latest Updates:8ca13af4865214c1",
         "title": "Notice for First Counselling of Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/04 Dated 22.07.2026)",
@@ -1805,16 +1815,6 @@
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
-        "id": "Latest Updates:8b2d6941c8e037ed",
-        "title": "Notice Regarding Rank Card of BCECE[LE]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/05 Dated 24.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_05.pdf",
-        "date": "24/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
         "id": "UGMAC:11ee47ceaf3415d9",
         "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
@@ -1936,9 +1936,18 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T15:30:59.252Z",
+    "lastUpdatedDate": "2026-07-23T11:26:48.617Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4a443b1a39851433",
+        "title": "Advt. No. 42 dated-23.07.2026 Detailed Information Regarding Online Registration for State Quota POST DIPLOMS DNB Course of Sadar Hospital Ranchi on the basis of DNB-PDCET-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/750.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T11:26:48.617Z"
+      },
       {
         "id": "34d3bf17c2a789c9",
         "title": "Advt. No. 41 dated-20.07.2026 डिप्लोमा प्रवेश प्रतियोगिता परीक्षा (पाश्विक प्रवेश)-2026 के परीक्षाफल (Result) प्रकाशन एवं परीक्षाफल आधारित प्रथम एवं द्वितीय चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना",
@@ -2113,15 +2122,6 @@
         "sortTs": null,
         "batchIndex": 16,
         "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "07b2cf13b3ec0e9e",
-        "title": "Advt. No 154 Dated-05.12.2025 Detailed information regarding Merit List preparation for Special Round of online counselling schedule-2025 for admission in All India seats in M.B.B.S., B.D.S. & B.H.M.S. Courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/730.pdf",
-        "date": "05/12/2025",
-        "sortTs": null,
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
   },
@@ -2256,9 +2256,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T09:28:38.474Z",
+    "lastUpdatedDate": "2026-07-23T11:28:06.120Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:714be12d01506a86",
+        "title": "PG DENTAL (M.D.S.) SEAT MATRIX FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1nOScRyQB-2NcMOIG329M2IuKM5lTJ2IW/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
+      },
       {
         "id": "OVERALL:2c288ca4cfba4eee",
         "title": "REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
@@ -2270,6 +2280,16 @@
         "detectedAt": "2026-07-23T09:28:38.474Z"
       },
       {
+        "id": "OVERALL:4c294410b7164376",
+        "title": "PHASE - II - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1JLluu67DqNdZOTshFkpF0eYBLNv_kHme/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
+      },
+      {
         "id": "OVERALL:f21db0e30bd8416f",
         "title": "NOTICE : REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/19YNvHVomZNv-pMRcmTPxBNjd5VDsPvm9/view?usp=sharing",
@@ -2278,6 +2298,26 @@
         "source": "OVERALL",
         "batchIndex": 1,
         "detectedAt": "2026-07-23T09:28:38.474Z"
+      },
+      {
+        "id": "OVERALL:81290578f6814222",
+        "title": "REVISED DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1DtasriL8JSxblOpmfgS5XHtAa_Wuq6VL/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
+      },
+      {
+        "id": "OVERALL:0132910afc9d2141",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1RIcsBbJbGC7sID_AKeM6Tgtjz2P4V1_W/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
       },
       {
         "id": "OVERALL:6dfd39048e2851b1",
@@ -2420,124 +2460,54 @@
         "detectedAt": "2026-07-14T11:57:57.558Z"
       },
       {
-        "id": "OVERALL:b03459a68004b737",
+        "id": "PG DENTAL:714be12d01506a86",
+        "title": "PG DENTAL (M.D.S.) SEAT MATRIX FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1nOScRyQB-2NcMOIG329M2IuKM5lTJ2IW/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "PG DENTAL",
+        "batchIndex": 70,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
+      },
+      {
+        "id": "PG DENTAL:b03459a68004b737",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
         "date": "10/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 0,
+        "source": "PG DENTAL",
+        "batchIndex": 52,
         "detectedAt": "2026-07-10T12:29:30.241Z"
       },
       {
-        "id": "OVERALL:0b7f2980eacf9897",
-        "title": "DRAFT MERIT LIST FOR B.SC. NURSING GOVERNMENT QUOTA SEATS (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1r6AgDvQ9U8m3M1c-sBK9x0tL5-Hz2FQm/view?usp=sharing",
-        "date": "09/07/2026",
+        "id": "PG DENTAL:495903426637da71",
+        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
+        "date": "01/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-09T16:03:24.609Z"
+        "source": "PG DENTAL",
+        "batchIndex": 48,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:0fe1da2bf0db18af",
-        "title": "NOTICE : DRAFT MERIT LIST FOR UG NON-NEET B.SC. NURSING - GOVERNMENT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1oDl9tEU5GTZ0u6MrpNbr4OaQnG9xtJkb/view?usp=sharing",
-        "date": "09/07/2026",
+        "id": "PG DENTAL:455e50f861a53f57",
+        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
+        "date": "01/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-09T16:03:24.609Z"
+        "source": "PG DENTAL",
+        "batchIndex": 49,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:cf9c6f7378e7666b",
-        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
-        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T11:32:51.578Z"
-      },
-      {
-        "id": "FINE ARTS:2c288ca4cfba4eee",
-        "title": "REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_revised_draft_merit_list_23_07_2026.html",
+        "id": "UG NON-NEET:4c294410b7164376",
+        "title": "PHASE - II - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
+        "link": "https://drive.google.com/file/d/1JLluu67DqNdZOTshFkpF0eYBLNv_kHme/view?usp=sharing",
         "date": "23/07/2026",
         "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 113,
-        "detectedAt": "2026-07-23T09:28:38.474Z"
-      },
-      {
-        "id": "FINE ARTS:f21db0e30bd8416f",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/19YNvHVomZNv-pMRcmTPxBNjd5VDsPvm9/view?usp=sharing",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 114,
-        "detectedAt": "2026-07-23T09:28:38.474Z"
-      },
-      {
-        "id": "FINE ARTS:91e682bbf093111b",
-        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 106,
-        "detectedAt": "2026-07-17T16:19:50.872Z"
-      },
-      {
-        "id": "FINE ARTS:dcab0b481a444ef9",
-        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 107,
-        "detectedAt": "2026-07-17T16:19:50.872Z"
-      },
-      {
-        "id": "FINE ARTS:36fe37a2d9660b07",
-        "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
-        "date": "02/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 85,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0849b5615f7a110f",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 86,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:598c7bc87aa95b13",
-        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
-        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
-        "date": "01/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 87,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0e33385a9ea4a9bc",
-        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
-        "date": "22/05/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 88,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "UG NON-NEET",
+        "batchIndex": 74,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
       },
       {
         "id": "UG NON-NEET:def9b02cac405943",
@@ -2729,14 +2699,24 @@
         "detectedAt": "2026-07-08T12:06:51.655Z"
       },
       {
-        "id": "UG NON-NEET:894f58aa6da6a825",
-        "title": "DRAFT MERIT LIST FOR UG NON-NEET (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Draft_merit_list_ugNonNEET_17062026.html",
-        "date": "17/06/2026",
+        "id": "B.TECH. LATERAL ENTRY:81290578f6814222",
+        "title": "REVISED DRAFT MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1DtasriL8JSxblOpmfgS5XHtAa_Wuq6VL/view?usp=sharing",
+        "date": "23/07/2026",
         "sortTs": null,
-        "source": "UG NON-NEET",
-        "batchIndex": 57,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 129,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:0132910afc9d2141",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1RIcsBbJbGC7sID_AKeM6Tgtjz2P4V1_W/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "B.TECH. LATERAL ENTRY",
+        "batchIndex": 130,
+        "detectedAt": "2026-07-23T11:28:06.120Z"
       },
       {
         "id": "B.TECH. LATERAL ENTRY:aca7fe1be3cdfd42",
@@ -2819,33 +2799,83 @@
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "PG DENTAL:b03459a68004b737",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION TO PG DENTAL (MDS) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Uf6gcF0sch8qnvIUmXmESqE0z1kGGCIU/view?usp=sharing",
-        "date": "10/07/2026",
+        "id": "FINE ARTS:2c288ca4cfba4eee",
+        "title": "REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_revised_draft_merit_list_23_07_2026.html",
+        "date": "23/07/2026",
         "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 52,
-        "detectedAt": "2026-07-10T12:29:30.241Z"
+        "source": "FINE ARTS",
+        "batchIndex": 113,
+        "detectedAt": "2026-07-23T09:28:38.474Z"
       },
       {
-        "id": "PG DENTAL:495903426637da71",
-        "title": "PG NEET (DENTAL) INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1WjDVqNb-zsDzlr6UsOJKLBQFZxeQ6Ac9/view?usp=sharing",
-        "date": "01/07/2026",
+        "id": "FINE ARTS:f21db0e30bd8416f",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/19YNvHVomZNv-pMRcmTPxBNjd5VDsPvm9/view?usp=sharing",
+        "date": "23/07/2026",
         "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 48,
+        "source": "FINE ARTS",
+        "batchIndex": 114,
+        "detectedAt": "2026-07-23T09:28:38.474Z"
+      },
+      {
+        "id": "FINE ARTS:91e682bbf093111b",
+        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 106,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:dcab0b481a444ef9",
+        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 107,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:36fe37a2d9660b07",
+        "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
+        "date": "02/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 85,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "PG DENTAL:455e50f861a53f57",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbR0mlce4j-IUxmtKdT6Ky-Qkzov3TfN/view?usp=sharing",
-        "date": "01/07/2026",
+        "id": "FINE ARTS:0849b5615f7a110f",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
+        "date": "04/06/2026",
         "sortTs": null,
-        "source": "PG DENTAL",
-        "batchIndex": 49,
+        "source": "FINE ARTS",
+        "batchIndex": 86,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:598c7bc87aa95b13",
+        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
+        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
+        "date": "01/06/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 87,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:0e33385a9ea4a9bc",
+        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
+        "date": "22/05/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 88,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -5463,9 +5493,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T08:26:54.662Z",
+    "lastUpdatedDate": "2026-07-23T11:28:05.844Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d2188db152da440d",
+        "title": "Candidates Can Submit Fresh Applications For Admission To Medical & Medical Allied Courses And KEAM Applicants Can Add Courses & Reservation Claims For Admission To Medical & Medical Allied Courses",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/144/Upload1",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T11:28:05.844Z"
+      },
       {
         "id": "d58dcc404504811b",
         "title": "Centralised Second Phase Allotment To Engineering Courses And First Phase Allotment To Architecture Course Published",
@@ -5645,15 +5684,6 @@
         "date": "08/07/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T16:47:06.544Z"
-      },
-      {
-        "id": "e7b7ec7452d86e66",
-        "title": "Rectification of defects-Trust Quota",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/103/Upload1",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-08T16:47:06.544Z"
       }
     ]
@@ -5857,9 +5887,18 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T09:27:59.467Z",
+    "lastUpdatedDate": "2026-07-23T11:27:29.020Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7f095584f0e511ed",
+        "title": "Seat Matrix Notification",
+        "link": "https://manipurmc.mn.gov.in/media/1784804521_Seat%20matrix%20notification.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T11:27:29.020Z"
+      },
       {
         "id": "e37c5c345bd77fd3",
         "title": "BND Merit list",
@@ -6029,15 +6068,6 @@
         "date": "26/12/2025",
         "sortTs": null,
         "batchIndex": 14,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "26e29cba72699417",
-        "title": "Notification of merit list for Special Stray round of eCounselling",
-        "link": "https://manipurmc.mn.gov.in/media/1766744884_Notification%20of%20merit%20list%20for%20Special%20Stray%20round%20of%20eCounselling..pdf",
-        "date": "26/12/2025",
-        "sortTs": null,
-        "batchIndex": 15,
         "detectedAt": "2026-07-15T12:56:45.112Z"
       }
     ]
