@@ -870,9 +870,18 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T07:11:03.221Z",
+    "lastUpdatedDate": "2026-07-23T09:27:22.905Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4a363174bf772beb",
+        "title": "NOTIFICATION-008 - NO NEED TO UPLOAD NEET SCORECARD FOR MBBS/BDS COURSE 2026-2027",
+        "link": "https://tnmedicalselection.net/news/23072026020011.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T09:27:22.905Z"
+      },
       {
         "id": "bcb6e4a1bb70071c",
         "title": "KIND ATTENTION TO THE PWD CANDIDATES 2026-2027",
@@ -2247,9 +2256,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T08:36:12.205Z",
+    "lastUpdatedDate": "2026-07-23T09:28:38.474Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:2c288ca4cfba4eee",
+        "title": "REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_revised_draft_merit_list_23_07_2026.html",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T09:28:38.474Z"
+      },
+      {
+        "id": "OVERALL:f21db0e30bd8416f",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/19YNvHVomZNv-pMRcmTPxBNjd5VDsPvm9/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "OVERALL",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-23T09:28:38.474Z"
+      },
       {
         "id": "OVERALL:6dfd39048e2851b1",
         "title": "NOTICE : ADMISSION NOTIFICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES",
@@ -2431,23 +2460,83 @@
         "detectedAt": "2026-07-08T11:32:51.578Z"
       },
       {
-        "id": "UG NON-NEET:cf9c6f7378e7666b",
-        "title": "B.SC NURSING ENTRANCE TEST (PNET - 2026) MERIT LIST FOR THE GOVT. QUOTA SEATS 2026-2027 - DHFWS",
-        "link": "https://drive.google.com/file/d/1mD5BOTbnZI2QQPM8QMIz7FLe25aezKgh/view?usp=sharing",
-        "date": "08/07/2026",
+        "id": "FINE ARTS:2c288ca4cfba4eee",
+        "title": "REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_revised_draft_merit_list_23_07_2026.html",
+        "date": "23/07/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 16,
+        "source": "FINE ARTS",
+        "batchIndex": 113,
+        "detectedAt": "2026-07-23T09:28:38.474Z"
+      },
+      {
+        "id": "FINE ARTS:f21db0e30bd8416f",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/19YNvHVomZNv-pMRcmTPxBNjd5VDsPvm9/view?usp=sharing",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 114,
+        "detectedAt": "2026-07-23T09:28:38.474Z"
+      },
+      {
+        "id": "FINE ARTS:91e682bbf093111b",
+        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 106,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:dcab0b481a444ef9",
+        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 107,
+        "detectedAt": "2026-07-17T16:19:50.872Z"
+      },
+      {
+        "id": "FINE ARTS:36fe37a2d9660b07",
+        "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
+        "date": "02/07/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 85,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
-        "id": "OVERALL:f03f9bab2fc96409",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG B.ARCH. COURSE FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1HNDmgJePjrhIdIOsVqbGv-qYwc4b-uDp/view?usp=sharing",
-        "date": "07/07/2026",
+        "id": "FINE ARTS:0849b5615f7a110f",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
+        "date": "04/06/2026",
         "sortTs": null,
-        "source": "OVERALL",
-        "batchIndex": 0,
+        "source": "FINE ARTS",
+        "batchIndex": 86,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:598c7bc87aa95b13",
+        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
+        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
+        "date": "01/06/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 87,
+        "detectedAt": "2026-07-08T09:36:56.342Z"
+      },
+      {
+        "id": "FINE ARTS:0e33385a9ea4a9bc",
+        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
+        "date": "22/05/2026",
+        "sortTs": null,
+        "source": "FINE ARTS",
+        "batchIndex": 88,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -2647,66 +2736,6 @@
         "sortTs": null,
         "source": "UG NON-NEET",
         "batchIndex": 57,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:91e682bbf093111b",
-        "title": "DRAFT MERIT LIST FOR FINE ARTS COURSES - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_draft_merit_list_17_07_2026.html",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 106,
-        "detectedAt": "2026-07-17T16:19:50.872Z"
-      },
-      {
-        "id": "FINE ARTS:dcab0b481a444ef9",
-        "title": "NOTICE : DRAFT MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1k8z29W8FVTnjooSUSM5zrck6_jAzlUxD/view?usp=sharing",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 107,
-        "detectedAt": "2026-07-17T16:19:50.872Z"
-      },
-      {
-        "id": "FINE ARTS:36fe37a2d9660b07",
-        "title": "INSTRUCTIONS TO THE CANDIDATES APPEARING FOR APTITUDE TEST AT BPK FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-NZHQshHwIbU_9K-QX2XSKoHkn67XqPK/view?usp=sharing",
-        "date": "02/07/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 85,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0849b5615f7a110f",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR UG PERFORMING ARTS (MUSIC / DANCE) & VISUAL ARTS COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/11ZX4sqCZxfEFRA0YNaU0eQffE4sYt5cd/view?usp=sharing",
-        "date": "04/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 86,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:598c7bc87aa95b13",
-        "title": "PART-VI : PERFORMING ARTS AND VISUAL ARTS COURSES (MUSIC / DANCE / VISUAL ARTS) - REVISED",
-        "link": "https://drive.google.com/file/d/1Npzxsevc6OmMev_cDt8jdnc0Xb_oeiqu/view?usp=sharing",
-        "date": "01/06/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 87,
-        "detectedAt": "2026-07-08T09:36:56.342Z"
-      },
-      {
-        "id": "FINE ARTS:0e33385a9ea4a9bc",
-        "title": "ADMISSION NOTIFICATION FOR UG FINE ARTS AND PERFORMING ARTS (MUSIC / DANCE / FINE ARTS) COURSES IN BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1yUFRgaOD52fmZlT7tfh5gFcjvtlc7I4X/view?usp=sharing",
-        "date": "22/05/2026",
-        "sortTs": null,
-        "source": "FINE ARTS",
-        "batchIndex": 88,
         "detectedAt": "2026-07-08T09:36:56.342Z"
       },
       {
@@ -3940,9 +3969,18 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-16T14:33:59.692Z",
+    "lastUpdatedDate": "2026-07-23T09:27:20.190Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a2fbcb23ca8d759a",
+        "title": "KNRUHS - MBBS BDS ADMISSIONS UNDER COMPETENT AUTHORITY QUOTA FOR THE AY 2026-27 - NOTICE TO THE CANDIDATES",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260723091422KNRUHS%20-%20MBBS%20BDS%20ADMISSIONS%20UNDER%20COMPETENT%20AUTHORITY%20QUOTA%20FOR%20THE%20AY%202026-27%20-%20NOTICE%20TO%20THE%20CANDIDATES.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T09:27:20.190Z"
+      },
       {
         "id": "9ed690729004dec2",
         "title": "KNRUHS – Examination Wing – Medical PG MD/MS Regular Examinations, August 2026 – Change in Internal marks and Attendance capture dates and Examination fee payment dates – Communicated – Reg.",
@@ -4113,15 +4151,6 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "bf1b75bd38008ea4",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MPT FIRST YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260713100155KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MPT%20FIRST%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-14T03:20:12.374Z"
       }
     ]
   },
@@ -4132,7 +4161,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T15:22:15.640Z",
+    "lastUpdatedDate": "2026-07-23T09:28:39.497Z",
     "pinned": false,
     "notices": [
       {
@@ -4161,6 +4190,15 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "3d8a3ad8db0ac7e9",
+        "title": "Notice Regarding the Extension of the Last Date for Online Applications for B.Sc. Nursing, Post Basic B.Sc. Nursing, and M.Sc. Nursing Entrance Test (Academic Session 2026–2027)",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Nursing-date-extend-notice.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T09:28:39.497Z"
       },
       {
         "id": "2d9b6c682b6f6647",
@@ -5095,9 +5133,36 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T13:01:44.356Z",
+    "lastUpdatedDate": "2026-07-23T09:27:53.170Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1ce5fc48bd9560a4",
+        "title": "Schedule of 2nd Offline Counselling MA(MC) (CODE-106) ACADEMIC SESSION: 2026-27_dated-23.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231676103298.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T09:27:53.170Z"
+      },
+      {
+        "id": "72ea35833fea25a3",
+        "title": "Schedule of 1st Offline Counselling PGDYTMP (CODE-176) ACADEMIC SESSION: 2026-27_dated-23.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231447407011.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-23T09:27:53.170Z"
+      },
+      {
+        "id": "6772d540c66dea37",
+        "title": "KEY POINTS FOR ROUND-3 FOLLOWED BY SLIDING ROUND LLM, BCA, LLB (5 Year), B.ED., BBA/ BBA-MBA INT., BA(JMC)., LE B.TECH., B.COM, BA (ENGLISH) & BA (ECO)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231223071187.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-23T09:27:53.170Z"
+      },
       {
         "id": "e2d906c45cd29047",
         "title": "EXTENSION LAST DATE OF M.Tech (IBT) (Code-151) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
@@ -5249,33 +5314,6 @@
         "date": "17/07/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-17T11:08:20.930Z"
-      },
-      {
-        "id": "3f5f8846f10efb51",
-        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING LLB (3 YEAR) (CODE-238) ADMISSION SESSION: 2026-27_dated-17.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717118374213.pdf",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-17T16:19:02.397Z"
-      },
-      {
-        "id": "ffbe0a1361084d22",
-        "title": "Declaration Of Result of Round 01 for the Programme MCA (NIMCET/CET) (Code-105) A.S: 2026-27_dated-17.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607171654634562.pdf",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-17T11:08:20.930Z"
-      },
-      {
-        "id": "35636ace736cb47c",
-        "title": "Schedule of 2nd Offline Counselling BA (Liberal Arts) (Code-451) A.S: 2026-27_dated-17.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260717112542273.pdf",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-17T11:08:20.930Z"
       }
     ]
@@ -5627,7 +5665,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T16:57:54.672Z",
+    "lastUpdatedDate": "2026-07-23T09:28:01.108Z",
     "pinned": false,
     "notices": [
       {
@@ -5647,6 +5685,15 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "d8b42124027ae586",
+        "title": "Advertisement for the post of OBB Accountant under DHS (MCH&FW) | Apply Now:",
+        "link": "https://www.meghealth.gov.in/news/Advertisement%20for%20the%20post%20of%20OBB%20ACCOUNTANT%20-%20DHS%20MCH&FW.pdf",
+        "date": null,
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-23T09:28:01.108Z"
       },
       {
         "id": "8089226af24a0a32",
@@ -5800,15 +5847,6 @@
         "sortTs": null,
         "batchIndex": 10,
         "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "51671f415979a9e3",
-        "title": "Results and list of candidates qualified for the Personal Interview for the post of Cath Lab Technician under MMDSL",
-        "link": "https://www.meghealth.gov.in/news/MMDSL-HR-1-HIRING-2026-27(15).pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
   },
@@ -5819,9 +5857,27 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T15:21:36.116Z",
+    "lastUpdatedDate": "2026-07-23T09:27:59.467Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e37c5c345bd77fd3",
+        "title": "BND Merit list",
+        "link": "https://manipurmc.mn.gov.in/media/1784796135_BND%20Merit%20list_compressed.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T09:27:59.467Z"
+      },
+      {
+        "id": "bf358402698a2eab",
+        "title": "D. Pharm Merit list",
+        "link": "https://manipurmc.mn.gov.in/media/1784796170_D.%20Pharm%20Merit%20list_compressed.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-23T09:27:59.467Z"
+      },
       {
         "id": "fc66a4e44532dfd5",
         "title": "Notification for 1st round counselling",
@@ -5982,24 +6038,6 @@
         "date": "26/12/2025",
         "sortTs": null,
         "batchIndex": 15,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "c05b41e578d17982",
-        "title": "Annexure B merit list of Candidates applying for Management quota seats in Special Stray round of Manipur Medical eCounselling 2025-26",
-        "link": "https://manipurmc.mn.gov.in/media/1766744820_Annexure%20B%20merit%20list%20of%20Candidates%20applying%20for%20Management%20quota%20seats%20in%20Special%20Stray%20round%20of%20Manipur%20Medical%20eCounselling%202025-26.pdf",
-        "date": "26/12/2025",
-        "sortTs": null,
-        "batchIndex": 16,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "d3f17c1663b937c3",
-        "title": "Notification of available management quota seats at SAHS in the Special Stray Round of Counselling for MBBS course, 2025-26 session",
-        "link": "https://manipurmc.mn.gov.in/media/1766465766_Sahs(seat%20special%20round).pdf",
-        "date": "23/12/2025",
-        "sortTs": null,
-        "batchIndex": 17,
         "detectedAt": "2026-07-15T12:56:45.112Z"
       }
     ]
