@@ -3999,9 +3999,18 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T09:27:20.190Z",
+    "lastUpdatedDate": "2026-07-23T17:27:09.774Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "724a8c734b45f25c",
+        "title": "KNRUHS – EXAMINATION WING – POSTPONEMENT OF THEORY EXAMINATIONS SCHEDULED ON 24.07.2026 (FRIDAY) – REG.",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260723164024Postponement%20Letter.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T17:27:09.774Z"
+      },
       {
         "id": "a2fbcb23ca8d759a",
         "title": "KNRUHS - MBBS BDS ADMISSIONS UNDER COMPETENT AUTHORITY QUOTA FOR THE AY 2026-27 - NOTICE TO THE CANDIDATES",
@@ -4171,15 +4180,6 @@
         "date": "14/07/2026",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "862f0e273dfba14e",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF FIRST BNYS PART-I EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095405KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20FIRST%20BNYS%20PART-I%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-15T03:45:30.782Z"
       }
     ]
