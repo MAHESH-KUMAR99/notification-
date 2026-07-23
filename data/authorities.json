@@ -318,9 +318,17 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-17T11:07:35.928Z",
+    "lastUpdatedDate": "2026-07-23T13:05:15.859Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1009",
+        "title": "23/07/2026 - Operationalization of NMC Online Appeal Portal for filing of Appeals by Registered Medical Practitioners (RMPs) under Section 30(3) & Section 30(4) of the National Medical Commission Act, 2019 - reg.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_OnlineEthicsAppeal.pdf",
+        "date": "23/07/2026",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-23T13:05:15.859Z"
+      },
       {
         "id": "nmc-1007",
         "title": "17/07/2026 - Implementation of ABDM compliant HMIS (Health Management Information System) in Medical Colleges/ Institutions under NMC - reg.",
@@ -471,14 +479,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/NMC%20UGMEB%20Public%20Notice%20dated%2030-05-2026.pdf",
         "date": "30/05/2026",
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-986",
-        "title": "Submission of Annual Disclosure Report (ADR)-2025 for Postgraduate Medical Courses in accordance with the Maintenance of Standards of Medical Education Regulations, 2023",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/ADR_PG_2025_PGMEB_PublicNotice_Merged.pdf",
-        "date": "29/05/2026",
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
