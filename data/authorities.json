@@ -1512,9 +1512,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-13T07:49:11.040Z",
+    "lastUpdatedDate": "2026-07-24T15:14:19.547Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c992286d751ed896",
+        "title": "Admission under NEET UG 2026 Notification Dated 10-07-2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Notification%20MBBS%20BDS%202026.pdf",
+        "date": "10/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T15:14:19.547Z"
+      },
       {
         "id": "22e2907fe2be066b",
         "title": "Admission under NEET UG 2026 Notification Dated 10-07-2026",
@@ -1684,15 +1694,6 @@
         "date": "10/11/2025",
         "sortTs": null,
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "607ab6571076e82a",
-        "title": "Schedule for Stray Vacancy Round of UG Medical/Dental online Punjab State counseling under NEET UG-2025 Click here to Apply for MBBS/BDS Stray Round of Counselling Click here to submit Willingness for MBBS/BDS Stray Round of Counselling Click here to view Willingness List for MBBS/BDS Stray Round of Counselling",
-        "link": "https://bfuhs.ac.in/MBBS2025/4thAdvtScheduleStrayRound2025.pdf",
-        "date": "10/11/2025",
-        "sortTs": null,
-        "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -5390,9 +5391,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T13:02:11.109Z",
+    "lastUpdatedDate": "2026-07-24T15:17:30.730Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9afc6a0a3a24ed3b",
+        "title": "Notice for uploading documents for verification for CW Quota Undergraduate Admissions",
+        "link": "https://drive.google.com/file/d/16qjUI9VlTnynzZ6NkXKrZRYKe7HNSp4z/view?usp=sharing",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T15:17:30.730Z"
+      },
+      {
+        "id": "c5cad249793d2b85",
+        "title": "Link for uploading document for verification under CW category under Delhi Quota 85% UG Admissions",
+        "link": "https://www.forms.du.ac.in/mac/view.php?id=125054",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-24T15:17:30.730Z"
+      },
       {
         "id": "883a3b4e66eb9f56",
         "title": "Link for-seeking-admission-under-CW-category-Delhi 2026-27",
@@ -6399,9 +6420,39 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T11:13:17.598Z",
+    "lastUpdatedDate": "2026-07-24T15:16:02.783Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4ff1b03b1dddafbc",
+        "title": "Non NEET2026 candidate list applied",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Non-NEET-2026-candidate-list-.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T15:16:02.783Z"
+      },
+      {
+        "id": "bb82fb9a779bbb32",
+        "title": "NEET UG 2026 candidate list applied",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/NEET-UG-2026-Candidates-List-Not-Merit-List.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-24T15:16:02.783Z"
+      },
+      {
+        "id": "32015dbc7ba3b449",
+        "title": "Notification under NEET UG 2026 and Non NEET application list",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notiifcation-under-NEET-2026-application-list.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-24T15:16:02.783Z"
+      },
       {
         "id": "70c5c68acad8de35",
         "title": "CUET Counselling",
@@ -6553,33 +6604,6 @@
         "date": "06/07/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "a5eb885c48a4db6e",
-        "title": "CUET MERIT LIST 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/CUET-Merit-2026.pdf",
-        "date": "06/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
-      },
-      {
-        "id": "55ba9e321a54a18e",
-        "title": "Notification CUET MERIT LIST 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-rectification-CUET.pdf",
-        "date": "06/07/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-15T11:45:45.317Z"
-      },
-      {
-        "id": "d57dfb03cf426615",
-        "title": "Notification for Application medical courses NON-NEET UG 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/06/Notification-for-Medical-courses-non-NEET-2026.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
