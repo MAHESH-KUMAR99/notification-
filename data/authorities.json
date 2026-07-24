@@ -5491,9 +5491,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T11:28:05.844Z",
+    "lastUpdatedDate": "2026-07-24T06:31:29.796Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6ff2c85d2959bca5",
+        "title": "Fee structure for students currently pursuing /admission to MBBS course in Government Medical Colleges / Self Financing Medical Colleges in the State - revised",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/145/Upload1",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T06:31:29.796Z"
+      },
       {
         "id": "d2188db152da440d",
         "title": "Candidates Can Submit Fresh Applications For Admission To Medical & Medical Allied Courses And KEAM Applicants Can Add Courses & Reservation Claims For Admission To Medical & Medical Allied Courses",
@@ -5673,15 +5682,6 @@
         "batchIndex": 0,
         "titleEn": "Engineering: First phase allotment published Engineering: First phase allotment published.",
         "titleLang": "ml",
-        "detectedAt": "2026-07-08T16:47:06.544Z"
-      },
-      {
-        "id": "329f8b1f8bd36971",
-        "title": "PREPARATION OF ARCHITECTURE RANK LIST-2026 FACILITY TO VERIFY THE MARKS AND RECTIFY DEFECTS IN THE MARKS SUBMITTED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/104/Upload1",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T16:47:06.544Z"
       }
     ]
