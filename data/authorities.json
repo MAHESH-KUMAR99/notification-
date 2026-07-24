@@ -3404,9 +3404,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T18:48:05.540Z",
+    "lastUpdatedDate": "2026-07-24T17:08:44.208Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "68c3015e4b925376",
+        "title": "List of Candidates Selected for Document Verification & Interview Schedule Published – Nursing Faculty Recruitment 2026.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2148",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T17:08:44.208Z"
+      },
       {
         "id": "39b6f4b45b7e1b90",
         "title": "After due consideration of all Claims & Objections received against the previously published interview eligibility list, the Final List of Eligible Candidates for Document Verification and Interview for the recruitment of Assistant Professor (Physiotherapy) has been published......More",
@@ -3594,15 +3604,6 @@
         "date": "01/07/2026",
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "0b526423444df576",
-        "title": "Provisional Merit List: Faculty Positions in New Physiotherapy Colleges.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2128",
-        "date": "24/06/2026",
-        "sortTs": null,
-        "batchIndex": 9,
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
