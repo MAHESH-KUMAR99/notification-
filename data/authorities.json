@@ -4090,9 +4090,18 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T09:06:04.350Z",
+    "lastUpdatedDate": "2026-07-24T13:00:39.706Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c345759e48b9abf2",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR THIRD PROFESSIONAL BHMS (NEW REGULATIONS) REGULAR EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724113658KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20THIRD%20PROFESSIONAL%20BHMS%20(NEW%20REGULATIONS)%20REGULAR%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T13:00:39.706Z"
+      },
       {
         "id": "14361137f48efd88",
         "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BHMS FINAL YEAR REGULAR EXAMINATIONS - AUGUST 2026",
@@ -4103,6 +4112,15 @@
         "detectedAt": "2026-07-24T09:06:04.350Z"
       },
       {
+        "id": "07f7c03c411e2b81",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR SECOND PROFESSIONAL BHMS (NEW REGULATIONS) SUPPLEMENTARY EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724114259KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20SECOND%20PROFESSIONAL%20BHMS%20(NEW%20REGULATIONS)%20SUPPLEMENTARY%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-24T13:00:39.706Z"
+      },
+      {
         "id": "d8b36c1f74ef621a",
         "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BHMS THIRD YEAR (OLD REGULATIONS) EXAMINATIONS - AUGUST 2026",
         "link": "http://www.knruhs.telangana.gov.in/uploads/20260724074908KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20BHMS%20THIRD%20YEAR%20(OLD%20REGULATIONS)%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
@@ -4110,6 +4128,15 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-24T09:06:04.350Z"
+      },
+      {
+        "id": "f1b188dc6fdab796",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR FIRST PROFESSIONAL BHMS (NEW REGULATIONS) SUPPLEMENTARY EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724114233KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20FIRST%20PROFESSIONAL%20BHMS%20(NEW%20REGULATIONS)%20SUPPLEMENTARY%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-24T13:00:39.706Z"
       },
       {
         "id": "2b5c34dde6404f17",
@@ -4245,33 +4272,6 @@
         "sortTs": null,
         "batchIndex": 5,
         "detectedAt": "2026-07-15T08:56:07.375Z"
-      },
-      {
-        "id": "e479dfed7a2321eb",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MD UNANI FIRST SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026 - REGULAR CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070400KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MD%20UNANI%20FIRST%20SUMMATIVE%20ASSESSMENT%20EXAMINATIONS%20-%20MAY%202026%20-%20REGULAR%20CANDIDATES.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-15T08:56:07.375Z"
-      },
-      {
-        "id": "26f4ed252c2ad413",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MDMS AYURVEDA FIRST SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095814KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MDMS%20AYURVEDA%20FIRST%20SUMMATIVE%20ASSESSMENT%20EXAMINATIONS%20-%20MAY%202026.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "91b31994a71ebec8",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MDMS AYURVEDA SECOND SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095756KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MDMS%20AYURVEDA%20SECOND%20SUMMATIVE%20ASSESSMENT%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
       }
     ]
   },
@@ -4282,9 +4282,18 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T09:07:37.666Z",
+    "lastUpdatedDate": "2026-07-24T13:02:10.008Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8d89e6c1c269710c",
+        "title": "Senior Residents/Tutors result in compliance to the orders passed by the Hon’ble High Court of Himachal Pradesh in vide CWP 11763 and 11761 of 2026.(Dated-24-07-2026)",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/result.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-24T13:02:10.008Z"
+      },
       {
         "id": "64f7ebc5bd27886a",
         "title": "Result Notification of B.A.M.S First Professional Annual/Supplementary Examination Held in March 2026.(Date of Result 24-07-2026)",
@@ -4320,6 +4329,15 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "67d779bd7d1695d9",
+        "title": "Notice for Senior Residents/Tutors (Cycle-I & II) physical counselling in compliance with the orders passed by the Hon’ble High Court of Himachal Pradesh in CWP No. 11763 of 2026 titled as Ashish Kumar vs. State of H.P. & others and CWP No. 11761 of 2026 titled as Bhindya K. Vs. State of H.P. & others",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/New-Doc-07-24-2026-17.20.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T13:02:10.008Z"
       },
       {
         "id": "1486b4318643f971",
@@ -4445,24 +4463,6 @@
         "date": null,
         "sortTs": 1782864000000,
         "batchIndex": 5,
-        "detectedAt": "2026-07-15T14:22:33.737Z"
-      },
-      {
-        "id": "a04e7c3ca883cd04",
-        "title": "Notice for provisional answer keys for Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Notice-for-answer-keys-CET-2026.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-15T14:22:33.737Z"
-      },
-      {
-        "id": "c3556be780484a1d",
-        "title": "Notice regarding Admit cards of Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/notice-regarding-Admit-cards.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "batchIndex": 7,
         "detectedAt": "2026-07-15T14:22:33.737Z"
       },
       {
@@ -5593,9 +5593,18 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T06:31:29.796Z",
+    "lastUpdatedDate": "2026-07-24T13:02:08.559Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3c110787c97566ad",
+        "title": "Admission To Architecture Course - 2026 Provisional List Of Eligible Candidates For Community/ Registered Scociety/ Trust Quota Seats Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/146/Upload1",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T13:02:08.559Z"
+      },
       {
         "id": "6ff2c85d2959bca5",
         "title": "Fee structure for students currently pursuing /admission to MBBS course in Government Medical Colleges / Self Financing Medical Colleges in the State - revised",
@@ -5774,17 +5783,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-10T15:17:49.070Z"
-      },
-      {
-        "id": "148ca220392e7e1e",
-        "title": "Engineering: First phase allotment publishedഎഞ്ചിനീയറിംഗ്: ഒന്നാം ഘട്ട അലോട്ട്മെന്റ് പ്രസിദ്ധീകരിച്ചു.",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/105/Upload1",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Engineering: First phase allotment published Engineering: First phase allotment published.",
-        "titleLang": "ml",
-        "detectedAt": "2026-07-08T16:47:06.544Z"
       }
     ]
   },
