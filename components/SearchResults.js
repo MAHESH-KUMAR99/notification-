@@ -10,11 +10,11 @@ function ResultRow({ result, onJump, admin }) {
   const { notice, authorityId, authorityName } = result;
   const title = notice.titleEn ?? notice.title;
   return (
-    <li className="flex items-start gap-3 border-b border-slate-100 px-4 py-3 transition-colors last:border-0 hover:bg-slate-50/80 dark:border-slate-800 dark:hover:bg-slate-800/40">
+    <li className="flex items-start gap-3 border-b border-slate-100 px-4 py-3 transition-colors last:border-0 hover:bg-slate-50/80">
       <div className="min-w-0 flex-1">
         <button
           onClick={() => onJump(authorityId)}
-          className="text-left text-xs font-semibold text-indigo-600 hover:underline dark:text-indigo-400"
+          className="text-left text-xs font-semibold text-indigo-600 hover:underline"
         >
           {authorityName}
         </button>
@@ -24,12 +24,12 @@ function ResultRow({ result, onJump, admin }) {
               href={notice.link}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-sm leading-snug text-slate-800 hover:text-slate-950 hover:underline dark:text-slate-200 dark:hover:text-white"
+              className="text-sm leading-snug text-slate-800 hover:text-slate-950 hover:underline"
             >
               {title}
             </a>
           ) : (
-            <span className="text-sm leading-snug text-slate-800 dark:text-slate-200">{title}</span>
+            <span className="text-sm leading-snug text-slate-800">{title}</span>
           )}
           {isNewNotice(notice) && (
             <span className="shrink-0 rounded-full bg-emerald-500 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-white">
@@ -38,7 +38,7 @@ function ResultRow({ result, onJump, admin }) {
           )}
         </div>
         {notice.date && (
-          <div className="mt-0.5 text-xs text-slate-400 dark:text-slate-500">{notice.date}</div>
+          <div className="mt-0.5 text-xs text-slate-400">{notice.date}</div>
         )}
       </div>
       {admin && (
@@ -58,14 +58,14 @@ function ResultRow({ result, onJump, admin }) {
 export default function SearchResults({ query, results, onJump, admin }) {
   return (
     <div className="flex-1 overflow-y-auto p-6">
-      <p className="mb-4 text-sm text-slate-500 dark:text-slate-400">
+      <p className="mb-4 text-sm text-slate-500">
         {results.length > 0
           ? `${results.length} notice(s) matching "${query}" across every authority.`
           : `No notices match "${query}" — try a different word, or clear the search to browse by state.`}
       </p>
 
       {results.length > 0 && (
-        <div className="overflow-hidden rounded-xl border border-slate-200 bg-white dark:border-slate-800 dark:bg-slate-900">
+        <div className="overflow-hidden rounded-xl border border-slate-200 bg-white">
           <ol>
             {results.map((r) => (
               <ResultRow key={`${r.authorityId}:${r.notice.id}`} result={r} onJump={onJump} admin={admin} />

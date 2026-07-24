@@ -10,7 +10,7 @@ export default function Toast({ message, tone = "success" }) {
     <div className="pointer-events-none fixed bottom-5 left-1/2 z-40 -translate-x-1/2">
       <div
         className={`pointer-events-auto rounded-lg px-4 py-2 text-sm font-medium text-white shadow-lg ${
-          tone === "error" ? "bg-red-600" : "bg-slate-900 dark:bg-slate-100 dark:text-slate-900"
+          tone === "error" ? "bg-red-600" : "bg-slate-900"
         }`}
       >
         {message}

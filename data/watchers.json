@@ -1,5 +1,14 @@
 [
   {
+    "authorityId": "neet-guidance",
+    "type": "html-table",
+    "url": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
+    "rowSelector": "table.table tr",
+    "titleCellIndex": 1,
+    "linkCellIndex": 2,
+    "dateCellIndex": 3
+  },
+  {
     "authorityId": "mcc-ug",
     "type": "html-table",
     "url": "https://mcc.nic.in/current-events-ug/",
@@ -42,7 +51,7 @@
   {
     "authorityId": "punjab",
     "type": "html-table",
-    "url": "https://bfuhs.ac.in/mbbs_bds/mbbsbds.asp",
+    "url": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "tableSelector": "table",
     "tableIndex": 2,
     "rowSelector": "tr",
@@ -223,11 +232,9 @@
   },
   {
     "authorityId": "delhi-fmsc",
-    "type": "html-list-section",
-    "url": "https://fmsc.du.ac.in/",
-    "headerSelector": "td.bodytextbold",
-    "itemSelector": "td.blacktextbold",
-    "sectionStartText": "2026-27"
+    "type": "html-list",
+    "url": "https://fmsc.du.ac.in/linkedcontents/139",
+    "itemSelector": ".public-content-card li"
   },
   {
     "authorityId": "assam",

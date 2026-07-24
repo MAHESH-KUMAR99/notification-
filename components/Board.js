@@ -1,11 +1,11 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import Sidebar from "./Sidebar";
+import HomeTopbar from "./HomeTopbar";
+import HomeRail from "./HomeRail";
+import AuthorityList from "./AuthorityList";
 import DetailPanel from "./DetailPanel";
 import SearchResults from "./SearchResults";
-import TickerPanel from "./TickerPanel";
-import AdminMenu from "./AdminMenu";
 import Toast from "./Toast";
 import { isNewNotice } from "@/lib/noticeFreshness";
 import { useAdmin } from "./useAdmin";
@@ -15,13 +15,15 @@ function pickDefaultId(authorities) {
   return (firstWithNotices ?? authorities[0])?.id ?? null;
 }
 
+const CATEGORY_ORDER = ["central", "state", "institute", "aggregator"];
+
 export default function Board({ authorities }) {
   const [query, setQuery] = useState("");
+  const [category, setCategory] = useState(null);
   const [selectedId, setSelectedId] = useState(() => pickDefaultId(authorities));
   const { isAdmin, pin, login, logout } = useAdmin();
   const [approvedIds, setApprovedIds] = useState(new Set());
   const [approvedAtById, setApprovedAtById] = useState(new Map());
-  const [showTickerPanel, setShowTickerPanel] = useState(false);
   const [toast, setToast] = useState(null);
 
   function showToast(message, tone = "success") {
@@ -53,7 +55,7 @@ export default function Board({ authorities }) {
       .catch(() => {});
   }, [isAdmin]);
 
-  // Keeps the ✓ marks and the "on ticker" panel in sync with each other
+  // Keeps the ✓ marks and the ticker list in sync with each other
   // immediately after a click, rather than only reflecting reality after
   // the next full /api/ticker refetch.
   function handleToggled(noticeId, approved) {
@@ -87,6 +89,8 @@ export default function Board({ authorities }) {
     [authorities, selectedId]
   );
 
+  const categoriesPresent = CATEGORY_ORDER.filter((c) => authorities.some((a) => a.category === c));
+
   // Cross-authority notice search — lets a student search "fee refund" or
   // "counselling" once and see which states currently have a matching
   // notice, instead of clicking through all 38 one at a time. Only
@@ -108,43 +112,44 @@ export default function Board({ authorities }) {
   }
 
   return (
-    <div className="relative mx-auto flex h-screen max-w-6xl flex-col bg-slate-50 dark:bg-slate-950">
-      <header className="flex items-center justify-between gap-4 border-b border-slate-200 bg-white px-5 py-3.5 dark:border-slate-800 dark:bg-slate-900">
-        <div className="min-w-0">
-          <h1 className="truncate text-base font-semibold text-slate-900 dark:text-slate-100">
-            MBBS/BDS UG Counselling Updates
-          </h1>
-          <p className="hidden truncate text-xs text-slate-500 sm:block dark:text-slate-400">
-            MCC, NTA/NEET, NMC and every State Medical Counselling authority, in one place
-          </p>
-        </div>
-        <AdminMenu
+    <div className="relative flex h-screen flex-col bg-slate-50">
+      <HomeTopbar query={query} onQueryChange={setQuery} />
+
+      <div className="flex min-h-0 flex-1">
+        <HomeRail
+          categoriesPresent={categoriesPresent}
+          activeCategory={category}
+          onSelectCategory={setCategory}
+          authorities={authorities}
           isAdmin={isAdmin}
+          pin={pin}
           login={login}
           logout={logout}
-          approvedCount={approvedIds.size}
-          onOpenTicker={() => setShowTickerPanel((v) => !v)}
+          approvedIds={approvedIds}
+          approvedAtById={approvedAtById}
+          onToggled={handleToggled}
+          onToast={showToast}
         />
-      </header>
 
-      {isAdmin && showTickerPanel && (
-        <TickerPanel authorities={authorities} admin={admin} onClose={() => setShowTickerPanel(false)} />
-      )}
+        <div className="flex min-h-0 flex-1 flex-col md:flex-row">
+          <div className="flex w-full min-h-0 shrink-0 flex-col border-b border-slate-200 md:w-72 md:border-b-0 md:border-r">
+            <AuthorityList
+              authorities={authorities}
+              category={category}
+              selectedId={selectedId}
+              onSelect={setSelectedId}
+              newCounts={newCounts}
+              query={query}
+            />
+          </div>
 
-      <Sidebar
-        authorities={authorities}
-        selectedId={selectedId}
-        onSelect={setSelectedId}
-        newCounts={newCounts}
-        query={query}
-        onQueryChange={setQuery}
-      />
-
-      {isSearchingNotices ? (
-        <SearchResults query={query} results={noticeResults} onJump={jumpToAuthority} admin={admin} />
-      ) : (
-        <DetailPanel authority={selectedAuthority} admin={admin} />
-      )}
+          {isSearchingNotices ? (
+            <SearchResults query={query} results={noticeResults} onJump={jumpToAuthority} admin={admin} />
+          ) : (
+            <DetailPanel authority={selectedAuthority} admin={admin} />
+          )}
+        </div>
+      </div>
 
       {toast && <Toast message={toast.message} tone={toast.tone} />}
     </div>

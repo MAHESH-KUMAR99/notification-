@@ -1,5 +1,216 @@
 [
   {
+    "id": "neet-guidance",
+    "name": "NEET Guidance",
+    "state": null,
+    "category": "aggregator",
+    "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
+    "latestUpdate": "",
+    "lastUpdatedDate": "2026-07-24T13:23:47.249Z",
+    "notices": [
+      {
+        "id": "cb673aab85d0892a",
+        "title": "Telangana - Documents List",
+        "link": "https://www.knruhs.telangana.gov.in/uploads/20260723091422KNRUHS%20-%20MBBS%20BDS%20ADMISSIONS%20UNDER%20COMPETENT%20AUTHORITY%20QUOTA%20FOR%20THE%20AY%202026-27%20-%20NOTICE%20TO%20THE%20CANDIDATES.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 33,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "428e87377b19edfd",
+        "title": "Kerala KEAM- Fresh Registration Open",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/144/Upload1",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 34,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "eb7625cef9746138",
+        "title": "Andhra Pradesh- Documents List",
+        "link": "https://drntr.uhsap.in/index/notification/20260722131451123.pdf",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 32,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "1440dc560400cee9",
+        "title": "CMC Vellore : Update your NEET UG Roll number, NEET Score and All India Rank",
+        "link": "https://admissions.cmcvellore.ac.in/",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 30,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "5eb95c15fa69b16f",
+        "title": "CMC Vellor : CMC Vellore Application Open Category closing Soon",
+        "link": "https://neetugguidance.in/upload_store/70312Christian%20Medical%20College%20Vellore%20-%20Online%20Admissions.pdf",
+        "date": "20/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 31,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "6422241b5da30402",
+        "title": "Karnataka- KEA New Registration Open",
+        "link": "https://neetugguidance.in/upload_store/448671KTK%20KEA%202026-New%20Reg%20Open.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 28,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "459a1a87346773f8",
+        "title": "Arunachal Pradesh : Check your provisional inter-se Merit position",
+        "link": "https://neetugguidance.in/upload_store/153704Arunachal%20Pradesh%20NEET%20UG%202026.pdf",
+        "date": "17/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 29,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "1dece1b4f0047d06",
+        "title": "Final Answer Key NEET UG 2026",
+        "link": "https://neetugguidance.in/upload_store/962076Final%20Answer%20Key%20NEET%20UG%202026.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 26,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "57c17eaf89e7601e",
+        "title": "NEET UG 2026 Result Notice",
+        "link": "https://neetugguidance.in/upload_store/139781NEET%20UG%202026%20Result%20Released%20Notice.pdf",
+        "date": "16/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 27,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "e880e6d19e681497",
+        "title": "NEET UG 2026- Total Seat Matrix for MBBS Courses (excluding INIs) as on 14-07-2026",
+        "link": "https://www.nmc.org.in/MCIRest/open/getDocument?path=/Documents/Public/Portal/LatestNews/PublicNotice_Merged_seatmatrix_Secretary_covering.pdf",
+        "date": "15/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 25,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "938950fa1305206a",
+        "title": "NEET UG 2026- OMR Answer Sheet and Recorded Response Challege",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260713497007800.pdf",
+        "date": "13/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 24,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "d8b6da98ea72539c",
+        "title": "Tamil Nadu 2026 Medical Counselling Notification",
+        "link": "https://tnmedicalselection.net/Notification.aspx",
+        "date": "29/06/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 23,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "ff29525c498db69f",
+        "title": "NEET UG 2026- Answer key challenge notice",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606251138469985.pdf",
+        "date": "25/06/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 22,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "95712c36b601a944",
+        "title": "Re-NEET UG 2026: Admit Card Released",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606142028683090.pdf",
+        "date": "14/06/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 21,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "b78394015cdefb79",
+        "title": "Karnataka KEA 2026- Verification Slip Download Link Activated",
+        "link": "https://cetonline.karnataka.gov.in/ugcet_vs_2026/forms/login.aspx",
+        "date": "12/06/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 20,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "fb1e675db5700c54",
+        "title": "NEET UG 2026- PwD/PwBD Scribe Details Portal Re-Open",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260609246210889.pdf",
+        "date": "09/06/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 19,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "33406dc901d7739c",
+        "title": "Re-NEET UG 2026 Advance Exam City Intimation notice",
+        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606071045836990.pdf",
+        "date": "08/06/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 18,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "7e806ab9ab3ddc18",
+        "title": "NEET UG 2026- NRI Eligibility for 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/05/2026052710250622.pdf",
+        "date": "28/05/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 17,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "20fc4ccac2f3af94",
+        "title": "Kerala KEAM 2026: Notice of Defect applicants List released.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/44/Upload1",
+        "date": "18/05/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 16,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "088dcd25e80286b5",
+        "title": "NEET UG 2026- FAQs",
+        "link": "https://www.nta.ac.in/Download/Notice/Notice_20260516152301.pdf",
+        "date": "16/05/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 15,
+        "detectedAt": "2026-07-24T13:23:47.249Z"
+      }
+    ]
+  },
+  {
     "id": "mcc-ug",
     "name": "MCC UG 2026",
     "state": null,
@@ -1299,7 +1510,7 @@
     "name": "UG Punjab (BFUHS)",
     "state": "Punjab",
     "category": "state",
-    "officialLink": "https://bfuhs.ac.in/mbbs_bds/mbbsbds.asp",
+    "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
     "lastUpdatedDate": "2026-07-13T07:49:11.040Z",
     "pinned": false,

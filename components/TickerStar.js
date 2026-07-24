@@ -60,7 +60,7 @@ export default function TickerStar({ noticeId, pin, approved, onInvalidPin, onTo
         className={`flex h-4 w-4 shrink-0 items-center justify-center rounded border text-[10px] font-bold leading-none transition ${
           approved
             ? "border-emerald-500 bg-emerald-500 text-white"
-            : "border-slate-300 text-transparent hover:border-emerald-400 dark:border-slate-600"
+            : "border-slate-300 text-transparent hover:border-emerald-400"
         } ${busy ? "opacity-50" : ""}`}
       >
         ✓

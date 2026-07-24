@@ -37,10 +37,12 @@ function getServerSnapshot() {
 export function useAdmin() {
   const pin = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
 
-  function login() {
-    const entered = window.prompt("Admin PIN:");
-    if (!entered) return;
-    localStorage.setItem(STORAGE_KEY, entered);
+  // Takes the PIN directly (from the sidebar's own inline form) instead of
+  // window.prompt()'s unstyled native dialog — this component only ever
+  // stores what it's given; lib/adminAuth.js is what actually validates it.
+  function login(enteredPin) {
+    if (!enteredPin) return;
+    localStorage.setItem(STORAGE_KEY, enteredPin);
     window.dispatchEvent(new Event(CHANGE_EVENT));
   }
 
