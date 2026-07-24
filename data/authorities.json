@@ -6,7 +6,7 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:35:42.565Z",
+    "lastUpdatedDate": "2026-07-24T09:05:48.578Z",
     "pinned": true,
     "notices": [
       {
@@ -116,6 +116,78 @@
         "sortTs": null,
         "batchIndex": 11,
         "detectedAt": "2026-07-08T09:35:42.565Z"
+      },
+      {
+        "id": "01ef998cda0f282b",
+        "title": "Notice for Weeding out",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510289276770.pdf",
+        "date": "28/10/2025",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
+      },
+      {
+        "id": "dd7cda49562f43b5",
+        "title": "UG State Schedule 2025 dated 24.10.2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251024919259468.pdf",
+        "date": "24/10/2025",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
+      },
+      {
+        "id": "f7e906ced9494aaf",
+        "title": "Final Allotment Result for Round 3 of UG Counselling 2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510231856675154.pdf",
+        "date": "23/10/2025",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
+      },
+      {
+        "id": "e01e5d427a775f74",
+        "title": "Notice for addition of new seats in Round 3 of UG Counselling 2025 dated 18.10.2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510181110388290.pdf",
+        "date": "18/10/2025",
+        "sortTs": null,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
+      },
+      {
+        "id": "da49a3d1fe942e1f",
+        "title": "Notice for addtion of new seat in Round 3 of UG Counselling 2025 dated 17.10.2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251017840896987.pdf",
+        "date": "17/10/2025",
+        "sortTs": null,
+        "batchIndex": 5,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
+      },
+      {
+        "id": "23294094909237ff",
+        "title": "Notice for addition of seats Round 3 dated 15.10.2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251015573430974.pdf",
+        "date": "15/10/2025",
+        "sortTs": null,
+        "batchIndex": 6,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
+      },
+      {
+        "id": "f138584060eb3e40",
+        "title": "Notice for Addition of seats in Round 3 Seats 14.10.2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510141041457961.pdf",
+        "date": "14/10/2025",
+        "sortTs": null,
+        "batchIndex": 7,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
+      },
+      {
+        "id": "ca034b999aa5bed9",
+        "title": "Notice for Addition of seats in Round 3 Seats dated. 13.10.2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251013198784039.pdf",
+        "date": "13/10/2025",
+        "sortTs": null,
+        "batchIndex": 8,
+        "detectedAt": "2026-07-24T09:05:48.578Z"
       }
     ]
   },
@@ -3997,9 +4069,63 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T17:27:09.774Z",
+    "lastUpdatedDate": "2026-07-24T09:06:04.350Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "14361137f48efd88",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BHMS FINAL YEAR REGULAR EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724074919KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20BHMS%20FINAL%20YEAR%20REGULAR%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T09:06:04.350Z"
+      },
+      {
+        "id": "d8b36c1f74ef621a",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BHMS THIRD YEAR (OLD REGULATIONS) EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724074908KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20BHMS%20THIRD%20YEAR%20(OLD%20REGULATIONS)%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-24T09:06:04.350Z"
+      },
+      {
+        "id": "2b5c34dde6404f17",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BHMS SECOND YEAR (OLD REGULATIONS) EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724074810KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20BHMS%20SECOND%20YEAR%20(OLD%20REGULATIONS)%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 2,
+        "detectedAt": "2026-07-24T09:06:04.350Z"
+      },
+      {
+        "id": "948debb684ad76fd",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BHMS FIRST YEAR (OLD REGULATIONS) EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724074751KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20BHMS%20FIRST%20YEAR%20(OLD%20REGULATIONS)%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 3,
+        "detectedAt": "2026-07-24T09:06:04.350Z"
+      },
+      {
+        "id": "a9fd891f38cf8d33",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BSC ALLIED HEALTH SCIENCES SECOND YEAR SUPPLEMENTARY EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724074735KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20BSC%20ALLIED%20HEALTH%20SCIENCES%20SECOND%20YEAR%20SUPPLEMENTARY%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 4,
+        "detectedAt": "2026-07-24T09:06:04.350Z"
+      },
+      {
+        "id": "78fc24c5ec902158",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR BSC ALLIED HEALTH SCIENCES FIRST YEAR SUPPLEMENTARY EXAMINATIONS - AUGUST 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260724074722KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20BSC%20ALLIED%20HEALTH%20SCIENCES%20FIRST%20YEAR%20SUPPLEMENTARY%20EXAMINATIONS%20-%20AUGUST%202026.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 5,
+        "detectedAt": "2026-07-24T09:06:04.350Z"
+      },
       {
         "id": "724a8c734b45f25c",
         "title": "KNRUHS – EXAMINATION WING – POSTPONEMENT OF THEORY EXAMINATIONS SCHEDULED ON 24.07.2026 (FRIDAY) – REG.",
@@ -4125,60 +4251,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "832d2dd199347098",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MD UNANI SECOND SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095737KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MD%20UNANI%20SECOND%20SUMMATIVE%20ASSESSMENT%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "d8453a1c3c77a2bb",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF SECOND PROFESSIONAL BUMS (NEW REGULATIONS) EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095529KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20SECOND%20PROFESSIONAL%20BUMS%20(NEW%20REGULATIONS)%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "e4d30a4a523eec33",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF SECOND BNYS PART-I EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095514KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20SECOND%20BNYS%20PART-I%20%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "9ea39cc7bc15bb8d",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF SECOND BNYS PART-I EXAMINATIONS - MAY 2026 - REGULAR CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095459KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20SECOND%20BNYS%20PART-I%20%20EXAMINATIONS%20-%20MAY%202026%20-%20REGULAR%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "edf464e1598683bc",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF FIRST BNYS PART-II EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095438KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20FIRST%20BNYS%20PART-II%20%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
-      },
-      {
-        "id": "94d5952421c4862d",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF FIRST BNYS PART-II EXAMINATIONS - MAY 2026 - REGULAR CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260714095422KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20FIRST%20BNYS%20PART-II%20%20EXAMINATIONS%20-%20MAY%202026%20-%20REGULAR%20%20CANDIDATES.pdf",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 7,
-        "detectedAt": "2026-07-15T03:45:30.782Z"
       }
     ]
   },
@@ -4189,9 +4261,18 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T09:28:39.497Z",
+    "lastUpdatedDate": "2026-07-24T09:07:37.666Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "64f7ebc5bd27886a",
+        "title": "Result Notification of B.A.M.S First Professional Annual/Supplementary Examination Held in March 2026.(Date of Result 24-07-2026)",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Result-of-BAMS-1st-Professonal-AnnualSupplementary-Examination.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "batchIndex": 1,
+        "detectedAt": "2026-07-24T09:07:37.666Z"
+      },
       {
         "id": "b99198a7a2b0b128",
         "title": "Result Notification of Post Basic B.Sc. Nursing 1st year Supplementary Examination Held in May 2026 Batch 2023, 2024 Dated-13-07-2026",
@@ -4218,6 +4299,15 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "1486b4318643f971",
+        "title": "Notice for Submission of Provisional NOC-cum-Eligibility Certificate for In-Service Candidates Applying for Post Basic B.Sc. Nursing and M.Sc. Nursing Courses — Academic Session 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Notice-for-provisional-NOC-cum-eligibility-certificate-of-Inservice-candidates.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "batchIndex": 0,
+        "detectedAt": "2026-07-24T09:07:37.666Z"
       },
       {
         "id": "3d8a3ad8db0ac7e9",
@@ -4352,15 +4442,6 @@
         "date": null,
         "sortTs": 1782864000000,
         "batchIndex": 7,
-        "detectedAt": "2026-07-15T14:22:33.737Z"
-      },
-      {
-        "id": "e786b1a7b9d2ff00",
-        "title": "Public Advisory – Common Entrance Test(CET) of Allied & Healthcare Programmes(Paramedical)& B.Pharmacy (Ayurved) 2026-27.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Public-Advisory.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "batchIndex": 9,
         "detectedAt": "2026-07-15T14:22:33.737Z"
       },
       {
