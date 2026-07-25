@@ -5839,9 +5839,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T13:02:08.559Z",
+    "lastUpdatedDate": "2026-07-25T13:49:20.093Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8de94d95eeb27bb7",
+        "title": "Fee structure and Allotment of seats by the CEE in the Self Financing Colleges under Kerala Catholic Engineering College Managements Association (KCECMA)",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/147/Upload3",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-25T13:49:20.093Z"
+      },
       {
         "id": "3c110787c97566ad",
         "title": "Admission To Architecture Course - 2026 Provisional List Of Eligible Candidates For Community/ Registered Scociety/ Trust Quota Seats Published",
@@ -6019,15 +6029,6 @@
         "date": "10/07/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-10T15:17:49.070Z"
-      },
-      {
-        "id": "4d106ac3dfe3da96",
-        "title": "KERALA ARCHITECTURE COURSE 2026 - PROVISIONAL RANK LIST PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/107/Upload1",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-10T15:17:49.070Z"
       }
     ]
