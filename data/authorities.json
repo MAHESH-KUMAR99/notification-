@@ -1153,9 +1153,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T09:27:22.905Z",
+    "lastUpdatedDate": "2026-07-25T08:12:28.718Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "89aa274e35efa6d2",
+        "title": "NOTIFICATION - 009 - REOPENING OF ONLINE APPLICATION WINDOW FOR MBBS/BDS DEGREE COURSES (2026-2027 SESSION)",
+        "link": "https://tnmedicalselection.net/news/25072026002646.pdf",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-25T08:12:28.718Z"
+      },
       {
         "id": "4a363174bf772beb",
         "title": "NOTIFICATION-008 - NO NEED TO UPLOAD NEET SCORECARD FOR MBBS/BDS COURSE 2026-2027",
@@ -4495,7 +4505,7 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T13:02:10.008Z",
+    "lastUpdatedDate": "2026-07-25T08:16:21.430Z",
     "pinned": false,
     "notices": [
       {
@@ -4542,6 +4552,16 @@
         "sortTs": null,
         "batchIndex": 8,
         "detectedAt": "2026-07-15T14:22:33.737Z"
+      },
+      {
+        "id": "97b55a13565dcf68",
+        "title": "Final revised answer keys of CET Examination Paper Code-2604 Series A, B, C & D",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Final-revised-answer-keys-CET-Paper-Code-2604-Series-A-D-C-D.pdf",
+        "date": null,
+        "sortTs": 1782864000000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-25T08:16:21.430Z"
       },
       {
         "id": "67d779bd7d1695d9",
@@ -4667,15 +4687,6 @@
         "date": null,
         "sortTs": 1782864000000,
         "batchIndex": 4,
-        "detectedAt": "2026-07-15T14:22:33.737Z"
-      },
-      {
-        "id": "30c198738d7849ff",
-        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-A",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-A-1.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "batchIndex": 5,
         "detectedAt": "2026-07-15T14:22:33.737Z"
       },
       {
