@@ -1330,9 +1330,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-22T08:35:01.150Z",
+    "lastUpdatedDate": "2026-07-25T10:10:03.725Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e4af8d7b2ae149a5",
+        "title": "25-07-2026: ADVISORY TO ASPIRANTS OF UG & PG MEDICAL, DENTAL ADMISSIONS – 2026",
+        "link": "https://drntr.uhsap.in/index/notification/20260725141348147.pdf",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-25T10:10:03.725Z"
+      },
       {
         "id": "25e06e6f239ef0f4",
         "title": "22-07-2026: Admission into MBBS& BDS courses -CQ(Convenor) 2026-27 - Provisional list of Documents required MBBS-BDS- CQ(Convenor) - 2026-27 -Sports & Games Category - Proformas 1 to 4 Admission into MBBS& BDS courses -CQ(Convenor) 2026-27 -Sports & Games - List of Priorities",
@@ -1502,15 +1512,6 @@
         "date": "16/02/2026",
         "sortTs": null,
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "e1454d5efe768769",
-        "title": "15-02-2026: PG (Medical) MQ 2025-26 - Phase-III (Mop Up) Provisional College wise Allotments List PG (Medical) CQ 2025-26 - Non-service Phase-III (Mop Up) Final College wise Allotments List",
-        "link": "https://drntr.uhsap.in/index/notification/20260215154325840.pdf",
-        "date": "15/02/2026",
-        "sortTs": null,
-        "batchIndex": 18,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -5507,9 +5508,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T11:19:15.769Z",
+    "lastUpdatedDate": "2026-07-25T10:11:33.073Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0385dbaa50a6d184",
+        "title": "NOTIFICATION REGARDING INVITING APPLICATIONS FOR ADMISSION UNDER “SPORTS QUOTA” IN VARIOUS UG/PG PROGRAMMES OFFERED AT UNIVERSITY’S SCHOOLS OF STUDIES AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FO",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607251133167503.pdf",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-25T10:11:33.073Z"
+      },
       {
         "id": "4c5f5d836792a2ae",
         "title": "Schedule of 1st Counselling Master in Clinical Psychology (CODE-166) Admission Session: 2026-27_dated-24.07.2026",
@@ -5679,15 +5690,6 @@
         "date": "20/07/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-20T11:24:05.472Z"
-      },
-      {
-        "id": "64cb4300466b54c5",
-        "title": "Schedule of activities partaining to declaration of result of Round 01 MCA (NIMCET 2026/ CET 2026) (Code-105) A.S: 2026-27_dated-20.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260720719487069.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-20T11:24:05.472Z"
       }
     ]
