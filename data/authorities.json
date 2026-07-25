@@ -1908,9 +1908,49 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T11:27:44.182Z",
+    "lastUpdatedDate": "2026-07-25T11:50:55.008Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:12e379f21f97d998",
+        "title": "Notice for offline Mop-Up Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/10 Dated 25.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_10.pdf",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-25T11:50:55.008Z"
+      },
+      {
+        "id": "Latest Updates:adc53e4d52521408",
+        "title": "Details of offline Mop-Up Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/09 Dated 25.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_09.pdf",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-25T11:50:55.008Z"
+      },
+      {
+        "id": "Latest Updates:7c6062919489357f",
+        "title": "Notice for online counselling of BCECE[PCM/PCM OF PCMB]Group-2026 (Adv. No. BCECEB(BCECE)-2026/09 Dated 25.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_09.pdf",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-25T11:50:55.008Z"
+      },
+      {
+        "id": "Latest Updates:865fa0cd9867c1d3",
+        "title": "Details for online counselling of BCECE[PCM/PCM OF PCMB]Group-2026 (Adv. No. BCECEB(BCECE)-2026/08 Dated 25.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_08.pdf",
+        "date": "25/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-25T11:50:55.008Z"
+      },
       {
         "id": "Latest Updates:cf24ef00872aafe2",
         "title": "Schedule for Revised Second Document Verification of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/09 Dated 23.07.2026)",
@@ -2067,46 +2107,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:7354b4b86ed26d5d",
-        "title": "Details for filling Online Application Form for Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/05 Dated 29.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_05.pdf",
-        "date": "29/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "UGMAC:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:899212cb200b6019",
-        "title": "Notice for Rank Card of BCECE-2026 (Adv. No. BCECEB(BCECE)-2026/05 Dated 24.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_05.pdf",
-        "date": "24/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 6,
         "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
