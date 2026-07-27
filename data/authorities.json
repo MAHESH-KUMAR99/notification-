@@ -945,9 +945,21 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-21T07:10:51.404Z",
+    "lastUpdatedDate": "2026-07-27T08:56:34.881Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a7668e0c488370a4",
+        "title": "જે વિધાર્થીઓએ સિક્યુરિટી ડિપોઝિટ અને ફી રિફંડ રાઉન્ડ-7 માં પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.25/07/2026 સુધી માં ભરી છે, તેવા વિદ્યાર્થીઓની ફી રીફંડ કરવાની પ્રક્રિયા ચાલુ છે, તેઓએ પોતાના રીફન્ડ માટેની વિગત પોતાના બેંક ખાતામાં તા.07/08/2026 પછી જોવી.",
+        "link": null,
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Students who have filled their bank account details in security deposit and fee refund round-7 from 09/07/2026 to 25/07/2026, the process of refund of fees is going on, they should check their refund details in their bank account after 07/08/2026.",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-27T08:56:34.881Z"
+      },
       {
         "id": "7f1b126caa4ccab4",
         "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.25/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
@@ -1133,15 +1145,6 @@
         "date": "12/06/2026",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "b99f489fce98ae2b",
-        "title": "List of the unsuccessful candidates whose Tuition fee is not Refunded in Round 1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_fail_UGR1.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-08T09:36:11.871Z"
       }
     ]
@@ -4324,9 +4327,19 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T13:00:39.706Z",
+    "lastUpdatedDate": "2026-07-27T08:56:45.074Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2ffba92e49e51788",
+        "title": "KNRUHS – EXAMINATION WING – RESCHEDULING OF EXAMINATIONS POSTPONED ON 24.07.2026 – COMMUNICATION – REG.",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260727064921Rescheduling%20of%20Examinations.pdf",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T08:56:45.074Z"
+      },
       {
         "id": "c345759e48b9abf2",
         "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR THIRD PROFESSIONAL BHMS (NEW REGULATIONS) REGULAR EXAMINATIONS - AUGUST 2026",
@@ -4496,15 +4509,6 @@
         "date": "15/07/2026",
         "sortTs": null,
         "batchIndex": 4,
-        "detectedAt": "2026-07-15T08:56:07.375Z"
-      },
-      {
-        "id": "a10c60b3c0ec4199",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF MD UNANI FIRST SUMMATIVE ASSESSMENT EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070416KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20MD%20UNANI%20FIRST%20SUMMATIVE%20ASSESSMENT%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 5,
         "detectedAt": "2026-07-15T08:56:07.375Z"
       }
     ]
@@ -6050,7 +6054,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T09:28:01.108Z",
+    "lastUpdatedDate": "2026-07-27T08:58:30.092Z",
     "pinned": false,
     "notices": [
       {
@@ -6070,6 +6074,26 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "2118a3b47eeb69a7",
+        "title": "Notice Inviting Expression of Interest (EOI) for Opeartion & Management of a Nursing College of 60 B.Sc. Seats Intake under a Public Private Paernership at Umsawli, Shillong | EOI for Operation & Management of a Nursing College under PPP Mode at Umsawli, Shillong",
+        "link": "https://www.meghealth.gov.in/news/Notice%20Inviting%20EOI%20Nursing%20College,%20Umsawli.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T08:58:30.092Z"
+      },
+      {
+        "id": "cba8aba73b7c09d6",
+        "title": "Notice - Results of the Intervied held for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong",
+        "link": "https://www.meghealth.gov.in/news/Selected%20Candidates%20for%20the%20post%20of%20Radiology%20Technologist.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-27T08:58:30.092Z"
       },
       {
         "id": "d8b42124027ae586",
@@ -6213,24 +6237,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "bbfa6de177abd00d",
-        "title": "Advertisement Notice for the posts of 1) Centre Manager, 2) Counsellor cum Supervisor (Male & Female) and 3) Peer Educator cum Ward Attendant (Male & Female) for the Centre of Evolution, under R.P. Chest Hospital, Shillong",
-        "link": "https://www.meghealth.gov.in/news/DHS-JDQC-CFE-26-2%20Advertisement%20Notice.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "4eaaf93c740c6e0c",
-        "title": "Results of the Personal Interview for the post of Program Associate at Joint Directorate Quality Committtee under DHS (MI)",
-        "link": "https://www.meghealth.gov.in/news/HSM-Estt-MHSSP-JDQC-44-23-Vol-III-497%20Notice-%20Selected%20Candidates-%20Post-%20Program%20Associate.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 10,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
