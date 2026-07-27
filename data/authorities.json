@@ -2564,9 +2564,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T11:20:11.829Z",
+    "lastUpdatedDate": "2026-07-27T12:34:13.732Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:6c814b1958f98dda",
+        "title": "SEAT MATRIX FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1Mk6ruQ1K36p2HzvLkaIpf6vvT6iu13Tq/view?usp=sharing",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T12:34:13.732Z"
+      },
+      {
+        "id": "FINE ARTS:6c814b1958f98dda",
+        "title": "SEAT MATRIX FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1Mk6ruQ1K36p2HzvLkaIpf6vvT6iu13Tq/view?usp=sharing",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 124,
+        "detectedAt": "2026-07-27T12:34:13.732Z"
+      },
       {
         "id": "OVERALL:66226d4831aac2eb",
         "title": "UG NON-NEET ARTS AND SCIENCE & PROFESSIONAL SEAT MATRIX - (2026 - 2027)",
@@ -3428,9 +3448,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T17:08:44.208Z",
+    "lastUpdatedDate": "2026-07-27T12:31:07.102Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d28d7092d48a12ff",
+        "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत स्थित निजी चिकित्सालयों की मान्यता बाबत |.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2149",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Regarding recognition of private hospitals located within the state for the treatment of government servants of the state and their dependent members of their families......More",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-27T12:31:07.102Z"
+      },
       {
         "id": "68c3015e4b925376",
         "title": "List of Candidates Selected for Document Verification & Interview Schedule Published – Nursing Faculty Recruitment 2026.....More",
@@ -3620,15 +3652,6 @@
         "sortTs": null,
         "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "55f73d747627046f",
-        "title": "NOTICE: WALK-IN-INTERVIEWS FOR FACULTY POSITIONS (CONTRACTUAL).....More",
-        "link": "https://www.cgdme.in/notice.php?id=2129",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
   },
@@ -3639,9 +3662,59 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-20T11:24:42.976Z",
+    "lastUpdatedDate": "2026-07-27T12:34:09.464Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:cbb85b0298cebb47",
+        "title": "Revised Schedule of 3rd Round and Final Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607272096545246.pdf",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T12:34:09.464Z"
+      },
+      {
+        "id": "OJEE:adcc8171c0223670",
+        "title": "Revised Schedule of Round 3 and Final Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607271294717159.pdf",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-27T12:34:09.464Z"
+      },
+      {
+        "id": "OJEE:90bbaf0a9f12ecf9",
+        "title": "Revised Schedule of 3rd Round and Final Activity of LE-TECH(DIPLOMA)/ LE B.Sc./ Int. MBA and Working Professionals for Engineering Programme web based Counselling, OJEE 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260727470733674.pdf",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-27T12:34:09.464Z"
+      },
+      {
+        "id": "OJEE:afd41dff4940fa29",
+        "title": "Notice for All Candidates Who Have Participated in the OJEE Web-Based Counselling",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260724534861962.pdf",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-27T12:34:09.464Z"
+      },
+      {
+        "id": "OJEE:dd3e9df027722586",
+        "title": "REGISTRATION NOTICE FOR 2nd/SPECIAL OJEE 2026 RANK HOLDERS FOR BTECH, Lateral Entry to BTECH, MBA and MCA COURSES IN THE COUNSELLING PROCESS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607231296228251.pdf",
+        "date": "23/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-27T12:34:09.464Z"
+      },
       {
         "id": "OJEE:6906657b61a9920b",
         "title": "Notice for extension of last date for payment of part admission fees for B.Tech/B.Arch/B.Plan/Int.MSc (2nd Round)",
@@ -3790,56 +3863,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a7396bffb240afac",
-        "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc/ M.TECH/ M.ARCH/ M.PLAN/ MBA/ MCA/ MSc. Comp Sc./ LE-TECH (DIPLOMA)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201623814085.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:d10eebb362c6eed7",
-        "title": "NOTICE FOR CANDIDATES APPLYING UNDER EX-SERVICEMEN CATEGORY FOR ADMISSION INTO B.Tech./ B.Arch./ B. Plan/ B.CAT. Programmes",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620501047974.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:9a3a8f81348b5f21",
-        "title": "Notice regarding Registration for Odia Test of the OL category candidates for admission into (B. Tech/B. Plan/B. Arch)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260620407083520.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:7b8b4ca609d4ccbd",
-        "title": "Revised Tentative Schedule of Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606201284821801.pdf",
-        "date": "20/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:b2d387d2355798f0",
-        "title": "STEP BY STEP PROCEDURE FOR WEB BASED COUNSELLING",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260616763291637.pdf",
-        "date": "16/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
