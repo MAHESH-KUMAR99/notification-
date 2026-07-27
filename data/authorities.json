@@ -601,9 +601,18 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T13:05:15.859Z",
+    "lastUpdatedDate": "2026-07-27T15:27:04.019Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1010",
+        "title": "27/07/2026 - Constitution of Enabling Units for PwBD in Medical Colleges- reg",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Enabling%20Units%20in%20Medical%20Colleges.pdf",
+        "date": "27/07/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T15:27:04.019Z"
+      },
       {
         "id": "nmc-1009",
         "title": "23/07/2026 - Operationalization of NMC Online Appeal Portal for filing of Appeals by Registered Medical Practitioners (RMPs) under Section 30(3) & Section 30(4) of the National Medical Commission Act, 2019 - reg.",
@@ -754,14 +763,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Advisory_SafeInjectionProcess.pdf",
         "date": "01/06/2026",
         "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-988",
-        "title": " Extension of date for submission of Annual Disclosure Report by existing Medical Colleges for Annual Renewal of MBBS seats for AY 2026-27",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/NMC%20UGMEB%20Public%20Notice%20dated%2030-05-2026.pdf",
-        "date": "30/05/2026",
-        "batchIndex": 11,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -2564,9 +2565,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T12:34:13.732Z",
+    "lastUpdatedDate": "2026-07-27T15:30:32.475Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:190a597db5315eed",
+        "title": "ROUND I DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/round_1_draft_allotment_27_07_2026.html",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T15:30:32.475Z"
+      },
       {
         "id": "OVERALL:6c814b1958f98dda",
         "title": "SEAT MATRIX FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026 - 2027",
@@ -2578,6 +2589,26 @@
         "detectedAt": "2026-07-27T12:34:13.732Z"
       },
       {
+        "id": "OVERALL:1da79f6ffd776bca",
+        "title": "FINAL MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_final_merit_list_27_07_2026.html",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-27T15:30:32.475Z"
+      },
+      {
+        "id": "OVERALL:ac3f40ba8fa0ada4",
+        "title": "NOTICE : FINAL MERIT LIST AND ROUND 1 DRAFT ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1PGtXujoTXSBj4MPJQuEJp3LO2wakL_4h/view?usp=sharing",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-27T15:30:32.475Z"
+      },
+      {
         "id": "FINE ARTS:6c814b1958f98dda",
         "title": "SEAT MATRIX FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026 - 2027",
         "link": "https://drive.google.com/file/d/1Mk6ruQ1K36p2HzvLkaIpf6vvT6iu13Tq/view?usp=sharing",
@@ -2586,6 +2617,36 @@
         "source": "Direct from Website",
         "batchIndex": 124,
         "detectedAt": "2026-07-27T12:34:13.732Z"
+      },
+      {
+        "id": "FINE ARTS:190a597db5315eed",
+        "title": "ROUND I DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/round_1_draft_allotment_27_07_2026.html",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 127,
+        "detectedAt": "2026-07-27T15:30:32.475Z"
+      },
+      {
+        "id": "FINE ARTS:1da79f6ffd776bca",
+        "title": "FINAL MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_final_merit_list_27_07_2026.html",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 128,
+        "detectedAt": "2026-07-27T15:30:32.475Z"
+      },
+      {
+        "id": "FINE ARTS:ac3f40ba8fa0ada4",
+        "title": "NOTICE : FINAL MERIT LIST AND ROUND 1 DRAFT ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1PGtXujoTXSBj4MPJQuEJp3LO2wakL_4h/view?usp=sharing",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 129,
+        "detectedAt": "2026-07-27T15:30:32.475Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6077,7 +6138,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T08:58:30.092Z",
+    "lastUpdatedDate": "2026-07-27T15:28:55.986Z",
     "pinned": false,
     "notices": [
       {
@@ -6097,6 +6158,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "4fe89e81f493c41e",
+        "title": "Advertidsement for Admission to B.Sc. Nursing Course Session 2026-27 | Apply Here",
+        "link": "https://www.meghealth.gov.in/news/Advertisement-BScNursing202627-PDF.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T15:28:55.986Z"
       },
       {
         "id": "2118a3b47eeb69a7",
@@ -6251,15 +6322,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "6ae703ffab598832",
-        "title": "Extention Notice in partial modification to the Request for Proposal (RFP) for Supply of e-Books for Shillong Medical College",
-        "link": "https://www.meghealth.gov.in/news/Extension%20Notice_eBooks_SMC.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
