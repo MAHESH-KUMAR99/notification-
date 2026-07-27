@@ -601,9 +601,18 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T15:27:04.019Z",
+    "lastUpdatedDate": "2026-07-27T17:19:42.841Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1011",
+        "title": "27/07/2026 - Guidelines on assessment of PwBD for admission to the MBBS course 2026.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/GUIDELINES%20ON%20ASSESSMENT%20OF%20PERSONS%20WITH%20BENCHMARK%20DISABILITIES%20(PWBD)%20FOR%20ADMISSION%20TO%20THE%20MBBS%20COURSE,%202026_compressed.pdf",
+        "date": "27/07/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T17:19:42.841Z"
+      },
       {
         "id": "nmc-1010",
         "title": "27/07/2026 - Constitution of Enabling Units for PwBD in Medical Colleges- reg",
@@ -755,14 +764,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Circular%20advertisement.pdf",
         "date": "08/06/2026",
         "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-989",
-        "title": "01/06/2026 - Mandatory Implementation of Safe Injection Practices to Prevent Transmission of Blood-Borne Infections (i.e. HIV, HBV, HCV etc.)",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Advisory_SafeInjectionProcess.pdf",
-        "date": "01/06/2026",
-        "batchIndex": 10,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -5606,9 +5607,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-25T10:11:33.073Z",
+    "lastUpdatedDate": "2026-07-27T17:21:26.638Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8225cb605142ba2a",
+        "title": "NOTICE REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME CET CODE-451 AS ON 27.07.2026, TIME 6:00 P.M.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607271283181656.pdf",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T17:21:26.638Z"
+      },
       {
         "id": "0385dbaa50a6d184",
         "title": "NOTIFICATION REGARDING INVITING APPLICATIONS FOR ADMISSION UNDER “SPORTS QUOTA” IN VARIOUS UG/PG PROGRAMMES OFFERED AT UNIVERSITY’S SCHOOLS OF STUDIES AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FO",
@@ -5780,15 +5791,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-20T11:24:05.472Z"
-      },
-      {
-        "id": "427d7703a2ab7213",
-        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING B.MRIT(CODE-134) FOLLOWED BY OPEN HOUSE A.S:2026-27_dated-20.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607201690357836.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-20T11:24:05.472Z"
       }
     ]
   },
@@ -5937,9 +5939,29 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-25T13:49:20.093Z",
+    "lastUpdatedDate": "2026-07-27T17:23:14.615Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b6503b2b0ff7882b",
+        "title": "Admission To Architecture Course - Final List Of Eligible Candidates For Community/Registered Society/Trust Quota Seats Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/152/Upload1",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-27T17:23:14.615Z"
+      },
+      {
+        "id": "1b1a080ccd21b640",
+        "title": "Option Registration For Third Phase Allotment To Engineering And Option Confirmation For Second Phase Allotment To Architecture Courses- Facilities Available",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/151/Upload1",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-27T17:23:14.615Z"
+      },
       {
         "id": "8de94d95eeb27bb7",
         "title": "Fee structure and Allotment of seats by the CEE in the Self Financing Colleges under Kerala Catholic Engineering College Managements Association (KCECMA)",
@@ -6110,24 +6132,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-11T14:25:32.567Z"
-      },
-      {
-        "id": "6b2b57376f7e533c",
-        "title": "ADMISSION TO ENGINEERING COURSES 2026 - PROVISIONAL LIST OF ELIGIBLE CANDIDATES FOR COMMUNITY/REGISTERED SCOCIETY/TRUST QUOTA AND CB SEATS PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/109/Upload1",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-10T15:17:49.070Z"
-      },
-      {
-        "id": "fd0c4513e84fa88a",
-        "title": "KERALA ARCHITECTURE COURSES 2026 - PROVISIONAL CATEGORY LIST PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/108/Upload1",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-10T15:17:49.070Z"
       }
     ]
   },
