@@ -294,10 +294,18 @@
   },
   {
     "authorityId": "himachal-pradesh",
-    "id": "himachal-notices",
-    "type": "html-list",
-    "url": "https://amruhp.ac.in/notices/",
-    "itemSelector": "p:has(a.text-white[href$=\".pdf\"])"
+    "id": "himachal-mbbs-bds-counselling",
+    "type": "html-table",
+    "url": "https://amruhp.ac.in/home-general-notifications/",
+    "tableSelector": "#neetug_mbbs table",
+    "tableIndex": 0,
+    "rowSelector": "tbody tr",
+    "hasHeaderRow": false,
+    "titleCellIndex": 2,
+    "linkCellIndex": 3,
+    "dateCellIndex": 1,
+    "dateAttr": "data-order",
+    "sourceLabel": "MBBS/BDS Counselling"
   },
   {
     "authorityId": "uttar-pradesh",

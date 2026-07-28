@@ -94,7 +94,21 @@ export default function DetailPanel({ authority, admin }) {
     return [...bySource.entries()].map(([label, items]) => ({ label, items }));
   }, [authority]);
 
-  const currentTab = groups.find((g) => g.label === activeTab) ?? groups[0];
+  // A tab selection ("Announcements", "Latest Notifications", ...) is only
+  // meaningful for the authority it was clicked on — carrying it over to
+  // the next-selected authority would pick that authority's OWN group of
+  // the same name if one happens to exist, or (harmlessly) just fall back
+  // to groups[0] otherwise. Reset it the moment the authority itself
+  // changes, before `groups`/`currentTab` below ever see the stale label.
+  const [prevAuthorityId, setPrevAuthorityId] = useState(authority?.id);
+  let effectiveActiveTab = activeTab;
+  if (authority?.id !== prevAuthorityId) {
+    setPrevAuthorityId(authority?.id);
+    setActiveTab(null);
+    effectiveActiveTab = null;
+  }
+
+  const currentTab = groups.find((g) => g.label === effectiveActiveTab) ?? groups[0];
   const pageCount = currentTab ? Math.ceil(currentTab.items.length / PAGE_SIZE) : 0;
 
   // Switching authority or tab shows a different notice list entirely, so
