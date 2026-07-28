@@ -3510,9 +3510,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T12:31:07.102Z",
+    "lastUpdatedDate": "2026-07-28T07:17:10.130Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7e926165390504ac",
+        "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत एवं राज्य के बाहर स्थित निजी चिकित्सालयों की मान्यता बाबत |.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2149",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Regarding recognition of private hospitals located within the state and outside the state for the treatment of government servants of the state and their dependent members of their families......More",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-28T07:17:10.130Z"
+      },
       {
         "id": "d28d7092d48a12ff",
         "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत स्थित निजी चिकित्सालयों की मान्यता बाबत |.....More",
@@ -3704,15 +3716,6 @@
         "date": "01/07/2026",
         "sortTs": null,
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "2723fb1666c3514b",
-        "title": "Resolution of claims and objections for faculty posts in new Physiotherapy Colleges, Chhattisgarh.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2130",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
