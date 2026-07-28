@@ -1345,9 +1345,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-25T10:10:03.725Z",
+    "lastUpdatedDate": "2026-07-28T12:22:32.900Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8dbd0aa81395bfaa",
+        "title": "28-07-2026: NMC Guidelines dt.27-07-2026 on Assessment of Persons with Benchmark Disabilities",
+        "link": "https://drntr.uhsap.in/index/notification/20260728171426030.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T12:22:32.900Z"
+      },
       {
         "id": "e4af8d7b2ae149a5",
         "title": "25-07-2026: ADVISORY TO ASPIRANTS OF UG & PG MEDICAL, DENTAL ADMISSIONS – 2026",
@@ -1518,15 +1528,6 @@
         "date": "18/02/2026",
         "sortTs": null,
         "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "931285fa3db1d2e4",
-        "title": "16-02-2026: PG (Medical) CQ 2025-26 - Notification for Stray Vacancy Round inviting Online application forms PG (Medical) MQ 2025-26 - Notification for Stray Vacancy Round inviting Online application forms MPT Phase-II Web Options Notification 2025-26 PG (Medical) MQ 2025-26 - Phase-III (Mop Up) Final College wise Allotments List",
-        "link": "https://drntr.uhsap.in/index/notification/20260216172554238.pdf",
-        "date": "16/02/2026",
-        "sortTs": null,
-        "batchIndex": 17,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -1924,9 +1925,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-25T11:50:55.008Z",
+    "lastUpdatedDate": "2026-07-28T12:23:58.319Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:e4be47cb3a125ec8",
+        "title": "Important Notice for Choice Filling of DCECE[PM/PMM]-2026(Adv. No. BCECEB(DCECE)-2026/11 Dated 28.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_11.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T12:23:58.319Z"
+      },
+      {
+        "id": "Latest Updates:5890d4545d0cdded",
+        "title": "Detail Notice for Choice Filling of DCECE[PM/PMM]-2026(Adv. No. BCECEB(DCECE)-2026/10 Dated 28.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_10.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-28T12:23:58.319Z"
+      },
       {
         "id": "Latest Updates:12e379f21f97d998",
         "title": "Notice for offline Mop-Up Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/10 Dated 25.07.2026)",
@@ -2106,26 +2127,6 @@
         "detectedAt": "2026-07-07T09:51:06.529Z"
       },
       {
-        "id": "Latest Updates:7c350ab3388c1e22",
-        "title": "Important Notice Extension of Date for Choice Filling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/08 Dated 04.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_08.pdf",
-        "date": "04/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:7e9922525d368853",
-        "title": "Important Notice Regarding filling Online Application Form for Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/06 Dated 29.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_06.pdf",
-        "date": "29/06/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
         "id": "UGMAC:11ee47ceaf3415d9",
         "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
@@ -2247,9 +2248,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T11:26:48.617Z",
+    "lastUpdatedDate": "2026-07-28T12:22:25.759Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9bd185d31c0afc69",
+        "title": "Advt. No. 45 dated-28.07.2026 Important Notice regarding correction in State Merit List Based on JEE (Main)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/751.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T12:22:25.759Z"
+      },
       {
         "id": "4a443b1a39851433",
         "title": "Advt. No. 42 dated-23.07.2026 Detailed Information Regarding Online Registration for State Quota POST DIPLOMS DNB Course of Sadar Hospital Ranchi on the basis of DNB-PDCET-2026 Result",
@@ -2424,15 +2435,6 @@
         "sortTs": null,
         "batchIndex": 15,
         "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "d8d02738fd084841",
-        "title": "Advt. No.- 153 Dated :- 05/12/2025 {Indicative information regarding Merit List preparation for Special Round of Online Counselling for admission in All India Seats in M.B.B.S., B.D.S. & B.H.M.S. courses}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/731.pdf",
-        "date": "05/12/2025",
-        "sortTs": null,
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
   },
@@ -2567,9 +2569,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T10:15:03.007Z",
+    "lastUpdatedDate": "2026-07-28T12:24:23.192Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:1c81805707b0483e",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - I (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1Wc8NbC0-5h5Wz-Rg7SwY4QNHo5uJzsIk/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
       {
         "id": "OVERALL:51c8a79e47bb15d2",
         "title": "ROUND I PROVISIONAL ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) - (2026 - 2027)",
@@ -2581,6 +2593,16 @@
         "detectedAt": "2026-07-28T10:15:03.007Z"
       },
       {
+        "id": "OVERALL:fa9c786daeaca81c",
+        "title": "FINAL MERIT LIST FOR UG LATERAL ENTRY COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1bh77aoG-i1RBpQmZRW9IMWHozGlXw8u6/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
         "id": "OVERALL:a08858c8920eaf35",
         "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1xqBx8D8iNj8l6AnKPjawe0KwFiCMF1Cy/view?usp=sharing",
@@ -2589,6 +2611,46 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-07-28T10:15:03.007Z"
+      },
+      {
+        "id": "OVERALL:d9d52da4546b73b7",
+        "title": "NOTICE : FINAL MERIT LIST & ROUND 1 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1_AIhhyAA_Odv9r7Q3OqJB580NFOFAGGj/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "OVERALL:6bcef2a5e287cb6b",
+        "title": "ROUND I DRAFT ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1cqbDyEwmYnLtxmZ6lUlOp76AetiFqDbJ/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "OVERALL:483acf277ef8cc8a",
+        "title": "FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1pt7rIJjVRF4y-s1cQryVscwm18R5T3dt/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "OVERALL:bd4be5e4bd806f05",
+        "title": "NOTICE : FINAL MERIT LIST AND ROUND 1 DRAFT ALLOTMENT LIST FOR B.ARCH. IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1UghH9-XEqseO7YwzDWRUEqCEBwDEwrYU/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
       },
       {
         "id": "FINE ARTS:51c8a79e47bb15d2",
@@ -2609,6 +2671,66 @@
         "source": "Direct from Website",
         "batchIndex": 130,
         "detectedAt": "2026-07-28T10:15:03.007Z"
+      },
+      {
+        "id": "B.ARCH.:6bcef2a5e287cb6b",
+        "title": "ROUND I DRAFT ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1cqbDyEwmYnLtxmZ6lUlOp76AetiFqDbJ/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 150,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "B.ARCH.:483acf277ef8cc8a",
+        "title": "FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1pt7rIJjVRF4y-s1cQryVscwm18R5T3dt/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 151,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "B.ARCH.:bd4be5e4bd806f05",
+        "title": "NOTICE : FINAL MERIT LIST AND ROUND 1 DRAFT ALLOTMENT LIST FOR B.ARCH. IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1UghH9-XEqseO7YwzDWRUEqCEBwDEwrYU/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 152,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:1c81805707b0483e",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - I (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1Wc8NbC0-5h5Wz-Rg7SwY4QNHo5uJzsIk/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 158,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:fa9c786daeaca81c",
+        "title": "FINAL MERIT LIST FOR UG LATERAL ENTRY COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1bh77aoG-i1RBpQmZRW9IMWHozGlXw8u6/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 159,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:d9d52da4546b73b7",
+        "title": "NOTICE : FINAL MERIT LIST & ROUND 1 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1_AIhhyAA_Odv9r7Q3OqJB580NFOFAGGj/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 160,
+        "detectedAt": "2026-07-28T12:24:23.192Z"
       },
       {
         "id": "OVERALL:190a597db5315eed",
@@ -2649,66 +2771,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-07-27T15:30:32.475Z"
-      },
-      {
-        "id": "FINE ARTS:6c814b1958f98dda",
-        "title": "SEAT MATRIX FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1Mk6ruQ1K36p2HzvLkaIpf6vvT6iu13Tq/view?usp=sharing",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 124,
-        "detectedAt": "2026-07-27T12:34:13.732Z"
-      },
-      {
-        "id": "FINE ARTS:190a597db5315eed",
-        "title": "ROUND I DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/round_1_draft_allotment_27_07_2026.html",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 127,
-        "detectedAt": "2026-07-27T15:30:32.475Z"
-      },
-      {
-        "id": "FINE ARTS:1da79f6ffd776bca",
-        "title": "FINAL MERIT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/fine_arts_final_merit_list_27_07_2026.html",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 128,
-        "detectedAt": "2026-07-27T15:30:32.475Z"
-      },
-      {
-        "id": "FINE ARTS:ac3f40ba8fa0ada4",
-        "title": "NOTICE : FINAL MERIT LIST AND ROUND 1 DRAFT ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1PGtXujoTXSBj4MPJQuEJp3LO2wakL_4h/view?usp=sharing",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 129,
-        "detectedAt": "2026-07-27T15:30:32.475Z"
-      },
-      {
-        "id": "FINE ARTS:66226d4831aac2eb",
-        "title": "UG NON-NEET ARTS AND SCIENCE & PROFESSIONAL SEAT MATRIX - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/seat_matrix_ug_non_neet.html",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 135,
-        "detectedAt": "2026-07-28T10:15:03.007Z"
-      },
-      {
-        "id": "B.ARCH.:66226d4831aac2eb",
-        "title": "UG NON-NEET ARTS AND SCIENCE & PROFESSIONAL SEAT MATRIX - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/seat_matrix_ug_non_neet.html",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 144,
-        "detectedAt": "2026-07-28T10:15:03.007Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5402,9 +5464,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T10:11:23.638Z",
+    "lastUpdatedDate": "2026-07-28T12:23:36.688Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3b02fee51b81ec7a",
+        "title": "IMPORTANT INSTRUCTIONS REGARDING DOCUMENTS TO BE SUBMITTED AT THE TIME OF PHYSICAL REPORTING IN THE ALLOTTED COLLEGE (WHERE SEAT IN THE VARIOUS PROGRAMMES HAVE BEEN ALLOTTED THROUGH ONLINE COUNSELLING",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728206405047.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T12:23:36.688Z"
+      },
       {
         "id": "d8e5ef4e8197c494",
         "title": "NOTIFICAITON REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME AFTER COMPLETION OF 2nd COUNSELING CET CODE-451, AS ON 28.07.2026, TIME 2.00 P.M.",
@@ -5579,15 +5651,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-21T10:04:29.736Z"
-      },
-      {
-        "id": "8e7e496d7919438c",
-        "title": "WARNING AGAINST UPLOADING OF AI GENERATED CERTIFICATES ACADEMIC SESSION 2026-27_dated-21.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260721781089944.pdf",
-        "date": "21/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-21T12:10:08.255Z"
       }
     ]
   },
@@ -5736,9 +5799,31 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T17:23:14.615Z",
+    "lastUpdatedDate": "2026-07-28T12:24:22.787Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e891913836de5768",
+        "title": "കേരള മെഡിക്കൽ / മെഡിക്കൽ അനുബന്ധ കോഴ്‌സുകളിലേക്കുള്ള പ്രവേശനം – ഭിന്നശേഷി (PwD) വിഭാഗത്തിൽപ്പെട്ട ഉദ്യോഗാർത്ഥികളുടെ ശാരീരിക പരിശോധന സംബന്ധിച്ച്",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/157/Upload1",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Admission to Kerala Medical / Medical Allied Courses – Regarding physical examination of candidates belonging to differently abled (PwD) category",
+        "titleLang": "ml",
+        "detectedAt": "2026-07-28T12:24:22.787Z"
+      },
+      {
+        "id": "9c92f53cc2ac11e2",
+        "title": "Centralised Allotment For Pharmacy Course- Online Options Invited",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/155/Upload1",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-28T12:24:22.787Z"
+      },
       {
         "id": "b6503b2b0ff7882b",
         "title": "Admission To Architecture Course - Final List Of Eligible Candidates For Community/Registered Society/Trust Quota Seats Published",
@@ -5910,24 +5995,6 @@
         "date": "11/07/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-11T14:25:32.567Z"
-      },
-      {
-        "id": "f5d1a7c33a57de2b",
-        "title": "ADMISSION TO ENGINEERING COURSES - 2026 FINAL LIST OF ELIGIBLE CANDIDATES FOR COMMUNITY/REGISTERED SCOCIETY/TRUST/WARDS OF EMPLOYEES OF CO-OPERATIVE DEPARTMENT AND SOCIETIES QUOTA SEATS PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/111/Upload1",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-11T14:25:32.567Z"
-      },
-      {
-        "id": "4e963e5a27df24d7",
-        "title": "ADMISSION TO ARCHITECTURE COURSE - 2026 RANK LIST PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/110/Upload1",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-11T14:25:32.567Z"
       }
     ]
