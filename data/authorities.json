@@ -1538,9 +1538,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T15:14:19.547Z",
+    "lastUpdatedDate": "2026-07-28T10:09:16.401Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "be271e6de8e7128d",
+        "title": "NEET UG 2024,2025 Cutoff",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Cut%20off%20of%20session%202024%20and%202025%20of%20MBBSBDS.pdf",
+        "date": null,
+        "sortTs": 1783641600000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T10:09:16.401Z"
+      },
       {
         "id": "c992286d751ed896",
         "title": "Admission under NEET UG 2026 Notification Dated 10-07-2026",
@@ -1711,15 +1721,6 @@
         "date": "11/11/2025",
         "sortTs": null,
         "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "178020082f91cb9b",
-        "title": "Regarding vacancy position for Stray Vacancy Round under NEET UG 2025",
-        "link": "https://bfuhs.ac.in/MBBS2025/4thStrayRoundVacancy2025.pdf",
-        "date": "10/11/2025",
-        "sortTs": null,
-        "batchIndex": 17,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -2566,9 +2567,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T15:30:32.475Z",
+    "lastUpdatedDate": "2026-07-28T10:15:03.007Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:51c8a79e47bb15d2",
+        "title": "ROUND I PROVISIONAL ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/Round_1_provisional_list_28072026.html",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T10:15:03.007Z"
+      },
+      {
+        "id": "OVERALL:a08858c8920eaf35",
+        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1xqBx8D8iNj8l6AnKPjawe0KwFiCMF1Cy/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-28T10:15:03.007Z"
+      },
+      {
+        "id": "FINE ARTS:51c8a79e47bb15d2",
+        "title": "ROUND I PROVISIONAL ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/Round_1_provisional_list_28072026.html",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 129,
+        "detectedAt": "2026-07-28T10:15:03.007Z"
+      },
+      {
+        "id": "FINE ARTS:a08858c8920eaf35",
+        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1xqBx8D8iNj8l6AnKPjawe0KwFiCMF1Cy/view?usp=sharing",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 130,
+        "detectedAt": "2026-07-28T10:15:03.007Z"
+      },
       {
         "id": "OVERALL:190a597db5315eed",
         "title": "ROUND I DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) FOR THE ACADEMIC YEAR - (2026 - 2027)",
@@ -2648,6 +2689,26 @@
         "source": "Direct from Website",
         "batchIndex": 129,
         "detectedAt": "2026-07-27T15:30:32.475Z"
+      },
+      {
+        "id": "FINE ARTS:66226d4831aac2eb",
+        "title": "UG NON-NEET ARTS AND SCIENCE & PROFESSIONAL SEAT MATRIX - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/seat_matrix_ug_non_neet.html",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 135,
+        "detectedAt": "2026-07-28T10:15:03.007Z"
+      },
+      {
+        "id": "B.ARCH.:66226d4831aac2eb",
+        "title": "UG NON-NEET ARTS AND SCIENCE & PROFESSIONAL SEAT MATRIX - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/seat_matrix_ug_non_neet.html",
+        "date": "24/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 144,
+        "detectedAt": "2026-07-28T10:15:03.007Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4608,9 +4669,39 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-25T08:16:21.430Z",
+    "lastUpdatedDate": "2026-07-28T10:15:04.332Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e444c4340809c709",
+        "title": "Result notification of retotalling of BDS 2nd & 3rd year University Supplementary examination held in the month of March, 2026 (Date of result -28-07-2026)",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/result-notification.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T10:15:04.332Z"
+      },
+      {
+        "id": "9b8aba47a768719f",
+        "title": "Result notification of retotalling of BDS 1st year University Supplementary examination held in the month of March, 2026 (Date of result -28-07-2026)",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/Retotalling-BDS-1st-year-result-1.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-28T10:15:04.332Z"
+      },
+      {
+        "id": "06b5eea6ba1f7976",
+        "title": "Senior Residents/Tutors Result in compliance to the orders passed by the Hon’ble High Court of Himachal Pradesh vide CWP 11798 of 2026 (Date of result -28-07-2026)",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/document.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-28T10:15:04.332Z"
+      },
       {
         "id": "8d89e6c1c269710c",
         "title": "Senior Residents/Tutors result in compliance to the orders passed by the Hon’ble High Court of Himachal Pradesh in vide CWP 11763 and 11761 of 2026.(Dated-24-07-2026)",
@@ -4764,33 +4855,6 @@
         "sortTs": 1782864000000,
         "batchIndex": 2,
         "detectedAt": "2026-07-16T14:35:20.173Z"
-      },
-      {
-        "id": "5b8f6e8d8f664c1d",
-        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-D",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-D-1.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-15T14:22:33.737Z"
-      },
-      {
-        "id": "a27a9d912dc0ca5f",
-        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-C",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-C-1.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-15T14:22:33.737Z"
-      },
-      {
-        "id": "b3b8c2b00b8e875b",
-        "title": "Answer keys of Common Entrance Test (CET) for Allied Healthcare Programmes and B. Pharmacy (Ayurveda) Course, Paper Code- 2604, Series-B",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/07/CET-Series-B-1.pdf",
-        "date": null,
-        "sortTs": 1782864000000,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-15T14:22:33.737Z"
       },
       {
         "id": "Latest Notifications:e786b1a7b9d2ff00",
@@ -5610,9 +5674,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T17:21:26.638Z",
+    "lastUpdatedDate": "2026-07-28T10:11:23.638Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d8e5ef4e8197c494",
+        "title": "NOTIFICAITON REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME AFTER COMPLETION OF 2nd COUNSELING CET CODE-451, AS ON 28.07.2026, TIME 2.00 P.M.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072829864217.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-28T10:11:23.638Z"
+      },
+      {
+        "id": "97996c9ba483b1a5",
+        "title": "NOTICE REGARDING SANCTIONED INTAKE OF PARAMEDICAL MASTER IN CLINICAL PSYCHOLOGY (PROGRAMME CODE 166) MANAGEMENT QUOTA SEATS FOR THE ACADEMIC SESSION 2026-27.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728234575737.pdf",
+        "date": "28/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-28T10:11:23.638Z"
+      },
       {
         "id": "8225cb605142ba2a",
         "title": "NOTICE REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME CET CODE-451 AS ON 27.07.2026, TIME 6:00 P.M.",
@@ -5776,24 +5860,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-21T12:10:08.255Z"
-      },
-      {
-        "id": "cc26d7e135bf7218",
-        "title": "REGARDING ADMISSION THROUGH THE MERIT OF CUET IN UNDER GRADUATE COURSES A.S.2026-27_dated-21.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607212086262139.pdf",
-        "date": "21/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-21T12:10:08.255Z"
-      },
-      {
-        "id": "f302377141756fac",
-        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING B.PHARM (CODE-133) THROUGH THE MERIT OF CET 2026 A.S:2026-27_dated-20.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607201386712137.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-20T11:24:05.472Z"
       }
     ]
   },
