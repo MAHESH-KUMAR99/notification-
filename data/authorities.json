@@ -6,7 +6,7 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T20:26:32.140Z",
+    "lastUpdatedDate": "2026-07-28T04:17:10.705Z",
     "notices": [
       {
         "id": "cbed49dae4c15528",
@@ -47,6 +47,16 @@
         "source": "Direct from Website",
         "batchIndex": 34,
         "detectedAt": "2026-07-24T13:23:47.249Z"
+      },
+      {
+        "id": "6d7158eecfce2dbd",
+        "title": "Kendriya Sainik Board CW Quota: MBBS/ BDS Application Open",
+        "link": "https://www.ksb.gov.in/admission-mbbs-bds-colleges.htm.htm",
+        "date": "22/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 32,
+        "detectedAt": "2026-07-28T04:17:10.705Z"
       },
       {
         "id": "eb7625cef9746138",
@@ -196,16 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 19,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "33406dc901d7739c",
-        "title": "Re-NEET UG 2026 Advance Exam City Intimation notice",
-        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606071045836990.pdf",
-        "date": "08/06/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 18,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
