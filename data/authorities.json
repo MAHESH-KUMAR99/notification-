@@ -6,8 +6,18 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T04:17:10.705Z",
+    "lastUpdatedDate": "2026-07-29T07:21:44.447Z",
     "notices": [
+      {
+        "id": "055b27d240356eab",
+        "title": "NEIGRIHMS MBBS Admission 2026-27 (North East Open Category)",
+        "link": "https://www.neigrihms.gov.in/Latest%20News/academics/2026/MBBS/MBBS%20Prospectus%202026%20Online.pdf",
+        "date": "27/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 37,
+        "detectedAt": "2026-07-29T07:21:44.447Z"
+      },
       {
         "id": "cbed49dae4c15528",
         "title": "Tamil Nadu: Fresh Registration Re-Open 2026",
@@ -196,16 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 20,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "fb1e675db5700c54",
-        "title": "NEET UG 2026- PwD/PwBD Scribe Details Portal Re-Open",
-        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/20260609246210889.pdf",
-        "date": "09/06/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
@@ -6404,9 +6404,19 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T15:16:02.783Z",
+    "lastUpdatedDate": "2026-07-29T07:23:26.851Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d4c55f8cb9034036",
+        "title": "CUET-Nomination-dates-29th-july-2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/CUET-Nomination-dates-29th-july-2026.pdf",
+        "date": "29/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-29T07:23:26.851Z"
+      },
       {
         "id": "4ff1b03b1dddafbc",
         "title": "Non NEET2026 candidate list applied",
@@ -6580,15 +6590,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-10T15:17:07.914Z"
-      },
-      {
-        "id": "d99c347a81191c50",
-        "title": "Notification CUET MERIT LIST 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notificaton-CUET-merit-list-2026.pdf",
-        "date": "06/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:43.983Z"
       }
     ]
   },
