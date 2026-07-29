@@ -5464,9 +5464,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-29T10:12:02.214Z",
+    "lastUpdatedDate": "2026-07-29T12:32:09.080Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f62d8640b06b2882",
+        "title": "Schedule for Verification of Documents for Preparation of Revised Rank/ Merit List for 2nd Round of Offline Counselling for B.Arch (Code-100) A.S: 2026-27_dated-29.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607292138800537.pdf",
+        "date": "29/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-29T12:32:09.080Z"
+      },
       {
         "id": "6bd0a989a61d0aa9",
         "title": "Round 3 Fresh Registration MBA (CAT 2025/ CMAT 2026) Choice Filling followed by SLIDING ROUND for A.S: 2026-27_dated-29.07.2026",
@@ -5643,15 +5653,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-22T11:13:13.324Z"
-      },
-      {
-        "id": "f3412f9fda0ff8d0",
-        "title": "REGARDING VALIDITY OF SUBMITTED DOCUMENTS VIZ-A-VIZ MARKSHEET(S)/CATEGORY CERTIFICATES SUCH AS SC/ST/OBC/DEFENCE/EWS/PWD ETC. A.S: 2026-27_dated-21.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607211721439468.pdf",
-        "date": "21/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-21T12:10:08.255Z"
       }
     ]
   },
