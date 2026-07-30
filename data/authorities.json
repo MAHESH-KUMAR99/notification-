@@ -5464,9 +5464,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-29T12:32:09.080Z",
+    "lastUpdatedDate": "2026-07-30T08:34:29.372Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4cdc2ee7dcf3b3b1",
+        "title": "RESULT OF ROUND-3 STANDS NULL AND VOID BA(JMC) CODE-126 & BA (ENG) CODE-184_dated-30.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607301885192911.pdf",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-30T08:34:29.372Z"
+      },
       {
         "id": "f62d8640b06b2882",
         "title": "Schedule for Verification of Documents for Preparation of Revised Rank/ Merit List for 2nd Round of Offline Counselling for B.Arch (Code-100) A.S: 2026-27_dated-29.07.2026",
@@ -5643,15 +5653,6 @@
         "date": "22/07/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-22T11:13:13.324Z"
-      },
-      {
-        "id": "5114271b38895c4b",
-        "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221674368846.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-22T11:13:13.324Z"
       }
     ]
