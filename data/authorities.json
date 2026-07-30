@@ -6009,7 +6009,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T15:28:55.986Z",
+    "lastUpdatedDate": "2026-07-30T17:41:10.102Z",
     "pinned": false,
     "notices": [
       {
@@ -6029,6 +6029,26 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "8e479a598e3adac9",
+        "title": "Notice - List of the selected candidates for Teaching Faculty towards the Upgraded Colleges of Nursing (Lateral Entry)",
+        "link": "https://www.meghealth.gov.in/news/DHSMER-Upgradation-CON-2025-Pt-4432-Notice-SelectedCandidates.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-30T17:41:10.102Z"
+      },
+      {
+        "id": "d657ad70c25b419a",
+        "title": "Notice - Results of the Interview held for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong",
+        "link": "https://www.meghealth.gov.in/news/Selected%20Candidates%20for%20the%20post%20of%20Radiology%20Technologist.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-30T17:41:10.102Z"
       },
       {
         "id": "4fe89e81f493c41e",
@@ -6175,24 +6195,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "1f2667f5f7c411be",
-        "title": "Advertisement Notice for the posts of Radiology Technologist for the Centre of Evolution, under R.P. Chest Hospital, Shillong",
-        "link": "https://www.meghealth.gov.in/news/DHS-JDQC-CFE-26-3-Advertisement%20Notice%20-%20Radiology%20Technologist.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "99b14813753db8e7",
-        "title": "Rolling Advertisement for the post of Professor and Associate Professor at Shillong Medical College",
-        "link": "https://www.meghealth.gov.in/news/SMC-97-2026-Estt-HR.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
