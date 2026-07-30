@@ -2569,9 +2569,109 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-30T11:13:33.679Z",
+    "lastUpdatedDate": "2026-07-30T15:35:39.874Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:10f830fa873b786a",
+        "title": "NOTICE : ADMISSION NOTIFICATION TO M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC. & A.H. (NATIONAL SS & NRI) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1qvPWo5THdRXSnz0IoewkbDX92Fdoczyx/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "OVERALL:c38654588aa34528",
+        "title": "UG NEET INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1Srfeu8Fnk8kmLDSwdmhUaS3ek-fCYwKn/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "OVERALL:dcc9c06963f66101",
+        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/1bnL0QyZN6xr15wP8_Hyc5YPo9Ol2bROD/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "OVERALL:5807b8f8b2058260",
+        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/15q-uYYsS30rE0LHqpaXcaT0aXf6x4AxH/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "OVERALL:fe6abbe08e9d6ae7",
+        "title": "NOTICE : DRAFT MERIT LIST OF CANDIDATES ELIGIBLE FOR MERITORIOUS SPORTS PERSON (MSP) QUOTA IN UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1eQPX6q0-pMC2zRyRYLA0-iTAtIXWDtlU/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "UG NON-NEET:dcc9c06963f66101",
+        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/1bnL0QyZN6xr15wP8_Hyc5YPo9Ol2bROD/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 97,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "UG NON-NEET:5807b8f8b2058260",
+        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/15q-uYYsS30rE0LHqpaXcaT0aXf6x4AxH/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 98,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "UG NON-NEET:fe6abbe08e9d6ae7",
+        "title": "NOTICE : DRAFT MERIT LIST OF CANDIDATES ELIGIBLE FOR MERITORIOUS SPORTS PERSON (MSP) QUOTA IN UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1eQPX6q0-pMC2zRyRYLA0-iTAtIXWDtlU/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 99,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "UG NEET:10f830fa873b786a",
+        "title": "NOTICE : ADMISSION NOTIFICATION TO M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC. & A.H. (NATIONAL SS & NRI) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1qvPWo5THdRXSnz0IoewkbDX92Fdoczyx/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 146,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
+      {
+        "id": "UG NEET:c38654588aa34528",
+        "title": "UG NEET INFORMATION BROCHURE - 2026-27",
+        "link": "https://drive.google.com/file/d/1Srfeu8Fnk8kmLDSwdmhUaS3ek-fCYwKn/view?usp=sharing",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 147,
+        "detectedAt": "2026-07-30T15:35:39.874Z"
+      },
       {
         "id": "OVERALL:a8cfdd381dedb947",
         "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - I (2026 - 2027)",
@@ -2671,106 +2771,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-28T10:15:03.007Z"
-      },
-      {
-        "id": "OVERALL:fa9c786daeaca81c",
-        "title": "FINAL MERIT LIST FOR UG LATERAL ENTRY COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1bh77aoG-i1RBpQmZRW9IMWHozGlXw8u6/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
-      },
-      {
-        "id": "OVERALL:a08858c8920eaf35",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1xqBx8D8iNj8l6AnKPjawe0KwFiCMF1Cy/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-28T10:15:03.007Z"
-      },
-      {
-        "id": "OVERALL:d9d52da4546b73b7",
-        "title": "NOTICE : FINAL MERIT LIST & ROUND 1 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1_AIhhyAA_Odv9r7Q3OqJB580NFOFAGGj/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
-      },
-      {
-        "id": "OVERALL:6bcef2a5e287cb6b",
-        "title": "ROUND I DRAFT ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1cqbDyEwmYnLtxmZ6lUlOp76AetiFqDbJ/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
-      },
-      {
-        "id": "OVERALL:483acf277ef8cc8a",
-        "title": "FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1pt7rIJjVRF4y-s1cQryVscwm18R5T3dt/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
-      },
-      {
-        "id": "OVERALL:bd4be5e4bd806f05",
-        "title": "NOTICE : FINAL MERIT LIST AND ROUND 1 DRAFT ALLOTMENT LIST FOR B.ARCH. IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1UghH9-XEqseO7YwzDWRUEqCEBwDEwrYU/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
-      },
-      {
-        "id": "FINE ARTS:51c8a79e47bb15d2",
-        "title": "ROUND I PROVISIONAL ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/Round_1_provisional_list_28072026.html",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 129,
-        "detectedAt": "2026-07-28T10:15:03.007Z"
-      },
-      {
-        "id": "FINE ARTS:a08858c8920eaf35",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR MUSIC, DANCE AND VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1xqBx8D8iNj8l6AnKPjawe0KwFiCMF1Cy/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 130,
-        "detectedAt": "2026-07-28T10:15:03.007Z"
-      },
-      {
-        "id": "B.ARCH.:6bcef2a5e287cb6b",
-        "title": "ROUND I DRAFT ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1cqbDyEwmYnLtxmZ6lUlOp76AetiFqDbJ/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 150,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
-      },
-      {
-        "id": "B.ARCH.:483acf277ef8cc8a",
-        "title": "FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1pt7rIJjVRF4y-s1cQryVscwm18R5T3dt/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 151,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
