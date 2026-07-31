@@ -947,9 +947,225 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T10:07:09.943Z",
+    "lastUpdatedDate": "2026-07-31T12:27:58.541Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0ef08e46eb6eba27",
+        "title": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [ઓનલાઈન પિન ખરીદી માટે અગત્યની સૂચના: ટ્રાંઝેક્શનની નિષ્ફળતા ટાળવા માટે, સારી ગતિવાળું ઇન્ટરનેટ (ખાસ કરીને, બ્રોડબેન્ડ ઇન્ટરનેટ કનેક્શન) નો ઉપયોગ કરીને ઓનલાઈન પિન ખરીદી કરવાની સલાહ આપવામાં આવે છે.]",
+        "link": null,
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [Important Notice for Online PIN Purchase: To avoid transaction failure, it is advisable to purchase PIN online using a good speed internet (especially, broadband internet connection).]",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "92597aa8e674c9fe",
+        "title": "Advertisement for online Registration for Gujarat State Medical/Dental Admission [ગુજરાત રાજ્યના મેડિકલ/ડેન્ટલ અભ્યાસક્રમમાં પ્રવેશ માટે ઓનલાઇન રજીસ્ટ્રેશન માટેની જાહેરાત]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Adv.%20-%20PIN%20dist.%20&%20Online%20Reg.%20-%20UG%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "Advertisement for online Registration for Gujarat State Medical/Dental Admission",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "6a4e46b984b25bbf",
+        "title": "Instructions for Online Application and Registration [ઓનલાઇન એપ્લિકેશન અને રજીસ્ટ્રેશન માટેની સૂચનાઓ]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20Online%20Application%20and%20Registartion-%20[2025-26].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "titleEn": "Instructions for Online Application and Registration",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "abb52250a4f97465",
+        "title": "Process of Online Admission [ઓનલાઇન એડમિશનની કાર્યપ્રણાલી]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Process%20for%20online%20Admission%20-%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "titleEn": "Process of Online Admission",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "c102dbc373fe1f36",
+        "title": "Procedure for online registration",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Procedure%20for%20online%20registration%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "00a6167e3535a4cc",
+        "title": "List of Documents Required for Admission Process of ACPUGMEC [ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રોની યાદી]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "titleEn": "List of Documents Required for Admission Process of ACPUGMEC",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "a0955360c057a406",
+        "title": "Instructions for NRI Candidate",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20NRI%20Candidates%20-%20UG%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "67d444ba3393d38c",
+        "title": "Information regarding Certificate for Local Quota of Smt. NHL Municipal Medical College, Ahmedabad[Click Here]",
+        "link": "https://www.nhlmmc.edu.in/local-quota-_notification-application-form-for-mbbs-admission-in-nhl-mmc-2026-27/",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-07-31T12:27:58.541Z"
+      },
+      {
+        "id": "93ce45531a887480",
+        "title": "Information regarding Certificate for Local Quota of Smt. NHL Municipal Medical College, Ahmedabad[Click Here]",
+        "link": "https://www.nhlmmc.edu.in/local-quota-_notification-application-form-for-mbbs-admission-in-nhl-mmc-2025-26/",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "ff15a22e0866e2e5",
+        "title": "Information regarding Certificate for Local Quota of Surat Municipal Institute of Medical Education and Research, Surat[Click Here]",
+        "link": "https://www.suratmunicipal.gov.in/smimer",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "301c5c4b83e9b823",
+        "title": "List of Help Centers",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Help%20Centers%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "d27367d829648b26",
+        "title": "Authority Letter for Original Documents Verification",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/AUTHORITY%20LETTER%20FOR%20DOCUMENTS%20VERIFICATION.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "37afe94991b19b0d",
+        "title": "Medical Fitness Certificate – Format",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Medical%20Fitness%20Certificate%20-%20Format.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 11,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "daed44ac3c848c3a",
+        "title": "List of MBBS Institutes with address",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20MBBS%20Institutes%20with%20address.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 12,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "b00a952b758a072c",
+        "title": "List of BDS Institutes with address",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20BDS%20Institutes%20with%20address.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 13,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "bd82d50781656f34",
+        "title": "PwD (PERSON with DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: [દિવ્યાંગતાની કેટેગરીમાં અરજી કરેલ વિદ્યાર્થીઓએ નીચે દર્શાવેલ મુજબની સિવિલ હોસ્પિટલ ખાતે મેડિકલ બોર્ડ સમક્ષ દિવ્યાંગતાના પ્રમાણપત્ર સાથે ચકાસણી માટે હાજર થવાનું રહેશે:] Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ] Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા] GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 14,
+        "titleEn": "PwD (PERSON WITH DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "d2eb51464b63f333",
+        "title": "Civil Hospital List for PwD",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 15,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "e148f02de39987f9",
+        "title": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ]",
+        "link": "https://medadmgujarat.ncode.in/web/ug2026/REG/PwD%20GR%20%20Gujarat%20%2009072024.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 16,
+        "titleEn": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "2a966739ba9e7523",
+        "title": "Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/ProformaMedical%20&%20Appeal%20%20Board_Case%20Paper.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 17,
+        "titleEn": "Proforma of disability",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "7521ed42f86d82a4",
+        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/GUIDELINES%20ON%20ASSESSMENT%20OF%20PERSONS%20WITH%20BENCHMARK%20DISABILITIES%20(PWBD)%20FOR%20ADMISSION%20TO%20THE%20MBBS%20COURSE,%202026_compressed.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 18,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
         "title": "Gujarat Professional Medical Educational Courses [Regulation of Admission in Undergraduate Courses] (Amendment) Rules. 2025. dated 30.09.2025",
@@ -1151,224 +1367,6 @@
         "source": "Rules & Notification",
         "batchIndex": 19,
         "detectedAt": "2026-07-31T10:07:09.943Z"
-      },
-      {
-        "id": "0ef08e46eb6eba27",
-        "title": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [ઓનલાઈન પિન ખરીદી માટે અગત્યની સૂચના: ટ્રાંઝેક્શનની નિષ્ફળતા ટાળવા માટે, સારી ગતિવાળું ઇન્ટરનેટ (ખાસ કરીને, બ્રોડબેન્ડ ઇન્ટરનેટ કનેક્શન) નો ઉપયોગ કરીને ઓનલાઈન પિન ખરીદી કરવાની સલાહ આપવામાં આવે છે.]",
-        "link": null,
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [Important Notice for Online PIN Purchase: To avoid transaction failure, it is advisable to purchase PIN online using a good speed internet (especially, broadband internet connection).]",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "92597aa8e674c9fe",
-        "title": "Advertisement for online Registration for Gujarat State Medical/Dental Admission [ગુજરાત રાજ્યના મેડિકલ/ડેન્ટલ અભ્યાસક્રમમાં પ્રવેશ માટે ઓનલાઇન રજીસ્ટ્રેશન માટેની જાહેરાત]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Adv.%20-%20PIN%20dist.%20&%20Online%20Reg.%20-%20UG%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "titleEn": "Advertisement for online Registration for Gujarat State Medical/Dental Admission",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "6a4e46b984b25bbf",
-        "title": "Instructions for Online Application and Registration [ઓનલાઇન એપ્લિકેશન અને રજીસ્ટ્રેશન માટેની સૂચનાઓ]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20Online%20Application%20and%20Registartion-%20[2025-26].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "titleEn": "Instructions for Online Application and Registration",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "abb52250a4f97465",
-        "title": "Process of Online Admission [ઓનલાઇન એડમિશનની કાર્યપ્રણાલી]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Process%20for%20online%20Admission%20-%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "titleEn": "Process of Online Admission",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "c102dbc373fe1f36",
-        "title": "Procedure for online registration",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Procedure%20for%20online%20registration%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "00a6167e3535a4cc",
-        "title": "List of Documents Required for Admission Process of ACPUGMEC [ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રોની યાદી]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "titleEn": "List of Documents Required for Admission Process of ACPUGMEC",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "a0955360c057a406",
-        "title": "Instructions for NRI Candidate",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20NRI%20Candidates%20-%20UG%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "93ce45531a887480",
-        "title": "Information regarding Certificate for Local Quota of Smt. NHL Municipal Medical College, Ahmedabad[Click Here]",
-        "link": "https://www.nhlmmc.edu.in/local-quota-_notification-application-form-for-mbbs-admission-in-nhl-mmc-2025-26/",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "ff15a22e0866e2e5",
-        "title": "Information regarding Certificate for Local Quota of Surat Municipal Institute of Medical Education and Research, Surat[Click Here]",
-        "link": "https://www.suratmunicipal.gov.in/smimer",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "301c5c4b83e9b823",
-        "title": "List of Help Centers",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Help%20Centers%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "d27367d829648b26",
-        "title": "Authority Letter for Original Documents Verification",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/AUTHORITY%20LETTER%20FOR%20DOCUMENTS%20VERIFICATION.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "37afe94991b19b0d",
-        "title": "Medical Fitness Certificate – Format",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Medical%20Fitness%20Certificate%20-%20Format.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 11,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "daed44ac3c848c3a",
-        "title": "List of MBBS Institutes with address",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20MBBS%20Institutes%20with%20address.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 12,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "b00a952b758a072c",
-        "title": "List of BDS Institutes with address",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20BDS%20Institutes%20with%20address.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "bd82d50781656f34",
-        "title": "PwD (PERSON with DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: [દિવ્યાંગતાની કેટેગરીમાં અરજી કરેલ વિદ્યાર્થીઓએ નીચે દર્શાવેલ મુજબની સિવિલ હોસ્પિટલ ખાતે મેડિકલ બોર્ડ સમક્ષ દિવ્યાંગતાના પ્રમાણપત્ર સાથે ચકાસણી માટે હાજર થવાનું રહેશે:] Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ] Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા] GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 14,
-        "titleEn": "PwD (PERSON WITH DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "d2eb51464b63f333",
-        "title": "Civil Hospital List for PwD",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "e148f02de39987f9",
-        "title": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ]",
-        "link": "https://medadmgujarat.ncode.in/web/ug2026/REG/PwD%20GR%20%20Gujarat%20%2009072024.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 16,
-        "titleEn": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "2a966739ba9e7523",
-        "title": "Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/ProformaMedical%20&%20Appeal%20%20Board_Case%20Paper.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 17,
-        "titleEn": "Proforma of disability",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "7521ed42f86d82a4",
-        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/GUIDELINES%20ON%20ASSESSMENT%20OF%20PERSONS%20WITH%20BENCHMARK%20DISABILITIES%20(PWBD)%20FOR%20ADMISSION%20TO%20THE%20MBBS%20COURSE,%202026_compressed.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "a6395fb56396d7a2",
-        "title": "NRI Candidate: નામદાર સુપ્રિમ કોર્ટ, ન્યુ દિલ્હી ના Writ Petition (C) No.891 of 2021 ના તા.૦૩/૦૨/૨૦૨૩ ના ચુકાદા મુજબ શૈક્ષણિક વર્ષ ૨૦૨૩-૨૪ તથા તે પછી ના વર્ષો માટે OCI કાર્ડ હોલ્ડર ઉમેદવારોને NRI Quota, Management Quota તથા Government Quota માં એડમિશન મળી શકશે. પરંતુ ગુજરાત રાજ્ય સરકાર ના હાલના નિયમ મુજબ Government Quota અને Management Quota માં પ્રવેશ મેળવવા માટે ઉમેદવારે પ્રવેશ નિયમો મુજબ ધોરણ: ૧૦ તથા ધોરણ: ૧૨ ગુજરાત રાજ્ય સ્થિત શાળામાંથી પાસ થયેલ હોવો જોઈએ તથા વિદ્યાર્થીનો જન્મ ગુજરાત રાજ્યમાં થયેલ હોવો જોઈએ અથવા ગુજરાત રાજ્યના ડોમિસાઈલ હોવા જોઈએ. [According to the judgment dated February 3, 2023, in Writ Petition (C) No. 891 of 2021 by the Hon'ble Supreme Court of India, OCI card holders are eligible for NRI Quota, Management Quota and Government Quota for the academic year 2023-24 and subsequent years, However, under current Gujarat State Government regulations, to qualify for admission under the Government Quota and Management Quota, candidates must have completed their Class 10 and Class 12 education at schools within Gujarat as per Admission Rules and either be born in Gujarat or be domicile of Gujarat.]",
-        "link": null,
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
-        "titleEn": "NRI Candidate: According to the judgment dated 03/02/2023 of Writ Petition (C) No.891 of 2021 of the Hon'ble Supreme Court, New Delhi, OCI card holder candidates can get admission in NRI Quota, Management Quota and Government Quota for the academic year 2023-24 and subsequent years. But according to the current rules of the Gujarat State Government, to get admission in Government Quota and Management Quota, the candidate must have passed Class: 10 and Class: 12 from a school located in the state of Gujarat as per the admission rules and the student must have been born in the state of Gujarat or domiciled in the state of Gujarat. [According to the judgment dated February 3, 2023, in Writ Petition (C) No. 891 of 2021 by the Hon'ble Supreme Court of India, OCI card holders are eligible for NRI Quota, Management Quota and Government Quota for the academic year 2023-24 and subsequent years, However, under current Gujarat State Government regulations, to qualify for admission under the Government Quota and Management Quota, candidates must have completed their Class 10 and Class 12 education at schools within Gujarat as per Admission Rules and either be born in Gujarat or be domicile of Gujarat.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
       }
     ]
   },
@@ -1566,9 +1564,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T12:22:32.900Z",
+    "lastUpdatedDate": "2026-07-31T12:28:21.127Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "55b8757c850fe066",
+        "title": "31-07-2026: NEET UG – 2026 All India Rank-wise qualified list of candidates from State of Andhra Pradesh",
+        "link": "https://drntr.uhsap.in/index/notification/20260731170218480.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T12:28:21.127Z"
+      },
       {
         "id": "8dbd0aa81395bfaa",
         "title": "28-07-2026: NMC Guidelines dt.27-07-2026 on Assessment of Persons with Benchmark Disabilities",
@@ -1740,15 +1748,6 @@
         "date": "20/02/2026",
         "sortTs": null,
         "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "079103e12a24744f",
-        "title": "17-02-2026: PG (Medical) MQ -2025-26 - Vacant Seats for Stray Vacancy Round PG (Medical) CQ - 2025-26 - Vacant Seats for Stray Vacancy Round B.Sc. Nursing 4 YDC - Management - Special Stray Round Counseling- List of Eligible Candaidates B.Sc. Nursing 4 YDC - Management - Special Stray Round Counseling- List of NOT ELIGIBLE Candaidates 4 YDC college-wise vacancies for Special stray round DNB Phase-II_Final Web Options Notification 2025-26",
-        "link": "https://drntr.uhsap.in/index/notification/20260218102944440.pdf",
-        "date": "18/02/2026",
-        "sortTs": null,
-        "batchIndex": 16,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -5698,9 +5697,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T10:08:55.699Z",
+    "lastUpdatedDate": "2026-07-31T12:30:21.674Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "48ba760f58142e50",
+        "title": "Admission Notice for CUET (PG for M.Ed.)_dated-31.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731760794917.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T12:30:21.674Z"
+      },
       {
         "id": "8a5a4cc7b1da0595",
         "title": "Extension of date for Physical Reporting LLM/ BCA/ LLB/ B.ED/ BBA/ LE B.TECH/ B.TECH/ B.COM/ BA (ECO) A.S.2026-27_dated-31.07.2026",
@@ -5883,15 +5892,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-23T09:27:53.170Z"
-      },
-      {
-        "id": "e2d906c45cd29047",
-        "title": "EXTENSION LAST DATE OF M.Tech (IBT) (Code-151) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260722155224409.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T13:01:44.356Z"
       }
     ]
   },
@@ -6248,7 +6248,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-30T17:41:10.102Z",
+    "lastUpdatedDate": "2026-07-31T12:30:33.587Z",
     "pinned": false,
     "notices": [
       {
@@ -6268,6 +6268,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "d2d810231be3e290",
+        "title": "Notice - Schedule and List of Candidates selected to appear for the Written Test for the post of OBB Accountant unde DHS (MCH&FW)",
+        "link": "https://www.meghealth.gov.in/news/DHS-MCH-Estt-IPA-Recruitment-23-41-SelectedCandidates-WrittenExamination-OBBAccountant-DHSMCH.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T12:30:33.587Z"
       },
       {
         "id": "8e479a598e3adac9",
@@ -6425,15 +6435,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "a119a58b2b4e4fa8",
-        "title": "Advertisement for State CEE for admission into GNM & ANM course for the session 2026-27 | Apply for State CEE 2026-27 Here",
-        "link": "https://www.meghealth.gov.in/news/DHSMER-CEE-ANM-GNM-2026-3-3608.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 5,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
