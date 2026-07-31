@@ -29,10 +29,19 @@
   },
   {
     "authorityId": "gujarat",
+    "id": "gujarat-home",
     "type": "html-list-grouped",
     "url": "https://www.medadmgujarat.org/ug/home.aspx",
     "groupSelector": "div[style*=\"2px solid purple\"]",
     "itemSelector": "li"
+  },
+  {
+    "authorityId": "gujarat",
+    "id": "gujarat-notification",
+    "type": "html-list",
+    "url": "https://www.medadmgujarat.org/ug/Notification.aspx",
+    "itemSelector": ".entry li",
+    "sourceLabel": "Rules & Notification"
   },
   {
     "authorityId": "maharashtra-cet",
