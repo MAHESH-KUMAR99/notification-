@@ -947,207 +947,428 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T08:56:34.881Z",
+    "lastUpdatedDate": "2026-07-31T10:07:09.943Z",
     "pinned": false,
     "notices": [
       {
-        "id": "a7668e0c488370a4",
-        "title": "જે વિધાર્થીઓએ સિક્યુરિટી ડિપોઝિટ અને ફી રિફંડ રાઉન્ડ-7 માં પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.25/07/2026 સુધી માં ભરી છે, તેવા વિદ્યાર્થીઓની ફી રીફંડ કરવાની પ્રક્રિયા ચાલુ છે, તેઓએ પોતાના રીફન્ડ માટેની વિગત પોતાના બેંક ખાતામાં તા.07/08/2026 પછી જોવી.",
+        "id": "Rules & Notification:f555d73cb83dce1e",
+        "title": "Gujarat Professional Medical Educational Courses [Regulation of Admission in Undergraduate Courses] (Amendment) Rules. 2025. dated 30.09.2025",
+        "link": "https://medadmgujarat.ncode.in/web/Notification/202511041622204264.pdf",
+        "date": "04/11/2025",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:345d848cd9db5e55",
+        "title": "Gujarat Professional Medical Educational Courses [Regulation of Admission in Undergraduate Courses] (2nd Amendment) Rules. 2025. dated 06.08.2025",
+        "link": "https://medadmgujarat.ncode.in/web/Notification/6.8.2025%20NOTIFICATION%20DRAFT%20(1).pdf",
+        "date": "06/08/2025",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:399a17b7de567457",
+        "title": "Gujarat Professional Medical Educational Courses [Regulation of Admission in Undergraduate Courses] (Amendment) Rules. 2025. dated 22.07.2025",
+        "link": "https://medadmgujarat.ncode.in/web/Notification/medical%20UG.pdf",
+        "date": "22/07/2025",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:0f30310b851fcaf9",
+        "title": "Gujarat Professional Medical Educational Courses(Regulation of Admission in Undergraduate Courses) (Amendment) Rules, 2024. dated : 28.08.2024.",
+        "link": "https://medadmgujarat.ncode.in/web/Notification/1202408291640130543_UG.pdf",
+        "date": "28/08/2024",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:1c10b8197482eac9",
+        "title": "મેડીકલ અભ્યાસક્રમોમાં પ્રવેશ માટે Person with Disability ની ચકાસણી માટે મેડીકલ બોર્ડની અને મેડીકલ અપીલ બોર્ડની રચના",
+        "link": "https://medadmgujarat.ncode.in/web/Notification/pwd_11072024.pdf",
+        "date": null,
+        "sortTs": 1720656000000,
+        "source": "Rules & Notification",
+        "batchIndex": 4,
+        "titleEn": "Constitution of Medical Board and Medical Appeal Board for screening of Persons with Disability for admission to medical courses",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:61b40d7eeadbdd0f",
+        "title": "Prevention and Prohibition of Ragging in Medical colleges and institutions",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/Prevention%20and%20Prohibition%20of%20Ragging%20in%20Medical%20colleges%20and%20institutions.pdf",
+        "date": null,
+        "sortTs": 1686009600000,
+        "source": "Rules & Notification",
+        "batchIndex": 6,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:922fd1378e43cf1b",
+        "title": "UG Registration Fees 06.06.2023",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/UG%20Registration%20Fees.pdf",
+        "date": "06/06/2023",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 7,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:e5e848c3cb91311c",
+        "title": "Gujarat Professional Medical Educational Courses [Regulation of Admission in Undergraduate Courses] (Amendment) Rules. 2023. dated 05.06.2023",
+        "link": "http://medadmgujarat.ncode.in/web/UG2023/UG%20Gazette.pdf",
+        "date": "05/06/2023",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 8,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:ff6eb8aa0d042be3",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate courses (2nd Amendment) Rules, 2022, dated 03.11.2022",
+        "link": "http://medadmgujarat.ncode.in/web/UG2022/Gujarat%20Professional%20Medical%20Educational%20Courses%20(Regulation%20of%20Admission%20in%20Undergraduate%20courses%20(2nd%20Amendment)%20Rules,%202022,%20dated%2003.11.2022.pdf?V=1",
+        "date": "03/11/2022",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 9,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:e0b8cfe8a8d2e778",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate courses (Amendment) Rules, 2022, dated: 30.09.2022",
+        "link": "http://medadmgujarat.ncode.in/web/UG2022/ViewPdf.pdf?V=1",
+        "date": "30/09/2022",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 10,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:02b1d376e6a40ee1",
+        "title": "Regarding the admission to 15 % All India Quota seats of Undergraduate and Postgraduate Ayurved and Homeopathy courses of unaided colleges in Gujarat State [Letter of Govt. of Gujarat] Dated: 09.12.2020",
+        "link": "http://medadmgujarat.ncode.in/web/UGAYUS2020/ADM-102020-SFS-126-%20CHH%20.pdf?V=1",
+        "date": "09/12/2020",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 11,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:e04db7fce8a40a28",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate Courses) (Second Amendment) Rules, 2020, dated: 09.11.2020",
+        "link": "http://medadmgujarat.ncode.in/web/ug2020/09.11.2020%20Notification%20For%2010th%20Std.pdf?v=1",
+        "date": "09/11/2020",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 12,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:5e46e1b319ee8fc7",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate Courses) (Amendment) Rules, 2020, dated: 08.10.2020",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/UG%20Rules%2009102020.pdf?v=1",
+        "date": "08/10/2020",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 13,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:6e0eac6f003c63d7",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate Courses) (Second Amendment) Rules, 2019, dated: 29.06.2019",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/RULE_29062019.pdf?v=2",
+        "date": "29/06/2019",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 14,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:87554ca9fbdc4f5a",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate Courses) (Amendment) Rules, 2019, dated: 15.06.2019",
+        "link": "http://medadmgujarat.ncode.in/web/notification/Amendment%20Rules%20For%20UG%20Admission%20(Date%2015.07.19).pdf?v=2",
+        "date": "15/06/2019",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 15,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:51cdaf5dd5430fe7",
+        "title": "Guidelines regarding admission of students with “Specified Disabilities” under the Rights of Persons with Disabilities Act, 2016 [MCI, 13/05/2019]",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/PwD-MCI-14.05.2019.pdf",
+        "date": "13/05/2019",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 5,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:e70f26addd13ae5c",
+        "title": "Tuition Fees for MBBS/BDS/Physiotherapy Courses in Government Colleges dated: 26.07.2018",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/Tuition%20FEES%20for%20MBBS,%20BDS,%20Physiotherapy%20Government%20Colleges%20%2026-07-2018.pdf",
+        "date": "26/07/2018",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 16,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:e7bf295a2b6c16de",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate Courses) (Amendment) Rules, 2018, dated: 25.06.2018",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/Gujarat%20Professional%20Medical%20Educational%20Courses%20(Regulation%20of%20Admission%20in%20Undergraduate%20Courses)%20(Amendment)%20Rules%202018%20dated%2025062018.pdf",
+        "date": "25/06/2018",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 17,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:fb9e98fabe8b0b92",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate Courses) (Amendment) Rules, 2018, dated: 04.05.2018",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/Rules_UG_2018.pdf?v=2",
+        "date": "04/05/2018",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 18,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "Rules & Notification:c7aec55a8768c192",
+        "title": "Gujarat Professional Medical Educational Courses (Regulation of Admission in Undergraduate Courses) Rules, 2017, dated: 23.06.2017",
+        "link": "http://medadmgujarat.ncode.in/web/Notification/GPMEC_2017_upd.pdf?v=2",
+        "date": "23/06/2017",
+        "sortTs": null,
+        "source": "Rules & Notification",
+        "batchIndex": 19,
+        "detectedAt": "2026-07-31T10:07:09.943Z"
+      },
+      {
+        "id": "0ef08e46eb6eba27",
+        "title": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [ઓનલાઈન પિન ખરીદી માટે અગત્યની સૂચના: ટ્રાંઝેક્શનની નિષ્ફળતા ટાળવા માટે, સારી ગતિવાળું ઇન્ટરનેટ (ખાસ કરીને, બ્રોડબેન્ડ ઇન્ટરનેટ કનેક્શન) નો ઉપયોગ કરીને ઓનલાઈન પિન ખરીદી કરવાની સલાહ આપવામાં આવે છે.]",
         "link": null,
-        "date": "27/07/2026",
+        "date": "31/07/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "titleEn": "Students who have filled their bank account details in security deposit and fee refund round-7 from 09/07/2026 to 25/07/2026, the process of refund of fees is going on, they should check their refund details in their bank account after 07/08/2026.",
+        "titleEn": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [Important Notice for Online PIN Purchase: To avoid transaction failure, it is advisable to purchase PIN online using a good speed internet (especially, broadband internet connection).]",
         "titleLang": "gu",
-        "detectedAt": "2026-07-27T08:56:34.881Z"
+        "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
-        "id": "7f1b126caa4ccab4",
-        "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.25/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
-        "link": null,
-        "date": "21/07/2026",
+        "id": "92597aa8e674c9fe",
+        "title": "Advertisement for online Registration for Gujarat State Medical/Dental Admission [ગુજરાત રાજ્યના મેડિકલ/ડેન્ટલ અભ્યાસક્રમમાં પ્રવેશ માટે ઓનલાઇન રજીસ્ટ્રેશન માટેની જાહેરાત]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Adv.%20-%20PIN%20dist.%20&%20Online%20Reg.%20-%20UG%20[2026-27].pdf",
+        "date": "31/07/2026",
         "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Students who have got admission in Graduate Medical/Dental/Ayurveda/Homeopathy/Cancelled admission/Not got admission/Not got refund of fee in 1st, 2nd, 3rd, 4th, 5th and 6th round and are eligible for tuition fee refund, their bank account details from 09/07/2026 Must be filled up to 05:00 PM on 25/07/2026.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-21T07:10:51.404Z"
-      },
-      {
-        "id": "7fe740541d6118f1",
-        "title": "જે વિધાર્થીઓએ રૂ.૧૦,૦૦૦/- સિક્યુરિટી ડિપોઝિટ પરત લેવા માટે લાયક છે અને પ્રથમ,બીજા ત્રીજા,ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં સિક્યુરિટી ડિપોઝિટ પરત મેળવેલ નથી, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.25/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
-        "link": null,
-        "date": "21/07/2026",
-        "sortTs": null,
-        "batchIndex": 13,
-        "titleEn": "Those students who are eligible to get back the security deposit of Rs.10,000/- and have not got the security deposit back in the first, second, third, fourth, fifth and sixth round, have to fill their bank account details from 09/07/2026 to 05:00 PM on 25/07/2026.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-21T07:10:51.404Z"
-      },
-      {
-        "id": "26d3e953417d1fa8",
-        "title": "શૈક્ષાણિક વર્ષ ૨૦૨૬-૨૭ માટે મેડિકલ /ડેન્ટલ સ્નાતક અભ્યાસક્રમમાં પ્રવેશ માટેની ઓનલાઈન રજીસ્ટ્રેશન ની કાર્યવાહી ટૂંક સમય માં ચાલુ કરવામાં આવશે. [Online registration process for admission to Medical/Dental undergraduate courses for the academic year 2026-27 will begin shortly.]",
-        "link": null,
-        "date": "18/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "The online registration process for admission to Medical/Dental Graduation Course for the academic year 2026-27 will be launched soon. [Online registration process for admission to Medical/Dental undergraduate courses for the academic year 2026-27 will begin shortly.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-18T08:24:25.743Z"
-      },
-      {
-        "id": "7a604a663926b62e",
-        "title": "ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રો ની યાદી (List of Documents Required for Admission Process of ACPUGMEC)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
-        "date": "18/07/2026",
-        "sortTs": null,
+        "source": "Direct from Website",
         "batchIndex": 1,
+        "titleEn": "Advertisement for online Registration for Gujarat State Medical/Dental Admission",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "6a4e46b984b25bbf",
+        "title": "Instructions for Online Application and Registration [ઓનલાઇન એપ્લિકેશન અને રજીસ્ટ્રેશન માટેની સૂચનાઓ]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20Online%20Application%20and%20Registartion-%20[2025-26].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "titleEn": "Instructions for Online Application and Registration",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "abb52250a4f97465",
+        "title": "Process of Online Admission [ઓનલાઇન એડમિશનની કાર્યપ્રણાલી]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Process%20for%20online%20Admission%20-%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "titleEn": "Process of Online Admission",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "c102dbc373fe1f36",
+        "title": "Procedure for online registration",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Procedure%20for%20online%20registration%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "00a6167e3535a4cc",
+        "title": "List of Documents Required for Admission Process of ACPUGMEC [ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રોની યાદી]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
         "titleEn": "List of Documents Required for Admission Process of ACPUGMEC",
         "titleLang": "gu",
-        "detectedAt": "2026-07-18T08:24:25.743Z"
+        "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
-        "id": "44629d6749c54773",
-        "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.20/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
-        "link": null,
-        "date": "09/07/2026",
+        "id": "a0955360c057a406",
+        "title": "Instructions for NRI Candidate",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20NRI%20Candidates%20-%20UG%20[2026-27].pdf",
+        "date": "31/07/2026",
         "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Students who have got admission in Graduate Medical/Dental/Ayurveda/Homeopathy/Cancelled admission/Not got admission/Not got refund of fee in 1st, 2nd, 3rd, 4th, 5th and 6th round and are eligible for tuition fee refund, their bank account details from 09/07/2026 Must be filled up to 05:00 PM on 20/07/2026.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-09T05:42:54.357Z"
-      },
-      {
-        "id": "436c4d338ac7561d",
-        "title": "List of the candidates whose Tuition fee is Refundable and pending with Admission Committee are required to fill their bank details",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Fees%20Refund%20R7.pdf",
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-09T05:42:54.357Z"
-      },
-      {
-        "id": "061d5ffad6df0673",
-        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 6",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR6.pdf",
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 7,
-        "detectedAt": "2026-07-09T05:42:54.357Z"
-      },
-      {
-        "id": "279e922e1fa9ec50",
-        "title": "જે વિધાર્થીઓએ રૂ.૧૦,૦૦૦/- સિક્યુરિટી ડિપોઝિટ પરત લેવા માટે લાયક છે અને પ્રથમ,બીજા ત્રીજા,ચોથા,પાંચમા અને છઠ્ઠા રાઉન્ડમાં સિક્યુરિટી ડિપોઝિટ પરત મેળવેલ નથી, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.09/07/2026 થી તા.20/07/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
-        "link": null,
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 13,
-        "titleEn": "Students who are eligible to get back the security deposit of Rs.10,000/- and have not got the security deposit back in the first, second, third, fourth, fifth and sixth round, have to fill their bank account details from 09/07/2026 to 05:00 PM on 20/07/2026.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-09T05:42:54.357Z"
-      },
-      {
-        "id": "a7be09b5a32fbf10",
-        "title": "List of the candidates whose Security Deposit is Refundable and pending with Admission Committee are required to fill their bank details",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Deposite%20Refund%20R7.pdf",
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 14,
-        "detectedAt": "2026-07-09T05:42:54.357Z"
-      },
-      {
-        "id": "ceed11c7f79fabc2",
-        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 6",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR6.pdf",
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 21,
-        "detectedAt": "2026-07-09T05:42:54.357Z"
-      },
-      {
-        "id": "482638b805c9a968",
-        "title": "List of the unsuccessful candidates whose Security Deposit is not Refunded in Round 6",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_FAIL_UGR6.pdf",
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 27,
-        "detectedAt": "2026-07-09T05:42:54.357Z"
-      },
-      {
-        "id": "fd49334c6162d51a",
-        "title": "જે વિધાર્થીઓએ સિક્યુરિટી ડિપોઝિટ અને ફી રિફંડ રાઉન્ડ-6 માં પોતાના બેંક ખાતા ની વિગતો તા.12/06/2026 થી તા.25/06/2026 સુધી માં ભરી છે, તેવા વિદ્યાર્થીઓની ફી રીફંડ કરવાની પ્રક્રિયા ચાલુ છે, તેઓએ પોતાના રીફન્ડ માટેની વિગત પોતાના બેંક ખાતામાં તા.10/07/2026 પછી જોવી.",
-        "link": null,
-        "date": "29/06/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Students who have filled their bank account details in security deposit and fee refund round-6 from 12/06/2026 to 25/06/2026, the process of refund of fees is going on, they should check their refund details in their bank account after 10/07/2026.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "84abe431d675d6ab",
-        "title": "જે વિધાર્થીઓએ સ્નાતક મેડિકલ/ડેન્ટલ/આયુર્વેદ/હોમિયોપેથી માં પ્રવેશ મેળવેલ હોય/ પ્રવેશ કેન્સલ કરાવેલ હોય/પ્રવેશ ન મેળવેલ હોય/ પ્રથમ,બીજા,ત્રીજા, ચોથા અને પાંચમા રાઉન્ડમાં ફી રિફંડ પરત મેળવેલ નથી અને ટ્યુશન ફી રિફંડ પરત લેવા માટે લાયક છે, તેવા વિધાર્થીઓએ પોતાના બેંક ખાતા ની વિગતો તા.12/06/2026 થી તા.25/06/2026 ના સાંજે 05:00 વાગ્યા સુધી ભરવાની રહેશે.",
-        "link": null,
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "titleEn": "Students who have got admission in Graduate Medical/Dental/Ayurveda/Homeopathy/Cancelled admission/Not got admission/Not got refund of fee in first, second, third, fourth and fifth round and are eligible for refund of tuition fee, their bank account details from 12/06/2026 to 25/06/2026 Must be filled up to 05:00 PM.",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "4e69ec0d0af80be8",
-        "title": "List of the candidates whose Tuition fee is Refundable and pending with Admission Committee are required to fill their bank details",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Fees%20Refund%20R6.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "28109bebce8870ae",
-        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR1.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "9e28b9e8be09fa26",
-        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 2",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR2.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "7a37b971f814a17a",
-        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 3",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR3.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
-      },
-      {
-        "id": "e7e3c011957e75e8",
-        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 4",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR4.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
+        "source": "Direct from Website",
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
+        "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
-        "id": "402ee371d70dc7cb",
-        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 5",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR5.pdf",
-        "date": "12/06/2026",
+        "id": "93ce45531a887480",
+        "title": "Information regarding Certificate for Local Quota of Smt. NHL Municipal Medical College, Ahmedabad[Click Here]",
+        "link": "https://www.nhlmmc.edu.in/local-quota-_notification-application-form-for-mbbs-admission-in-nhl-mmc-2025-26/",
+        "date": "31/07/2026",
         "sortTs": null,
+        "source": "Direct from Website",
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:11.871Z"
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "ff15a22e0866e2e5",
+        "title": "Information regarding Certificate for Local Quota of Surat Municipal Institute of Medical Education and Research, Surat[Click Here]",
+        "link": "https://www.suratmunicipal.gov.in/smimer",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "301c5c4b83e9b823",
+        "title": "List of Help Centers",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Help%20Centers%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "d27367d829648b26",
+        "title": "Authority Letter for Original Documents Verification",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/AUTHORITY%20LETTER%20FOR%20DOCUMENTS%20VERIFICATION.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "37afe94991b19b0d",
+        "title": "Medical Fitness Certificate – Format",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Medical%20Fitness%20Certificate%20-%20Format.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 11,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "daed44ac3c848c3a",
+        "title": "List of MBBS Institutes with address",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20MBBS%20Institutes%20with%20address.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 12,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "b00a952b758a072c",
+        "title": "List of BDS Institutes with address",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20BDS%20Institutes%20with%20address.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 13,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "bd82d50781656f34",
+        "title": "PwD (PERSON with DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: [દિવ્યાંગતાની કેટેગરીમાં અરજી કરેલ વિદ્યાર્થીઓએ નીચે દર્શાવેલ મુજબની સિવિલ હોસ્પિટલ ખાતે મેડિકલ બોર્ડ સમક્ષ દિવ્યાંગતાના પ્રમાણપત્ર સાથે ચકાસણી માટે હાજર થવાનું રહેશે:] Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ] Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા] GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 14,
+        "titleEn": "PwD (PERSON WITH DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "d2eb51464b63f333",
+        "title": "Civil Hospital List for PwD",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 15,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "e148f02de39987f9",
+        "title": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ]",
+        "link": "https://medadmgujarat.ncode.in/web/ug2026/REG/PwD%20GR%20%20Gujarat%20%2009072024.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 16,
+        "titleEn": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "2a966739ba9e7523",
+        "title": "Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/ProformaMedical%20&%20Appeal%20%20Board_Case%20Paper.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 17,
+        "titleEn": "Proforma of disability",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "7521ed42f86d82a4",
+        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/GUIDELINES%20ON%20ASSESSMENT%20OF%20PERSONS%20WITH%20BENCHMARK%20DISABILITIES%20(PWBD)%20FOR%20ADMISSION%20TO%20THE%20MBBS%20COURSE,%202026_compressed.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 18,
+        "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "a6395fb56396d7a2",
+        "title": "NRI Candidate: નામદાર સુપ્રિમ કોર્ટ, ન્યુ દિલ્હી ના Writ Petition (C) No.891 of 2021 ના તા.૦૩/૦૨/૨૦૨૩ ના ચુકાદા મુજબ શૈક્ષણિક વર્ષ ૨૦૨૩-૨૪ તથા તે પછી ના વર્ષો માટે OCI કાર્ડ હોલ્ડર ઉમેદવારોને NRI Quota, Management Quota તથા Government Quota માં એડમિશન મળી શકશે. પરંતુ ગુજરાત રાજ્ય સરકાર ના હાલના નિયમ મુજબ Government Quota અને Management Quota માં પ્રવેશ મેળવવા માટે ઉમેદવારે પ્રવેશ નિયમો મુજબ ધોરણ: ૧૦ તથા ધોરણ: ૧૨ ગુજરાત રાજ્ય સ્થિત શાળામાંથી પાસ થયેલ હોવો જોઈએ તથા વિદ્યાર્થીનો જન્મ ગુજરાત રાજ્યમાં થયેલ હોવો જોઈએ અથવા ગુજરાત રાજ્યના ડોમિસાઈલ હોવા જોઈએ. [According to the judgment dated February 3, 2023, in Writ Petition (C) No. 891 of 2021 by the Hon'ble Supreme Court of India, OCI card holders are eligible for NRI Quota, Management Quota and Government Quota for the academic year 2023-24 and subsequent years, However, under current Gujarat State Government regulations, to qualify for admission under the Government Quota and Management Quota, candidates must have completed their Class 10 and Class 12 education at schools within Gujarat as per Admission Rules and either be born in Gujarat or be domicile of Gujarat.]",
+        "link": null,
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 19,
+        "titleEn": "NRI Candidate: According to the judgment dated 03/02/2023 of Writ Petition (C) No.891 of 2021 of the Hon'ble Supreme Court, New Delhi, OCI card holder candidates can get admission in NRI Quota, Management Quota and Government Quota for the academic year 2023-24 and subsequent years. But according to the current rules of the Gujarat State Government, to get admission in Government Quota and Management Quota, the candidate must have passed Class: 10 and Class: 12 from a school located in the state of Gujarat as per the admission rules and the student must have been born in the state of Gujarat or domiciled in the state of Gujarat. [According to the judgment dated February 3, 2023, in Writ Petition (C) No. 891 of 2021 by the Hon'ble Supreme Court of India, OCI card holders are eligible for NRI Quota, Management Quota and Government Quota for the academic year 2023-24 and subsequent years, However, under current Gujarat State Government regulations, to qualify for admission under the Government Quota and Management Quota, candidates must have completed their Class 10 and Class 12 education at schools within Gujarat as per Admission Rules and either be born in Gujarat or be domicile of Gujarat.]",
+        "titleLang": "gu",
+        "detectedAt": "2026-07-31T10:07:06.881Z"
       }
     ]
   },
@@ -1925,9 +2146,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T12:23:58.319Z",
+    "lastUpdatedDate": "2026-07-31T10:10:14.487Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:9f8de388b0d49b30",
+        "title": "Important Notice for Filling up Online Application Form for Second Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/06 Dated 31.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_06.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T10:10:14.487Z"
+      },
+      {
+        "id": "Latest Updates:b8047ac3ff69a0ea",
+        "title": "Details for Filling up Online Application Form for Second Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/05 Dated 31.07.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_05.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-31T10:10:14.487Z"
+      },
       {
         "id": "Latest Updates:e4be47cb3a125ec8",
         "title": "Important Notice for Choice Filling of DCECE[PM/PMM]-2026(Adv. No. BCECEB(DCECE)-2026/11 Dated 28.07.2026)",
@@ -2107,24 +2348,6 @@
         "source": "Latest Updates",
         "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:ffe7166937e1e66d",
-        "title": "Important Notice for Filling up Online Application Form for Admission to Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/02 Dated 07.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_02.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "detectedAt": "2026-07-07T09:51:06.529Z"
-      },
-      {
-        "id": "Latest Updates:6657e5626f889a5b",
-        "title": "Details for Filling up Online Application Form for Admission to Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified (Adv. No. BCECEB(PGEAC)-2026/01 Dated 07.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_01.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "detectedAt": "2026-07-07T09:51:06.529Z"
       },
       {
         "id": "UGMAC:11ee47ceaf3415d9",
@@ -2569,9 +2792,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-30T15:35:39.874Z",
+    "lastUpdatedDate": "2026-07-31T10:11:09.864Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:e7262e7a220989a2",
+        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE NEET BASED COURSES - GOVERNMENT QUOTA - PWBD, 2026",
+        "link": "https://drive.google.com/file/d/1p39fsMWon_KJlzmP6BmD1Oi0iuW0zgjP/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T10:11:09.864Z"
+      },
+      {
+        "id": "OVERALL:d8c6351c0a2db921",
+        "title": "GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER GOVERNMENT QUOTA - MERITORIOUS SPORTS PERSONS QUOTA, 2026",
+        "link": "https://drive.google.com/file/d/1_4LT6JqTOTB_EizUEiW8zQR2ux3VZsk9/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-31T10:11:09.864Z"
+      },
+      {
+        "id": "UG NEET:e7262e7a220989a2",
+        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE NEET BASED COURSES - GOVERNMENT QUOTA - PWBD, 2026",
+        "link": "https://drive.google.com/file/d/1p39fsMWon_KJlzmP6BmD1Oi0iuW0zgjP/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 148,
+        "detectedAt": "2026-07-31T10:11:09.864Z"
+      },
+      {
+        "id": "UG NEET:d8c6351c0a2db921",
+        "title": "GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER GOVERNMENT QUOTA - MERITORIOUS SPORTS PERSONS QUOTA, 2026",
+        "link": "https://drive.google.com/file/d/1_4LT6JqTOTB_EizUEiW8zQR2ux3VZsk9/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 149,
+        "detectedAt": "2026-07-31T10:11:09.864Z"
+      },
       {
         "id": "OVERALL:10f830fa873b786a",
         "title": "NOTICE : ADMISSION NOTIFICATION TO M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC. & A.H. (NATIONAL SS & NRI) COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -2731,46 +2994,6 @@
         "source": "Direct from Website",
         "batchIndex": 155,
         "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:a8cfdd381dedb947",
-        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - I (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1OGUUekqeWAxVpbLCmt7h-Hn1fclDRXsz/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 164,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:b8d755e3011338a1",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Siq6o_cPkdD5s_0F37jFvlK_xcIboe4L/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 165,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "OVERALL:1c81805707b0483e",
-        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - I (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1Wc8NbC0-5h5Wz-Rg7SwY4QNHo5uJzsIk/view?usp=sharing",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-28T12:24:23.192Z"
-      },
-      {
-        "id": "OVERALL:51c8a79e47bb15d2",
-        "title": "ROUND I PROVISIONAL ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS (B.P.A. - MUSIC & B.P.A. - DANCE) AND VISUAL ARTS (B.V.A.) - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/Fine_Arts_2026/Round_1_provisional_list_28072026.html",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-28T10:15:03.007Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5361,9 +5584,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T15:17:30.730Z",
+    "lastUpdatedDate": "2026-07-31T10:10:19.395Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "68e8e185abb92d23",
+        "title": "Updated List of applicants seeking concession under CW Category for UG Medical Admission 2026 under 85% DU Quota.",
+        "link": "https://drive.google.com/file/d/1l3U_zURq3MZYJ2l-58dkyENmT9g6Jxf7/view?usp=sharing",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-31T10:10:19.395Z"
+      },
       {
         "id": "9afc6a0a3a24ed3b",
         "title": "Notice for uploading documents for verification for CW Quota Undergraduate Admissions",
@@ -5465,9 +5698,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T07:12:59.458Z",
+    "lastUpdatedDate": "2026-07-31T10:08:55.699Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8a5a4cc7b1da0595",
+        "title": "Extension of date for Physical Reporting LLM/ BCA/ LLB/ B.ED/ BBA/ LE B.TECH/ B.TECH/ B.COM/ BA (ECO) A.S.2026-27_dated-31.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731704165715.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T10:08:55.699Z"
+      },
       {
         "id": "2b023ffcef73b304",
         "title": "Schedule of activities pursuant to declaration of result of Round 03 followed by Sliding Round BA(JMC)/ BA(ENG) for the A.S:2026-27_dated-31.07.2026",
@@ -5649,15 +5892,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T13:01:44.356Z"
-      },
-      {
-        "id": "01f12aeb31836d70",
-        "title": "Schedule Of 1st Offline Counselling B.Arch (Code-100) Display of Final Rank/ Merit list of Candidate Admission Session 2026-27_dated-22.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221955613706.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T11:13:13.324Z"
       }
     ]
   },
@@ -5806,9 +6040,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T12:24:22.787Z",
+    "lastUpdatedDate": "2026-07-31T10:11:09.571Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "48c8d246d86e4640",
+        "title": "List of candidates who have qualified in KEAM entrance examination but remain deficient in submitting their qualifying examination marks",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/158/Upload1",
+        "date": "29/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T10:11:09.571Z"
+      },
       {
         "id": "e891913836de5768",
         "title": "കേരള മെഡിക്കൽ / മെഡിക്കൽ അനുബന്ധ കോഴ്‌സുകളിലേക്കുള്ള പ്രവേശനം – ഭിന്നശേഷി (PwD) വിഭാഗത്തിൽപ്പെട്ട ഉദ്യോഗാർത്ഥികളുടെ ശാരീരിക പരിശോധന സംബന്ധിച്ച്",
@@ -5994,15 +6238,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-13T13:41:58.294Z"
-      },
-      {
-        "id": "06b010b27bfb28e4",
-        "title": "KERALA MEDICAL COURSES CANDIDATES CAN RECTIFY DEFECTS IN NRI DOCUMENT",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/112/Upload1",
-        "date": "11/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-11T14:25:32.567Z"
       }
     ]
   },
