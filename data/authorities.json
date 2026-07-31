@@ -6,8 +6,18 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T04:01:21.667Z",
+    "lastUpdatedDate": "2026-07-31T15:02:15.664Z",
     "notices": [
+      {
+        "id": "b19ffeab2a8e066e",
+        "title": "Gujarat ACPUGMEC: Registration Open 2026",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Adv.%20-%20PIN%20dist.%20&%20Online%20Reg.%20-%20UG%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 40,
+        "detectedAt": "2026-07-31T15:02:15.664Z"
+      },
       {
         "id": "212a7c0e9047e5e3",
         "title": "Karnataka KEA- NEET Enrollment Link Open",
@@ -196,16 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 23,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "ff29525c498db69f",
-        "title": "NEET UG 2026- Answer key challenge notice",
-        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606251138469985.pdf",
-        "date": "25/06/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 22,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
@@ -3855,9 +3855,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T07:12:57.987Z",
+    "lastUpdatedDate": "2026-07-31T15:03:51.676Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "97568be57cfb6595",
+        "title": ": ऑन-लाइन रुचि की अभिव्यक्ति क. 194109 की अवधि में वृद्धि एवं प्री-बिड विशुद्धीकरण की सूचना।.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2151",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": ": On-line Expression of Interest A. Information about extension of period of 194109 and pre-bid purification.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-07-31T15:03:51.676Z"
+      },
       {
         "id": "ce619978d54873a1",
         "title": "List of candidates category wise found qualified for interview for the post of demonstrator during thorough checking of the list of eligible candidates......More",
@@ -4054,15 +4066,6 @@
         "titleEn": "Online Expression of Interest No. 194109.....More",
         "titleLang": "hi",
         "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "a1976d065003101b",
-        "title": "Interview schedule for the selected candidates for faculty posts in new Physiotherapy Colleges, Chhattisgarh.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2132",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
   },
@@ -4073,9 +4076,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T12:34:09.464Z",
+    "lastUpdatedDate": "2026-07-31T15:07:55.952Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:e1492989f930f929",
+        "title": "URGENT NOTICE FOR JEE (MAIN) CANDIDATES PARTICIPATING IN OJEE WEB BASED COUNSELLING FOR B.TECH. /B.ARCH. /B.PLAN. /INT. MSC. COURSES",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607292015618709.pdf",
+        "date": "29/07/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T15:07:55.952Z"
+      },
       {
         "id": "OJEE:cbb85b0298cebb47",
         "title": "Revised Schedule of 3rd Round and Final Activity of B.TECH/ B.ARCH/ B.PLAN/ B.CAT/ Int. M.Sc. e-Counselling, OJEE 2026",
@@ -4264,16 +4277,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:1dfe3cea19255cd1",
-        "title": "PUBLIC NOTICE (No: OJEE /282) REGARDING OJEE WEB COUNSELLING FOR 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623325620492.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
