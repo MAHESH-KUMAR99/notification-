@@ -3633,9 +3633,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T07:17:10.130Z",
+    "lastUpdatedDate": "2026-07-31T07:23:55.437Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ce619978d54873a1",
+        "title": "List of candidates category wise found qualified for interview for the post of demonstrator during thorough checking of the list of eligible candidates......More",
+        "link": "https://www.cgdme.in/notice.php?id=2150",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T07:23:55.437Z"
+      },
       {
         "id": "7e926165390504ac",
         "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत एवं राज्य के बाहर स्थित निजी चिकित्सालयों की मान्यता बाबत |.....More",
@@ -3830,15 +3840,6 @@
         "date": "01/07/2026",
         "sortTs": null,
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "cbada5894dc136c1",
-        "title": "Updated Merit List After resolution of all the claims and objections for faculty posts in new Physiotherapy Colleges, Chhattisgarh.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2131",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "batchIndex": 6,
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
@@ -5464,9 +5465,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-30T08:34:29.372Z",
+    "lastUpdatedDate": "2026-07-31T07:24:48.373Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2b023ffcef73b304",
+        "title": "Schedule of activities pursuant to declaration of result of Round 03 followed by Sliding Round BA(JMC)/ BA(ENG) for the A.S:2026-27_dated-31.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731821485142.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-31T07:24:48.373Z"
+      },
+      {
+        "id": "27874cbcfb799afc",
+        "title": "NO PHYSICAL REPORTING IN BA (JMC) (CODE-126) AND BA (ENG) (CODE-184)._dated-31.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607311388113417.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-31T07:24:48.373Z"
+      },
+      {
+        "id": "1aa8c401f97b2607",
+        "title": "EXTENSION OF DATE OF SUBMISSION OF ONLINE APPLICATION FORM FOR CUET (UG) PROGRAMMES FOR A.S: 2026-27_dated-31.07.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731601136274.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-07-31T07:24:48.373Z"
+      },
       {
         "id": "4cdc2ee7dcf3b3b1",
         "title": "RESULT OF ROUND-3 STANDS NULL AND VOID BA(JMC) CODE-126 & BA (ENG) CODE-184_dated-30.07.2026",
@@ -5626,33 +5657,6 @@
         "date": "22/07/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-22T11:13:13.324Z"
-      },
-      {
-        "id": "346580bfe879fb5a",
-        "title": "Round 3 Process- LLM, BCA, LLB, B.Ed, BBA /5 year BBA MBA, BA(JMC), LE.B.TECH(DIPLOMA), B.TECH, B.COM(H), BA(ENGLISH), BA(ECONOMICS) A.S.2026-27_dated-22.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221799647711.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T08:35:29.379Z"
-      },
-      {
-        "id": "6d4a2937470bf1a7",
-        "title": "EXTENSION OF LAST DATE OF M.Pharm (Code-189) D.Pharm (Code-190) OF SUBMISSION OF ONLINE APPLICATION FORMS.A.S: 2026-27_dated-22.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072276444880.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-22T13:01:44.356Z"
-      },
-      {
-        "id": "29eaefa45f46f330",
-        "title": "Preponement of Schedule Opening of Fresh Registration MBA (CAT 2025/ CMAT 2026) ROUND 2 Choice Filling A.S: 2026-27_dated-22.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607221516002588.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-22T11:13:13.324Z"
       }
     ]
