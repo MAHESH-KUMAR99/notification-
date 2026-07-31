@@ -321,7 +321,8 @@
     "hasHeaderRow": false,
     "titleCellIndex": 1,
     "linkCellIndex": 2,
-    "insecureTls": true
+    "insecureTls": true,
+    "viaProxy": true
   },
   {
     "authorityId": "karnataka-kea",

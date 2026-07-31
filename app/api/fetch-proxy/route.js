@@ -1,3 +1,4 @@
+import https from "https";
 import { NextResponse } from "next/server";
 import { BROWSER_HEADERS } from "@/lib/browserHeaders";
 
@@ -23,7 +24,27 @@ const ALLOWED_HOSTS = new Set([
   "dme.assam.gov.in",
   "www.meghealth.gov.in",
   "dmetrap.in",
+  "dgme.up.gov.in",
 ]);
+
+// Hosts whose TLS chain Node's strict verifier rejects (missing
+// intermediate cert) even though browsers accept it — same class of issue
+// lib/watcher.js's `insecureTls` option works around for the direct-fetch
+// path. `fetch()`'s undici client has no per-request way to disable
+// verification, so these go through `https.get` instead.
+const INSECURE_TLS_HOSTS = new Set(["dgme.up.gov.in"]);
+
+function fetchInsecure(url) {
+  return new Promise((resolve, reject) => {
+    const req = https.get(url, { headers: BROWSER_HEADERS, rejectUnauthorized: false }, (res) => {
+      let body = "";
+      res.setEncoding("utf-8");
+      res.on("data", (chunk) => (body += chunk));
+      res.on("end", () => resolve({ status: res.statusCode, contentType: res.headers["content-type"], body }));
+    });
+    req.on("error", reject);
+  });
+}
 
 export async function GET(request) {
   const target = new URL(request.url).searchParams.get("url");
@@ -43,6 +64,14 @@ export async function GET(request) {
   }
 
   try {
+    if (INSECURE_TLS_HOSTS.has(parsed.hostname)) {
+      const { status, contentType, body } = await fetchInsecure(parsed.href);
+      return new NextResponse(body, {
+        status,
+        headers: { "Content-Type": contentType ?? "text/html; charset=utf-8" },
+      });
+    }
+
     const res = await fetch(parsed.href, { headers: BROWSER_HEADERS });
     const body = await res.text();
     return new NextResponse(body, {
