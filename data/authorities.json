@@ -5586,9 +5586,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T10:10:19.395Z",
+    "lastUpdatedDate": "2026-07-31T17:09:54.100Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9ea674edad6cf30d",
+        "title": "1st Provisional List of CW Category applicants for UG Medical Admission 2026 under 85% DU Quota with assigning priority by KSB.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1785514796200-Updated_CW_lis_of_31.07.2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-07-31T17:09:54.100Z"
+      },
       {
         "id": "68e8e185abb92d23",
         "title": "Updated List of applicants seeking concession under CW Category for UG Medical Admission 2026 under 85% DU Quota.",
