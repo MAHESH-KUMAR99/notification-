@@ -6,8 +6,28 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-29T07:21:44.447Z",
+    "lastUpdatedDate": "2026-07-31T04:01:21.667Z",
     "notices": [
+      {
+        "id": "212a7c0e9047e5e3",
+        "title": "Karnataka KEA- NEET Enrollment Link Open",
+        "link": "https://cetonline.karnataka.gov.in/kea/ugneet2026",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 38,
+        "detectedAt": "2026-07-31T04:01:21.667Z"
+      },
+      {
+        "id": "f0c844482b06c821",
+        "title": "Centac Puducherry- Registration Open 2026",
+        "link": "https://drive.google.com/file/d/1qvPWo5THdRXSnz0IoewkbDX92Fdoczyx/view",
+        "date": "30/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 39,
+        "detectedAt": "2026-07-31T04:01:21.667Z"
+      },
       {
         "id": "055b27d240356eab",
         "title": "NEIGRIHMS MBBS Admission 2026-27 (North East Open Category)",
@@ -186,26 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 22,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "95712c36b601a944",
-        "title": "Re-NEET UG 2026: Admit Card Released",
-        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/06/202606142028683090.pdf",
-        "date": "14/06/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 21,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "b78394015cdefb79",
-        "title": "Karnataka KEA 2026- Verification Slip Download Link Activated",
-        "link": "https://cetonline.karnataka.gov.in/ugcet_vs_2026/forms/login.aspx",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 20,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
