@@ -237,7 +237,7 @@
   {
     "authorityId": "delhi-fmsc",
     "type": "html-list",
-    "url": "https://fmsc.du.ac.in/linkedcontents/139",
+    "url": "https://fmsc.du.ac.in/linkedcontents/141",
     "itemSelector": ".public-content-card li"
   },
   {
@@ -288,7 +288,8 @@
     "url": "https://cee.kerala.gov.in/keam2026/notification",
     "itemSelector": ".card-body .row",
     "titleSelector": ".col-sm-10",
-    "dateSelector": ".col-sm-2"
+    "dateSelector": ".col-sm-2",
+    "insecureTls": true
   },
   {
     "authorityId": "puducherry",
@@ -326,12 +327,22 @@
   },
   {
     "authorityId": "karnataka-kea",
+    "id": "karnataka-kea-home",
     "type": "html-table",
     "url": "https://cetonline.karnataka.gov.in/kea/",
     "rowSelector": "table#ContentPlaceHolder1_Gridlatestannoc tr",
     "hasHeaderRow": false,
     "titleCellIndex": 0,
     "stripBeforeMarker": "<table[^>]*id=\"ContentPlaceHolder1_Gridlatestannoc\"",
+    "viaProxy": true
+  },
+  {
+    "authorityId": "karnataka-kea",
+    "id": "karnataka-ugneet2026",
+    "type": "html-list",
+    "url": "https://cetonline.karnataka.gov.in/kea/ugneet2026",
+    "itemSelector": "#ContentPlaceHolder1_req_accordion .card-header a[href], #ContentPlaceHolder1_req_accordion1 .card-header a[href]",
+    "sourceLabel": "UGNEET 2026",
     "viaProxy": true
   }
 ]
