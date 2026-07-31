@@ -41,7 +41,8 @@
     "type": "html-list",
     "url": "https://www.medadmgujarat.org/ug/Notification.aspx",
     "itemSelector": ".entry li",
-    "sourceLabel": "Rules & Notification"
+    "sourceLabel": "Rules & Notification",
+    "preferTitleDate": true
   },
   {
     "authorityId": "maharashtra-cet",
