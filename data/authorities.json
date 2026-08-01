@@ -947,7 +947,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T12:27:58.541Z",
+    "lastUpdatedDate": "2026-08-01T07:29:47.660Z",
     "pinned": false,
     "notices": [
       {
@@ -1009,6 +1009,18 @@
         "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
+        "id": "49ab79021f4ab8e6",
+        "title": "List of Documents Required for Admission Process of ACPUGMEC [ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રોની યાદી] - Updated",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "titleEn": "List of Documents Required for Admission Process of ACPUGMEC - Updated",
+        "titleLang": "gu",
+        "detectedAt": "2026-08-01T07:29:47.660Z"
+      },
+      {
         "id": "00a6167e3535a4cc",
         "title": "List of Documents Required for Admission Process of ACPUGMEC [ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રોની યાદી]",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
@@ -1019,6 +1031,16 @@
         "titleEn": "List of Documents Required for Admission Process of ACPUGMEC",
         "titleLang": "gu",
         "detectedAt": "2026-07-31T10:07:06.881Z"
+      },
+      {
+        "id": "9050187506c31f16",
+        "title": "Instructions for NRI Candidate - Updated",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20NRI%20Candidates%20-%20UG%20[2026-27].pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-01T07:29:47.660Z"
       },
       {
         "id": "a0955360c057a406",
@@ -1111,6 +1133,18 @@
         "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
+        "id": "4c558066080982d1",
+        "title": "PwD (PERSON with DISABILITY) Candidates: Students applying under the PwD category must take an online appointment during the registration process to appear before the Medical Board for disability assessment. દિવ્યાંગતા (PwD) કેટેગરી હેઠળ અરજી કરનાર ઉમેદવારોએ રજીસ્ટ્રેશન પ્રક્રિયા દરમિયાન મેડિકલ બોર્ડ સમક્ષ દિવ્યાંગતા ચકાસણી માટે ઓનલાઈન એપોઇન્ટમેન્ટ લેવી ફરજિયાત રહેશે.",
+        "link": null,
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 14,
+        "titleEn": "PwD (PERSON WITH DISABILITY) Candidates: Students applying under the PwD category must take an online appointment during the registration process to appear before the Medical Board for disability assessment. Candidates applying under Persons with Disabilities (PwD) category will be required to make an online appointment for disability verification before the Medical Board during the registration process.",
+        "titleLang": "gu",
+        "detectedAt": "2026-08-01T07:29:47.660Z"
+      },
+      {
         "id": "bd82d50781656f34",
         "title": "PwD (PERSON with DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: [દિવ્યાંગતાની કેટેગરીમાં અરજી કરેલ વિદ્યાર્થીઓએ નીચે દર્શાવેલ મુજબની સિવિલ હોસ્પિટલ ખાતે મેડિકલ બોર્ડ સમક્ષ દિવ્યાંગતાના પ્રમાણપત્ર સાથે ચકાસણી માટે હાજર થવાનું રહેશે:] Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ] Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા] GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
@@ -1130,40 +1164,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 15,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "e148f02de39987f9",
-        "title": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ]",
-        "link": "https://medadmgujarat.ncode.in/web/ug2026/REG/PwD%20GR%20%20Gujarat%20%2009072024.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 16,
-        "titleEn": "Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "2a966739ba9e7523",
-        "title": "Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/ProformaMedical%20&%20Appeal%20%20Board_Case%20Paper.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 17,
-        "titleEn": "Proforma of disability",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "7521ed42f86d82a4",
-        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/GUIDELINES%20ON%20ASSESSMENT%20OF%20PERSONS%20WITH%20BENCHMARK%20DISABILITIES%20(PWBD)%20FOR%20ADMISSION%20TO%20THE%20MBBS%20COURSE,%202026_compressed.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 18,
         "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
@@ -2791,9 +2791,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T10:11:09.864Z",
+    "lastUpdatedDate": "2026-08-01T07:35:36.847Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:38638be4abf22959",
+        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1XxQiuqbFVnpDVCNWjExkR3reEhifPlG5/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T07:35:36.847Z"
+      },
       {
         "id": "OVERALL:e7262e7a220989a2",
         "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE NEET BASED COURSES - GOVERNMENT QUOTA - PWBD, 2026",
@@ -2805,6 +2815,16 @@
         "detectedAt": "2026-07-31T10:11:09.864Z"
       },
       {
+        "id": "OVERALL:a469e4eb1f817adf",
+        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR UG NON-NEET - BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) COURSE FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1fqUJ3Puu-rXUg0KyarMasY7azQPUHw8W/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-01T07:35:36.847Z"
+      },
+      {
         "id": "OVERALL:d8c6351c0a2db921",
         "title": "GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER GOVERNMENT QUOTA - MERITORIOUS SPORTS PERSONS QUOTA, 2026",
         "link": "https://drive.google.com/file/d/1_4LT6JqTOTB_EizUEiW8zQR2ux3VZsk9/view?usp=sharing",
@@ -2813,6 +2833,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-07-31T10:11:09.864Z"
+      },
+      {
+        "id": "UG NON-NEET:a469e4eb1f817adf",
+        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR UG NON-NEET - BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) COURSE FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1fqUJ3Puu-rXUg0KyarMasY7azQPUHw8W/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 101,
+        "detectedAt": "2026-08-01T07:35:36.847Z"
       },
       {
         "id": "UG NEET:e7262e7a220989a2",
@@ -2833,6 +2863,16 @@
         "source": "Direct from Website",
         "batchIndex": 149,
         "detectedAt": "2026-07-31T10:11:09.864Z"
+      },
+      {
+        "id": "UG NEET:38638be4abf22959",
+        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1XxQiuqbFVnpDVCNWjExkR3reEhifPlG5/view?usp=sharing",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 151,
+        "detectedAt": "2026-08-01T07:35:36.847Z"
       },
       {
         "id": "OVERALL:10f830fa873b786a",
@@ -2952,46 +2992,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "OVERALL:20dc6fe7466637d4",
-        "title": "ROUND I PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1rH5QfcQQOqZ_o193pgsyMSEDFL7VgC01/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "OVERALL:2b36054cc6ecf900",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR B.ARCH IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1PtS8-j_798OW7Im9m4oEyKjOKJHJYino/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "B.ARCH.:20dc6fe7466637d4",
-        "title": "ROUND I PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1rH5QfcQQOqZ_o193pgsyMSEDFL7VgC01/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 154,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "B.ARCH.:2b36054cc6ecf900",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR B.ARCH IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1PtS8-j_798OW7Im9m4oEyKjOKJHJYino/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 155,
         "detectedAt": "2026-07-29T10:13:24.779Z"
       },
       {
@@ -4764,9 +4764,19 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T08:56:45.074Z",
+    "lastUpdatedDate": "2026-08-01T07:30:05.645Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ff228687c4e8bde6",
+        "title": "KNRUHS - MBBS BDS ADMISSIONS FOR THE AY 2026-27 - LIST OF QUALIFIED CANDIDATES IN THE STATE OF TELANGANA IN NEET UG 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260801064138KNRUHS%20-%20MBBS%20BDS%20ADMISSIONS%20FOR%20THE%20AY%202026-27%20-%20LIST%20OF%20QUALIFIED%20CANDIDATES%20IN%20THE%20STATE%20OF%20TELANGANA%20IN%20NEET%20UG%202026.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T07:30:05.645Z"
+      },
       {
         "id": "2ffba92e49e51788",
         "title": "KNRUHS – EXAMINATION WING – RESCHEDULING OF EXAMINATIONS POSTPONED ON 24.07.2026 – COMMUNICATION – REG.",
@@ -4937,15 +4947,6 @@
         "date": "15/07/2026",
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-15T08:56:07.375Z"
-      },
-      {
-        "id": "cdc0d31afbebfc2d",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF SECOND PROFESSIONAL BAMS (NEW REGULATIONS) EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070434KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20SECOND%20PROFESSIONAL%20BAMS%20(NEW%20REGULATIONS)%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-15T08:56:07.375Z"
       }
     ]
