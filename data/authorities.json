@@ -6,7 +6,7 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T09:33:43.244Z",
+    "lastUpdatedDate": "2026-08-01T11:19:50.024Z",
     "notices": [
       {
         "id": "94ee784464f327a9",
@@ -17,6 +17,16 @@
         "source": "Direct from Website",
         "batchIndex": 42,
         "detectedAt": "2026-08-01T09:33:43.244Z"
+      },
+      {
+        "id": "67ea90b1a9d93829",
+        "title": "Arunachal Pradesh- All India Rank wise List Published 2026",
+        "link": "https://apdhte.nic.in/JEE/JEE_26/Interse-Merit2026.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 43,
+        "detectedAt": "2026-08-01T11:19:50.024Z"
       },
       {
         "id": "b19ffeab2a8e066e",
@@ -196,16 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 27,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "e880e6d19e681497",
-        "title": "NEET UG 2026- Total Seat Matrix for MBBS Courses (excluding INIs) as on 14-07-2026",
-        "link": "https://www.nmc.org.in/MCIRest/open/getDocument?path=/Documents/Public/Portal/LatestNews/PublicNotice_Merged_seatmatrix_Secretary_covering.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 25,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
@@ -5711,9 +5711,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T12:30:21.674Z",
+    "lastUpdatedDate": "2026-08-01T11:22:10.405Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4b4d2536995c69ac",
+        "title": "ONLINE SPOT ROUND OF COUNSELLING- LLM/ BCA/ Int. BA-LLB, Int. BBA-LLB/ B.Ed./ BBA/ 5 year BBA MBA/ L.E B.TECH/ B.TECH/ B.COM (H)/ BA (ECO). A.S: 2026-27_dated-01.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608011164112748.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T11:22:10.405Z"
+      },
       {
         "id": "48ba760f58142e50",
         "title": "Admission Notice for CUET (PG for M.Ed.)_dated-31.07.2026",
@@ -5896,15 +5906,6 @@
         "date": "23/07/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-23T09:27:53.170Z"
-      },
-      {
-        "id": "6772d540c66dea37",
-        "title": "KEY POINTS FOR ROUND-3 FOLLOWED BY SLIDING ROUND LLM, BCA, LLB (5 Year), B.ED., BBA/ BBA-MBA INT., BA(JMC)., LE B.TECH., B.COM, BA (ENGLISH) & BA (ECO)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231223071187.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-23T09:27:53.170Z"
       }
     ]
