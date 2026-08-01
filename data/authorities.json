@@ -6,8 +6,18 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T04:54:11.811Z",
+    "lastUpdatedDate": "2026-08-01T09:33:43.244Z",
     "notices": [
+      {
+        "id": "94ee784464f327a9",
+        "title": "Karnataka KEA- Documents Varification Notice",
+        "link": "https://cetonline.karnataka.gov.in/kea/ugneet2026",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 42,
+        "detectedAt": "2026-08-01T09:33:43.244Z"
+      },
       {
         "id": "b19ffeab2a8e066e",
         "title": "Gujarat ACPUGMEC: Registration Open 2026",
@@ -196,16 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 25,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "938950fa1305206a",
-        "title": "NEET UG 2026- OMR Answer Sheet and Recorded Response Challege",
-        "link": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/07/20260713497007800.pdf",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 24,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
@@ -6663,9 +6663,49 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-29T07:23:26.851Z",
+    "lastUpdatedDate": "2026-08-01T09:36:08.489Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1cce75948e56f9af",
+        "title": "State Merit List of NEET UG and NON NEET 2026 Notification",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/State-Merit-List-of-NEET-UG-and-NON-NEET-2026-Notification.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T09:36:08.489Z"
+      },
+      {
+        "id": "76af0e27a02d33dc",
+        "title": "MERIT LIST NEET-UG 2026 NAGALAND STATE",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/MERIT-LIST-NEET-UG-2026-NAGALAND-STATE.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-01T09:36:08.489Z"
+      },
+      {
+        "id": "cf693d1bae72caf7",
+        "title": "REJECTED List of NEET UG 2026 Nagaland",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/REJECTED-LIST-NEET-UG-2026-NAGALAND.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-01T09:36:08.489Z"
+      },
+      {
+        "id": "98cc866ba158b03f",
+        "title": "MERIT LIST NON-NEET UG 2026 Qualified and Rejected",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/MERIT-LIST-NON-NEET-UG-2026-Both-Qualified-Rejected.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-01T09:36:08.489Z"
+      },
       {
         "id": "d4c55f8cb9034036",
         "title": "CUET-Nomination-dates-29th-july-2026",
@@ -6813,42 +6853,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-15T06:19:55.070Z"
-      },
-      {
-        "id": "f9df7e79a81c5a79",
-        "title": "Provisional Selected LIST Non JEE 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Provisional-select-list-non-JEE-2026.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-15T10:56:03.856Z"
-      },
-      {
-        "id": "6896bcef01c95007",
-        "title": "MERIT LIST 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Merit-list-B.-Tech-2026-27.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-15T06:19:55.070Z"
-      },
-      {
-        "id": "9e111277a2d01863",
-        "title": "Provisional MERIT LIST Non JEE 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Provissional-List-1.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-15T06:19:55.070Z"
-      },
-      {
-        "id": "55ba9e321a54a18e",
-        "title": "Notification CUET MERIT LIST 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-rectification-CUET.pdf",
-        "date": "06/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-10T15:17:07.914Z"
       }
     ]
   },
