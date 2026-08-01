@@ -6,7 +6,7 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T15:02:15.664Z",
+    "lastUpdatedDate": "2026-08-01T04:54:11.811Z",
     "notices": [
       {
         "id": "b19ffeab2a8e066e",
@@ -17,6 +17,16 @@
         "source": "Direct from Website",
         "batchIndex": 40,
         "detectedAt": "2026-07-31T15:02:15.664Z"
+      },
+      {
+        "id": "846b45ac3dd1c97e",
+        "title": "Andhra Pradesh- All India Rank wise List Published 2026",
+        "link": "https://drntr.uhsap.in/index/notification/20260731170218480.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 41,
+        "detectedAt": "2026-08-01T04:54:11.811Z"
       },
       {
         "id": "212a7c0e9047e5e3",
@@ -196,16 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 24,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "d8b6da98ea72539c",
-        "title": "Tamil Nadu 2026 Medical Counselling Notification",
-        "link": "https://tnmedicalselection.net/Notification.aspx",
-        "date": "29/06/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 23,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
