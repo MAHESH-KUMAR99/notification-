@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-24T09:05:48.578Z",
+    "lastUpdatedDate": "2026-08-01T12:34:01.933Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "340a67b191359370",
+        "title": "UG Information Bulletin 2026 dated 01.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260801170630.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T12:34:01.933Z"
+      },
       {
         "id": "12240f1787bf1324",
         "title": "Public Notice for eligibility of NRI candidature for Academic Year 2026-27",
@@ -389,15 +399,6 @@
         "date": "14/10/2025",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
-      },
-      {
-        "id": "ca034b999aa5bed9",
-        "title": "Notice for Addition of seats in Round 3 Seats dated. 13.10.2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251013198784039.pdf",
-        "date": "13/10/2025",
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-24T09:05:48.578Z"
       }
     ]
@@ -601,9 +602,18 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-27T17:19:42.841Z",
+    "lastUpdatedDate": "2026-08-01T12:34:08.043Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1012",
+        "title": "01/08/2026 - Corrigendum Notice to the Guidelines on Assessment of  Persons wth Benchmark Disabilities (PwBD) for admission to the MBBS course 2026.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Corrigendum%20to%20PwBD%20Guidelines%20dated%2027.07.26.pdf",
+        "date": "01/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T12:34:08.043Z"
+      },
       {
         "id": "nmc-1011",
         "title": "27/07/2026 - Guidelines on assessment of PwBD for admission to the MBBS course 2026.",
@@ -756,14 +766,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Circular%20dated%2017.06.2026_%20Consultant.pdf",
         "date": "17/06/2026",
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-990",
-        "title": "08/06/2026 - Engagement of retired Government Officers / Employees as Consultant (IT) on contract basis in National Medical Commission - inviting applications thereof- reg. ",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Circular%20advertisement.pdf",
-        "date": "08/06/2026",
-        "batchIndex": 9,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -2145,9 +2147,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T10:10:14.487Z",
+    "lastUpdatedDate": "2026-08-01T12:37:59.653Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:29a629552a7063ec",
+        "title": "Important Notice for MOP-UP Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/13 Dated 01.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_13.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T12:37:59.653Z"
+      },
+      {
+        "id": "Latest Updates:ad363070bf8450c0",
+        "title": "Detail Notice for MOP-UP Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/12 Dated 01.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_12.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-01T12:37:59.653Z"
+      },
       {
         "id": "Latest Updates:9f8de388b0d49b30",
         "title": "Important Notice for Filling up Online Application Form for Second Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/06 Dated 31.07.2026)",
@@ -2327,26 +2349,6 @@
         "source": "Latest Updates",
         "batchIndex": 3,
         "detectedAt": "2026-07-12T10:56:03.716Z"
-      },
-      {
-        "id": "Latest Updates:ffe7166937e1e66d",
-        "title": "Important Notice for Filling up Online Application Form for Admission to Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/02 Dated 07.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_02.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
-      },
-      {
-        "id": "Latest Updates:6657e5626f889a5b",
-        "title": "Details for Filling up Online Application Form for Admission to Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified (Adv. No. BCECEB(PGEAC)-2026/01 Dated 07.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_01.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:47.587Z"
       },
       {
         "id": "UGMAC:11ee47ceaf3415d9",
@@ -6055,9 +6057,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T10:11:09.571Z",
+    "lastUpdatedDate": "2026-08-01T12:39:30.083Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a6ddeec23d941877",
+        "title": "Provisional Lists Of First Phase Allotment To Pharmacy Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/161/Upload1",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-01T12:39:30.083Z"
+      },
       {
         "id": "48c8d246d86e4640",
         "title": "List of candidates who have qualified in KEAM entrance examination but remain deficient in submitting their qualifying examination marks",
@@ -6244,15 +6256,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T05:54:52.311Z"
-      },
-      {
-        "id": "c630563ef0986725",
-        "title": "SECOND PHASE OPTION CONFIRMATION FOR ENGINEERING COURSES & FIRST PHASE OPTION REGISTRATION FOR ARCHITECTURE COURSE HAVE STARTED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/115/Upload1",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-13T13:41:58.294Z"
       }
     ]
   },
