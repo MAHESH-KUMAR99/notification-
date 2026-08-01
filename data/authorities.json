@@ -949,7 +949,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T07:29:47.660Z",
+    "lastUpdatedDate": "2026-08-01T16:03:53.046Z",
     "pinned": false,
     "notices": [
       {
@@ -1055,6 +1055,16 @@
         "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
+        "id": "ddfce4af14e64fdc",
+        "title": "MCC Medical Dental UG Admission 2026 Schedule for State as well as All India Quota",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/20260801732008988.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-01T16:03:53.046Z"
+      },
+      {
         "id": "67d444ba3393d38c",
         "title": "Information regarding Certificate for Local Quota of Smt. NHL Municipal Medical College, Ahmedabad[Click Here]",
         "link": "https://www.nhlmmc.edu.in/local-quota-_notification-application-form-for-mbbs-admission-in-nhl-mmc-2026-27/",
@@ -1156,16 +1166,6 @@
         "batchIndex": 14,
         "titleEn": "PwD (PERSON WITH DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
         "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "d2eb51464b63f333",
-        "title": "Civil Hospital List for PwD",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 15,
         "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
