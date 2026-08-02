@@ -6057,9 +6057,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T12:39:30.083Z",
+    "lastUpdatedDate": "2026-08-02T10:49:43.407Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7bb26c5d2de38df8",
+        "title": "First Phase Allotment To Pharmacy Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/162/Upload1",
+        "date": "02/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-02T10:49:43.407Z"
+      },
       {
         "id": "a6ddeec23d941877",
         "title": "Provisional Lists Of First Phase Allotment To Pharmacy Course Published",
@@ -6247,15 +6257,6 @@
         "titleEn": "Special Reservation of Community Quota Seats in Private Self-Help Architecture Colleges - Opportunity to Submit Application.",
         "titleLang": "ml",
         "detectedAt": "2026-07-14T11:57:57.372Z"
-      },
-      {
-        "id": "d23a56c30650e997",
-        "title": "Second Phase Option Confirmation For Engineering Courses & First Phase Option Registration For Architecture Course Have Started",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/115/Upload1",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-14T05:54:52.311Z"
       }
     ]
   },
