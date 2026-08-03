@@ -6,7 +6,7 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T11:19:50.024Z",
+    "lastUpdatedDate": "2026-08-03T03:22:07.078Z",
     "notices": [
       {
         "id": "94ee784464f327a9",
@@ -27,6 +27,16 @@
         "source": "Direct from Website",
         "batchIndex": 43,
         "detectedAt": "2026-08-01T11:19:50.024Z"
+      },
+      {
+        "id": "cc044e2d47a5313e",
+        "title": "Telangana- All India Rank wise List Published 2026",
+        "link": "https://www.knruhs.telangana.gov.in/uploads/20260801064138KNRUHS%20-%20MBBS%20BDS%20ADMISSIONS%20FOR%20THE%20AY%202026-27%20-%20LIST%20OF%20QUALIFIED%20CANDIDATES%20IN%20THE%20STATE%20OF%20TELANGANA%20IN%20NEET%20UG%202026.pdf",
+        "date": "01/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 44,
+        "detectedAt": "2026-08-03T03:22:07.078Z"
       },
       {
         "id": "b19ffeab2a8e066e",
@@ -196,16 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 26,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "57c17eaf89e7601e",
-        "title": "NEET UG 2026 Result Notice",
-        "link": "https://neetugguidance.in/upload_store/139781NEET%20UG%202026%20Result%20Released%20Notice.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 27,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
