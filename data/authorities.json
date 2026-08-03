@@ -949,7 +949,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T16:03:53.046Z",
+    "lastUpdatedDate": "2026-08-03T06:45:08.144Z",
     "pinned": false,
     "notices": [
       {
@@ -2793,9 +2793,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T07:35:36.847Z",
+    "lastUpdatedDate": "2026-08-03T06:50:30.012Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:138ede0bebfbd7a3",
+        "title": "THE NEET UG MERIT LIST 2026 IS ALREADY PUBLISHED IN HEALTH DEPARTMENT WEBSITE HTTPS://HEALTH.PY.GOV.IN/, AND OBJECTIONS HAVE BEEN CALLED FOR, ON OR BEFORE 05.08.2026. IN THIS REGARD, IT IS INFORMED, THAT THE OBJECTIONS MAY ALSO BE MAILED TO DMS@PY.GOV.IN",
+        "link": "https://centacpuducherry.in/#",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T06:50:30.012Z"
+      },
+      {
+        "id": "UG NEET:138ede0bebfbd7a3",
+        "title": "THE NEET UG MERIT LIST 2026 IS ALREADY PUBLISHED IN HEALTH DEPARTMENT WEBSITE HTTPS://HEALTH.PY.GOV.IN/, AND OBJECTIONS HAVE BEEN CALLED FOR, ON OR BEFORE 05.08.2026. IN THIS REGARD, IT IS INFORMED, THAT THE OBJECTIONS MAY ALSO BE MAILED TO DMS@PY.GOV.IN",
+        "link": "https://centacpuducherry.in/#",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 152,
+        "detectedAt": "2026-08-03T06:50:30.012Z"
+      },
       {
         "id": "OVERALL:38638be4abf22959",
         "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
@@ -2975,26 +2995,6 @@
         "source": "Direct from Website",
         "batchIndex": 147,
         "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "OVERALL:a8cfdd381dedb947",
-        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - I (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1OGUUekqeWAxVpbLCmt7h-Hn1fclDRXsz/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
-      },
-      {
-        "id": "OVERALL:b8d755e3011338a1",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Siq6o_cPkdD5s_0F37jFvlK_xcIboe4L/view?usp=sharing",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-29T10:13:24.779Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
