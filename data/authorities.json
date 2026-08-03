@@ -6148,9 +6148,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T13:48:54.385Z",
+    "lastUpdatedDate": "2026-08-03T18:26:13.332Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "634a15b21a628e97",
+        "title": "KEAM 2026 - MEDICAL/MEDICAL ALLIED COURSES -Candidates Can Verify Their Profile & Rectify Defects",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/165/Upload1",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T18:26:13.332Z"
+      },
       {
         "id": "7becdbda14534397",
         "title": "Provisional Lists Of Third Phase Allotment To Engineering Courses And Second Phase Allotment To Architecture Course Published",
@@ -6338,15 +6348,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T10:20:03.033Z"
-      },
-      {
-        "id": "dc340306ef6b08e6",
-        "title": "Admission To Architecture Course (B.Arch) Final Category-Wise List Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/120/Upload1",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-14T11:57:57.372Z"
       }
     ]
   },
