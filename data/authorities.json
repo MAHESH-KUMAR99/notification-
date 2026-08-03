@@ -1379,9 +1379,39 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-26T12:40:18.397Z",
+    "lastUpdatedDate": "2026-08-03T10:46:50.257Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9759b0a2dc5a825e",
+        "title": "CLARIFICATION REGARDING COUNSELLING PROCEDURES IN REFERENCE TO MCC GUIDELINES FOR THE ACADEMIC YEAR 2026- 2027",
+        "link": "https://tnmedicalselection.net/news/03082026013740.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T10:46:50.257Z"
+      },
+      {
+        "id": "ba01dbc0d7c0bae0",
+        "title": "NOTIFICATION FOR THE PWD CANDIDATES - UG MEDICAL AND DENTAL ADMISSION 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/03082026014219.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-03T10:46:50.257Z"
+      },
+      {
+        "id": "9d176a5063efab80",
+        "title": "NOTIFICATION FOR SPORTS CANDIDATES CERTIFICATE VERIFICATION- UG MEDICAL AND DENTAL ADMISSION 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/03082026012328.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-03T10:46:50.257Z"
+      },
       {
         "id": "5d4f78a9462dd580",
         "title": "NOTIFICATION - 009 - REOPENING OF ONLINE APPLICATION WINDOW FOR MBBS/BDS DEGREE COURSES (2026-2027 SESSION)",
@@ -1535,15 +1565,6 @@
         "date": "09/02/2026",
         "sortTs": null,
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "b6089d07b8f18acc",
-        "title": "PROVISONAL LIST- I OF ELIGIBLE CANDIDATES FOR REFUND OF SECURITY DEPOSIT MBBS-BDS 2025-2026 SESSION",
-        "link": "https://tnmedicalselection.net/news/06022026062435.pdf",
-        "date": "06/02/2026",
-        "sortTs": null,
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:32.898Z"
       }
     ]
@@ -1761,9 +1782,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T10:09:16.401Z",
+    "lastUpdatedDate": "2026-08-03T10:46:46.030Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e818bd9217ee4832",
+        "title": "SCHEDULE FOR ADMISSION TO MBBS/BDS COURSES, SESSION 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Schedule%20for%20Admissions%20to%20MBBS%20and%20BDS.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-03T10:46:46.030Z"
+      },
       {
         "id": "be271e6de8e7128d",
         "title": "NEET UG 2024,2025 Cutoff",
@@ -1935,15 +1966,6 @@
         "date": "13/11/2025",
         "sortTs": null,
         "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "81e0b48c373c4743",
-        "title": "Tentative Revised Vacancy position for Stray Vacancy Round under NEET UG 2025 (Dated:11.11.2025)",
-        "link": "https://bfuhs.ac.in/mbbs_bds/11-11-25/FinalRevised.pdf",
-        "date": "11/11/2025",
-        "sortTs": null,
-        "batchIndex": 16,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -4078,9 +4100,29 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T15:07:55.952Z",
+    "lastUpdatedDate": "2026-08-03T10:52:16.091Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:a10c36f2abdaf5ab",
+        "title": "CIRCULAR FOR ALL PARTICIPATING UNIVERSITY/COLLEGE/INSTITUTES",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/202608021697727381.pdf",
+        "date": "02/08/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T10:52:16.091Z"
+      },
+      {
+        "id": "OJEE:c1a7d0789f31b67e",
+        "title": "URGENT NOTICE FOR CANDIDATES PARTCIPATED IN OJEE WEB COUNSELLING",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260802473102359.pdf",
+        "date": "02/08/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-03T10:52:16.091Z"
+      },
       {
         "id": "OJEE:e1492989f930f929",
         "title": "URGENT NOTICE FOR JEE (MAIN) CANDIDATES PARTICIPATING IN OJEE WEB BASED COUNSELLING FOR B.TECH. /B.ARCH. /B.PLAN. /INT. MSC. COURSES",
@@ -4259,26 +4301,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:a77a47d62ae011ad",
-        "title": "Tentative Schedule of Activity of LE-TECH(DIPLOMA)/ LE-B.Sc./ Int. MBA and Working Professionals for Engineering Programme web-based Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260623597135968.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f75658d0f657a22c",
-        "title": "Tentative Schedule of Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606231209406600.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 6,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
@@ -5713,9 +5735,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T11:22:10.405Z",
+    "lastUpdatedDate": "2026-08-03T10:48:55.111Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e007c1cfb643551f",
+        "title": "Google Form for Collecting Score/Merit from the Registered and Fee Paid Candidates applying through CUET UG 2026._dated-03.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031981370474.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T10:48:55.111Z"
+      },
+      {
+        "id": "7bbbec9f8f82eaf5",
+        "title": "ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting FOR THE A.S: 2026-27_dated-03.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031041552571.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-03T10:48:55.111Z"
+      },
+      {
+        "id": "3045fa6c63e8509d",
+        "title": "Round 03 Fresh Registration MCA (NIMCET/ CET), Enrollment for Centralized Online Counselling, Choice Filling Followed by SLIDING ROUND for the A.S:2026-27_dated-03.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803178336857.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-03T10:48:55.111Z"
+      },
       {
         "id": "4b4d2536995c69ac",
         "title": "ONLINE SPOT ROUND OF COUNSELLING- LLM/ BCA/ Int. BA-LLB, Int. BBA-LLB/ B.Ed./ BBA/ 5 year BBA MBA/ L.E B.TECH/ B.TECH/ B.COM (H)/ BA (ECO). A.S: 2026-27_dated-01.08.2026",
@@ -5882,33 +5934,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-24T11:19:15.769Z"
-      },
-      {
-        "id": "17f38dc5e3ace42a",
-        "title": "Schedule of 2nd Offline Counselling BA B.Ed. (CODE-161) Admission Session: 2026-27_dated-24.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607241659579713.pdf",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-24T11:19:15.769Z"
-      },
-      {
-        "id": "1ce5fc48bd9560a4",
-        "title": "Schedule of 2nd Offline Counselling MA(MC) (CODE-106) ACADEMIC SESSION: 2026-27_dated-23.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231676103298.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T09:27:53.170Z"
-      },
-      {
-        "id": "72ea35833fea25a3",
-        "title": "Schedule of 1st Offline Counselling PGDYTMP (CODE-176) ACADEMIC SESSION: 2026-27_dated-23.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607231447407011.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-23T09:27:53.170Z"
       }
     ]
   },
