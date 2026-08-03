@@ -5735,9 +5735,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T10:48:55.111Z",
+    "lastUpdatedDate": "2026-08-03T13:45:30.130Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3289a8b583360bdb",
+        "title": "LIST OF CANDIDATES WHO HAVE BEEN APLIED FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FOR THE A.S: 2026-27_dated-03.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803490690330.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T13:45:30.130Z"
+      },
       {
         "id": "e007c1cfb643551f",
         "title": "Google Form for Collecting Score/Merit from the Registered and Fee Paid Candidates applying through CUET UG 2026._dated-03.08.2026",
@@ -5925,15 +5935,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-24T11:19:15.769Z"
-      },
-      {
-        "id": "293ec630988e24b9",
-        "title": "Schedule of 2nd Offline Counselling BS (PACKAGING TECHNOLOGY) (CODE-136) MS (PACKAGING TECHNOLOGY) (CODE-604) Admission Session: 2026-27_dated-24.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607242027715461.pdf",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-24T11:19:15.769Z"
       }
     ]
   },
@@ -6082,9 +6083,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-02T10:49:43.407Z",
+    "lastUpdatedDate": "2026-08-03T13:48:54.385Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7becdbda14534397",
+        "title": "Provisional Lists Of Third Phase Allotment To Engineering Courses And Second Phase Allotment To Architecture Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/164/Upload1",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T13:48:54.385Z"
+      },
       {
         "id": "7bb26c5d2de38df8",
         "title": "First Phase Allotment To Pharmacy Course Published",
@@ -6270,17 +6281,6 @@
         "date": "14/07/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-14T11:57:57.372Z"
-      },
-      {
-        "id": "b2d805b2aae976ff",
-        "title": "സ്വകാര്യ സ്വാശ്രയ ആർക്കിടെക്ചർ കോളേജുകളിലെ കമ്മ്യൂണിറ്റി ക്വോട്ട സീറ്റുകളിലേക്കുള്ള പ്രത്യേക സംവരണം - അപേക്ഷ സമർപ്പിക്കുന്നതിന് അവസരം.",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/119/Upload1",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "titleEn": "Special Reservation of Community Quota Seats in Private Self-Help Architecture Colleges - Opportunity to Submit Application.",
-        "titleLang": "ml",
         "detectedAt": "2026-07-14T11:57:57.372Z"
       }
     ]
