@@ -6,8 +6,48 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T03:22:07.078Z",
+    "lastUpdatedDate": "2026-08-04T04:44:25.296Z",
     "notices": [
+      {
+        "id": "f8ae448b34cc4331",
+        "title": "Madhya Pradesh- NEET UG 2026 Round 1st Schedule",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 45,
+        "detectedAt": "2026-08-04T04:44:25.296Z"
+      },
+      {
+        "id": "3c549c1d7b54ab1d",
+        "title": "Uttar Pradesh- Information Broucher 2026",
+        "link": "https://dgme.up.gov.in/assets/admin/news/1476.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 46,
+        "detectedAt": "2026-08-04T04:44:25.296Z"
+      },
+      {
+        "id": "9444dc3e8094487a",
+        "title": "Punjab- Information Broucher 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Notification%20MBBS%20BDS%202026.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 47,
+        "detectedAt": "2026-08-04T04:44:25.296Z"
+      },
+      {
+        "id": "662d89b2c565d82e",
+        "title": "Punjab- NEET UG 2026 Round 1st Schedule",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Schedule%20for%20Admissions%20to%20MBBS%20and%20BDS.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 48,
+        "detectedAt": "2026-08-04T04:44:25.296Z"
+      },
       {
         "id": "94ee784464f327a9",
         "title": "Karnataka KEA- Documents Varification Notice",
@@ -166,46 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 31,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "43341c3773b35f46",
-        "title": "Karnataka KEA- Fresh Re-Registration Open",
-        "link": "https://neetugguidance.in/upload_store/448671KTK%20KEA%202026-New%20Reg%20Open.pdf",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 28,
-        "detectedAt": "2026-07-27T20:26:32.140Z"
-      },
-      {
-        "id": "6422241b5da30402",
-        "title": "Karnataka- KEA New Registration Open",
-        "link": "https://neetugguidance.in/upload_store/448671KTK%20KEA%202026-New%20Reg%20Open.pdf",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 28,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "459a1a87346773f8",
-        "title": "Arunachal Pradesh : Check your provisional inter-se Merit position",
-        "link": "https://neetugguidance.in/upload_store/153704Arunachal%20Pradesh%20NEET%20UG%202026.pdf",
-        "date": "17/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 29,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "1dece1b4f0047d06",
-        "title": "Final Answer Key NEET UG 2026",
-        "link": "https://neetugguidance.in/upload_store/962076Final%20Answer%20Key%20NEET%20UG%202026.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 26,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
