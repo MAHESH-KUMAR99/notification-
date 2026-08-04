@@ -1849,9 +1849,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T10:46:46.030Z",
+    "lastUpdatedDate": "2026-08-04T10:43:33.658Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f1b7210f2129de52",
+        "title": "Seat matrix of MBBS/BDS Course of session-2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/SEAT%20MATRIX%20MBBS%20and%20BDS%202026.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-04T10:43:33.658Z"
+      },
       {
         "id": "e818bd9217ee4832",
         "title": "SCHEDULE FOR ADMISSION TO MBBS/BDS COURSES, SESSION 2026",
@@ -2024,15 +2034,6 @@
         "date": "14/11/2025",
         "sortTs": null,
         "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "ae777539c830f6f3",
-        "title": "Merit lists of Stray Vacancy Round for NEET UG 2025",
-        "link": "https://bfuhs.ac.in/mbbs_bds/13-11-25/UG.html",
-        "date": "13/11/2025",
-        "sortTs": null,
-        "batchIndex": 15,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -2882,7 +2883,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T06:50:30.012Z",
+    "lastUpdatedDate": "2026-08-04T10:48:55.907Z",
     "pinned": false,
     "notices": [
       {
@@ -2904,6 +2905,46 @@
         "source": "Direct from Website",
         "batchIndex": 152,
         "detectedAt": "2026-08-03T06:50:30.012Z"
+      },
+      {
+        "id": "OVERALL:f4bf89b77455d79a",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/1EXBdpwQ3taDtDgEZDRff9lysEJl_Wsw3/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T10:48:55.907Z"
+      },
+      {
+        "id": "OVERALL:b695f066b53840b5",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-04T10:48:55.907Z"
+      },
+      {
+        "id": "UG NON-NEET:f4bf89b77455d79a",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/1EXBdpwQ3taDtDgEZDRff9lysEJl_Wsw3/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 104,
+        "detectedAt": "2026-08-04T10:48:55.907Z"
+      },
+      {
+        "id": "UG NON-NEET:b695f066b53840b5",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
+        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 105,
+        "detectedAt": "2026-08-04T10:48:55.907Z"
       },
       {
         "id": "OVERALL:38638be4abf22959",
@@ -3043,46 +3084,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 97,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "UG NON-NEET:5807b8f8b2058260",
-        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/15q-uYYsS30rE0LHqpaXcaT0aXf6x4AxH/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 98,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "UG NON-NEET:fe6abbe08e9d6ae7",
-        "title": "NOTICE : DRAFT MERIT LIST OF CANDIDATES ELIGIBLE FOR MERITORIOUS SPORTS PERSON (MSP) QUOTA IN UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1eQPX6q0-pMC2zRyRYLA0-iTAtIXWDtlU/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 99,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "UG NEET:10f830fa873b786a",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC. & A.H. (NATIONAL SS & NRI) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1qvPWo5THdRXSnz0IoewkbDX92Fdoczyx/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 146,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "UG NEET:c38654588aa34528",
-        "title": "UG NEET INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1Srfeu8Fnk8kmLDSwdmhUaS3ek-fCYwKn/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 147,
         "detectedAt": "2026-07-30T15:35:39.874Z"
       },
       {
@@ -4855,9 +4856,19 @@
     "category": "state",
     "officialLink": "https://www.knruhs.telangana.gov.in/all-notifications/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T07:42:23.746Z",
+    "lastUpdatedDate": "2026-08-04T10:43:35.553Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f94f7ae6c244ca8c",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR MPH FIRST YEAR SUPPLEMENTARY EXAMINATIONS - SEPTEMBER 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260804103144KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20MPH%20FIRST%20YEAR%20SUPPLEMENTARY%20EXAMINATIONS%20-%20SEPTEMBER%202026.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T10:43:35.553Z"
+      },
       {
         "id": "e2d1d271fcb1852c",
         "title": "KNRUHS - MBBS BDS ADMISSIONS UNDER COMPETENT AUTHORITY QUOTA FOR THE AY 2026-27 - PROSPECTUS",
@@ -4869,6 +4880,16 @@
         "detectedAt": "2026-08-04T07:42:23.746Z"
       },
       {
+        "id": "b8d87ca0af863724",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR MDS PART II REGULAR EXAMINATIONS - SEPTEMBER 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260804103131KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20MDS%20PART%20II%20REGULAR%20EXAMINATIONS%20-%20SEPTEMBER%202026.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-04T10:43:35.553Z"
+      },
+      {
         "id": "f03d2bfecd252390",
         "title": "KNRUHS - MBBS BDS ADMISSIONS UNDER COMPETENT AUTHORITY QUOTA FOR THE AY 2026-27 - NOTIFICATION FOR REGISTRATION",
         "link": "http://www.knruhs.telangana.gov.in/uploads/20260804051840KNRUHS%20-%20MBBS%20BDS%20ADMISSIONS%20UNDER%20COMPETENT%20AUTHORITY%20QUOTA%20FOR%20THE%20AY%202026-27%20-%20NOTIFICATION%20FOR%20REGISTRATION.pdf",
@@ -4877,6 +4898,46 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-04T07:42:23.746Z"
+      },
+      {
+        "id": "29eeb25525edb87a",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR MDS PART I REGULAR EXAMINATIONS - SEPTEMBER 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260804103116KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20MDS%20PART%20I%20REGULAR%20EXAMINATIONS%20-%20SEPTEMBER%202026.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-04T10:43:35.553Z"
+      },
+      {
+        "id": "4a4f1854748fc957",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR MD HOMOEO PART II SUPPLEMENTARY EXAMINATIONS - SEPTEMBER 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260804103102KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20MD%20HOMOEO%20PART%20II%20SUPPLEMENTARY%20EXAMINATIONS%20-%20SEPTEMBER%202026.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-04T10:43:35.553Z"
+      },
+      {
+        "id": "ca8fd00a45d4c071",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR MD UNANI PART II SUPPLEMENTARY EXAMINATIONS - SEPTEMBER 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260804103051KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20MD%20UNANI%20PART%20II%20SUPPLEMENTARY%20EXAMINATIONS%20-%20SEPTEMBER%202026.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-04T10:43:35.553Z"
+      },
+      {
+        "id": "0b4e8a9afb97257e",
+        "title": "KNRUHS - EXAMINATIONS - NOTIFICATION FOR MD AYURVEDA PART II SUPPLEMENTARY EXAMINATIONS - SEPTEMBER 2026",
+        "link": "http://www.knruhs.telangana.gov.in/uploads/20260804103035KNRUHS%20-%20EXAMINATIONS%20-%20NOTIFICATION%20FOR%20MD%20AYURVEDA%20PART%20II%20SUPPLEMENTARY%20EXAMINATIONS%20-%20SEPTEMBER%202026.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-04T10:43:35.553Z"
       },
       {
         "id": "ff228687c4e8bde6",
@@ -4987,60 +5048,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-23T17:27:09.774Z"
-      },
-      {
-        "id": "a2fbcb23ca8d759a",
-        "title": "KNRUHS - MBBS BDS ADMISSIONS UNDER COMPETENT AUTHORITY QUOTA FOR THE AY 2026-27 - NOTICE TO THE CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260723091422KNRUHS%20-%20MBBS%20BDS%20ADMISSIONS%20UNDER%20COMPETENT%20AUTHORITY%20QUOTA%20FOR%20THE%20AY%202026-27%20-%20NOTICE%20TO%20THE%20CANDIDATES.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T09:27:20.190Z"
-      },
-      {
-        "id": "9ed690729004dec2",
-        "title": "KNRUHS – Examination Wing – Medical PG MD/MS Regular Examinations, August 2026 – Change in Internal marks and Attendance capture dates and Examination fee payment dates – Communicated – Reg.",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260716121844Medical%20PG%20MDMS.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-16T14:33:59.692Z"
-      },
-      {
-        "id": "de800cef54b72218",
-        "title": "KNRUHS – Examination Wing – Final MBBS Part-I (New Regulations) Regular and Final MBBS Part-I (Old Regulations) Examinations, August 2026 – Change in Internal assessment marks and Attendance capture dates and Examination fee payment dates – Communicated –",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260716121823Final%20MBBS%20Part-I.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-16T14:33:59.692Z"
-      },
-      {
-        "id": "8329bdac6f913e0c",
-        "title": "KNRUHS – Examination Wing – First MBBS (New Regulations) Regular Examinations, August 2026 – Change in Internal assessment marks and Attendance capture dates and Examination fee payment dates – Communicated – Reg.",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260716121743First%20MBBS.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-16T14:33:59.692Z"
-      },
-      {
-        "id": "72508d09f59f3abc",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF POST BASIC BSC NURSING FIRST YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070531KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20POST%20BASIC%20BSC%20NURSING%20FIRST%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-15T08:56:07.375Z"
-      },
-      {
-        "id": "33390c04725a43dd",
-        "title": "KNRUHS - EXAMINATIONS - RESULTS OF POST BASIC BSC NURSING FINAL YEAR EXAMINATIONS - MAY 2026 - BACKLOG CANDIDATES",
-        "link": "http://www.knruhs.telangana.gov.in/uploads/20260715070516KNRUHS%20-%20EXAMINATIONS%20-%20RESULTS%20OF%20POST%20BASIC%20BSC%20NURSING%20FINAL%20YEAR%20EXAMINATIONS%20-%20MAY%202026%20-%20BACKLOG%20CANDIDATES.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-15T08:56:07.375Z"
       }
     ]
   },
@@ -5680,9 +5687,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T17:09:54.100Z",
+    "lastUpdatedDate": "2026-08-04T10:47:34.546Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "78f79d36e6d58771",
+        "title": "Eligibillity List of applicants, seeking concession under CW Category for admission to UG Medical Courses (MBBS/BDS/BAMS/BUMS/BHMS) 2026-2027 under 85% Delhi Quota.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1785839273962-Final_list_of_308_Candidates_pdf.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-04T10:47:34.546Z"
+      },
       {
         "id": "9ea674edad6cf30d",
         "title": "1st Provisional List of CW Category applicants for UG Medical Admission 2026 under 85% DU Quota with assigning priority by KSB.",
@@ -5804,9 +5821,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T07:44:29.315Z",
+    "lastUpdatedDate": "2026-08-04T10:45:46.719Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "62cf76b9e0c0098b",
+        "title": "Round 01 Commencement of process Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) B.Ed(SE) (Code-159) Choice Filling for the A.S: 2026-27_dated-04.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608041237876889.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T10:45:46.719Z"
+      },
       {
         "id": "ec03f743e0ea1db0",
         "title": "DOCUMENT VERIFICATION SPORTS QUOTA ADMISSION 2026-27_dated-04.08.2026",
@@ -5996,15 +6023,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-25T10:11:33.073Z"
-      },
-      {
-        "id": "4c5f5d836792a2ae",
-        "title": "Schedule of 1st Counselling Master in Clinical Psychology (CODE-166) Admission Session: 2026-27_dated-24.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072475839299.pdf",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-24T11:19:15.769Z"
       }
     ]
   },
