@@ -1578,9 +1578,21 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T16:33:01.616Z",
+    "lastUpdatedDate": "2026-08-04T13:08:58.454Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:58.454Z"
+      },
       {
         "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
         "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
@@ -1594,6 +1606,16 @@
         "detectedAt": "2026-08-03T16:33:01.616Z"
       },
       {
+        "id": "Counselling Schedule:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.645Z"
+      },
+      {
         "id": "Counselling Schedule:dadb06cb5e49ddb2",
         "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
@@ -1604,6 +1626,16 @@
         "detectedAt": "2026-08-03T16:33:00.795Z"
       },
       {
+        "id": "Latest Instructions:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-04T13:08:57.343Z"
+      },
+      {
         "id": "Latest Instructions:dadb06cb5e49ddb2",
         "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
@@ -1612,6 +1644,18 @@
         "source": "Latest Instructions",
         "batchIndex": 1,
         "detectedAt": "2026-08-03T16:33:00.312Z"
+      },
+      {
+        "id": "Latest Instructions:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 2,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:57.343Z"
       },
       {
         "id": "Latest Instructions:6840a4793fa07648",
@@ -1626,6 +1670,16 @@
         "detectedAt": "2026-08-03T16:33:00.312Z"
       },
       {
+        "id": "Latest Instructions:211f848872da22e0",
+        "title": "Notice Regarding Opening of Registration Process MP State Combined Counselling NEET UG (MBBS/BDS Course) 2026-27 (Dated- 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Registration%20Notice_1.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-04T13:08:57.343Z"
+      },
+      {
         "id": "Latest Instructions:6bf93c84a547379d",
         "title": "Notice Regarding Opening of Registration Process MP State Combined Counselling NEET UG (MBBS/BDS Course) 2026-27 (Dated- 03.08.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Registration%20Notice_1.pdf",
@@ -1634,6 +1688,16 @@
         "source": "Latest Instructions",
         "batchIndex": 3,
         "detectedAt": "2026-08-03T16:33:00.312Z"
+      },
+      {
+        "id": "Latest Instructions:fcbdc0bba1d31b37",
+        "title": "Notice for PwBD Candidates and Medical Assessment Boards of MCC as per Revised NMC Guidelines (vide Corrigendum Notice of UGMEB, NMC No. U-11021/24204/2026-UGMEB Dated 31.07.2026 for Appendix D)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/PwBD%20information_4.pdf",
+        "date": "31/07/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.343Z"
       },
       {
         "id": "Latest Instructions:4fc94c5bb65450cc",
@@ -2883,7 +2947,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T10:48:55.907Z",
+    "lastUpdatedDate": "2026-08-04T13:10:21.894Z",
     "pinned": false,
     "notices": [
       {
@@ -2907,6 +2971,16 @@
         "detectedAt": "2026-08-03T06:50:30.012Z"
       },
       {
+        "id": "OVERALL:3dbc0a736c199c92",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
+        "link": "https://drive.google.com/file/d/1VbSEkJQisOgKNn4GnCnOyNVdIzB0-gyk/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
+      },
+      {
         "id": "OVERALL:f4bf89b77455d79a",
         "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
         "link": "https://drive.google.com/file/d/1EXBdpwQ3taDtDgEZDRff9lysEJl_Wsw3/view?usp=sharing",
@@ -2917,6 +2991,16 @@
         "detectedAt": "2026-08-04T10:48:55.907Z"
       },
       {
+        "id": "OVERALL:d4da6de5983759e1",
+        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1DPo6lkjMUYCm6howhB21QUagmzt5EZjW/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
+      },
+      {
         "id": "OVERALL:b695f066b53840b5",
         "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
         "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
@@ -2925,6 +3009,36 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-04T10:48:55.907Z"
+      },
+      {
+        "id": "OVERALL:7c21ebe817c7346c",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
+        "link": "https://drive.google.com/file/d/1wXlWDmGGlJ-IuWT56Ma_VeoNeYUyyeVU/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
+      },
+      {
+        "id": "OVERALL:f01251bd8884d14c",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
+        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
+      },
+      {
+        "id": "PG DENTAL:d4da6de5983759e1",
+        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1DPo6lkjMUYCm6howhB21QUagmzt5EZjW/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 102,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
       },
       {
         "id": "UG NON-NEET:f4bf89b77455d79a",
@@ -2945,6 +3059,36 @@
         "source": "Direct from Website",
         "batchIndex": 105,
         "detectedAt": "2026-08-04T10:48:55.907Z"
+      },
+      {
+        "id": "UG NON-NEET:7c21ebe817c7346c",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
+        "link": "https://drive.google.com/file/d/1wXlWDmGGlJ-IuWT56Ma_VeoNeYUyyeVU/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 107,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
+      },
+      {
+        "id": "UG NON-NEET:f01251bd8884d14c",
+        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
+        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 108,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:3dbc0a736c199c92",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
+        "link": "https://drive.google.com/file/d/1VbSEkJQisOgKNn4GnCnOyNVdIzB0-gyk/view?usp=sharing",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 192,
+        "detectedAt": "2026-08-04T13:10:21.894Z"
       },
       {
         "id": "OVERALL:38638be4abf22959",
@@ -3005,86 +3149,6 @@
         "source": "Direct from Website",
         "batchIndex": 148,
         "detectedAt": "2026-07-31T10:11:09.864Z"
-      },
-      {
-        "id": "UG NEET:d8c6351c0a2db921",
-        "title": "GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER GOVERNMENT QUOTA - MERITORIOUS SPORTS PERSONS QUOTA, 2026",
-        "link": "https://drive.google.com/file/d/1_4LT6JqTOTB_EizUEiW8zQR2ux3VZsk9/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 149,
-        "detectedAt": "2026-07-31T10:11:09.864Z"
-      },
-      {
-        "id": "UG NEET:38638be4abf22959",
-        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1XxQiuqbFVnpDVCNWjExkR3reEhifPlG5/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 151,
-        "detectedAt": "2026-08-01T07:35:36.847Z"
-      },
-      {
-        "id": "OVERALL:10f830fa873b786a",
-        "title": "NOTICE : ADMISSION NOTIFICATION TO M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC. & A.H. (NATIONAL SS & NRI) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1qvPWo5THdRXSnz0IoewkbDX92Fdoczyx/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "OVERALL:c38654588aa34528",
-        "title": "UG NEET INFORMATION BROCHURE - 2026-27",
-        "link": "https://drive.google.com/file/d/1Srfeu8Fnk8kmLDSwdmhUaS3ek-fCYwKn/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "OVERALL:dcc9c06963f66101",
-        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/1bnL0QyZN6xr15wP8_Hyc5YPo9Ol2bROD/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "OVERALL:5807b8f8b2058260",
-        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/15q-uYYsS30rE0LHqpaXcaT0aXf6x4AxH/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "OVERALL:fe6abbe08e9d6ae7",
-        "title": "NOTICE : DRAFT MERIT LIST OF CANDIDATES ELIGIBLE FOR MERITORIOUS SPORTS PERSON (MSP) QUOTA IN UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1eQPX6q0-pMC2zRyRYLA0-iTAtIXWDtlU/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
-      },
-      {
-        "id": "UG NON-NEET:dcc9c06963f66101",
-        "title": "DRAFT MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/1bnL0QyZN6xr15wP8_Hyc5YPo9Ol2bROD/view?usp=sharing",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 97,
-        "detectedAt": "2026-07-30T15:35:39.874Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -3947,9 +4011,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T15:03:51.676Z",
+    "lastUpdatedDate": "2026-08-04T13:06:23.035Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "10740715f0ee4dbd",
+        "title": "Publication of Complete List of Candidates with Allotted Marks After Online Verification of Eligibility Documents for Faculty Recruitment in New Government Nursing Colleges, Chhattisgarh.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2152",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:06:23.035Z"
+      },
       {
         "id": "97568be57cfb6595",
         "title": ": ऑन-लाइन रुचि की अभिव्यक्ति क. 194109 की अवधि में वृद्धि एवं प्री-बिड विशुद्धीकरण की सूचना।.....More",
@@ -4145,17 +4219,6 @@
         "sortTs": null,
         "batchIndex": 3,
         "titleEn": "Date extension notice in the online information inviting concerned institutions to participate in the counseling process for Nursing course admission year 2026.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "69fd35ac48fd1cfa",
-        "title": "आॅनलाईन रूचि की अभिव्यक्ति क्र. 194109.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2133",
-        "date": "02/07/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "titleEn": "Online Expression of Interest No. 194109.....More",
         "titleLang": "hi",
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
@@ -6033,7 +6096,7 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T09:36:31.519Z",
+    "lastUpdatedDate": "2026-08-04T13:05:12.582Z",
     "pinned": false,
     "notices": [
       {
@@ -6091,6 +6154,16 @@
         "detectedAt": "2026-07-08T09:36:31.519Z"
       },
       {
+        "id": "99b4829b4e598936",
+        "title": "Urgent Notice Dated 19-12-2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/12/202512191416464210.pdf",
+        "date": "19/12/2025",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-04T13:05:12.582Z"
+      },
+      {
         "id": "8f50b3f5f4616d8f",
         "title": "Tentative Schedule dated 19-12-2025",
         "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/12/202512192067021071.pdf",
@@ -6107,6 +6180,16 @@
         "sortTs": null,
         "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:31.519Z"
+      },
+      {
+        "id": "f6b7cb3479bd18b7",
+        "title": "URGENT NOTICE DATED 17-11-2025",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/11/202511172053046158.pdf",
+        "date": "17/11/2025",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-04T13:05:12.582Z"
       },
       {
         "id": "38eadb3897213d5e",
