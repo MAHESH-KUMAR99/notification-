@@ -1578,52 +1578,48 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T13:08:58.454Z",
+    "lastUpdatedDate": "2026-08-04T16:00:11.135Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
+        "id": "Latest Instructions:46458516043a586e",
+        "title": "Proforma for counselling MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/UG%20Proforma%202026_8.pdf",
+        "date": "04/08/2026",
         "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
+        "source": "Latest Instructions",
         "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-04T13:08:58.454Z"
+        "detectedAt": "2026-08-04T16:00:11.135Z"
       },
       {
-        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
+        "id": "Latest Instructions:ffe27f6c85542d12",
+        "title": "Advisory for Candidates MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Advisory_7.pdf",
+        "date": "04/08/2026",
         "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-03T16:33:01.616Z"
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-04T16:00:11.135Z"
       },
       {
-        "id": "Counselling Schedule:cdc71e56ef143c41",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
+        "id": "Latest Instructions:a460937625ad5b0b",
+        "title": "Frequently Asked Question MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/FAQ%202026_6.pdf",
+        "date": "04/08/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:08:57.645Z"
+        "source": "Latest Instructions",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-04T16:00:11.135Z"
       },
       {
-        "id": "Counselling Schedule:dadb06cb5e49ddb2",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
+        "id": "Latest Instructions:a7489162697fa080",
+        "title": "Important advisory Notice for counselling MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Notice_5.pdf",
+        "date": "04/08/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T16:33:00.795Z"
+        "source": "Latest Instructions",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-04T16:00:11.135Z"
       },
       {
         "id": "Latest Instructions:cdc71e56ef143c41",
@@ -1708,6 +1704,50 @@
         "source": "Latest Instructions",
         "batchIndex": 0,
         "detectedAt": "2026-08-03T16:33:00.312Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:58.454Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-03T16:33:01.616Z"
+      },
+      {
+        "id": "Counselling Schedule:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.645Z"
+      },
+      {
+        "id": "Counselling Schedule:dadb06cb5e49ddb2",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T16:33:00.795Z"
       }
     ]
   },
@@ -5884,9 +5924,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T10:45:46.719Z",
+    "lastUpdatedDate": "2026-08-04T15:58:41.039Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e0ab94d477609b11",
+        "title": "Schedule for Conduct of Document Verification and Sports Trial for Admissions Under Sports Quota Offered in the USS and Centres of Excellence of GGSIP University for the Academic Session 2026-27.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260804326097720.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T15:58:41.039Z"
+      },
       {
         "id": "62cf76b9e0c0098b",
         "title": "Round 01 Commencement of process Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) B.Ed(SE) (Code-159) Choice Filling for the A.S: 2026-27_dated-04.08.2026",
@@ -6076,16 +6126,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-27T17:21:26.638Z"
-      },
-      {
-        "id": "0385dbaa50a6d184",
-        "title": "NOTIFICATION REGARDING INVITING APPLICATIONS FOR ADMISSION UNDER “SPORTS QUOTA” IN VARIOUS UG/PG PROGRAMMES OFFERED AT UNIVERSITY’S SCHOOLS OF STUDIES AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FO",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607251133167503.pdf",
-        "date": "25/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-25T10:11:33.073Z"
       }
     ]
   },
