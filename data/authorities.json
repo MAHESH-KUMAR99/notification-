@@ -1379,9 +1379,29 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T07:42:26.226Z",
+    "lastUpdatedDate": "2026-08-05T06:32:03.171Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "228a953ffc9513fe",
+        "title": "PORTAL LINK FOR GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN MANAGEMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
+        "link": "https://ugmqdoc.tnmedicalonline.co.in/",
+        "date": null,
+        "sortTs": 1785801600000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T06:32:03.171Z"
+      },
+      {
+        "id": "f366be66cd9eee8a",
+        "title": "GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN GOVERNMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/04082026232246.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-05T06:32:03.171Z"
+      },
       {
         "id": "73acc3c6552c1c99",
         "title": "PWD PORTAL -UPLOAD THE PWD CERTIFICATE FOR MBBS/BDS COURSE 2026-2027 SESSION",
@@ -1550,24 +1570,6 @@
         "sortTs": null,
         "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "3267a1af63e60eea",
-        "title": "NOTIFICATION-1 - ATTENTION UG MEDICAL AND DENTAL ADMISSION 2026-2027 DOCUMENTS REQUIRED - 28-04-2026",
-        "link": "https://tnmedicalselection.net/news/27042026221040.pdf",
-        "date": "27/04/2026",
-        "sortTs": null,
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "24be1ffde2cbc707",
-        "title": "NOTIFICATION NO 53 -SECURITY DEPOSIT REFUND - PENDING (ACCOUNT ERRORS) FOR MBBS & BDS COURSE 2025-2026 SESSION",
-        "link": "https://tnmedicalselection.net/news/11032026235234.pdf",
-        "date": "11/03/2026",
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
       }
     ]
   },
@@ -1578,9 +1580,53 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T16:00:11.135Z",
+    "lastUpdatedDate": "2026-08-05T06:35:55.015Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
+        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T06:35:55.015Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:58.454Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-03T16:33:01.616Z"
+      },
+      {
+        "id": "Latest Instructions:3d0398756edf4a0e",
+        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T06:35:53.468Z"
+      },
       {
         "id": "Latest Instructions:46458516043a586e",
         "title": "Proforma for counselling MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
@@ -1704,30 +1750,6 @@
         "source": "Latest Instructions",
         "batchIndex": 0,
         "detectedAt": "2026-08-03T16:33:00.312Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-04T13:08:58.454Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-03T16:33:01.616Z"
       },
       {
         "id": "Counselling Schedule:cdc71e56ef143c41",
@@ -1953,9 +1975,29 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T10:43:33.658Z",
+    "lastUpdatedDate": "2026-08-05T06:31:57.292Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4875492a5b15a407",
+        "title": "Click here to apply online for admission in MBBS/BDS under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/pmet26onlineD/main.aspx",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-05T06:31:57.292Z"
+      },
+      {
+        "id": "ea0c29d4d64fee54",
+        "title": "Prospecuts for admission in MBBS/BDS under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Prospectus.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-05T06:31:57.292Z"
+      },
       {
         "id": "f1b7210f2129de52",
         "title": "Seat matrix of MBBS/BDS Course of session-2026",
@@ -2120,24 +2162,6 @@
         "date": "18/11/2025",
         "sortTs": null,
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "252b071ee2cd578f",
-        "title": "List of candidates weeded out from the Merit List of Stray Vacancy Round of Punjab State Online Counseling for admission under NEET UG-2025",
-        "link": "https://bfuhs.ac.in/mbbs2025/Weedout_list_2025_151125.pdf",
-        "date": "15/11/2025",
-        "sortTs": null,
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "c75f9e5b7e3d86ca",
-        "title": "Click here to submit choices for MBBS/BDS 4th Round of counselling",
-        "link": "http://bfuhs.smartpad.in/",
-        "date": "14/11/2025",
-        "sortTs": null,
-        "batchIndex": 14,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -6504,7 +6528,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T12:30:33.587Z",
+    "lastUpdatedDate": "2026-08-05T06:34:22.011Z",
     "pinned": false,
     "notices": [
       {
@@ -6524,6 +6548,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "a18fae4b47d1b3d0",
+        "title": "Advertisement for Admission for 1st Year MBBS Course to the Shillong Medical College | Apply Here",
+        "link": "https://www.meghealth.gov.in/news/153-DHSMER-SMC-MBBS-2026-4528-Advertisement%20for%201st%20year%20%20MBBS%20course%20SMC.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T06:34:22.011Z"
       },
       {
         "id": "d2d810231be3e290",
@@ -6682,15 +6716,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "da6c77762e3941d9",
-        "title": "Shortlisted Candidate for the post of Centre Manager, Counsellor, Peer Educator at Centre For Evolution",
-        "link": "https://www.meghealth.gov.in/news/Shortlisted%20Candidate%20for%20the%20post%20of%20Centre%20Manager,%20Counsellor,%20Peer%20Educator%20at%20Centre%20For%20Evolution.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
