@@ -1782,9 +1782,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-31T12:28:21.127Z",
+    "lastUpdatedDate": "2026-08-05T12:02:15.442Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "80b4d8d6a82213cb",
+        "title": "05-08-2026: MBBS-BDS-2026-27-CQ-Detail online application Notification MBBS-BDS-2026-27- CQ-Prospects & Regulations",
+        "link": "https://drntr.uhsap.in/index/notification/20260805170520093.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T12:02:15.442Z"
+      },
       {
         "id": "55b8757c850fe066",
         "title": "31-07-2026: NEET UG – 2026 All India Rank-wise qualified list of candidates from State of Andhra Pradesh",
@@ -1957,15 +1967,6 @@
         "date": "20/02/2026",
         "sortTs": null,
         "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "05d72411f38021ad",
-        "title": "19-02-2026: B.Sc.(N) 4 YDC 2025-26 - Addendum to the Final Merit list Nursing 4YDC MQ Spl Stray Round PG (Medical) MQ 2025-26 - Not Reported candidates List after Phase-III (Mop Up) Counselling PG (Medical) CQ 2025-26 - Not Reported Candidates list of Non-service after Phase-III (Mop Up) counselling Admissions into MPhil (CP) and PDCP 2025-26 - Cumulative Merit List Admissions into MPhil (Cl.Psy) 2025-26 - List of Provisionally selected candidates",
-        "link": "https://drntr.uhsap.in/index/notification/20260220125716383.pdf",
-        "date": "20/02/2026",
-        "sortTs": null,
-        "batchIndex": 15,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -3013,9 +3014,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T13:10:21.894Z",
+    "lastUpdatedDate": "2026-08-05T12:07:50.403Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:2831b03956d11d79",
+        "title": "FIRST ROUND ADMITTED LIST FOR BHARATHIYAR PALKALAIKOODAM - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1XrYO1gNmfld3RDNGhJ7DRqNgMV0FzOcI/view?usp=sharing",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T12:07:50.403Z"
+      },
       {
         "id": "OVERALL:138ede0bebfbd7a3",
         "title": "THE NEET UG MERIT LIST 2026 IS ALREADY PUBLISHED IN HEALTH DEPARTMENT WEBSITE HTTPS://HEALTH.PY.GOV.IN/, AND OBJECTIONS HAVE BEEN CALLED FOR, ON OR BEFORE 05.08.2026. IN THIS REGARD, IT IS INFORMED, THAT THE OBJECTIONS MAY ALSO BE MAILED TO DMS@PY.GOV.IN",
@@ -3027,6 +3038,26 @@
         "detectedAt": "2026-08-03T06:50:30.012Z"
       },
       {
+        "id": "OVERALL:000f4e6f8e512747",
+        "title": "B.TECH LATERAL ENTRY SEAT MATRIX AFTER ROUND 1",
+        "link": "https://drive.google.com/file/d/1WWNKdy3IYwUShXKm-4S3qFLiv81Nhbr4/view?usp=sharing",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-05T12:07:50.403Z"
+      },
+      {
+        "id": "OVERALL:3c5dd01be0756cba",
+        "title": "ROUND I ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1H5W23pRa-NqQ4ueNq-KI09S269cBKk5g/view?usp=sharing",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-05T12:07:50.403Z"
+      },
+      {
         "id": "UG NEET:138ede0bebfbd7a3",
         "title": "THE NEET UG MERIT LIST 2026 IS ALREADY PUBLISHED IN HEALTH DEPARTMENT WEBSITE HTTPS://HEALTH.PY.GOV.IN/, AND OBJECTIONS HAVE BEEN CALLED FOR, ON OR BEFORE 05.08.2026. IN THIS REGARD, IT IS INFORMED, THAT THE OBJECTIONS MAY ALSO BE MAILED TO DMS@PY.GOV.IN",
         "link": "https://centacpuducherry.in/#",
@@ -3035,6 +3066,36 @@
         "source": "Direct from Website",
         "batchIndex": 152,
         "detectedAt": "2026-08-03T06:50:30.012Z"
+      },
+      {
+        "id": "FINE ARTS:2831b03956d11d79",
+        "title": "FIRST ROUND ADMITTED LIST FOR BHARATHIYAR PALKALAIKOODAM - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1XrYO1gNmfld3RDNGhJ7DRqNgMV0FzOcI/view?usp=sharing",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 170,
+        "detectedAt": "2026-08-05T12:07:50.403Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:000f4e6f8e512747",
+        "title": "B.TECH LATERAL ENTRY SEAT MATRIX AFTER ROUND 1",
+        "link": "https://drive.google.com/file/d/1WWNKdy3IYwUShXKm-4S3qFLiv81Nhbr4/view?usp=sharing",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 196,
+        "detectedAt": "2026-08-05T12:07:50.403Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:3c5dd01be0756cba",
+        "title": "ROUND I ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1H5W23pRa-NqQ4ueNq-KI09S269cBKk5g/view?usp=sharing",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 197,
+        "detectedAt": "2026-08-05T12:07:50.403Z"
       },
       {
         "id": "OVERALL:3dbc0a736c199c92",
@@ -3155,66 +3216,6 @@
         "source": "Direct from Website",
         "batchIndex": 192,
         "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "OVERALL:38638be4abf22959",
-        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR BSMS / BUMS / BHMS COURSES IN TAMILNADU & KARNATAKA GOVT. IM&H MEDICAL COLLEGES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1XxQiuqbFVnpDVCNWjExkR3reEhifPlG5/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-01T07:35:36.847Z"
-      },
-      {
-        "id": "OVERALL:e7262e7a220989a2",
-        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE NEET BASED COURSES - GOVERNMENT QUOTA - PWBD, 2026",
-        "link": "https://drive.google.com/file/d/1p39fsMWon_KJlzmP6BmD1Oi0iuW0zgjP/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-31T10:11:09.864Z"
-      },
-      {
-        "id": "OVERALL:a469e4eb1f817adf",
-        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR UG NON-NEET - BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) COURSE FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1fqUJ3Puu-rXUg0KyarMasY7azQPUHw8W/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-01T07:35:36.847Z"
-      },
-      {
-        "id": "OVERALL:d8c6351c0a2db921",
-        "title": "GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER GOVERNMENT QUOTA - MERITORIOUS SPORTS PERSONS QUOTA, 2026",
-        "link": "https://drive.google.com/file/d/1_4LT6JqTOTB_EizUEiW8zQR2ux3VZsk9/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-31T10:11:09.864Z"
-      },
-      {
-        "id": "UG NON-NEET:a469e4eb1f817adf",
-        "title": "NOTICE : EXTENSION OF LAST DATE SUBMISSION OF APPLICATION FOR UG NON-NEET - BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) COURSE FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1fqUJ3Puu-rXUg0KyarMasY7azQPUHw8W/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 101,
-        "detectedAt": "2026-08-01T07:35:36.847Z"
-      },
-      {
-        "id": "UG NEET:e7262e7a220989a2",
-        "title": "GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE NEET BASED COURSES - GOVERNMENT QUOTA - PWBD, 2026",
-        "link": "https://drive.google.com/file/d/1p39fsMWon_KJlzmP6BmD1Oi0iuW0zgjP/view?usp=sharing",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 148,
-        "detectedAt": "2026-07-31T10:11:09.864Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5950,9 +5951,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T09:41:20.808Z",
+    "lastUpdatedDate": "2026-08-05T12:04:16.824Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d7bc31dd4efa21de",
+        "title": "IMPORTANT NOTIFICATION REGARDING EXTENSION OF LAST DATE OF D.PHARM/M.PHARM SUBMISSION OF ONLINE APPLICATION FORMS._dated-05.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051879012414.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T12:04:16.824Z"
+      },
       {
         "id": "6bfa0ce5ba53e24e",
         "title": "Last date of Submission of Score/Merit through Google Form from the Registered and Fee Paid Candidate applying through CUET UG 2026_dated-05.08.2026",
@@ -6142,16 +6153,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-28T12:23:36.688Z"
-      },
-      {
-        "id": "d8e5ef4e8197c494",
-        "title": "NOTIFICAITON REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME AFTER COMPLETION OF 2nd COUNSELING CET CODE-451, AS ON 28.07.2026, TIME 2.00 P.M.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/2026072829864217.pdf",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-28T10:11:23.638Z"
       }
     ]
   },
@@ -6320,9 +6321,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T18:26:13.332Z",
+    "lastUpdatedDate": "2026-08-05T12:07:50.107Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c587c20e3582abd0",
+        "title": "Admission To Medical & Medical Allied Courses- Online Facility For Submission Of NEET (UG) -2026 Result",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/170/Upload1",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T12:07:50.107Z"
+      },
       {
         "id": "634a15b21a628e97",
         "title": "KEAM 2026 - MEDICAL/MEDICAL ALLIED COURSES -Candidates Can Verify Their Profile & Rectify Defects",
@@ -6511,15 +6522,6 @@
         "titleEn": "Special Reservation for Community Quota Seats in Private Self-Supporting Architecture Colleges-Opportunity to Apply",
         "titleLang": "ml",
         "detectedAt": "2026-07-14T11:57:57.372Z"
-      },
-      {
-        "id": "9d66337a18c2f93d",
-        "title": "Second Phase Allotment For Engineering Courses – Information Regarding Newly Added Courses",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/118/Upload1",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-14T10:20:03.033Z"
       }
     ]
   },
