@@ -602,9 +602,18 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T12:34:08.043Z",
+    "lastUpdatedDate": "2026-08-05T16:45:02.543Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1013",
+        "title": "05/08/2026 - Addendum to the Notification dated 27-07-26 regarding the \"Guidelines on Assessment of Persons with Benchmark Disabilities (PwBD) for Admission to the MBBS Course, 2026\"",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Addendum-1%2005.08.26.pdf",
+        "date": "05/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T16:45:02.543Z"
+      },
       {
         "id": "nmc-1012",
         "title": "01/08/2026 - Corrigendum Notice to the Guidelines on Assessment of  Persons wth Benchmark Disabilities (PwBD) for admission to the MBBS course 2026.",
@@ -758,14 +767,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Publicnoticedated18062026.pdf",
         "date": "18/06/2026",
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-991",
-        "title": "17/06/2026 - Engagement of retired Government Officers as Consultant on contract basis in National Medical Commission - inviting applications thereof- reg.",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Circular%20dated%2017.06.2026_%20Consultant.pdf",
-        "date": "17/06/2026",
-        "batchIndex": 8,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
