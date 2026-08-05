@@ -1379,9 +1379,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T06:32:03.171Z",
+    "lastUpdatedDate": "2026-08-05T09:39:17.653Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "843371061f4934a8",
+        "title": "GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN MANAGEMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/04082026235329.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T09:39:17.653Z"
+      },
       {
         "id": "228a953ffc9513fe",
         "title": "PORTAL LINK FOR GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN MANAGEMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
@@ -1401,6 +1411,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-05T06:32:03.171Z"
+      },
+      {
+        "id": "d12dd8710803bb84",
+        "title": "GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN GOVERNMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/04082026235838.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-05T09:39:17.653Z"
       },
       {
         "id": "73acc3c6552c1c99",
@@ -1551,24 +1571,6 @@
         "date": "23/06/2026",
         "sortTs": null,
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "de68ce9542f0598c",
-        "title": "As per notice of the National Medical Commission (NMC) for Clarification on Fee Chargeable for MBBS Course Duration",
-        "link": "https://tnmedicalselection.net/news/12062026004523.pdf",
-        "date": "12/06/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "5616aef941d67222",
-        "title": "NOTIFICATION NO 54 -SECURITY DEPOSIT REFUND - PENDING (ACCOUNT ERRORS) FOR MBBS & BDS COURSE 2025-2026 SESSION",
-        "link": "https://tnmedicalselection.net/news/24052026234947.pdf",
-        "date": "24/05/2026",
-        "sortTs": null,
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:32.898Z"
       }
     ]
@@ -5948,9 +5950,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T15:58:41.039Z",
+    "lastUpdatedDate": "2026-08-05T09:41:20.808Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6bfa0ce5ba53e24e",
+        "title": "Last date of Submission of Score/Merit through Google Form from the Registered and Fee Paid Candidate applying through CUET UG 2026_dated-05.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051131803704.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T09:41:20.808Z"
+      },
+      {
+        "id": "14d1c1d7f0ca2a2a",
+        "title": "Schedule of 2nd Round of offline Counselling for B.Arch (Code-100) followed by OPEN HOUSE A.S:2026-27_dated-05.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051517217698.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-05T09:41:20.808Z"
+      },
       {
         "id": "e0ab94d477609b11",
         "title": "Schedule for Conduct of Document Verification and Sports Trial for Admissions Under Sports Quota Offered in the USS and Centres of Excellence of GGSIP University for the Academic Session 2026-27.",
@@ -6130,26 +6152,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-28T10:11:23.638Z"
-      },
-      {
-        "id": "97996c9ba483b1a5",
-        "title": "NOTICE REGARDING SANCTIONED INTAKE OF PARAMEDICAL MASTER IN CLINICAL PSYCHOLOGY (PROGRAMME CODE 166) MANAGEMENT QUOTA SEATS FOR THE ACADEMIC SESSION 2026-27.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728234575737.pdf",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-28T10:11:23.638Z"
-      },
-      {
-        "id": "8225cb605142ba2a",
-        "title": "NOTICE REGARDING SEATS STATUS OF BA IN LIBERAL ARTS (HONS.) PROGRAMME CET CODE-451 AS ON 27.07.2026, TIME 6:00 P.M.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607271283181656.pdf",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-27T17:21:26.638Z"
       }
     ]
   },
