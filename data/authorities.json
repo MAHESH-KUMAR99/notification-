@@ -6,8 +6,18 @@
     "category": "aggregator",
     "officialLink": "https://www.neetugguidance.in/about-us.php?menu1_id=8",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T04:44:25.296Z",
+    "lastUpdatedDate": "2026-08-05T14:55:54.731Z",
     "notices": [
+      {
+        "id": "73d2fc3de176c1bf",
+        "title": "Karnataka- Documents verification link active",
+        "link": "https://cetonline.karnataka.gov.in/ugcet_vs_2026/forms/login.aspx",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 50,
+        "detectedAt": "2026-08-05T14:55:54.731Z"
+      },
       {
         "id": "f8ae448b34cc4331",
         "title": "Madhya Pradesh- NEET UG 2026 Round 1st Schedule",
@@ -47,6 +57,16 @@
         "source": "Direct from Website",
         "batchIndex": 48,
         "detectedAt": "2026-08-04T04:44:25.296Z"
+      },
+      {
+        "id": "8af01c540d93cc69",
+        "title": "Odisha- Information Broucher 2026",
+        "link": "https://odishajee.com/important_doc/Counselling_Brochure_26_12.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 49,
+        "detectedAt": "2026-08-05T14:55:54.731Z"
       },
       {
         "id": "94ee784464f327a9",
@@ -186,26 +206,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 32,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "1440dc560400cee9",
-        "title": "CMC Vellore : Update your NEET UG Roll number, NEET Score and All India Rank",
-        "link": "https://admissions.cmcvellore.ac.in/",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 30,
-        "detectedAt": "2026-07-24T13:23:47.249Z"
-      },
-      {
-        "id": "5eb95c15fa69b16f",
-        "title": "CMC Vellor : CMC Vellore Application Open Category closing Soon",
-        "link": "https://neetugguidance.in/upload_store/70312Christian%20Medical%20College%20Vellore%20-%20Online%20Admissions.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 31,
         "detectedAt": "2026-07-24T13:23:47.249Z"
       }
     ]
@@ -1582,42 +1582,18 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T06:35:55.015Z",
+    "lastUpdatedDate": "2026-08-05T14:59:54.671Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
-        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
+        "id": "Latest Instructions:e0b12f254efd8eee",
+        "title": "Information regarding Mukhyamantri Medhavi Vidyarthi Yojna (MMMVY) Scholarship Scheme. (Dated 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/MMMVY%20Consolidated_Order_Latest_2026_17.pdf",
         "date": "05/08/2026",
         "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
+        "source": "Latest Instructions",
         "batchIndex": 0,
-        "detectedAt": "2026-08-05T06:35:55.015Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-04T13:08:58.454Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-03T16:33:01.616Z"
+        "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
         "id": "Latest Instructions:3d0398756edf4a0e",
@@ -1628,6 +1604,76 @@
         "source": "Latest Instructions",
         "batchIndex": 0,
         "detectedAt": "2026-08-05T06:35:53.468Z"
+      },
+      {
+        "id": "Latest Instructions:789dbe6179108340",
+        "title": "Important information regarding scholarship- Mukhyamantri Jan Kalyan (Shiksha Protsahan) Yojna (Dated 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/MMJKY%20Scholarship%20Rule%20updated_16.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
+      },
+      {
+        "id": "Latest Instructions:4a937997a99a4d5f",
+        "title": "Amended Proforma no. 7 and 9 for counselling MP State Combined NEET UG Counselling 2026-27 ( Dated 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Amended%20proforma%202026_15.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
+      },
+      {
+        "id": "Latest Instructions:c7bc2d979fc8be34",
+        "title": "Information Regarding Post Matric Scholarship Scheduled Castes (SC Category) (Dated 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/SC%20Scholarship%20Rule%20_14.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
+      },
+      {
+        "id": "Latest Instructions:a90fa82e66d2b03c",
+        "title": "Information Regarding Post Matric Scholarship Scheduled Tribe. (ST Category) (Dated 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/ST%20Scholarship_13.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
+      },
+      {
+        "id": "Latest Instructions:c289ee4050f6952e",
+        "title": "Information Regarding Post Matric Scholarship Other Backward Class (OBC Category)(Dated 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/OBC%20Scholarship_12.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
+      },
+      {
+        "id": "Latest Instructions:77a381902e528d0e",
+        "title": "Important Information Regarding (EWS) Economically Weaker Section (Dated 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/EWS%20Reservation%20with%20amendments_11.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
+      },
+      {
+        "id": "Latest Instructions:53502e198d428672",
+        "title": "Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 05-08-2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Participating%20college%202026_10.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
         "id": "Latest Instructions:46458516043a586e",
@@ -1668,6 +1714,16 @@
         "source": "Latest Instructions",
         "batchIndex": 3,
         "detectedAt": "2026-08-04T16:00:11.135Z"
+      },
+      {
+        "id": "Latest Instructions:3e9e0817c7328e99",
+        "title": "Frequently Asked Question MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/FAQ%20update_6.pdf",
+        "date": "04/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 11,
+        "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
         "id": "Latest Instructions:cdc71e56ef143c41",
@@ -1734,24 +1790,38 @@
         "detectedAt": "2026-08-03T16:33:00.312Z"
       },
       {
-        "id": "Latest Instructions:fcbdc0bba1d31b37",
-        "title": "Notice for PwBD Candidates and Medical Assessment Boards of MCC as per Revised NMC Guidelines (vide Corrigendum Notice of UGMEB, NMC No. U-11021/24204/2026-UGMEB Dated 31.07.2026 for Appendix D)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/PwBD%20information_4.pdf",
-        "date": "31/07/2026",
+        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
+        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
+        "date": "05/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "Rule Book / Steps / User Manual",
         "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:08:57.343Z"
+        "detectedAt": "2026-08-05T06:35:55.015Z"
       },
       {
-        "id": "Latest Instructions:4fc94c5bb65450cc",
-        "title": "Notice for PwBD Candidates and Medical Assessment Boards of MCC as per Revised NMC Guidelines (vide Corrigendum Notice of UGMEB, NMC No. U-11021/24204/2026-UGMEB Dated 31.07.2026 for Appendix D)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/PwBD%20information_4.pdf",
-        "date": "31/07/2026",
+        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "Rule Book / Steps / User Manual",
         "batchIndex": 0,
-        "detectedAt": "2026-08-03T16:33:00.312Z"
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:58.454Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-03T16:33:01.616Z"
       },
       {
         "id": "Counselling Schedule:cdc71e56ef143c41",
@@ -2693,9 +2763,21 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T12:22:25.759Z",
+    "lastUpdatedDate": "2026-08-05T14:56:09.780Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "71a0e97674ae8656",
+        "title": "Advt. No. - 46 Dated - 05/08/2026 {अभियंत्रण प्रवेश प्रतियोगिता परीक्षा (पाश्विक प्रवेश)-2026 के परीक्षाफल (Result) एवं परीक्षाफल आधारित नामांकन हेतु आयोजित प्रथम चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना}",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/752.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Advt. No. - 46 Dated - 05/08/2026 {Information related to the results of the Engineering Entrance Competitive Examination (Lateral Entry)-2026 and the organization of the first round online interview for result-based nomination}",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-05T14:56:09.780Z"
+      },
       {
         "id": "9bd185d31c0afc69",
         "title": "Advt. No. 45 dated-28.07.2026 Important Notice regarding correction in State Merit List Based on JEE (Main)-2026 Result",
@@ -2870,15 +2952,6 @@
         "date": "12/12/2025",
         "sortTs": null,
         "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "8a370d79a2f97f1e",
-        "title": "Advt. No. 155 dated-09.12.2025 Important Notice regarding 2nd Round of Online Counselling of Post Graduate Medical (MD/MS/Diploma & DNB) State Quota seats on the basis of NEET-PG-2025 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/732.pdf",
-        "date": "09/12/2025",
-        "sortTs": null,
-        "batchIndex": 15,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
@@ -6321,9 +6394,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T12:07:50.107Z",
+    "lastUpdatedDate": "2026-08-05T15:01:18.582Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5954821c7b6c4400",
+        "title": "Third Phase Allotment To Engineering And Second Phase Allotment To Architecture Courses Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/171/Upload1",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T15:01:18.582Z"
+      },
       {
         "id": "c587c20e3582abd0",
         "title": "Admission To Medical & Medical Allied Courses- Online Facility For Submission Of NEET (UG) -2026 Result",
@@ -6511,17 +6594,6 @@
         "titleEn": "Admission in Community Quota Seats to Architecture Courses",
         "titleLang": "ml",
         "detectedAt": "2026-07-16T08:21:54.411Z"
-      },
-      {
-        "id": "07a4a7fa5dce3da4",
-        "title": "സ്വകാര്യ സ്വാശ്രയ ആർക്കിടെക്ചർ കോളേജുകളിലെ കമ്മ്യൂണിറ്റി ക്വാട്ട സീറ്റുകളിലേയ്ക്കുള്ള പ്രത്യേക സംവരണം-അപേക്ഷ സമർപ്പിക്കുന്നതിന് അവസരം",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/121/Upload1",
-        "date": "14/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Special Reservation for Community Quota Seats in Private Self-Supporting Architecture Colleges-Opportunity to Apply",
-        "titleLang": "ml",
-        "detectedAt": "2026-07-14T11:57:57.372Z"
       }
     ]
   },
@@ -6532,7 +6604,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T06:34:22.011Z",
+    "lastUpdatedDate": "2026-08-05T14:58:31.541Z",
     "pinned": false,
     "notices": [
       {
@@ -6552,6 +6624,26 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "fa9c969ed6ac54e6",
+        "title": "Advertisement for (1) MBBS (2) BDS (3) BHMS (4) BAMS (5) BUMS against State Quota seats during Academic Session 2026-2027 | Apply Here",
+        "link": "https://www.meghealth.gov.in/news/DHSMER-150-MBBS-Admission-2026-27-4552-ADVERTISEMENT%20MBBS,%20BDS%20ETC%20For%20Central%20Pool%20Seats.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T14:58:31.541Z"
+      },
+      {
+        "id": "865b5324ac9ec804",
+        "title": "Corrigendum to the Expression of Interest (EOI) for Opeartion & Management of a Nursing College of 60 B.Sc. Seats Intake under a Public Private Paernership at Umsawli, Shillong",
+        "link": "https://www.meghealth.gov.in/news/Health-110-2023-90-Corrigendum(EOI).pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-05T14:58:31.541Z"
       },
       {
         "id": "a18fae4b47d1b3d0",
@@ -6702,24 +6794,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "4f7a18d497460f2b",
-        "title": "Notice - Result of the appearing candidates for the State Common Entrance Examination for Admission to B.Sc. Nursing Course Session 2026-27 | Merit List of Appearing Candidates for the State CEE",
-        "link": "https://www.meghealth.gov.in/news/DHSMER-Estt-CEE-2025-2-3676-Notice%20for%20declaration%20of%20Result.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "557a1ec0d5345e69",
-        "title": "Notice - Applications Invited from candidates for admission into various Allied Health Science & Nursing Courses in ICFAI University, Tripura for the Academic Session 2026-27",
-        "link": "https://www.meghealth.gov.in/news/DHSMER-Estt-AHSN-2026-15-3713.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
