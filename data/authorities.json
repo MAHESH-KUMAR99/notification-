@@ -3093,9 +3093,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T12:07:50.403Z",
+    "lastUpdatedDate": "2026-08-06T15:02:04.947Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:5b8883cdf89581b2",
+        "title": "NOTICE : EXTENSION OF LAST DATE OF APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1v1IFsEUxAwtVPN8g7lIZO4EpOgz4TDW5/view?usp=sharing",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T15:02:04.947Z"
+      },
+      {
+        "id": "UG NEET:5b8883cdf89581b2",
+        "title": "NOTICE : EXTENSION OF LAST DATE OF APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1v1IFsEUxAwtVPN8g7lIZO4EpOgz4TDW5/view?usp=sharing",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 163,
+        "detectedAt": "2026-08-06T15:02:04.947Z"
+      },
       {
         "id": "OVERALL:2831b03956d11d79",
         "title": "FIRST ROUND ADMITTED LIST FOR BHARATHIYAR PALKALAIKOODAM - (2026 - 2027)",
@@ -3274,26 +3294,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 107,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "UG NON-NEET:f01251bd8884d14c",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
-        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 108,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:3dbc0a736c199c92",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
-        "link": "https://drive.google.com/file/d/1VbSEkJQisOgKNn4GnCnOyNVdIzB0-gyk/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 192,
         "detectedAt": "2026-08-04T13:10:21.894Z"
       },
       {
@@ -4377,9 +4377,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T10:52:16.091Z",
+    "lastUpdatedDate": "2026-08-06T15:01:54.191Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:1a04718184e89e7e",
+        "title": "NOTICE REGARDING DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEES FOR 3 rd ROUND ALLOTTED CANDIDATES UNDER LE-TECH(DIPLOMA)/ LEB.Sc./ Int. MBA and Working Professionals for Engineering, M.TECH/M.AR",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260806477863167.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T15:01:54.191Z"
+      },
       {
         "id": "OJEE:a10c36f2abdaf5ab",
         "title": "CIRCULAR FOR ALL PARTICIPATING UNIVERSITY/COLLEGE/INSTITUTES",
@@ -4568,16 +4578,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:f7eef188e210c2c4",
-        "title": "Notice No-OJEE/0294 for OL BOARD OJEE-2026 RESULT",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/202606251566928633.pdf",
-        "date": "25/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
@@ -6400,9 +6400,21 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T10:16:37.711Z",
+    "lastUpdatedDate": "2026-08-06T15:02:04.526Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f3eda8b36084477f",
+        "title": "ഫാർമസി കോഴ്‌സിലേക്കുള്ള പ്രവേശനം രണ്ടാംഘട്ട അലോട്ട്മെന്റിലേക്ക് പുതുതായി ഉൾപ്പെടുത്തിയ കോളേജുകൾ",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/175/Upload1",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Admission to Pharmacy Course Newly Inducted Colleges for Second Phase Allotment",
+        "titleLang": "ml",
+        "detectedAt": "2026-08-06T15:02:04.526Z"
+      },
       {
         "id": "bd5cd484f90c46e9",
         "title": "Centralised Second Phase Allotment To Pharmacy",
@@ -6590,15 +6602,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-18T00:58:46.185Z"
-      },
-      {
-        "id": "58695f9be1c2fddf",
-        "title": "Engg. Colleges -- Revision of fee structure",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/129/Upload1",
-        "date": "18/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-18T14:02:11.861Z"
       }
     ]
   },
@@ -7013,7 +7016,7 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T12:29:24.186Z",
+    "lastUpdatedDate": "2026-08-06T14:59:12.752Z",
     "pinned": false,
     "notices": [
       {
@@ -7025,6 +7028,46 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-06T12:29:24.186Z"
+      },
+      {
+        "id": "e354c13fd561723c",
+        "title": "STATE NEET-UG 2026 MERIT-LIST",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEET-UG-MERIT-LIST-SIGNED.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-06T14:59:12.752Z"
+      },
+      {
+        "id": "ccbf7e3f5b78d259",
+        "title": "STATE NEET-UG-Rejected-list",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEET-UG-Rejected-list-SIGNED.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-06T14:59:12.752Z"
+      },
+      {
+        "id": "19a62802d109ffa8",
+        "title": "State NON-NEET 2026-MERIT-LIST",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NON-NEET-MERIT-LIST-SIGNED.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-06T14:59:12.752Z"
+      },
+      {
+        "id": "46f8b4fa16158e9c",
+        "title": "State NON-NEET-REJECTED-LIST",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NON-NEET-REJECTED-LIST-SIGNED.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-06T14:59:12.752Z"
       },
       {
         "id": "1cce75948e56f9af",
@@ -7168,42 +7211,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-16T14:34:38.597Z"
-      },
-      {
-        "id": "160dcc8445b4e101",
-        "title": "Notification BTech/BE courses session 2026-27",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-B.-Tech-BE-courses-for-the-session-2026-27.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-15T08:56:48.933Z"
-      },
-      {
-        "id": "cd665b880623931d",
-        "title": "LIST-4 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/List-4.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-15T06:19:55.070Z"
-      },
-      {
-        "id": "f976b7e9cef8a078",
-        "title": "Provisional Selected List CUET 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Provisional-selected-lsit-CUET2026.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-15T08:56:48.933Z"
-      },
-      {
-        "id": "8baaa397e0317334",
-        "title": "LIST-3 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/List-3.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-15T06:19:55.070Z"
       }
     ]
   },
