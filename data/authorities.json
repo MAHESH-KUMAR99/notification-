@@ -6397,9 +6397,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T15:01:18.582Z",
+    "lastUpdatedDate": "2026-08-06T10:16:37.711Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bd5cd484f90c46e9",
+        "title": "Centralised Second Phase Allotment To Pharmacy",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/172/Upload1",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T10:16:37.711Z"
+      },
       {
         "id": "5954821c7b6c4400",
         "title": "Third Phase Allotment To Engineering And Second Phase Allotment To Architecture Courses Published",
@@ -6586,17 +6596,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-18T14:02:11.861Z"
-      },
-      {
-        "id": "599eb5d9878d7638",
-        "title": "ആർക്കിടെക്ചർ കോഴ്‌സുകളിലേക്കുള്ള കമ്മ്യൂണിറ്റി ക്വാട്ട സീറ്റുകളിലെ പ്രവേശനം",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/125/Upload1",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Admission in Community Quota Seats to Architecture Courses",
-        "titleLang": "ml",
-        "detectedAt": "2026-07-16T08:21:54.411Z"
       }
     ]
   },
