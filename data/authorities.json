@@ -2049,9 +2049,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T06:31:57.292Z",
+    "lastUpdatedDate": "2026-08-06T04:16:04.273Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7ae38e6b99c09ece",
+        "title": "Guidelines on Assessment of Persons with Benchmark GUIDELINES ON ASSESSMENT OF PERSONS PWD",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Guidelines%20on%20Assessment%20of%20Persons%20with%20Benchmark.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-06T04:16:04.273Z"
+      },
       {
         "id": "4875492a5b15a407",
         "title": "Click here to apply online for admission in MBBS/BDS under NEET UG 2026",
@@ -2227,15 +2237,6 @@
         "date": "19/11/2025",
         "sortTs": null,
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "97860402e90143e7",
-        "title": "Provisional allotment list of Stray Vacancy Round online counseling for admission to MBBS/BDS courses, session 2025 in the Medical/Dental courses in the Gov./Pvt. Colleges/Universities/Minorities Institutes in the State of Punjab under NEET UG-2025",
-        "link": "https://bfuhs.ac.in/MBBS2025/ProvisionalResultStrayVacancyRound18.11.2025.pdf",
-        "date": "18/11/2025",
-        "sortTs": null,
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
