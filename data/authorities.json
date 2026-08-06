@@ -1853,9 +1853,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T12:02:15.442Z",
+    "lastUpdatedDate": "2026-08-06T07:17:26.769Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "626d94f444113a68",
+        "title": "06-08-2026: Corrigendum dt.31-07-2026-Guidelines on Assessment of Persons with Benchmark Disabilities for Admission to the MBBS Course, 2026 MCC Notice dt.31-07-2026 on Assessment of Persons with Benchmark Disabilities",
+        "link": "https://drntr.uhsap.in/index/notification/20260806121255773.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T07:17:26.769Z"
+      },
       {
         "id": "80b4d8d6a82213cb",
         "title": "05-08-2026: MBBS-BDS-2026-27-CQ-Detail online application Notification MBBS-BDS-2026-27- CQ-Prospects & Regulations",
@@ -2029,15 +2039,6 @@
         "date": "21/02/2026",
         "sortTs": null,
         "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "7f7705c494429b6d",
-        "title": "20-02-2026: B.Sc.(Nursing) 4 YDC 2025-26 - Final chance for exercising web options PG (Medical) MQ 2025-26 - Notification for S2&S3 documents Updation with Late fee for Stray round PG (Medical) MQ 2025-26 - Provisional Merit List of Newly Applied Candidates for Stray Vacancy Round PG (Medical) CQ 2025-26 - Provisional Merit List of Newly Applied Candidates for Stray Vacancy Round PG (Medical) MQ 2025-26 - Candidates who have paid Registration fee but not uploaded documents for Stray Vacancy Round PG (Medical) CQ 2025-26 - Not Eligible List of Newly Applied Candidates for Stray Vacancy Round PG (Medical) CQ 2025-26 - Candidates who have paid Registration fee but not uploaded documents for Stray Vacancy Round",
-        "link": "https://drntr.uhsap.in/index/notification/20260220180933553.pdf",
-        "date": "20/02/2026",
-        "sortTs": null,
-        "batchIndex": 14,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -6026,9 +6027,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T12:04:16.824Z",
+    "lastUpdatedDate": "2026-08-06T07:19:27.593Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a342dd1af557141d",
+        "title": "PARAMEDICAL (B.PT/B.OT/BASLP/BMLS/BPO) (CODE-124)_dated-06.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260806506977513.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T07:19:27.593Z"
+      },
+      {
+        "id": "3e370499a1037a17",
+        "title": "NO PHYSICAL REPORTING IN BA (ENG) CODE-184_dated-06.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608061189242745.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-06T07:19:27.593Z"
+      },
       {
         "id": "d7bc31dd4efa21de",
         "title": "IMPORTANT NOTIFICATION REGARDING EXTENSION OF LAST DATE OF D.PHARM/M.PHARM SUBMISSION OF ONLINE APPLICATION FORMS._dated-05.08.2026",
@@ -6208,26 +6229,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-29T12:32:09.080Z"
-      },
-      {
-        "id": "6bd0a989a61d0aa9",
-        "title": "Round 3 Fresh Registration MBA (CAT 2025/ CMAT 2026) Choice Filling followed by SLIDING ROUND for A.S: 2026-27_dated-29.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260729472976370.pdf",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-29T10:12:02.214Z"
-      },
-      {
-        "id": "3b02fee51b81ec7a",
-        "title": "IMPORTANT INSTRUCTIONS REGARDING DOCUMENTS TO BE SUBMITTED AT THE TIME OF PHYSICAL REPORTING IN THE ALLOTTED COLLEGE (WHERE SEAT IN THE VARIOUS PROGRAMMES HAVE BEEN ALLOTTED THROUGH ONLINE COUNSELLING",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260728206405047.pdf",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-28T12:23:36.688Z"
       }
     ]
   },
