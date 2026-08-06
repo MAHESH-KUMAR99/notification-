@@ -1583,9 +1583,19 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T14:59:54.671Z",
+    "lastUpdatedDate": "2026-08-06T12:30:54.008Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Instructions:766d5c28f74c7532",
+        "title": "Important Notice for Government School Students Quota Candidates MP State Combined Counselling NEET UG 2026 (Dated 06.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/GS%20Notice_18.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T12:30:54.008Z"
+      },
       {
         "id": "Latest Instructions:e0b12f254efd8eee",
         "title": "Information regarding Mukhyamantri Medhavi Vidyarthi Yojna (MMMVY) Scholarship Scheme. (Dated 05.08.2026)",
@@ -1779,16 +1789,6 @@
         "source": "Latest Instructions",
         "batchIndex": 3,
         "detectedAt": "2026-08-04T13:08:57.343Z"
-      },
-      {
-        "id": "Latest Instructions:6bf93c84a547379d",
-        "title": "Notice Regarding Opening of Registration Process MP State Combined Counselling NEET UG (MBBS/BDS Course) 2026-27 (Dated- 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Registration%20Notice_1.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-03T16:33:00.312Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
@@ -2050,9 +2050,29 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T04:16:04.273Z",
+    "lastUpdatedDate": "2026-08-06T12:27:08.349Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5f94116f10225e31",
+        "title": "NEET UG 2024,2025 Cutoff Click here to apply online for admission in MBBS/BDS under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Cut%20off%20of%20session%202024%20and%202025%20of%20MBBSBDS.pdf",
+        "date": null,
+        "sortTs": 1785974400000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T12:27:08.349Z"
+      },
+      {
+        "id": "0aa9f11b88a5198e",
+        "title": "Regarding clarification of annexure VI",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/clarification%20regarding%20annexure%20vi%20of%20the%20mbbs%20bds.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-06T12:27:08.349Z"
+      },
       {
         "id": "7ae38e6b99c09ece",
         "title": "Guidelines on Assessment of Persons with Benchmark GUIDELINES ON ASSESSMENT OF PERSONS PWD",
@@ -2220,24 +2240,6 @@
         "date": "12/12/2025",
         "sortTs": null,
         "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "0d9c990f61cf4737",
-        "title": "Vacancy position for 5th round under NEET UG BDS 2025 Schedule for 5th Round of BDS Counselling under NEET UG 2025",
-        "link": "https://bfuhs.ac.in/MBBS2025/Vacancy%20Position%20for%205th%20Round%20BDS.pdf",
-        "date": "11/12/2025",
-        "sortTs": null,
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "04d428d9dcadf57d",
-        "title": "Click here to download allotment letter for MBBS/BDS Stray Round of counselling Click here to pay Tution fee+HSLIBNET Fee",
-        "link": "http://bfuhs.smartpad.in/",
-        "date": "19/11/2025",
-        "sortTs": null,
-        "batchIndex": 11,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -2766,7 +2768,7 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T14:56:09.780Z",
+    "lastUpdatedDate": "2026-08-06T12:27:07.494Z",
     "pinned": false,
     "notices": [
       {
@@ -2780,6 +2782,16 @@
         "titleEn": "Advt. No. - 46 Dated - 05/08/2026 {Information related to the results of the Engineering Entrance Competitive Examination (Lateral Entry)-2026 and the organization of the first round online interview for result-based nomination}",
         "titleLang": "hi",
         "detectedAt": "2026-08-05T14:56:09.780Z"
+      },
+      {
+        "id": "3accad009310a305",
+        "title": "Important Information Regarding Submission of Online Application Form for Preparation of the State Merit List on the basis of NEET(UG)-2026 Result and conduct of the 1st,2nd, 3rd & Stray Vacancy rounds of online counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/753.pdf",
+        "date": null,
+        "sortTs": 1785888000000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-06T12:27:07.494Z"
       },
       {
         "id": "9bd185d31c0afc69",
@@ -2946,15 +2958,6 @@
         "date": "12/12/2025",
         "sortTs": null,
         "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "5fe58cc312782d4a",
-        "title": "Advt. No.- 156 Dated :- 12/12/2025 Indicative information regarding Revised Merit List preparation for Special Round Counselling for admission in vacant seats in M.B.B.S., B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/733.pdf",
-        "date": "12/12/2025",
-        "sortTs": null,
-        "batchIndex": 14,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
@@ -7010,9 +7013,19 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T09:36:08.489Z",
+    "lastUpdatedDate": "2026-08-06T12:29:24.186Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "24f41a3925800828",
+        "title": "State NEETUG 2026 candidates particulars rectified Notification",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEETUG-2026-candidates-particulars-rectified-Notification.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-06T12:29:24.186Z"
+      },
       {
         "id": "1cce75948e56f9af",
         "title": "State Merit List of NEET UG and NON NEET 2026 Notification",
@@ -7190,15 +7203,6 @@
         "date": "15/07/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-15T06:19:55.070Z"
-      },
-      {
-        "id": "35da9d2f1b713715",
-        "title": "LIST-2 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/List-2.pdf",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-15T06:19:55.070Z"
       }
     ]
