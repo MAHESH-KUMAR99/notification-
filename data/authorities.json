@@ -2444,9 +2444,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T12:37:59.653Z",
+    "lastUpdatedDate": "2026-08-07T08:38:49.781Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:8d9dd3b0fc38fea8",
+        "title": "Notice for offline counselling of BCECE[LE][PHARMACY/PARA MEDICAL]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/10 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_10.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T08:38:49.781Z"
+      },
+      {
+        "id": "Latest Updates:3ed9a27e124067d9",
+        "title": "Detail for offline counselling of BCECE[LE][PHARMACY/PARA MEDICAL]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/09 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_09.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T08:38:49.781Z"
+      },
       {
         "id": "Latest Updates:29a629552a7063ec",
         "title": "Important Notice for MOP-UP Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/13 Dated 01.08.2026)",
@@ -2625,26 +2645,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 1,
-        "detectedAt": "2026-07-12T10:56:03.716Z"
-      },
-      {
-        "id": "Latest Updates:aa7612441e1777f2",
-        "title": "Notice for online counselling of BCECE-JOINT[PCM/PCB/PCMB] & AGRICULTURE[CBA/MBA/MCA/PCA] Group-2026 (Adv. No. BCECEB(BCECE)-2026/07 Dated 12.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_07.pdf",
-        "date": "12/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-12T10:56:03.716Z"
-      },
-      {
-        "id": "Latest Updates:bfb920786e722b68",
-        "title": "Details of online counselling of BCECE-JOINT[PCM/PCB/PCMB] & AGRICULTURE[CBA/MBA/MCA/PCA] Group-2026 (Adv. No. BCECEB(BCECE)-2026/06 Dated 12.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_06.pdf",
-        "date": "12/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 3,
         "detectedAt": "2026-07-12T10:56:03.716Z"
       },
       {
@@ -4158,9 +4158,43 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T13:06:23.035Z",
+    "lastUpdatedDate": "2026-08-07T08:36:14.287Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c715f1045f68d32c",
+        "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु एनआरआई पात्रता का दावा करने वाले अभ्यर्थियों हेतु आवश्यक सूचना .....More",
+        "link": "https://www.cgdme.in/notice.php?id=2155",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": ": Important information for candidates claiming NRI eligibility for state level counseling of NEET UG admission year 2026.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-07T08:36:14.287Z"
+      },
+      {
+        "id": "b53d22a8a05fe0c7",
+        "title": ": CG State NEET UG 2026 Online Application Notice .....More",
+        "link": "https://www.cgdme.in/notice.php?id=2154",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T08:36:14.287Z"
+      },
+      {
+        "id": "4d395d2986f24d9c",
+        "title": "छत्‍तीसगढ़ एलाईड हेल्‍थकेयर प्रोफेसनल कांउसिल के सदस्‍यों के नामांकन हेतु साक्षात्‍कार एवं दस्‍तावेज सत्‍यापन सूचना।.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2153",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "titleEn": "Interview and document verification notice for nomination of members of Chhattisgarh Allied Healthcare Professional Council.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-07T08:36:14.287Z"
+      },
       {
         "id": "10740715f0ee4dbd",
         "title": "Publication of Complete List of Candidates with Allotted Marks After Online Verification of Eligibility Documents for Faculty Recruitment in New Government Nursing Colleges, Chhattisgarh.....More",
@@ -4333,39 +4367,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "titleEn": "Chhattisgarh on the post of Assistant Professor. Information regarding verification of educational documents of candidates selected from Public Service Commission.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "ec5098ea650c374b",
-        "title": "रुचि की अभिव्यक्ति (EOI No. 189345) की अवधि में वृद्धि की संशोधन सूचना.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2136",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "titleEn": "Amendment notice of extension in the period of expression of interest (EOI No. 189345).....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "f733551eeae739db",
-        "title": "अनंतमि पात्रता सूची- छ0ग0 एलाइड कांउसिल मेम्‍बर हेतु नामांकन के संबंध में।.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2135",
-        "date": "03/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "titleEn": "Provisional eligibility list - Regarding nomination for Chhattisgarh Allied Council Member.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
-      },
-      {
-        "id": "b8890f3e13f46da6",
-        "title": "नर्सिंग पाठ्यक्रम प्रवेश वर्ष 2026 के काउंसिलिंग प्रक्रिया में सम्मिलित होने के लिए संबधित संस्थाओं से आमंत्रित ऑनलाईन जानकारी में तिथि वृद्धि सूचना.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2134",
-        "date": "03/07/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "titleEn": "Date extension notice in the online information inviting concerned institutions to participate in the counseling process for Nursing course admission year 2026.....More",
         "titleLang": "hi",
         "detectedAt": "2026-07-08T09:36:39.948Z"
       }
