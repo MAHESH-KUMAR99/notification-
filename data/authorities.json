@@ -6052,9 +6052,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T12:12:47.060Z",
+    "lastUpdatedDate": "2026-08-07T13:52:59.751Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5c25a4f0be32efd1",
+        "title": "SPOT ROUND OFFLINE COUNSELLING : ACADEMIC SESSION 2026-2027_dated-07.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071670149564.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T13:52:59.751Z"
+      },
       {
         "id": "ff7e220efd749fe0",
         "title": "Extension of Date of Payment of Part Academic Fee SPOT ROUND for Programmes (BCA/ BBA/B.TECH/B.COM(H)/LE B.TECH) Followed by SLIDING ROUND for the A.S:2026-27_dated-07.08.2026.",
@@ -6076,6 +6086,16 @@
         "detectedAt": "2026-08-07T07:24:03.525Z"
       },
       {
+        "id": "d7b189511de02463",
+        "title": "SPECIAL ROUND OF OFFLINE COUNSELLING FOR (BHMCT/ B.Sc(Yoga)/ BMS/ BS (Packaging Technology) Based on (NLT/ CET/ CUET) for A.S:2026-27_dated-07.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071918380967.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T13:52:59.751Z"
+      },
+      {
         "id": "39f660d19c1f0d6f",
         "title": "List of Eligible and Ineligible Candidate for admission under Sports Quota for Academic Session: 2026-27_dated-07.08.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260807114804681.pdf",
@@ -6084,6 +6104,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-07T12:12:47.060Z"
+      },
+      {
+        "id": "a57338e62dbb6fe1",
+        "title": "Admission Notice for MPT and MOT Programmes A.S. 2026-27_dated-07.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071330793017.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-07T13:52:59.751Z"
       },
       {
         "id": "b12769ec28dc04bf",
@@ -6224,36 +6254,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-01T11:22:10.405Z"
-      },
-      {
-        "id": "48ba760f58142e50",
-        "title": "Admission Notice for CUET (PG for M.Ed.)_dated-31.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731760794917.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-31T12:30:21.674Z"
-      },
-      {
-        "id": "8a5a4cc7b1da0595",
-        "title": "Extension of date for Physical Reporting LLM/ BCA/ LLB/ B.ED/ BBA/ LE B.TECH/ B.TECH/ B.COM/ BA (ECO) A.S.2026-27_dated-31.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731704165715.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-31T10:08:55.699Z"
-      },
-      {
-        "id": "2b023ffcef73b304",
-        "title": "Schedule of activities pursuant to declaration of result of Round 03 followed by Sliding Round BA(JMC)/ BA(ENG) for the A.S:2026-27_dated-31.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731821485142.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-31T07:12:59.458Z"
       }
     ]
   },
