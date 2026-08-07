@@ -6052,9 +6052,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T07:24:03.525Z",
+    "lastUpdatedDate": "2026-08-07T12:12:47.060Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ff7e220efd749fe0",
+        "title": "Extension of Date of Payment of Part Academic Fee SPOT ROUND for Programmes (BCA/ BBA/B.TECH/B.COM(H)/LE B.TECH) Followed by SLIDING ROUND for the A.S:2026-27_dated-07.08.2026.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071117527215.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T12:12:47.060Z"
+      },
       {
         "id": "4ae43b177c6da3ed",
         "title": "Schedule of 1st Offline Counselling B.RTT (CODE-158) Earlier Nomination B.Sc (MTR) Academic Session: 2026-27_dated-07.08.2026",
@@ -6064,6 +6074,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-07T07:24:03.525Z"
+      },
+      {
+        "id": "39f660d19c1f0d6f",
+        "title": "List of Eligible and Ineligible Candidate for admission under Sports Quota for Academic Session: 2026-27_dated-07.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260807114804681.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T12:12:47.060Z"
       },
       {
         "id": "b12769ec28dc04bf",
@@ -6233,26 +6253,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-07-31T07:12:59.458Z"
-      },
-      {
-        "id": "27874cbcfb799afc",
-        "title": "NO PHYSICAL REPORTING IN BA (JMC) (CODE-126) AND BA (ENG) (CODE-184)._dated-31.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607311388113417.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-31T07:12:59.458Z"
-      },
-      {
-        "id": "1aa8c401f97b2607",
-        "title": "EXTENSION OF DATE OF SUBMISSION OF ONLINE APPLICATION FORM FOR CUET (UG) PROGRAMMES FOR A.S: 2026-27_dated-31.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/20260731601136274.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-07-31T07:12:59.458Z"
       }
     ]
@@ -6442,9 +6442,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T15:02:04.526Z",
+    "lastUpdatedDate": "2026-08-07T12:15:47.441Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8bafce0b2d6d4980",
+        "title": "Admission to Medical & Medical Allied Courses: List of defective applications has been published. Last date for rectifying defects and submitting NEET score: 10.08.2026, 12.00 noon. Candidates shall rectify defects/submit NEET score through the Candidate Portal within the deadline.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/178/Upload1",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T12:15:47.441Z"
+      },
       {
         "id": "f3eda8b36084477f",
         "title": "ഫാർമസി കോഴ്‌സിലേക്കുള്ള പ്രവേശനം രണ്ടാംഘട്ട അലോട്ട്മെന്റിലേക്ക് പുതുതായി ഉൾപ്പെടുത്തിയ കോളേജുകൾ",
@@ -6635,15 +6645,6 @@
         "titleEn": "Self-supporting engineering colleges - interest free deposit - provision waived",
         "titleLang": "ml",
         "detectedAt": "2026-07-18T14:02:11.861Z"
-      },
-      {
-        "id": "337ea76124dcde83",
-        "title": "SECOND PHASE ALLOTMENT TO ENGINEERING COURSES AND FIRST PHASE ALLOTMENT TO ARCHITECTURE COURSE - PROVISIONAL ALLOTMENT LIST PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/127/Upload1",
-        "date": "18/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-18T00:58:46.185Z"
       }
     ]
   },
