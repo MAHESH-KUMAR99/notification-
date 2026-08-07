@@ -7016,7 +7016,7 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T14:59:12.752Z",
+    "lastUpdatedDate": "2026-08-07T05:45:36.949Z",
     "pinned": false,
     "notices": [
       {
@@ -7028,6 +7028,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-06T12:29:24.186Z"
+      },
+      {
+        "id": "6a1f551c921636b9",
+        "title": "STATE NEET-UG 2026 MERIT-LIST",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEET-UG-MERIT-LIST-SIGNED-1.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T05:45:36.949Z"
       },
       {
         "id": "e354c13fd561723c",
@@ -7202,15 +7212,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-18T06:30:11.500Z"
-      },
-      {
-        "id": "22e4dd03b58c4e72",
-        "title": "Schedule for CSAB-NEUT2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Schedule-for-CSAB-NEUT-2026.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-16T14:34:38.597Z"
       }
     ]
   },
