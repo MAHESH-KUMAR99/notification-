@@ -6030,9 +6030,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T07:19:27.593Z",
+    "lastUpdatedDate": "2026-08-07T00:28:08.424Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b12769ec28dc04bf",
+        "title": "Postponement of Spot Round Results",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260806251801114.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T00:28:08.424Z"
+      },
       {
         "id": "a342dd1af557141d",
         "title": "PARAMEDICAL (B.PT/B.OT/BASLP/BMLS/BPO) (CODE-124)_dated-06.08.2026",
@@ -6222,16 +6232,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-30T08:34:29.372Z"
-      },
-      {
-        "id": "f62d8640b06b2882",
-        "title": "Schedule for Verification of Documents for Preparation of Revised Rank/ Merit List for 2nd Round of Offline Counselling for B.Arch (Code-100) A.S: 2026-27_dated-29.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607292138800537.pdf",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-29T12:32:09.080Z"
       }
     ]
   },
