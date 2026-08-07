@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-01T12:34:01.933Z",
+    "lastUpdatedDate": "2026-08-07T11:23:18.063Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "1aa27350e05b904d",
+        "title": "Seat Matrix NEET UG MBBS BDS & BSc Nursing Round 1",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608071226580477.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T11:23:18.063Z"
+      },
       {
         "id": "340a67b191359370",
         "title": "UG Information Bulletin 2026 dated 01.08.2026",
@@ -390,15 +400,6 @@
         "date": "15/10/2025",
         "sortTs": null,
         "batchIndex": 6,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
-      },
-      {
-        "id": "f138584060eb3e40",
-        "title": "Notice for Addition of seats in Round 3 Seats 14.10.2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510141041457961.pdf",
-        "date": "14/10/2025",
-        "sortTs": null,
-        "batchIndex": 7,
         "detectedAt": "2026-07-24T09:05:48.578Z"
       }
     ]
@@ -6653,7 +6654,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T14:58:31.541Z",
+    "lastUpdatedDate": "2026-08-07T11:25:48.960Z",
     "pinned": false,
     "notices": [
       {
@@ -6673,6 +6674,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "3fdabcd7486f2c68",
+        "title": "Advertisement of Admission to 1st Year MBBS Course at PA Sangma International Medical College & Hospital, Baridua, Ri-Bhoi District | Apply Here",
+        "link": "https://www.meghealth.gov.in/news/Advertisement%20for%201st%20Year%20MBBS%20to%20PIMC%202026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T11:25:48.960Z"
       },
       {
         "id": "fa9c969ed6ac54e6",
@@ -6834,15 +6845,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
-      },
-      {
-        "id": "9de67578770afd2f",
-        "title": "List of successful candidate for the post of Cath Lab Technician under MMDSL",
-        "link": "https://www.meghealth.gov.in/news/MMDSL-HR-1-HIRING-2026-27(22).pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
