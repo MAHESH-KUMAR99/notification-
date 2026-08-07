@@ -2050,9 +2050,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T12:27:08.349Z",
+    "lastUpdatedDate": "2026-08-07T07:21:52.957Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "982c2774bed4b0ce",
+        "title": "Notice regarding Adesh Medical College fee structure Public Notice regarding office open on 08.08.2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Adesh%20fees%20notice.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T07:21:52.957Z"
+      },
       {
         "id": "5f94116f10225e31",
         "title": "NEET UG 2024,2025 Cutoff Click here to apply online for admission in MBBS/BDS under NEET UG 2026",
@@ -2231,15 +2241,6 @@
         "date": "13/12/2025",
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "ebdf6d1bcd6e0222",
-        "title": "Click here to Apply for BDS 5th Round of Counselling Click here to submit Willingness for 5th BDS Round of Counselling Click here to view Willingness List for BDS 5th Round of Counselling",
-        "link": "https://bfuhs.ac.in/pmet25onlinex/main.aspx",
-        "date": "12/12/2025",
-        "sortTs": null,
-        "batchIndex": 9,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -6030,9 +6031,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T00:28:08.424Z",
+    "lastUpdatedDate": "2026-08-07T07:24:03.525Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4ae43b177c6da3ed",
+        "title": "Schedule of 1st Offline Counselling B.RTT (CODE-158) Earlier Nomination B.Sc (MTR) Academic Session: 2026-27_dated-07.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071119976038.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T07:24:03.525Z"
+      },
       {
         "id": "b12769ec28dc04bf",
         "title": "Postponement of Spot Round Results",
@@ -6222,16 +6233,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-07-31T07:12:59.458Z"
-      },
-      {
-        "id": "4cdc2ee7dcf3b3b1",
-        "title": "RESULT OF ROUND-3 STANDS NULL AND VOID BA(JMC) CODE-126 & BA (ENG) CODE-184_dated-30.07.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/07/202607301885192911.pdf",
-        "date": "30/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-30T08:34:29.372Z"
       }
     ]
   },
@@ -6242,9 +6243,29 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T13:05:12.582Z",
+    "lastUpdatedDate": "2026-08-07T07:21:58.553Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "be8e232632937af0",
+        "title": "Medical Certificate",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608071106448264.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T07:21:58.553Z"
+      },
+      {
+        "id": "652e59d035afa772",
+        "title": "EWS Proforma",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/20260807456356749.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T07:21:58.553Z"
+      },
       {
         "id": "aed874135e1b35a3",
         "title": "Fees structure for private colleges",
