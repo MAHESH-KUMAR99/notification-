@@ -2444,9 +2444,59 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T08:38:49.781Z",
+    "lastUpdatedDate": "2026-08-07T10:08:01.116Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "UGMAC:60fb67ead7e4cacd",
+        "title": "Notice for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/02 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_02.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T10:08:01.116Z"
+      },
+      {
+        "id": "UGMAC:e62c695adb249de3",
+        "title": "Details for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_01.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T10:08:01.116Z"
+      },
+      {
+        "id": "UGMAC:11ee47ceaf3415d9",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
+        "date": "28/06/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "UGMAC:434d52739f09976d",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
+        "date": "02/04/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "Latest Updates:60fb67ead7e4cacd",
+        "title": "Notice for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/02 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_02.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T10:08:00.826Z"
+      },
       {
         "id": "Latest Updates:8d9dd3b0fc38fea8",
         "title": "Notice for offline counselling of BCECE[LE][PHARMACY/PARA MEDICAL]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/10 Dated 07.08.2026)",
@@ -2456,6 +2506,16 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-08-07T08:38:49.781Z"
+      },
+      {
+        "id": "Latest Updates:e62c695adb249de3",
+        "title": "Details for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_01.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T10:08:00.826Z"
       },
       {
         "id": "Latest Updates:3ed9a27e124067d9",
@@ -2626,46 +2686,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-07-17T14:47:47.012Z"
-      },
-      {
-        "id": "Latest Updates:71490e08f26a01c7",
-        "title": "Important Notice for Choice Filling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/07 Dated 12.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_07.pdf",
-        "date": "12/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-12T10:56:03.716Z"
-      },
-      {
-        "id": "Latest Updates:93a400bc76d9d196",
-        "title": "Details for Choice Filling of BCECE[LE][ENGINEERING]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/06 Dated 12.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_06.pdf",
-        "date": "12/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-12T10:56:03.716Z"
-      },
-      {
-        "id": "UGMAC:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
-      },
-      {
-        "id": "UGMAC:434d52739f09976d",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
-        "date": "02/04/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
       }
     ]
   },
@@ -4158,7 +4178,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T08:36:14.287Z",
+    "lastUpdatedDate": "2026-08-07T10:05:22.254Z",
     "pinned": false,
     "notices": [
       {
@@ -4172,6 +4192,16 @@
         "titleEn": ": Important information for candidates claiming NRI eligibility for state level counseling of NEET UG admission year 2026.....More",
         "titleLang": "hi",
         "detectedAt": "2026-08-07T08:36:14.287Z"
+      },
+      {
+        "id": "3abe530c8728f738",
+        "title": ": CG State NEET UG 2026 Online Application Notice ,Seat Matrix and Schedule.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2154",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T10:05:22.254Z"
       },
       {
         "id": "b53d22a8a05fe0c7",
@@ -4358,17 +4388,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-08T14:57:40.306Z"
-      },
-      {
-        "id": "d12fdf07466d59c9",
-        "title": "सहायक प्राध्यापक के पद पर छ.ग. लोक सेवा आयोग से चयनित अभ्यर्थियों के शैक्षणिक दस्तावेजों के परीक्षण कार्य हेतु की सूचना।.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2137",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Chhattisgarh on the post of Assistant Professor. Information regarding verification of educational documents of candidates selected from Public Service Commission.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-08T09:36:39.948Z"
       }
     ]
   },
