@@ -1381,9 +1381,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T09:39:17.653Z",
+    "lastUpdatedDate": "2026-08-08T11:33:39.486Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "23f76c7019a19be0",
+        "title": "NOTIFICATION - ATTENTION TO THE PWD CANDIDATES – EXTENSION FOR UPLOAD OF ELIGIBILITY CERTIFICATE",
+        "link": "https://tnmedicalselection.net/news/08082026035335.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-08T11:33:39.486Z"
+      },
       {
         "id": "843371061f4934a8",
         "title": "GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN MANAGEMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
@@ -1564,15 +1574,6 @@
         "date": "28/06/2026",
         "sortTs": null,
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "76bbf4aeea1afb74",
-        "title": "Notification - 002 Fees for MBBS & BDS - Certain Instructions Issued",
-        "link": "https://tnmedicalselection.net/news/23062026061912.pdf",
-        "date": "23/06/2026",
-        "sortTs": null,
-        "batchIndex": 5,
         "detectedAt": "2026-07-08T09:36:32.898Z"
       }
     ]
@@ -6462,9 +6463,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T12:15:47.441Z",
+    "lastUpdatedDate": "2026-08-08T11:38:47.204Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1c1c5ce06887f9b8",
+        "title": "Provisional List Of Second Phase Allotment To Pharmacy Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/180/Upload1",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-08T11:38:47.204Z"
+      },
       {
         "id": "8bafce0b2d6d4980",
         "title": "Admission to Medical & Medical Allied Courses: List of defective applications has been published. Last date for rectifying defects and submitting NEET score: 10.08.2026, 12.00 noon. Candidates shall rectify defects/submit NEET score through the Candidate Portal within the deadline.",
@@ -6654,17 +6665,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-20T08:26:54.662Z"
-      },
-      {
-        "id": "c5a87c201bde2b76",
-        "title": "സ്വാശ്രയ എൻജിനീയറിങ് കോളേജുകൾ - പലിശ രഹിത ഡിപ്പോസിറ്റ് - വ്യവസ്ഥ ഒഴിവാക്കി",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/130/Upload3",
-        "date": "18/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Self-supporting engineering colleges - interest free deposit - provision waived",
-        "titleLang": "ml",
-        "detectedAt": "2026-07-18T14:02:11.861Z"
       }
     ]
   },
