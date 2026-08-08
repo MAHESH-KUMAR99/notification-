@@ -2791,9 +2791,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T12:27:07.494Z",
+    "lastUpdatedDate": "2026-08-08T13:49:24.810Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6fddd78218ed37af",
+        "title": "Advt. No. 54 dated-08.08.2026 Important Notice regarding correction in State Merit List Based on JEE (Main)-2026 Result & change in schedule of ongoing 4th (Fourth) Round of online Counselling",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/755.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-08T13:49:24.810Z"
+      },
       {
         "id": "71a0e97674ae8656",
         "title": "Advt. No. - 46 Dated - 05/08/2026 {अभियंत्रण प्रवेश प्रतियोगिता परीक्षा (पाश्विक प्रवेश)-2026 के परीक्षाफल (Result) एवं परीक्षाफल आधारित नामांकन हेतु आयोजित प्रथम चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना}",
@@ -2972,15 +2982,6 @@
         "date": "16/12/2025",
         "sortTs": null,
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "a4bdec3e3a017cd3",
-        "title": "Advt. No.- 157 Dated :- 12/12/2025 Detailed information regarding Revised Merit List preparation for Special Round Counselling for admission in vacant seats in M.B.B.S., B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/734.pdf",
-        "date": "12/12/2025",
-        "sortTs": null,
-        "batchIndex": 13,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
