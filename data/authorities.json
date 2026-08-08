@@ -6264,9 +6264,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T17:24:46.029Z",
+    "lastUpdatedDate": "2026-08-08T08:47:04.149Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b7b5228f500ac803",
+        "title": "Guidelines on Assessment of Persons with Benchmark Disabilities (PwBD)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608081570049799.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-08T08:47:04.149Z"
+      },
       {
         "id": "1bd4f62cd637ebf0",
         "title": "Domicile Proforma",
