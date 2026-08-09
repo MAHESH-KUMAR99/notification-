@@ -4186,9 +4186,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T10:05:22.254Z",
+    "lastUpdatedDate": "2026-08-09T11:35:06.128Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9ab1c3e640b9e31b",
+        "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु एनआरआई पात्रता संबंधी आवश्यक दस्तावेज प्रस्तुत करने की तिथि वृद्धि के संबंध में सूचना .....More",
+        "link": "https://www.cgdme.in/notice.php?id=2156",
+        "date": "09/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": ": Information regarding extension of date for submission of necessary documents related to NRI eligibility for state level counseling of NEET UG admission year 2026.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-09T11:35:06.128Z"
+      },
       {
         "id": "c715f1045f68d32c",
         "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु एनआरआई पात्रता का दावा करने वाले अभ्यर्थियों हेतु आवश्यक सूचना .....More",
@@ -4387,15 +4399,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-21T16:25:39.688Z"
-      },
-      {
-        "id": "ed31d8e2a349b05b",
-        "title": "Provisional Eligibility list of Candidates for Various faculty Posts In New Nursing Colleges Chhattisgarh.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2138",
-        "date": "08/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T14:57:40.306Z"
       }
     ]
   },
