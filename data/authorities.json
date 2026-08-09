@@ -2791,9 +2791,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-08T13:49:24.810Z",
+    "lastUpdatedDate": "2026-08-09T06:10:04.483Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8eedd2cd6de391f2",
+        "title": "Advt. No. 54 dated-08.08.2026 Important Notice regarding correction in State Merit List Based on JEE (Main)-2026 Result & change in schedule of ongoing 4th (Fourth) Round of online Counselling",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/760.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-09T06:10:04.483Z"
+      },
       {
         "id": "6fddd78218ed37af",
         "title": "Advt. No. 54 dated-08.08.2026 Important Notice regarding correction in State Merit List Based on JEE (Main)-2026 Result & change in schedule of ongoing 4th (Fourth) Round of online Counselling",
@@ -2803,6 +2813,46 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-08T13:49:24.810Z"
+      },
+      {
+        "id": "a83c9880b2457cb6",
+        "title": "Advt. No. 53 dated-08.08.2026 Important Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy Rounds of online counselling for admission to B.D.S. & B.H.M.S. courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/759.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-09T06:10:04.483Z"
+      },
+      {
+        "id": "5592301aa8941359",
+        "title": "Advt. No. 52 dated-08.08.2026 Important Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy rounds of online counselling for admission to M.B.B.S. course",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/758.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-09T06:10:04.483Z"
+      },
+      {
+        "id": "ffda35d1a1b9abbe",
+        "title": "Advt. No. 51 dated-08.08.2026 Indicative Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy rounds of online counselling for admission to B.D.S. & B.H.M.S. courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/757.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-09T06:10:04.483Z"
+      },
+      {
+        "id": "a08b2dda34c96bc4",
+        "title": "Advt. No. 50 dated-08.08.2026 Indicative Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy rounds of online counselling for admission to M.B.B.S. course",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/756.pdf",
+        "date": "08/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-09T06:10:04.483Z"
       },
       {
         "id": "71a0e97674ae8656",
@@ -2937,51 +2987,6 @@
         "date": "16/01/2026",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "8e3cbb7ef8b5bc5b",
-        "title": "Advt. No. - 02 Dated - 16/01/2026 {Indicative information regarding Additional Round of Online Counselling for admission to B.H.M.S. Course}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/739.pdf",
-        "date": "16/01/2026",
-        "sortTs": null,
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "5c1e55301db3d248",
-        "title": "Advt. No. - 01 Dated 16/01/2026 {Indicative information regarding Additional Round of Online Counselling for admission to B.H.M.S. Course}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/738.pdf",
-        "date": "16/01/2026",
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "5ddf9e43740f6f1d",
-        "title": "Advt. No.- 160 Dated :- 18/12/2025 Detailed information regarding Special Stray Round of Online Counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/737.pdf",
-        "date": "18/12/2025",
-        "sortTs": null,
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "502637fa96389924",
-        "title": "Advt. No.- 159 Dated :- 18/12/2025 Indicative information regarding Special Stray Round of Online Counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/736.pdf",
-        "date": "18/12/2025",
-        "sortTs": null,
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "e8da58e3c2d23946",
-        "title": "Advt. No. - 158 Dated :- 16/12/2025 Notice regarding Merit List Preparation for Special Round of Online Counselling for Post-Graduate (Homoeopathic) All India Seats of Devki Mahavir Homeopathic Medical College & Research Hospital, Garhwa on the basis of AIAPGET-2025 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/735.pdf",
-        "date": "16/12/2025",
-        "sortTs": null,
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
