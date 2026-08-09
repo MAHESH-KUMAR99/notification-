@@ -5928,9 +5928,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-04T10:47:34.546Z",
+    "lastUpdatedDate": "2026-08-09T13:57:51.268Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "88cbed573e7b6f19",
+        "title": "Eligibility List of applicants, seeking concession under CW Category for admission to UG Medical Courses (MBBS/BDS/BAMS/BUMS/BHMS) 2026-2027 under 85% Delhi Quota.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1785839273962-Final_list_of_308_Candidates_pdf.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-09T13:57:51.268Z"
+      },
+      {
+        "id": "5cdbdab1127e3da0",
+        "title": "Notice for Re-opening of CW Portal for uploading documents for verification under 85% Delhi Quota",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1786281856279-Notice_for_Re-Opening_CW_Portal_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-09T13:57:51.268Z"
+      },
       {
         "id": "78f79d36e6d58771",
         "title": "Eligibillity List of applicants, seeking concession under CW Category for admission to UG Medical Courses (MBBS/BDS/BAMS/BUMS/BHMS) 2026-2027 under 85% Delhi Quota.",
