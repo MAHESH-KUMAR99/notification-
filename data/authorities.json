@@ -603,9 +603,27 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-05T16:45:02.543Z",
+    "lastUpdatedDate": "2026-08-10T07:52:01.849Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1015",
+        "title": "10/08/2026 - Har Ghar Tiranga 2026 Campaign (09th-17th August 2026)",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/HarGharTiranga_PubNotice.pdf",
+        "date": "10/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T07:52:01.849Z"
+      },
+      {
+        "id": "nmc-1014",
+        "title": "10/08/2026 - National Patient Safety Conference - 11th & 12th September,  2026.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/NPSC_pubnotice.pdf",
+        "date": "10/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-10T07:52:01.849Z"
+      },
       {
         "id": "nmc-1013",
         "title": "05/08/2026 - Addendum to the Notification dated 27-07-26 regarding the \"Guidelines on Assessment of Persons with Benchmark Disabilities (PwBD) for Admission to the MBBS Course, 2026\"",
@@ -752,22 +770,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Yoga%20day.pdf",
         "date": "19/06/2026",
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-994",
-        "title": "18/06/2026 - Observance of International Day of Yoga 2026",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/yogaday.pdf",
-        "date": "18/06/2026",
-        "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-992",
-        "title": "18/06/2026 - Imp instructions for Medical Colleges w.r.t NEET (UG) Re-Examination 2026",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Publicnoticedated18062026.pdf",
-        "date": "18/06/2026",
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -6082,9 +6084,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T13:52:59.751Z",
+    "lastUpdatedDate": "2026-08-10T07:55:13.427Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6e0b3539f34cf22b",
+        "title": "EXTENSTION OF LAST DATE OF CENTRALIZED ONLINE COUNSELLING FOR Paramedical (B.PT/B.OT/BASLP/BMLS/BPO) (Code 119/124) and B.Ed. (SE) (Code 159)_dated-10.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810838497971.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T07:55:13.427Z"
+      },
+      {
+        "id": "d5e34204349b4cdf",
+        "title": "Special Round of offline Counselling for BHMCT/ B.Sc(Yoga)/ BMS/ BS (Packaging Technology) (NLT/CET/CUET) for the A.S: 2026-27_dated-10.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810355233822.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-10T07:55:13.427Z"
+      },
       {
         "id": "5c25a4f0be32efd1",
         "title": "SPOT ROUND OFFLINE COUNSELLING : ACADEMIC SESSION 2026-2027_dated-07.08.2026",
@@ -6264,26 +6286,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-03T10:48:55.111Z"
-      },
-      {
-        "id": "3045fa6c63e8509d",
-        "title": "Round 03 Fresh Registration MCA (NIMCET/ CET), Enrollment for Centralized Online Counselling, Choice Filling Followed by SLIDING ROUND for the A.S:2026-27_dated-03.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803178336857.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-03T10:48:55.111Z"
-      },
-      {
-        "id": "4b4d2536995c69ac",
-        "title": "ONLINE SPOT ROUND OF COUNSELLING- LLM/ BCA/ Int. BA-LLB, Int. BBA-LLB/ B.Ed./ BBA/ 5 year BBA MBA/ L.E B.TECH/ B.TECH/ B.COM (H)/ BA (ECO). A.S: 2026-27_dated-01.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608011164112748.pdf",
-        "date": "01/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-01T11:22:10.405Z"
       }
     ]
   },
