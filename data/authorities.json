@@ -6084,9 +6084,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T07:55:13.427Z",
+    "lastUpdatedDate": "2026-08-10T10:47:13.260Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "690e92a4c0c08e31",
+        "title": "SPOT ROUND 2 (OFFLINE) FOR “REGISTERED” & “NOT ADMITTED CANDIDATES ONLY-IMPORTANT POINTS B.TECH/ BBA/BBA-MBA INTGRATED/BCA/LE B.TECH. A.S:2026-27_dated-10.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810859372611.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T10:47:13.260Z"
+      },
       {
         "id": "6e0b3539f34cf22b",
         "title": "EXTENSTION OF LAST DATE OF CENTRALIZED ONLINE COUNSELLING FOR Paramedical (B.PT/B.OT/BASLP/BMLS/BPO) (Code 119/124) and B.Ed. (SE) (Code 159)_dated-10.08.2026",
@@ -6096,6 +6106,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-10T07:55:13.427Z"
+      },
+      {
+        "id": "ee7203b07b40ceca",
+        "title": "OFFLINE COUNSELLING FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS/CENTRES OF EXCELLENCE: A.S:2026-27_dated-10.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608101851090535.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-10T10:47:13.260Z"
       },
       {
         "id": "d5e34204349b4cdf",
@@ -6266,26 +6286,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-03T13:45:30.130Z"
-      },
-      {
-        "id": "e007c1cfb643551f",
-        "title": "Google Form for Collecting Score/Merit from the Registered and Fee Paid Candidates applying through CUET UG 2026._dated-03.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031981370474.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T10:48:55.111Z"
-      },
-      {
-        "id": "7bbbec9f8f82eaf5",
-        "title": "ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting FOR THE A.S: 2026-27_dated-03.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608031041552571.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-03T10:48:55.111Z"
       }
     ]
   },
@@ -6494,9 +6494,31 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-08T11:38:47.204Z",
+    "lastUpdatedDate": "2026-08-10T10:50:14.473Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "85f243b631c18681",
+        "title": "എഞ്ചിനീയറിംഗ് കോഴ്‌സുകളിലെ ഒഴിവുള്ള സീറ്റുകൾ സ്പോട്ട് അഡ്മിഷൻ മുഖേന നികത്തുന്നത് – സംബന്ധിച്ച മാർഗനിർദേശങ്ങൾ",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/183/Upload1",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Filling up of Vacant Seats in Engineering Courses by Spot Admission – Guidelines regarding",
+        "titleLang": "ml",
+        "detectedAt": "2026-08-10T10:50:14.473Z"
+      },
+      {
+        "id": "1f344f0623ca1252",
+        "title": "MEDICAL/MEDICAL ALLIED COURSES- NEET Score Submission & Defect Rectification- Last Date Extended",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/182/Upload1",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-10T10:50:14.473Z"
+      },
       {
         "id": "1c1c5ce06887f9b8",
         "title": "Provisional List Of Second Phase Allotment To Pharmacy Course Published",
@@ -6678,24 +6700,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-24T06:31:29.796Z"
-      },
-      {
-        "id": "d2188db152da440d",
-        "title": "Candidates Can Submit Fresh Applications For Admission To Medical & Medical Allied Courses And KEAM Applicants Can Add Courses & Reservation Claims For Admission To Medical & Medical Allied Courses",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/144/Upload1",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T11:28:05.844Z"
-      },
-      {
-        "id": "d58dcc404504811b",
-        "title": "Centralised Second Phase Allotment To Engineering Courses And First Phase Allotment To Architecture Course Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/131/Upload1",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-20T08:26:54.662Z"
       }
     ]
   },
