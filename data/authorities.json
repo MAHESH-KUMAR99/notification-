@@ -6499,9 +6499,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T10:50:14.473Z",
+    "lastUpdatedDate": "2026-08-10T14:43:06.725Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "860fde2584aa5c48",
+        "title": "Centralised Second Phase Allotment To Pharmacy Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/187/Upload1",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T14:43:06.725Z"
+      },
       {
         "id": "85f243b631c18681",
         "title": "എഞ്ചിനീയറിംഗ് കോഴ്‌സുകളിലെ ഒഴിവുള്ള സീറ്റുകൾ സ്പോട്ട് അഡ്മിഷൻ മുഖേന നികത്തുന്നത് – സംബന്ധിച്ച മാർഗനിർദേശങ്ങൾ",
@@ -6513,6 +6523,16 @@
         "titleEn": "Filling up of Vacant Seats in Engineering Courses by Spot Admission – Guidelines regarding",
         "titleLang": "ml",
         "detectedAt": "2026-08-10T10:50:14.473Z"
+      },
+      {
+        "id": "24921714c571dfec",
+        "title": "Third Phase Allotment To Architecture Course Candidates Can Register New Options",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/186/Upload1",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-10T14:43:06.725Z"
       },
       {
         "id": "1f344f0623ca1252",
@@ -6687,24 +6707,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-25T13:49:20.093Z"
-      },
-      {
-        "id": "3c110787c97566ad",
-        "title": "Admission To Architecture Course - 2026 Provisional List Of Eligible Candidates For Community/ Registered Scociety/ Trust Quota Seats Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/146/Upload1",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-24T13:02:08.559Z"
-      },
-      {
-        "id": "6ff2c85d2959bca5",
-        "title": "Fee structure for students currently pursuing /admission to MBBS course in Government Medical Colleges / Self Financing Medical Colleges in the State - revised",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/145/Upload1",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-24T06:31:29.796Z"
       }
     ]
   },
