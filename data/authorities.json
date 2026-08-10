@@ -2055,9 +2055,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T07:21:52.957Z",
+    "lastUpdatedDate": "2026-08-10T16:02:28.129Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "76aefcee977b6e2e",
+        "title": "Notice and guidelines regarding state medical assessment board for PWBD candidates-NEET UG-2026 1.Notice 2. Guidelines of NMC, Supreme Court orders, corrigendum and addendum",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/NOTICE%2010-8-26.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-10T16:02:28.129Z"
+      },
       {
         "id": "982c2774bed4b0ce",
         "title": "Notice regarding Adesh Medical College fee structure Public Notice regarding office open on 08.08.2026",
@@ -2237,15 +2247,6 @@
         "date": "16/12/2025",
         "sortTs": null,
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "a97d751146f1a781",
-        "title": "Click here to submit choices for BDS 5th Round of counselling Provisional Merit list BDS 5th Round",
-        "link": "http://bfuhs.smartpad.in/",
-        "date": "13/12/2025",
-        "sortTs": null,
-        "batchIndex": 8,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -6499,9 +6500,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T14:43:06.725Z",
+    "lastUpdatedDate": "2026-08-10T16:07:39.755Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b40e2680cb0839b6",
+        "title": "Tentative Vacancy Position in Government Colleges after the Third Phase of Allotment to Engineering Courses",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/188/Upload1",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T16:07:39.755Z"
+      },
       {
         "id": "860fde2584aa5c48",
         "title": "Centralised Second Phase Allotment To Pharmacy Course Published",
@@ -6697,16 +6708,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-07-27T17:23:14.615Z"
-      },
-      {
-        "id": "8de94d95eeb27bb7",
-        "title": "Fee structure and Allotment of seats by the CEE in the Self Financing Colleges under Kerala Catholic Engineering College Managements Association (KCECMA)",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/147/Upload3",
-        "date": "25/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-25T13:49:20.093Z"
       }
     ]
   },
