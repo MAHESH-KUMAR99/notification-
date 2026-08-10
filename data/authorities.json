@@ -1383,7 +1383,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-08T11:33:39.486Z",
+    "lastUpdatedDate": "2026-08-10T11:50:52.913Z",
     "pinned": false,
     "notices": [
       {
@@ -1395,6 +1395,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-08T11:33:39.486Z"
+      },
+      {
+        "id": "b8392deabbcb2d4e",
+        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS - 2026 - 2027 - SESSION (MANAGEMENT QUOTA)",
+        "link": "https://fde-bds-gcg5egdrbxfpdxav.a03.azurefd.net/tnmesc/mq_with_qr.pdf",
+        "date": null,
+        "sortTs": 1786147200000,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-10T11:50:52.913Z"
       },
       {
         "id": "843371061f4934a8",
@@ -1567,15 +1577,6 @@
         "date": "30/06/2026",
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "e8e4995277e59afe",
-        "title": "PROSPECTUS FOR ADMISSION TO MBBS / BDS DEGREE COURSES UNDER MANAGEMENT QUOTA INCLUDING MINORITY / NRI SEATS IN SELF-FINANCING MEDICAL / DENTAL COLLEGES IN TAMIL NADU AFFILIATED TO THE TAMIL NADU DR. M.G.R. MEDICAL UNIVERSITY & STATE PRIVATE UNIVERSITY MEDICAL COLLEGES 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/28062026235144.pdf",
-        "date": "28/06/2026",
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:32.898Z"
       }
     ]
@@ -3124,9 +3125,89 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T15:02:04.947Z",
+    "lastUpdatedDate": "2026-08-10T11:55:50.094Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:40d8d3512e8a6c06",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - II (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1mZ3jowm8mYIX-SOLXXzGLuD7rJEgP4oW/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
+      {
+        "id": "OVERALL:7cd01b8447b2aadc",
+        "title": "UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/16gv9w4JuqL6cU9byAfWJj0j3iYBpPFoW/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
+      {
+        "id": "OVERALL:6b92d577bccbe1c6",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 2 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Z-nqgmPwhcXLX5urTfHFwNQezUAoeIu7/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
+      {
+        "id": "OVERALL:09de85be6bcefce5",
+        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NON-NEET COURSES",
+        "link": "https://drive.google.com/file/d/1FB50qfdoDZ5ZeQE8CVLwldNAXfjTH5j1/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
+      {
+        "id": "UG NON-NEET:09de85be6bcefce5",
+        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NON-NEET COURSES",
+        "link": "https://drive.google.com/file/d/1FB50qfdoDZ5ZeQE8CVLwldNAXfjTH5j1/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 115,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:40d8d3512e8a6c06",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - II (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1mZ3jowm8mYIX-SOLXXzGLuD7rJEgP4oW/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 203,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:7cd01b8447b2aadc",
+        "title": "UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/16gv9w4JuqL6cU9byAfWJj0j3iYBpPFoW/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 204,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:6b92d577bccbe1c6",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 2 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Z-nqgmPwhcXLX5urTfHFwNQezUAoeIu7/view?usp=sharing",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 205,
+        "detectedAt": "2026-08-10T11:55:50.094Z"
+      },
       {
         "id": "OVERALL:5b8883cdf89581b2",
         "title": "NOTICE : EXTENSION OF LAST DATE OF APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
@@ -3246,86 +3327,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-04T10:48:55.907Z"
-      },
-      {
-        "id": "OVERALL:d4da6de5983759e1",
-        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1DPo6lkjMUYCm6howhB21QUagmzt5EZjW/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "OVERALL:b695f066b53840b5",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-04T10:48:55.907Z"
-      },
-      {
-        "id": "OVERALL:7c21ebe817c7346c",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
-        "link": "https://drive.google.com/file/d/1wXlWDmGGlJ-IuWT56Ma_VeoNeYUyyeVU/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "OVERALL:f01251bd8884d14c",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
-        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "PG DENTAL:d4da6de5983759e1",
-        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1DPo6lkjMUYCm6howhB21QUagmzt5EZjW/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 102,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "UG NON-NEET:f4bf89b77455d79a",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/1EXBdpwQ3taDtDgEZDRff9lysEJl_Wsw3/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 104,
-        "detectedAt": "2026-08-04T10:48:55.907Z"
-      },
-      {
-        "id": "UG NON-NEET:b695f066b53840b5",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP NON-ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/1tZWCobjHoJPcLPooBaMgT2eossQzfQ10/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 105,
-        "detectedAt": "2026-08-04T10:48:55.907Z"
-      },
-      {
-        "id": "UG NON-NEET:7c21ebe817c7346c",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27) , THE MSP LIST SHALL BE SUBJECT TO THE OUTCOME OF W.P. NO. 28148 OF 2026 AND W.P. NO. 29331 OF 2026 PENDING FOR ADJUDICATION BEFORE THE HON'BLE HIGH COURT OF MADRAS.",
-        "link": "https://drive.google.com/file/d/1wXlWDmGGlJ-IuWT56Ma_VeoNeYUyyeVU/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 107,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6084,9 +6085,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T10:47:13.260Z",
+    "lastUpdatedDate": "2026-08-10T11:52:56.194Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9058fb5af0af7616",
+        "title": "ONLINE REGISTRATION FOR SPOT ROUND OF OFFLINE COUNSELLING FOR MBA AND MCA (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-10.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608101838049538.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T11:52:56.194Z"
+      },
       {
         "id": "690e92a4c0c08e31",
         "title": "SPOT ROUND 2 (OFFLINE) FOR “REGISTERED” & “NOT ADMITTED CANDIDATES ONLY-IMPORTANT POINTS B.TECH/ BBA/BBA-MBA INTGRATED/BCA/LE B.TECH. A.S:2026-27_dated-10.08.2026",
@@ -6276,16 +6287,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-04T07:44:29.315Z"
-      },
-      {
-        "id": "3289a8b583360bdb",
-        "title": "LIST OF CANDIDATES WHO HAVE BEEN APLIED FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS AND CENTRES OF EXCELLENCE, GGSIP UNIVERSITY FOR THE A.S: 2026-27_dated-03.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260803490690330.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T13:45:30.130Z"
       }
     ]
   },
