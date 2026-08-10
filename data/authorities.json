@@ -4189,9 +4189,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-09T11:35:06.128Z",
+    "lastUpdatedDate": "2026-08-10T13:18:13.876Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f0335468da3010b9",
+        "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत स्थित निजी चिकित्सालयों की मान्यता बाबत।.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2157",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Regarding recognition of private hospitals located within the state for the treatment of government servants of the state and their dependent members of their families. .....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-10T13:18:13.876Z"
+      },
       {
         "id": "9ab1c3e640b9e31b",
         "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु एनआरआई पात्रता संबंधी आवश्यक दस्तावेज प्रस्तुत करने की तिथि वृद्धि के संबंध में सूचना .....More",
@@ -4393,15 +4405,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-13T13:40:57.591Z"
-      },
-      {
-        "id": "1e9d38ee784bf7b8",
-        "title": "Resolution of all claims and objections received from 13 July 2026 to 17 July 2026 against the provisional merit list for the post of Assistant Professor (Physiotherapy)......More",
-        "link": "https://www.cgdme.in/notice.php?id=2144",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-21T16:25:39.688Z"
       }
     ]
   },
@@ -6297,9 +6300,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-08T08:47:04.149Z",
+    "lastUpdatedDate": "2026-08-10T13:16:56.306Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ca1c432b18b921f2",
+        "title": "PwD verification order dated 10-08-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/20260810940749634.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-10T13:16:56.306Z"
+      },
       {
         "id": "b7b5228f500ac803",
         "title": "Guidelines on Assessment of Persons with Benchmark Disabilities (PwBD)",
@@ -6475,15 +6488,6 @@
         "date": "31/07/2025",
         "sortTs": null,
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "1e171d0b3ad68744",
-        "title": "Domicile Proforma",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/07/2025073129.pdf",
-        "date": "31/07/2025",
-        "sortTs": null,
-        "batchIndex": 13,
         "detectedAt": "2026-07-08T09:36:31.519Z"
       }
     ]
