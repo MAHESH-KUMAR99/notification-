@@ -1383,9 +1383,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T11:50:52.913Z",
+    "lastUpdatedDate": "2026-08-11T07:49:04.377Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f9c867bf48520b02",
+        "title": "KIND ATTENTION TO THE MBBS/BDS CANDIDATES – FINAL EXTENSION FOR UPLOAD OF MISSING CERTIFICATE",
+        "link": "https://tnmedicalselection.net/news/10082026234034.pdf",
+        "date": "10/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-11T07:49:04.377Z"
+      },
       {
         "id": "23f76c7019a19be0",
         "title": "NOTIFICATION - ATTENTION TO THE PWD CANDIDATES – EXTENSION FOR UPLOAD OF ELIGIBILITY CERTIFICATE",
@@ -1568,15 +1578,6 @@
         "date": null,
         "sortTs": 1782781200000,
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "1f65b2e50c13a1c5",
-        "title": "PROSPECTUS FOR ADMISSION TO MBBS / BDS DEGREE COURSES IN TAMIL NADU GOVERNMENT MEDICAL / DENTAL COLLEGES, GOVERNMENT QUOTA SEATS IN SELF-FINANCING MEDICAL / DENTAL COLLEGES, ESIC MEDICAL COLLEGE, K.K. NAGAR, CHENNAI AFFILIATED TO THE TAMIL NADU DR. M.G.R.MEDICAL UNIVERSITY & STATE PRIVATE UNIVERSITY MEDICAL COLLEGES 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/30062026003157.pdf",
-        "date": "30/06/2026",
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:32.898Z"
       }
     ]
@@ -3126,9 +3127,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T11:55:50.094Z",
+    "lastUpdatedDate": "2026-08-11T07:54:47.590Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:5ae770e1621e7f64",
+        "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWBD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NEET COURSES FOR THE YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1H7mSb3bk-eyHRrDeyvr-IqdXeHz0Hbcr/view?usp=sharing",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T07:54:47.590Z"
+      },
+      {
+        "id": "UG NEET:5ae770e1621e7f64",
+        "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWBD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NEET COURSES FOR THE YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1H7mSb3bk-eyHRrDeyvr-IqdXeHz0Hbcr/view?usp=sharing",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 169,
+        "detectedAt": "2026-08-11T07:54:47.590Z"
+      },
       {
         "id": "OVERALL:40d8d3512e8a6c06",
         "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - II (2026 - 2027)",
@@ -3308,26 +3329,6 @@
         "source": "Direct from Website",
         "batchIndex": 197,
         "detectedAt": "2026-08-05T12:07:50.403Z"
-      },
-      {
-        "id": "OVERALL:3dbc0a736c199c92",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
-        "link": "https://drive.google.com/file/d/1VbSEkJQisOgKNn4GnCnOyNVdIzB0-gyk/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:10:21.894Z"
-      },
-      {
-        "id": "OVERALL:f4bf89b77455d79a",
-        "title": "FINAL MERIT LIST FOR UG NON-NEET MSP ELIGIBLE CANDIDATES (2026-27)",
-        "link": "https://drive.google.com/file/d/1EXBdpwQ3taDtDgEZDRff9lysEJl_Wsw3/view?usp=sharing",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T10:48:55.907Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6089,9 +6090,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T06:31:29.803Z",
+    "lastUpdatedDate": "2026-08-11T07:51:07.696Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "91fee944a023542a",
+        "title": "CUET MERIT LIST FOR BCA PRG.CODE-114 FOR THE A.S:2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111920709757.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T07:51:07.696Z"
+      },
       {
         "id": "0457dc511efb1005",
         "title": "CUET MERIT LIST FOR BMS PRG CODE 142 FOR A.S: 2026-27_dated-11.08.2026",
@@ -6101,6 +6112,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
+      {
+        "id": "d59095362486c8a7",
+        "title": "VACANT SEATS IN BCA (CODE-114) FOR SPOT ROUND 02 OFFLINE COUNSELLING FOR A.S: 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811398441811.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T07:51:07.696Z"
       },
       {
         "id": "8881a703f43b95fe",
@@ -6113,6 +6134,16 @@
         "detectedAt": "2026-08-11T06:31:29.803Z"
       },
       {
+        "id": "ca98b148e9509214",
+        "title": "SPECIAL ROUND OF OFFLINE COUNSELLING FOR MS (Packaging Technology) (Code-604) (NLT/CET/CUET) For the A.S: 2026-27_dated-11.08.2026_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811361874937.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-11T07:51:07.696Z"
+      },
+      {
         "id": "9ce591d15a25da66",
         "title": "CUET MERIT LIST BSC (PACKGING TECHNOLOGY PROGRAM CODE 136 FOR THE A.S. 2026-27_dated-11.08.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111932620211.pdf",
@@ -6121,6 +6152,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
+      {
+        "id": "da2351b9965214a7",
+        "title": "INCLUSION OF PROG. BACHELOR IN PROSTHETIC AND ORTHOTICS (BPO) IN ROUND 01 OF Paramedical (B.PT/B.OT/BASLP/BMLS/BPO)(Code 119/124) Course_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811301634534.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-11T07:51:07.696Z"
       },
       {
         "id": "9058fb5af0af7616",
@@ -6251,46 +6292,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-06T07:19:27.593Z"
-      },
-      {
-        "id": "3e370499a1037a17",
-        "title": "NO PHYSICAL REPORTING IN BA (ENG) CODE-184_dated-06.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608061189242745.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-06T07:19:27.593Z"
-      },
-      {
-        "id": "d7bc31dd4efa21de",
-        "title": "IMPORTANT NOTIFICATION REGARDING EXTENSION OF LAST DATE OF D.PHARM/M.PHARM SUBMISSION OF ONLINE APPLICATION FORMS._dated-05.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051879012414.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T12:04:16.824Z"
-      },
-      {
-        "id": "6bfa0ce5ba53e24e",
-        "title": "Last date of Submission of Score/Merit through Google Form from the Registered and Fee Paid Candidate applying through CUET UG 2026_dated-05.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051131803704.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T09:41:20.808Z"
-      },
-      {
-        "id": "14d1c1d7f0ca2a2a",
-        "title": "Schedule of 2nd Round of offline Counselling for B.Arch (Code-100) followed by OPEN HOUSE A.S:2026-27_dated-05.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608051517217698.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-05T09:41:20.808Z"
       }
     ]
   },
