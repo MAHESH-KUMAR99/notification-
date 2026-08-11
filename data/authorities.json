@@ -1383,9 +1383,49 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T07:49:04.377Z",
+    "lastUpdatedDate": "2026-08-11T12:10:50.027Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e223de413192f723",
+        "title": "TENTATIVE SPECIAL CATEGORY COUNSELLING SCHEDULE FOR ADMISSION TO MBBS / BDS DEGREE COURSES IN TAMILNADU GOVT. MEDICAL/ DENTAL COLLEGES 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/11082026050210.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T12:10:50.027Z"
+      },
+      {
+        "id": "64fc3beda7afb1d7",
+        "title": "TENTATIVE 7.5% RESERVATION CATEGORY ROUND-1 COUNSELLING SCHEDULE for Admission to MBBS & BDS Degree Courses in Tamilnadu Govt. Medical/ Dental Colleges, Govt. Seats in Self- Financing Medical/ Dental Colleges, ESIC Medical Colleges, K.K. Nagar, Chennai and Private Universities 2026-2027 SESSION - 7.5% SEAT RESERVATION FOR TAMIL NADU GOVERNMENT SCHOOL STUDENTS ONLY",
+        "link": "https://tnmedicalselection.net/news/11082026050134.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T12:10:50.027Z"
+      },
+      {
+        "id": "eec7e3bdf27b2b4b",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR EXSERVICEMEN QUOTA OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/11082026045404.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-11T12:10:50.027Z"
+      },
+      {
+        "id": "92d845fdac5c8a56",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR SPORTS QUOTA OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/11082026045224.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-11T12:10:50.027Z"
+      },
       {
         "id": "f9c867bf48520b02",
         "title": "KIND ATTENTION TO THE MBBS/BDS CANDIDATES – FINAL EXTENSION FOR UPLOAD OF MISSING CERTIFICATE",
@@ -1543,42 +1583,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-21T07:11:03.221Z"
-      },
-      {
-        "id": "53033b36bc5ed40d",
-        "title": "Notification No - 006 - LAST DATE OF APPLICATION FOR MBBS & BDS 2026-2027",
-        "link": "https://tnmedicalselection.net/news/16072026232237.pdf",
-        "date": "16/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-17T07:20:47.362Z"
-      },
-      {
-        "id": "0c3a13f0b4635549",
-        "title": "NOTIFICATION-005 - KIND ATTENTION TO THE 7.5 PREFERENTIAL QUOTA CANDIDATES 2026-2027",
-        "link": "https://tnmedicalselection.net/news/01072026030722.pdf",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "a3128587e1a460fc",
-        "title": "NOTIFICATION-004 - KIND ATTENTION TO THE PWD CANDIDATES 2026-2027",
-        "link": "https://tnmedicalselection.net/news/01072026030651.pdf",
-        "date": "01/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
-      },
-      {
-        "id": "5d45d29ed7891b70",
-        "title": "TO APPLY FOR MBBS / BDS (GOVERNMENT QUOTA / MANAGEMENT QUOTA INCLUDING MINORITY AND NRI QUOTA) COURSE 2026 - 2027 SESSION",
-        "link": "https://regug.tnmedicalonline.co.in/MBBSBDS26/",
-        "date": null,
-        "sortTs": 1782781200000,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:32.898Z"
       }
     ]
   },
@@ -1589,9 +1593,19 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T11:26:24.559Z",
+    "lastUpdatedDate": "2026-08-11T12:14:23.842Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Instructions:96a980824e3f701a",
+        "title": "Amended-Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 11-08-2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Participating%20college%202026_19.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T12:14:23.842Z"
+      },
       {
         "id": "Latest Instructions:1443b0638d7f50ed",
         "title": "Amended-Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 11-08-2026)",
@@ -1781,18 +1795,6 @@
         "source": "Latest Instructions",
         "batchIndex": 1,
         "detectedAt": "2026-08-03T16:33:00.312Z"
-      },
-      {
-        "id": "Latest Instructions:17d1850b86b542bf",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 2,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-04T13:08:57.343Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
