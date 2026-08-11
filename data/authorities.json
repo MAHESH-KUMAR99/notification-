@@ -1383,7 +1383,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T12:10:50.027Z",
+    "lastUpdatedDate": "2026-08-11T13:56:22.717Z",
     "pinned": false,
     "notices": [
       {
@@ -1405,6 +1405,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-11T12:10:50.027Z"
+      },
+      {
+        "id": "53333b72d0d8f876",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR EXSERVICEMEN QUOTA OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/11082026053302.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-11T13:56:22.717Z"
       },
       {
         "id": "eec7e3bdf27b2b4b",
@@ -1574,15 +1584,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-23T09:27:22.905Z"
-      },
-      {
-        "id": "bcb6e4a1bb70071c",
-        "title": "KIND ATTENTION TO THE PWD CANDIDATES 2026-2027",
-        "link": "https://tnmedicalselection.net/news/20072026230939.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-21T07:11:03.221Z"
       }
     ]
   },
@@ -1593,9 +1594,29 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T12:14:23.842Z",
+    "lastUpdatedDate": "2026-08-11T14:00:05.915Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Seat Charts:9e0f7e504a551737",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T14:00:05.915Z"
+      },
+      {
+        "id": "Latest Instructions:9e0f7e504a551737",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T14:00:05.171Z"
+      },
       {
         "id": "Latest Instructions:96a980824e3f701a",
         "title": "Amended-Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 11-08-2026)",
@@ -1785,16 +1806,6 @@
         "source": "Latest Instructions",
         "batchIndex": 1,
         "detectedAt": "2026-08-04T13:08:57.343Z"
-      },
-      {
-        "id": "Latest Instructions:dadb06cb5e49ddb2",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-03T16:33:00.312Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
@@ -2451,9 +2462,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T15:00:14.800Z",
+    "lastUpdatedDate": "2026-08-11T13:59:59.352Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:1cc94554375143c3",
+        "title": "Schedule for offline Mop-Up Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/11 Dated 11.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_11.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T13:59:59.352Z"
+      },
       {
         "id": "Latest Updates:dff0fd50ca585f27",
         "title": "Schedule for Second Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/07 Dated 07.08.2026)",
@@ -2642,16 +2663,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 2,
-        "detectedAt": "2026-07-22T08:35:48.216Z"
-      },
-      {
-        "id": "Latest Updates:675be3a127a9884f",
-        "title": "Details for First Counselling of Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/07 Dated 22.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_07.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 3,
         "detectedAt": "2026-07-22T08:35:48.216Z"
       },
       {
