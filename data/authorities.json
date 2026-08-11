@@ -1589,7 +1589,7 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T12:30:54.008Z",
+    "lastUpdatedDate": "2026-08-11T10:29:45.481Z",
     "pinned": false,
     "notices": [
       {
@@ -1693,6 +1693,16 @@
         "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
+        "id": "Latest Instructions:ea176bca7dc2bcef",
+        "title": "Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 05-08-2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Update%20Participating%20college%202026%2047_10.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-11T10:29:45.481Z"
+      },
+      {
         "id": "Latest Instructions:46458516043a586e",
         "title": "Proforma for counselling MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/UG%20Proforma%202026_8.pdf",
@@ -1785,16 +1795,6 @@
         "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
         "titleLang": "hi",
         "detectedAt": "2026-08-03T16:33:00.312Z"
-      },
-      {
-        "id": "Latest Instructions:211f848872da22e0",
-        "title": "Notice Regarding Opening of Registration Process MP State Combined Counselling NEET UG (MBBS/BDS Course) 2026-27 (Dated- 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Registration%20Notice_1.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-04T13:08:57.343Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
@@ -6090,9 +6090,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T09:04:36.104Z",
+    "lastUpdatedDate": "2026-08-11T10:28:14.079Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9d05a12b55c6d711",
+        "title": "LATERAL ENTRY TO B.TECH PROG. CODE-128 SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S: 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111679604891.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T10:28:14.079Z"
+      },
       {
         "id": "08d54fe6f227ea62",
         "title": "B.COM(H) CODE-146 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
@@ -6122,6 +6132,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
+      {
+        "id": "970083cb11921c10",
+        "title": "CUET MERIT LIST FOR B.COM (H) PROG. CODE-146 FOR A.S: 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811214604186.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T10:28:14.079Z"
       },
       {
         "id": "4e505e6771fe071c",
@@ -6154,6 +6174,16 @@
         "detectedAt": "2026-08-11T06:31:29.803Z"
       },
       {
+        "id": "3b9034ac3582eb9a",
+        "title": "B.TECH PROG. CODE-131 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S. 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811915935088.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-11T10:28:14.079Z"
+      },
+      {
         "id": "4807eca53cea3fb4",
         "title": "VACANT SEAT STATUS BBA AND ALLIED PROG CODE-125 FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111618946735.pdf",
@@ -6182,6 +6212,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
+      {
+        "id": "1e65e4e1663f7516",
+        "title": "CUET MERIT LIST FOR BBA AND ALLIED PRG. CODE-125 FOR THE A.S.2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811455243026.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-11T10:28:14.079Z"
       },
       {
         "id": "da2351b9965214a7",
@@ -6252,46 +6292,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-07T13:52:59.751Z"
-      },
-      {
-        "id": "ff7e220efd749fe0",
-        "title": "Extension of Date of Payment of Part Academic Fee SPOT ROUND for Programmes (BCA/ BBA/B.TECH/B.COM(H)/LE B.TECH) Followed by SLIDING ROUND for the A.S:2026-27_dated-07.08.2026.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071117527215.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T12:12:47.060Z"
-      },
-      {
-        "id": "4ae43b177c6da3ed",
-        "title": "Schedule of 1st Offline Counselling B.RTT (CODE-158) Earlier Nomination B.Sc (MTR) Academic Session: 2026-27_dated-07.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071119976038.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T07:24:03.525Z"
-      },
-      {
-        "id": "d7b189511de02463",
-        "title": "SPECIAL ROUND OF OFFLINE COUNSELLING FOR (BHMCT/ B.Sc(Yoga)/ BMS/ BS (Packaging Technology) Based on (NLT/ CET/ CUET) for A.S:2026-27_dated-07.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071918380967.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-07T13:52:59.751Z"
-      },
-      {
-        "id": "39f660d19c1f0d6f",
-        "title": "List of Eligible and Ineligible Candidate for admission under Sports Quota for Academic Session: 2026-27_dated-07.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260807114804681.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-07T12:12:47.060Z"
       }
     ]
   },
@@ -6923,9 +6923,29 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-23T11:27:29.020Z",
+    "lastUpdatedDate": "2026-08-11T10:28:19.082Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8b235ead533c8d7d",
+        "title": "NEET UG Notification 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1786439809_NEET%20UG%20Notification%202026.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T10:28:19.082Z"
+      },
+      {
+        "id": "15552e51fc0a045e",
+        "title": "DME Notification Documents required",
+        "link": "https://manipurmc.mn.gov.in/media/1786440206_DME%20Notification%20Documents%20required.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T10:28:19.082Z"
+      },
       {
         "id": "7f095584f0e511ed",
         "title": "Seat Matrix Notification",
@@ -7086,24 +7106,6 @@
         "date": "08/01/2026",
         "sortTs": null,
         "batchIndex": 12,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "027412c8d018e0a5",
-        "title": "Notification for 2nd Special Stray round of Manipur Medical eCounselling 2025-26",
-        "link": "https://manipurmc.mn.gov.in/media/1767693108_Notification%20for%202nd%20Special%20Stray%20round%20of%20Manipur%20Medical%20eCounselling%202025-26.pdf",
-        "date": "06/01/2026",
-        "sortTs": null,
-        "batchIndex": 13,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "bec970077b9f34c6",
-        "title": "Annexure A merit list of Candidates applying for State Government quota in Special Stray round of Manipur Medical eCounselling 2025-26",
-        "link": "https://manipurmc.mn.gov.in/media/1766744855_Annexure%20A%20merit%20list%20of%20Candidates%20applying%20for%20State%20Government%20quota%20in%20Special%20Stray%20round%20of%20Manipur%20Medical%20eCounselling%202025-26.pdf",
-        "date": "26/12/2025",
-        "sortTs": null,
-        "batchIndex": 14,
         "detectedAt": "2026-07-15T12:56:45.112Z"
       }
     ]
