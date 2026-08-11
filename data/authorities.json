@@ -6089,9 +6089,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T11:52:56.194Z",
+    "lastUpdatedDate": "2026-08-11T06:31:29.803Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0457dc511efb1005",
+        "title": "CUET MERIT LIST FOR BMS PRG CODE 142 FOR A.S: 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111865973678.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
+      {
+        "id": "8881a703f43b95fe",
+        "title": "CUET MERIT LIST FOR BHMCT PRG CODE-127 FOR THE A.S: 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111526288448.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
+      {
+        "id": "9ce591d15a25da66",
+        "title": "CUET MERIT LIST BSC (PACKGING TECHNOLOGY PROGRAM CODE 136 FOR THE A.S. 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111932620211.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
       {
         "id": "9058fb5af0af7616",
         "title": "ONLINE REGISTRATION FOR SPOT ROUND OF OFFLINE COUNSELLING FOR MBA AND MCA (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-10.08.2026",
@@ -6261,36 +6291,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-05T09:41:20.808Z"
-      },
-      {
-        "id": "e0ab94d477609b11",
-        "title": "Schedule for Conduct of Document Verification and Sports Trial for Admissions Under Sports Quota Offered in the USS and Centres of Excellence of GGSIP University for the Academic Session 2026-27.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260804326097720.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T15:58:41.039Z"
-      },
-      {
-        "id": "62cf76b9e0c0098b",
-        "title": "Round 01 Commencement of process Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) B.Ed(SE) (Code-159) Choice Filling for the A.S: 2026-27_dated-04.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608041237876889.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T10:45:46.719Z"
-      },
-      {
-        "id": "ec03f743e0ea1db0",
-        "title": "DOCUMENT VERIFICATION SPORTS QUOTA ADMISSION 2026-27_dated-04.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608041151297182.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T07:44:29.315Z"
       }
     ]
   },
