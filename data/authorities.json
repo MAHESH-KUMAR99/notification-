@@ -3127,9 +3127,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T07:54:47.590Z",
+    "lastUpdatedDate": "2026-08-11T09:07:45.217Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:5942b2b05ad4f7de",
+        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - II (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1WV9-3J9YZFNh1sAehgBBSy4fGvB39V-E/view?usp=sharing",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T09:07:45.217Z"
+      },
       {
         "id": "OVERALL:5ae770e1621e7f64",
         "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWBD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NEET COURSES FOR THE YEAR 2026-2027",
@@ -3141,6 +3151,16 @@
         "detectedAt": "2026-08-11T07:54:47.590Z"
       },
       {
+        "id": "OVERALL:de75086e98a4f910",
+        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1K-nuRFvjaedVuiqLtFXntZQ1N7c_-bEX/view?usp=sharing",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T09:07:45.217Z"
+      },
+      {
         "id": "UG NEET:5ae770e1621e7f64",
         "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWBD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NEET COURSES FOR THE YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1H7mSb3bk-eyHRrDeyvr-IqdXeHz0Hbcr/view?usp=sharing",
@@ -3149,6 +3169,26 @@
         "source": "Direct from Website",
         "batchIndex": 169,
         "detectedAt": "2026-08-11T07:54:47.590Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:5942b2b05ad4f7de",
+        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - II (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1WV9-3J9YZFNh1sAehgBBSy4fGvB39V-E/view?usp=sharing",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 207,
+        "detectedAt": "2026-08-11T09:07:45.217Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:de75086e98a4f910",
+        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1K-nuRFvjaedVuiqLtFXntZQ1N7c_-bEX/view?usp=sharing",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 208,
+        "detectedAt": "2026-08-11T09:07:45.217Z"
       },
       {
         "id": "OVERALL:40d8d3512e8a6c06",
@@ -3288,46 +3328,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-08-05T12:07:50.403Z"
-      },
-      {
-        "id": "UG NEET:138ede0bebfbd7a3",
-        "title": "THE NEET UG MERIT LIST 2026 IS ALREADY PUBLISHED IN HEALTH DEPARTMENT WEBSITE HTTPS://HEALTH.PY.GOV.IN/, AND OBJECTIONS HAVE BEEN CALLED FOR, ON OR BEFORE 05.08.2026. IN THIS REGARD, IT IS INFORMED, THAT THE OBJECTIONS MAY ALSO BE MAILED TO DMS@PY.GOV.IN",
-        "link": "https://centacpuducherry.in/#",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 152,
-        "detectedAt": "2026-08-03T06:50:30.012Z"
-      },
-      {
-        "id": "FINE ARTS:2831b03956d11d79",
-        "title": "FIRST ROUND ADMITTED LIST FOR BHARATHIYAR PALKALAIKOODAM - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1XrYO1gNmfld3RDNGhJ7DRqNgMV0FzOcI/view?usp=sharing",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 170,
-        "detectedAt": "2026-08-05T12:07:50.403Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:000f4e6f8e512747",
-        "title": "B.TECH LATERAL ENTRY SEAT MATRIX AFTER ROUND 1",
-        "link": "https://drive.google.com/file/d/1WWNKdy3IYwUShXKm-4S3qFLiv81Nhbr4/view?usp=sharing",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 196,
-        "detectedAt": "2026-08-05T12:07:50.403Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:3c5dd01be0756cba",
-        "title": "ROUND I ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1H5W23pRa-NqQ4ueNq-KI09S269cBKk5g/view?usp=sharing",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 197,
         "detectedAt": "2026-08-05T12:07:50.403Z"
       },
       {
@@ -6090,9 +6090,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T07:51:07.696Z",
+    "lastUpdatedDate": "2026-08-11T09:04:36.104Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "08d54fe6f227ea62",
+        "title": "B.COM(H) CODE-146 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811728931762.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T09:04:36.104Z"
+      },
       {
         "id": "91fee944a023542a",
         "title": "CUET MERIT LIST FOR BCA PRG.CODE-114 FOR THE A.S:2026-27_dated-11.08.2026",
@@ -6114,6 +6124,16 @@
         "detectedAt": "2026-08-11T06:31:29.803Z"
       },
       {
+        "id": "4e505e6771fe071c",
+        "title": "SCHEDULE FOR SPOT ROUND 2 (OFFLINE ) COUNSELLING FOR B.TECH/ BBA/BCA and LE B.TECH through NLT/CET/CUET (ONLY FOR REGISTERED & NOT ADMITTED CANDIDATES) for the A.S: 2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811492044051.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T09:04:36.104Z"
+      },
+      {
         "id": "d59095362486c8a7",
         "title": "VACANT SEATS IN BCA (CODE-114) FOR SPOT ROUND 02 OFFLINE COUNSELLING FOR A.S: 2026-27_dated-11.08.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811398441811.pdf",
@@ -6132,6 +6152,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-11T06:31:29.803Z"
+      },
+      {
+        "id": "4807eca53cea3fb4",
+        "title": "VACANT SEAT STATUS BBA AND ALLIED PROG CODE-125 FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111618946735.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-11T09:04:36.104Z"
       },
       {
         "id": "ca98b148e9509214",
@@ -6262,36 +6292,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-07T12:12:47.060Z"
-      },
-      {
-        "id": "a57338e62dbb6fe1",
-        "title": "Admission Notice for MPT and MOT Programmes A.S. 2026-27_dated-07.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608071330793017.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-07T13:52:59.751Z"
-      },
-      {
-        "id": "b12769ec28dc04bf",
-        "title": "Postponement of Spot Round Results",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260806251801114.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T00:28:08.424Z"
-      },
-      {
-        "id": "a342dd1af557141d",
-        "title": "PARAMEDICAL (B.PT/B.OT/BASLP/BMLS/BPO) (CODE-124)_dated-06.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260806506977513.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-06T07:19:27.593Z"
       }
     ]
   },
@@ -6719,9 +6719,19 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T11:25:48.960Z",
+    "lastUpdatedDate": "2026-08-11T09:04:46.116Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9f7d84a703f27a5b",
+        "title": "Advertisement for the post of Hospital Manager in various district hospitals under Directorate of Health Services (MI), Shillong",
+        "link": "https://www.meghealth.gov.in/news/Hospital%20Manager%20Advertisement.pdf",
+        "date": null,
+        "sortTs": 20158675200000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T09:04:46.116Z"
+      },
       {
         "id": "de28af1d95f8e21e",
         "title": "Notice - Shortlist Candidates for the Written Examination for the post of Radiology Technologist at the Centre for Evolution, under R.P. Chest Hospital, Shillong",
@@ -6739,6 +6749,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "4958eb321e811864",
+        "title": "Notice - Extension of last Date for submission of Application form for B.Sc. Nursing",
+        "link": "https://www.meghealth.gov.in/news/260810215751.pdf",
+        "date": "21/10/2608",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-11T09:04:46.116Z"
       },
       {
         "id": "3fdabcd7486f2c68",
@@ -6893,24 +6913,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-16T16:20:57.291Z"
-      },
-      {
-        "id": "a1627b415a882c98",
-        "title": "Notice - Admission for various programmes at Lokpriya Gopinath Bordoloi Regional Institute of Mental Health (LGBRIMH), Tezpur Assam | Online Admission Form",
-        "link": "https://www.meghealth.gov.in/news/260708213548.pdf",
-        "date": "21/08/2607",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T14:58:03.894Z"
-      },
-      {
-        "id": "d6ff58d8c7355ef6",
-        "title": "Results for the posts of Centre Manager, Peer Educator-cum-Ward Attendant & Counsellor at the Centre for Evolution, under R.P. Chest Hospital, Shillong,",
-        "link": "https://www.meghealth.gov.in/news/DHS-JDQC-CFE-26-7-Result%20for%20the%20Selected%20Candidates-%20Centre%20Manage,%20Peer%20Educator,%20Counsellor.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:45.313Z"
       }
     ]
   },
