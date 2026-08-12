@@ -1383,7 +1383,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T13:18:33.063Z",
+    "lastUpdatedDate": "2026-08-12T14:37:25.434Z",
     "pinned": false,
     "notices": [
       {
@@ -1437,6 +1437,16 @@
         "detectedAt": "2026-08-12T10:36:13.492Z"
       },
       {
+        "id": "17f9804a67483a12",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR IRT WARDS QUOTA FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063722.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
         "id": "28826a9cbc81e6a4",
         "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
         "link": "https://tnmedicalselection.net/news/12082026052135.pdf",
@@ -1445,6 +1455,46 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-12T13:18:33.063Z"
+      },
+      {
+        "id": "c94f4b31de655d2c",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CMC 20% OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063448.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
+        "id": "9f70b152a104975e",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CMC GENERAL MERIT FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063642.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
+        "id": "f3f8e7e6342c07f9",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CMC - MNW CATEGORY FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063617.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
+        "id": "cb30fa20b2b5db2d",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CMC STAFF QUOTA FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063553.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
       },
       {
         "id": "04a9a5b50a1ccec7",
@@ -1457,6 +1507,16 @@
         "detectedAt": "2026-08-12T07:44:13.851Z"
       },
       {
+        "id": "6cac4715c0ab5c11",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CHRISTIAN MINORITY CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063420.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
         "id": "65b1aa86b85c90a0",
         "title": "PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
         "link": "https://tnmedicalselection.net/news/12082026002239.pdf",
@@ -1465,6 +1525,16 @@
         "source": "Direct from Website",
         "batchIndex": 8,
         "detectedAt": "2026-08-12T07:44:13.851Z"
+      },
+      {
+        "id": "f64094d8d6c73eee",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR NRI OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063354.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
       },
       {
         "id": "b11da4f503c77ab0",
@@ -1477,6 +1547,36 @@
         "detectedAt": "2026-08-12T07:44:13.851Z"
       },
       {
+        "id": "86068c85348623b7",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR LINGUISTIC MINORITY(TELUGU) CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063324.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
+        "id": "dea2fb8697e9f8ed",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR LINGUISTIC MINORITY(MALAYALAM) CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026063259.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 11,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
+        "id": "ee57f0e618a0e49a",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR PWD CATEGORY FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026065812.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 13,
+        "detectedAt": "2026-08-12T14:37:25.434Z"
+      },
+      {
         "id": "e223de413192f723",
         "title": "TENTATIVE SPECIAL CATEGORY COUNSELLING SCHEDULE FOR ADMISSION TO MBBS / BDS DEGREE COURSES IN TAMILNADU GOVT. MEDICAL/ DENTAL COLLEGES 2026-2027 SESSION",
         "link": "https://tnmedicalselection.net/news/11082026050210.pdf",
@@ -1485,106 +1585,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T12:10:50.027Z"
-      },
-      {
-        "id": "64fc3beda7afb1d7",
-        "title": "TENTATIVE 7.5% RESERVATION CATEGORY ROUND-1 COUNSELLING SCHEDULE for Admission to MBBS & BDS Degree Courses in Tamilnadu Govt. Medical/ Dental Colleges, Govt. Seats in Self- Financing Medical/ Dental Colleges, ESIC Medical Colleges, K.K. Nagar, Chennai and Private Universities 2026-2027 SESSION - 7.5% SEAT RESERVATION FOR TAMIL NADU GOVERNMENT SCHOOL STUDENTS ONLY",
-        "link": "https://tnmedicalselection.net/news/11082026050134.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-11T12:10:50.027Z"
-      },
-      {
-        "id": "53333b72d0d8f876",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR EXSERVICEMEN QUOTA OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/11082026053302.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-11T13:56:22.717Z"
-      },
-      {
-        "id": "eec7e3bdf27b2b4b",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR EXSERVICEMEN QUOTA OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/11082026045404.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-11T12:10:50.027Z"
-      },
-      {
-        "id": "92d845fdac5c8a56",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR SPORTS QUOTA OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/11082026045224.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-11T12:10:50.027Z"
-      },
-      {
-        "id": "f9c867bf48520b02",
-        "title": "KIND ATTENTION TO THE MBBS/BDS CANDIDATES – FINAL EXTENSION FOR UPLOAD OF MISSING CERTIFICATE",
-        "link": "https://tnmedicalselection.net/news/10082026234034.pdf",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-11T07:49:04.377Z"
-      },
-      {
-        "id": "23f76c7019a19be0",
-        "title": "NOTIFICATION - ATTENTION TO THE PWD CANDIDATES – EXTENSION FOR UPLOAD OF ELIGIBILITY CERTIFICATE",
-        "link": "https://tnmedicalselection.net/news/08082026035335.pdf",
-        "date": "08/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-08T11:33:39.486Z"
-      },
-      {
-        "id": "b8392deabbcb2d4e",
-        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS - 2026 - 2027 - SESSION (MANAGEMENT QUOTA)",
-        "link": "https://fde-bds-gcg5egdrbxfpdxav.a03.azurefd.net/tnmesc/mq_with_qr.pdf",
-        "date": null,
-        "sortTs": 1786147200000,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-10T11:50:52.913Z"
-      },
-      {
-        "id": "843371061f4934a8",
-        "title": "GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN MANAGEMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/04082026235329.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T09:39:17.653Z"
-      },
-      {
-        "id": "228a953ffc9513fe",
-        "title": "PORTAL LINK FOR GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN MANAGEMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
-        "link": "https://ugmqdoc.tnmedicalonline.co.in/",
-        "date": null,
-        "sortTs": 1785801600000,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T06:32:03.171Z"
-      },
-      {
-        "id": "f366be66cd9eee8a",
-        "title": "GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN GOVERNMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/04082026232246.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-05T06:32:03.171Z"
       }
     ]
   },
