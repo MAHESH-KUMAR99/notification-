@@ -6118,9 +6118,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T11:53:04.386Z",
+    "lastUpdatedDate": "2026-08-12T16:03:33.282Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7958b695310d2147",
+        "title": "Decision of the Sports Grievance Redressal Committee",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121332730210.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T16:03:33.282Z"
+      },
       {
         "id": "6986880b59ca4863",
         "title": "SCHEDULE OFFLINE COUNSELLING “SPORTS QUOTA”ALLOTMENT OF SEATS AGAINST SEATS RESERVED IN UG/PG PROG. OFFERED AT USS/CENTRES OF EXCELLENCE A.S:2026-27_dated-12.08.2026",
@@ -6160,6 +6170,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-12T07:46:17.821Z"
+      },
+      {
+        "id": "2f98ac541d44587a",
+        "title": "Counselling Schedule for Sports Quota Admissions",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812128958634.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-12T16:03:33.282Z"
       },
       {
         "id": "244dda96a9985d29",
@@ -6300,26 +6320,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-11T06:31:29.803Z"
-      },
-      {
-        "id": "3b9034ac3582eb9a",
-        "title": "B.TECH PROG. CODE-131 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S. 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811915935088.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-11T10:28:14.079Z"
-      },
-      {
-        "id": "4807eca53cea3fb4",
-        "title": "VACANT SEAT STATUS BBA AND ALLIED PROG CODE-125 FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111618946735.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-11T09:04:36.104Z"
       }
     ]
   },
@@ -6954,7 +6954,7 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T10:28:19.082Z",
+    "lastUpdatedDate": "2026-08-12T16:03:42.191Z",
     "pinned": false,
     "notices": [
       {
@@ -7030,6 +7030,16 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-09T09:48:04.353Z"
+      },
+      {
+        "id": "88c015d034a9e5fd",
+        "title": "Result of Common Entrance Examination",
+        "link": "https://manipurmc.mn.gov.in/media/1781847347_CommonEntranceExamResult.pdf",
+        "date": "19/06/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T16:03:42.191Z"
       },
       {
         "id": "930450ddb7b6a04c",
@@ -7128,15 +7138,6 @@
         "date": "08/01/2026",
         "sortTs": null,
         "batchIndex": 11,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "a54aafbfcdaafe0d",
-        "title": "Annexure A merit list of Candidates applying for State Government quota for BDS course in 2nd Special Stray round of Manipur Medical eCounselling 2025-26",
-        "link": "https://manipurmc.mn.gov.in/media/1767858316_Notification%20of%20the%20merit%20list%20of%202nd%20Special%20Stray%20Round_001.pdf",
-        "date": "08/01/2026",
-        "sortTs": null,
-        "batchIndex": 12,
         "detectedAt": "2026-07-15T12:56:45.112Z"
       }
     ]
