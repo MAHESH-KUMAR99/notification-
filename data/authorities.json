@@ -6531,9 +6531,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T16:07:39.755Z",
+    "lastUpdatedDate": "2026-08-12T17:36:08.436Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "558f9b015d2bdaa8",
+        "title": "GENERAL GUIDELINES FOR B.Tech. CENTRALIZED SPOT ADMISSION ON 13 AUGUST 2026",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/189/Upload1",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T17:36:08.436Z"
+      },
       {
         "id": "b40e2680cb0839b6",
         "title": "Tentative Vacancy Position in Government Colleges after the Third Phase of Allotment to Engineering Courses",
@@ -6728,16 +6738,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-07-27T17:23:14.615Z"
-      },
-      {
-        "id": "1b1a080ccd21b640",
-        "title": "Option Registration For Third Phase Allotment To Engineering And Option Confirmation For Second Phase Allotment To Architecture Courses- Facilities Available",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/151/Upload1",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-07-27T17:23:14.615Z"
       }
     ]
