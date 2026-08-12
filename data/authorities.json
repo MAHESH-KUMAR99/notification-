@@ -5951,9 +5951,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-09T13:57:51.268Z",
+    "lastUpdatedDate": "2026-08-12T09:19:26.662Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1657661cc0d9253f",
+        "title": "Supplementary list of CW Category applicants for UG Medical Admission 2026 under 85% DU Quota.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1786523708489-Suppliementary_list_for_CW.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-12T09:19:26.662Z"
+      },
       {
         "id": "88cbed573e7b6f19",
         "title": "Eligibility List of applicants, seeking concession under CW Category for admission to UG Medical Courses (MBBS/BDS/BAMS/BUMS/BHMS) 2026-2027 under 85% Delhi Quota.",
@@ -6105,9 +6115,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T07:46:17.821Z",
+    "lastUpdatedDate": "2026-08-12T09:17:48.586Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a3beb85d699a6e05",
+        "title": "Fee Structure for Programme MBA (Fire and Industrial Safety)(Weekend) (Code-185) for the A.S:2026-27_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812499119446.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T09:17:48.586Z"
+      },
       {
         "id": "980b4646e5abdc29",
         "title": "EXTENSION OF ONLINE REGISTRATION FOR MBA/ MCA SPOT ROUND OF OFFLINE COUNSELLING (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-12.08.2026",
@@ -6117,6 +6137,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-12T07:46:17.821Z"
+      },
+      {
+        "id": "bcfde5c34c0a56f0",
+        "title": "Change of nomenclature of Programme PG Diploma in fire and Life Safety Audit as Post Graduate Diploma in Fire and Industrial Safety_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121158993681.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-12T09:17:48.586Z"
       },
       {
         "id": "c2a2a964741049c6",
@@ -6287,26 +6317,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-11T10:28:14.079Z"
-      },
-      {
-        "id": "da2351b9965214a7",
-        "title": "INCLUSION OF PROG. BACHELOR IN PROSTHETIC AND ORTHOTICS (BPO) IN ROUND 01 OF Paramedical (B.PT/B.OT/BASLP/BMLS/BPO)(Code 119/124) Course_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811301634534.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-11T07:51:07.696Z"
-      },
-      {
-        "id": "9058fb5af0af7616",
-        "title": "ONLINE REGISTRATION FOR SPOT ROUND OF OFFLINE COUNSELLING FOR MBA AND MCA (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-10.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608101838049538.pdf",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-10T11:52:56.194Z"
       }
     ]
   },
