@@ -1383,9 +1383,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T10:36:13.492Z",
+    "lastUpdatedDate": "2026-08-12T13:18:33.063Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "418fa18fd73b5176",
+        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION",
+        "link": "https://tnmedicalselection.net/news/12082026053506.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T13:18:33.063Z"
+      },
       {
         "id": "a60bd5924281bbb0",
         "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR PWD CATEGORY FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
@@ -1395,6 +1405,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-12T10:36:13.492Z"
+      },
+      {
+        "id": "b8a69a7963729be6",
+        "title": "ROUND-I ONLINE COUNSELLING SCHEDULE FOR MBBS & BDS DEGREE COURSES FOR GOVERNMENT & MANAGEMENT QUOTA (INCL. NRI & MINORITY) 2026 – 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026045717.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-12T13:18:33.063Z"
       },
       {
         "id": "618fec5aa499f559",
@@ -1415,6 +1435,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-12T10:36:13.492Z"
+      },
+      {
+        "id": "28826a9cbc81e6a4",
+        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
+        "link": "https://tnmedicalselection.net/news/12082026052135.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-12T13:18:33.063Z"
       },
       {
         "id": "04a9a5b50a1ccec7",
@@ -1555,36 +1585,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-05T06:32:03.171Z"
-      },
-      {
-        "id": "d12dd8710803bb84",
-        "title": "GRIEVANCE OF NOT ELIGIBLE CANDIDATES IN GOVERNMENT QUOTA –UG MEDICAL AND DENTAL ADMISSION 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/04082026235838.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-05T09:39:17.653Z"
-      },
-      {
-        "id": "73acc3c6552c1c99",
-        "title": "PWD PORTAL -UPLOAD THE PWD CERTIFICATE FOR MBBS/BDS COURSE 2026-2027 SESSION",
-        "link": "https://ugdocs.tnmedicalonline.co.in/ugpwd/",
-        "date": null,
-        "sortTs": 1785715200000,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T07:42:26.226Z"
-      },
-      {
-        "id": "9759b0a2dc5a825e",
-        "title": "CLARIFICATION REGARDING COUNSELLING PROCEDURES IN REFERENCE TO MCC GUIDELINES FOR THE ACADEMIC YEAR 2026- 2027",
-        "link": "https://tnmedicalselection.net/news/03082026013740.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T10:46:50.257Z"
       }
     ]
   },
@@ -3142,9 +3142,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T09:07:45.217Z",
+    "lastUpdatedDate": "2026-08-12T13:23:42.446Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:6301ad6035528f07",
+        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1FWwH2Md4Eflh_kXWtSMhP-4KY4u8NFKU/view?usp=sharing",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T13:23:42.446Z"
+      },
+      {
+        "id": "UG NEET:6301ad6035528f07",
+        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1FWwH2Md4Eflh_kXWtSMhP-4KY4u8NFKU/view?usp=sharing",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 172,
+        "detectedAt": "2026-08-12T13:23:42.446Z"
+      },
       {
         "id": "OVERALL:5942b2b05ad4f7de",
         "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - II (2026 - 2027)",
@@ -3324,26 +3344,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-03T06:50:30.012Z"
-      },
-      {
-        "id": "OVERALL:000f4e6f8e512747",
-        "title": "B.TECH LATERAL ENTRY SEAT MATRIX AFTER ROUND 1",
-        "link": "https://drive.google.com/file/d/1WWNKdy3IYwUShXKm-4S3qFLiv81Nhbr4/view?usp=sharing",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-05T12:07:50.403Z"
-      },
-      {
-        "id": "OVERALL:3c5dd01be0756cba",
-        "title": "ROUND I ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1H5W23pRa-NqQ4ueNq-KI09S269cBKk5g/view?usp=sharing",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-05T12:07:50.403Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6749,7 +6749,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T09:04:46.116Z",
+    "lastUpdatedDate": "2026-08-12T13:20:53.071Z",
     "pinned": false,
     "notices": [
       {
@@ -6779,6 +6779,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "312ea23dcacb8f30",
+        "title": "Notice - Results of the Written Test for the post of OBB Accountant unde DHS (MCH&FW)",
+        "link": "https://www.meghealth.gov.in/news/12-Aug-2026-Selected%20Candidates%20for%20Interview%20-%20OBB%20Accountant%20-%20DHS%20MCHFW.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T13:20:53.071Z"
       },
       {
         "id": "4958eb321e811864",
@@ -6934,15 +6944,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-17T16:19:14.312Z"
-      },
-      {
-        "id": "b17ebf315c61f626",
-        "title": "Advertisement for Teaching Faculty in the 2 (two) Upgraded College of Nursing | Download Application Form",
-        "link": "https://www.meghealth.gov.in/news/DHSMER-Upgradation-CON-20254-Pt-4077%20-Advertisement%20PDF.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-16T16:20:57.291Z"
       }
     ]
   },
