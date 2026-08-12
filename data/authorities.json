@@ -1383,9 +1383,39 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T07:44:13.851Z",
+    "lastUpdatedDate": "2026-08-12T10:36:13.492Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a60bd5924281bbb0",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR PWD CATEGORY FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12082026031826.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T10:36:13.492Z"
+      },
+      {
+        "id": "618fec5aa499f559",
+        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
+        "link": "https://tnmedicalselection.net/news/12082026031303.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-12T10:36:13.492Z"
+      },
+      {
+        "id": "b0cb5827fe1bc2d6",
+        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (MANAGEMENT QUOTA)",
+        "link": "https://tnmedicalselection.net/news/12082026031207.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-12T10:36:13.492Z"
+      },
       {
         "id": "04a9a5b50a1ccec7",
         "title": "PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION",
@@ -1554,36 +1584,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-03T10:46:50.257Z"
-      },
-      {
-        "id": "ba01dbc0d7c0bae0",
-        "title": "NOTIFICATION FOR THE PWD CANDIDATES - UG MEDICAL AND DENTAL ADMISSION 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/03082026014219.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-03T10:46:50.257Z"
-      },
-      {
-        "id": "39b428faf764cdfb",
-        "title": "NOTIFICATION FOR THE PWD CANDIDATES - UG MEDICAL AND DENTAL ADMISSION 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/03082026214828.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-04T07:42:26.226Z"
-      },
-      {
-        "id": "9d176a5063efab80",
-        "title": "NOTIFICATION FOR SPORTS CANDIDATES CERTIFICATE VERIFICATION- UG MEDICAL AND DENTAL ADMISSION 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/03082026012328.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-08-03T10:46:50.257Z"
       }
     ]
@@ -6115,9 +6115,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T09:17:48.586Z",
+    "lastUpdatedDate": "2026-08-12T10:38:17.801Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "932110adfea9b936",
+        "title": "Extension of Date Payment of Part Academic Fee: LLM/ B.Ed./BA(ECO)/LLB ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting for the A.S:2026-27_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812329475241.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T10:38:17.801Z"
+      },
       {
         "id": "a3beb85d699a6e05",
         "title": "Fee Structure for Programme MBA (Fire and Industrial Safety)(Weekend) (Code-185) for the A.S:2026-27_dated-12.08.2026",
@@ -6307,16 +6317,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-11T06:31:29.803Z"
-      },
-      {
-        "id": "1e65e4e1663f7516",
-        "title": "CUET MERIT LIST FOR BBA AND ALLIED PRG. CODE-125 FOR THE A.S.2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811455243026.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-11T10:28:14.079Z"
       }
     ]
   },
