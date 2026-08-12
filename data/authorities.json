@@ -4206,9 +4206,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T13:18:13.876Z",
+    "lastUpdatedDate": "2026-08-12T11:52:11.528Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c1aaad10b9ca79b6",
+        "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु श्री रावतपुरा सरकार इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ एंड रिसर्च, नवा रायपुर की एम.बी.बी.एस. सीटों में वृद्धि के संबंध में सूचना.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2160",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": ": MBBS of Shri Rawatpura Sarkar Institute of Medical Sciences and Research, Nava Raipur for the state level counseling of NEET UG admission year 2026. Information regarding increase in seats.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-12T11:52:11.528Z"
+      },
       {
         "id": "f0335468da3010b9",
         "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत स्थित निजी चिकित्सालयों की मान्यता बाबत।.....More",
@@ -4413,15 +4425,6 @@
         "titleEn": "B.Sc. for private nursing colleges of Chhattisgarh state. Nursing and B.Sc. Fee Notification of Nursing (Post Basic) Course.....More",
         "titleLang": "hi",
         "detectedAt": "2026-07-15T08:56:23.922Z"
-      },
-      {
-        "id": "a520620743fddea1",
-        "title": "Eligible candidates for assistant professor having mpt state council registration if anyone have that and there name in not eligible can raise claim and objection from application portal.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2139",
-        "date": "13/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-13T13:40:57.591Z"
       }
     ]
   },
@@ -6115,9 +6118,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T10:38:17.801Z",
+    "lastUpdatedDate": "2026-08-12T11:53:04.386Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6986880b59ca4863",
+        "title": "SCHEDULE OFFLINE COUNSELLING “SPORTS QUOTA”ALLOTMENT OF SEATS AGAINST SEATS RESERVED IN UG/PG PROG. OFFERED AT USS/CENTRES OF EXCELLENCE A.S:2026-27_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812523926617.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T11:53:04.386Z"
+      },
       {
         "id": "932110adfea9b936",
         "title": "Extension of Date Payment of Part Academic Fee: LLM/ B.Ed./BA(ECO)/LLB ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting for the A.S:2026-27_dated-12.08.2026",
@@ -6147,6 +6160,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-12T07:46:17.821Z"
+      },
+      {
+        "id": "244dda96a9985d29",
+        "title": "SPOT ROUND 01 OF COUNSELLING MBA AND MCA FOR THE A.S:2026-27_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121778492357.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-12T11:53:04.386Z"
       },
       {
         "id": "bcfde5c34c0a56f0",
@@ -6297,26 +6320,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-11T09:04:36.104Z"
-      },
-      {
-        "id": "ca98b148e9509214",
-        "title": "SPECIAL ROUND OF OFFLINE COUNSELLING FOR MS (Packaging Technology) (Code-604) (NLT/CET/CUET) For the A.S: 2026-27_dated-11.08.2026_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811361874937.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-11T07:51:07.696Z"
-      },
-      {
-        "id": "9ce591d15a25da66",
-        "title": "CUET MERIT LIST BSC (PACKGING TECHNOLOGY PROGRAM CODE 136 FOR THE A.S. 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111932620211.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-11T06:31:29.803Z"
       }
     ]
   },
