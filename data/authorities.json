@@ -1383,9 +1383,39 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T13:56:22.717Z",
+    "lastUpdatedDate": "2026-08-12T07:44:13.851Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "04a9a5b50a1ccec7",
+        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION",
+        "link": "https://tnmedicalselection.net/news/12082026002115.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-12T07:44:13.851Z"
+      },
+      {
+        "id": "65b1aa86b85c90a0",
+        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
+        "link": "https://tnmedicalselection.net/news/12082026002239.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-12T07:44:13.851Z"
+      },
+      {
+        "id": "b11da4f503c77ab0",
+        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS - 2026 - 2027 - SESSION (MANAGEMENT QUOTA)",
+        "link": "https://tnmedicalselection.net/news/12082026002327.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-08-12T07:44:13.851Z"
+      },
       {
         "id": "e223de413192f723",
         "title": "TENTATIVE SPECIAL CATEGORY COUNSELLING SCHEDULE FOR ADMISSION TO MBBS / BDS DEGREE COURSES IN TAMILNADU GOVT. MEDICAL/ DENTAL COLLEGES 2026-2027 SESSION",
@@ -1555,35 +1585,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-03T10:46:50.257Z"
-      },
-      {
-        "id": "5d4f78a9462dd580",
-        "title": "NOTIFICATION - 009 - REOPENING OF ONLINE APPLICATION WINDOW FOR MBBS/BDS DEGREE COURSES (2026-2027 SESSION)",
-        "link": "https://tnmedicalselection.net/news/26072026044938.pdf",
-        "date": "26/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-26T12:40:18.397Z"
-      },
-      {
-        "id": "89aa274e35efa6d2",
-        "title": "NOTIFICATION - 009 - REOPENING OF ONLINE APPLICATION WINDOW FOR MBBS/BDS DEGREE COURSES (2026-2027 SESSION)",
-        "link": "https://tnmedicalselection.net/news/25072026002646.pdf",
-        "date": "25/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-25T08:12:28.718Z"
-      },
-      {
-        "id": "4a363174bf772beb",
-        "title": "NOTIFICATION-008 - NO NEED TO UPLOAD NEET SCORECARD FOR MBBS/BDS COURSE 2026-2027",
-        "link": "https://tnmedicalselection.net/news/23072026020011.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T09:27:22.905Z"
       }
     ]
   },
@@ -1594,19 +1595,9 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T14:00:05.915Z",
+    "lastUpdatedDate": "2026-08-12T07:47:51.641Z",
     "pinned": false,
     "notices": [
-      {
-        "id": "Seat Charts:9e0f7e504a551737",
-        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T14:00:05.915Z"
-      },
       {
         "id": "Latest Instructions:9e0f7e504a551737",
         "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
@@ -1636,6 +1627,18 @@
         "source": "Latest Instructions",
         "batchIndex": 8,
         "detectedAt": "2026-08-11T11:26:24.559Z"
+      },
+      {
+        "id": "Latest Instructions:a9dc35e2ee24c47f",
+        "title": "दिव्यांगजन अभ्यर्थियों के लिये महत्वपूर्ण सूचना मध्यप्रदेष राज्य स्तरीय संयुक्त काउंसिलिंग नीट यू0जी0 2026-27 06-08-2026",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/PWD%20INFORMATION_21.pdf",
+        "date": "06/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "titleEn": "Important information for disabled candidates Madhya Pradesh State Level Joint Counseling NEET UG 2026-27 06-08-2026",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-12T07:47:51.641Z"
       },
       {
         "id": "Latest Instructions:766d5c28f74c7532",
@@ -1798,14 +1801,14 @@
         "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
-        "id": "Latest Instructions:cdc71e56ef143c41",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
+        "id": "Seat Charts:9e0f7e504a551737",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
+        "date": "11/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-04T13:08:57.343Z"
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T14:00:05.915Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
@@ -6102,9 +6105,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T15:05:43.686Z",
+    "lastUpdatedDate": "2026-08-12T07:46:17.821Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "980b4646e5abdc29",
+        "title": "EXTENSION OF ONLINE REGISTRATION FOR MBA/ MCA SPOT ROUND OF OFFLINE COUNSELLING (ONLY FOR NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812825708375.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-12T07:46:17.821Z"
+      },
+      {
+        "id": "c2a2a964741049c6",
+        "title": "IMPORTANT NOTICE REGARDING CONDUCT OF “SPOT ROUND 02 (OFFLINE) COUNSELLING” FOR THE PROG. B.TECH/BBA/BCA and LE B.TECH FOR A.S:2026-27_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812367003638.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-12T07:46:17.821Z"
+      },
+      {
+        "id": "394a32e5a4e103b6",
+        "title": "OPENING OF ONLINE ‘WITHDRAWAL’ PURSUANT TO CONDUCT OF SPOT ROUND 02 (OFFLINE) PROGRAMMES_B.TECH/BBA/B.COM/BCA and LE B.TECH_dated-12.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121915986201.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-12T07:46:17.821Z"
+      },
       {
         "id": "ad13449170e7b5c7",
         "title": "Postponement Notice for Physical Spot Round 2 Counselling (B,Tech, BBA, BCA & LE-BTech Programmes)",
@@ -6274,36 +6307,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-10T11:52:56.194Z"
-      },
-      {
-        "id": "690e92a4c0c08e31",
-        "title": "SPOT ROUND 2 (OFFLINE) FOR “REGISTERED” & “NOT ADMITTED CANDIDATES ONLY-IMPORTANT POINTS B.TECH/ BBA/BBA-MBA INTGRATED/BCA/LE B.TECH. A.S:2026-27_dated-10.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810859372611.pdf",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-10T10:47:13.260Z"
-      },
-      {
-        "id": "6e0b3539f34cf22b",
-        "title": "EXTENSTION OF LAST DATE OF CENTRALIZED ONLINE COUNSELLING FOR Paramedical (B.PT/B.OT/BASLP/BMLS/BPO) (Code 119/124) and B.Ed. (SE) (Code 159)_dated-10.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260810838497971.pdf",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-10T07:55:13.427Z"
-      },
-      {
-        "id": "ee7203b07b40ceca",
-        "title": "OFFLINE COUNSELLING FOR ADMISSION FOR SPORTS QUOTA IN VARIOUS UG/PG PROGRAMMES OFFERED AT USS/CENTRES OF EXCELLENCE: A.S:2026-27_dated-10.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608101851090535.pdf",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-10T10:47:13.260Z"
       }
     ]
   },
