@@ -1596,9 +1596,39 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T07:47:51.641Z",
+    "lastUpdatedDate": "2026-08-13T12:16:02.397Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Seat Charts:824bcd5e33e451df",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 13.08.2026) (Final)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Final%20seat%20chart%2013_08_2026_22.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T12:16:02.397Z"
+      },
+      {
+        "id": "Seat Charts:9e0f7e504a551737",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T14:00:05.915Z"
+      },
+      {
+        "id": "Latest Instructions:824bcd5e33e451df",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 13.08.2026) (Final)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Final%20seat%20chart%2013_08_2026_22.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T12:16:01.632Z"
+      },
       {
         "id": "Latest Instructions:9e0f7e504a551737",
         "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
@@ -1790,26 +1820,6 @@
         "source": "Latest Instructions",
         "batchIndex": 3,
         "detectedAt": "2026-08-04T16:00:11.135Z"
-      },
-      {
-        "id": "Latest Instructions:3e9e0817c7328e99",
-        "title": "Frequently Asked Question MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/FAQ%20update_6.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 11,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
-      },
-      {
-        "id": "Seat Charts:9e0f7e504a551737",
-        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T14:00:05.915Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
@@ -2071,9 +2081,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T11:21:55.264Z",
+    "lastUpdatedDate": "2026-08-13T12:11:23.036Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "58126d2ac1f2b78b",
+        "title": "NEET UG 2026 Merit Lists Open Merit Sikh Minority Lists Christian Minority Lists NRI Merit List",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/MeritList/ProvisionalCombinedMeritListBFUHS-2026.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T12:11:23.036Z"
+      },
       {
         "id": "fd4e7a8ba9b29402",
         "title": "Revised Notification for admission for MBBS/BDS under NEET UG 2026",
@@ -2255,15 +2275,6 @@
         "date": "18/12/2025",
         "sortTs": null,
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "e8d1ac970fbe2d3c",
-        "title": "Click here to download allotment letter for BDS 5th Round of counselling Click here to pay Tution fee+HSLIBNET Fee",
-        "link": "http://bfuhs.smartpad.in/",
-        "date": "17/12/2025",
-        "sortTs": null,
-        "batchIndex": 6,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -3144,9 +3155,69 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T13:23:42.446Z",
+    "lastUpdatedDate": "2026-08-13T12:17:59.144Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:f44a6def61bd8a9d",
+        "title": "ROUND II DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS - VISUAL ARTS (B.V.A.) (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1kiS4jOLVyPsSaI2TcWzSExJTn_lpjBKn/view?usp=sharing",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T12:17:59.144Z"
+      },
+      {
+        "id": "OVERALL:f732741ad3a48ca6",
+        "title": "UPDATED FINAL MERIT LIST FOR FINE ARTS COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1fynu6oCd-fjK7Oif3GCVSAer12QpMC9_/view?usp=sharing",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T12:17:59.144Z"
+      },
+      {
+        "id": "OVERALL:1d105732502ab268",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 2 DRAFT ALLOTMENT LIST FOR VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/15n9sQTmQUy1ZNXa6gGpRzSkcQ5b-y-1N/view?usp=sharing",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-13T12:17:59.144Z"
+      },
+      {
+        "id": "FINE ARTS:f44a6def61bd8a9d",
+        "title": "ROUND II DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS - VISUAL ARTS (B.V.A.) (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1kiS4jOLVyPsSaI2TcWzSExJTn_lpjBKn/view?usp=sharing",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 186,
+        "detectedAt": "2026-08-13T12:17:59.144Z"
+      },
+      {
+        "id": "FINE ARTS:f732741ad3a48ca6",
+        "title": "UPDATED FINAL MERIT LIST FOR FINE ARTS COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1fynu6oCd-fjK7Oif3GCVSAer12QpMC9_/view?usp=sharing",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 187,
+        "detectedAt": "2026-08-13T12:17:59.144Z"
+      },
+      {
+        "id": "FINE ARTS:1d105732502ab268",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 2 DRAFT ALLOTMENT LIST FOR VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/15n9sQTmQUy1ZNXa6gGpRzSkcQ5b-y-1N/view?usp=sharing",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 188,
+        "detectedAt": "2026-08-13T12:17:59.144Z"
+      },
       {
         "id": "OVERALL:6301ad6035528f07",
         "title": "NOTICE : OPENING OF FRESH APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
@@ -3286,66 +3357,6 @@
         "source": "Direct from Website",
         "batchIndex": 203,
         "detectedAt": "2026-08-10T11:55:50.094Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:7cd01b8447b2aadc",
-        "title": "UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/16gv9w4JuqL6cU9byAfWJj0j3iYBpPFoW/view?usp=sharing",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 204,
-        "detectedAt": "2026-08-10T11:55:50.094Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:6b92d577bccbe1c6",
-        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 2 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Z-nqgmPwhcXLX5urTfHFwNQezUAoeIu7/view?usp=sharing",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 205,
-        "detectedAt": "2026-08-10T11:55:50.094Z"
-      },
-      {
-        "id": "OVERALL:5b8883cdf89581b2",
-        "title": "NOTICE : EXTENSION OF LAST DATE OF APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1v1IFsEUxAwtVPN8g7lIZO4EpOgz4TDW5/view?usp=sharing",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-06T15:02:04.947Z"
-      },
-      {
-        "id": "UG NEET:5b8883cdf89581b2",
-        "title": "NOTICE : EXTENSION OF LAST DATE OF APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1v1IFsEUxAwtVPN8g7lIZO4EpOgz4TDW5/view?usp=sharing",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 163,
-        "detectedAt": "2026-08-06T15:02:04.947Z"
-      },
-      {
-        "id": "OVERALL:2831b03956d11d79",
-        "title": "FIRST ROUND ADMITTED LIST FOR BHARATHIYAR PALKALAIKOODAM - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1XrYO1gNmfld3RDNGhJ7DRqNgMV0FzOcI/view?usp=sharing",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T12:07:50.403Z"
-      },
-      {
-        "id": "OVERALL:138ede0bebfbd7a3",
-        "title": "THE NEET UG MERIT LIST 2026 IS ALREADY PUBLISHED IN HEALTH DEPARTMENT WEBSITE HTTPS://HEALTH.PY.GOV.IN/, AND OBJECTIONS HAVE BEEN CALLED FOR, ON OR BEFORE 05.08.2026. IN THIS REGARD, IT IS INFORMED, THAT THE OBJECTIONS MAY ALSO BE MAILED TO DMS@PY.GOV.IN",
-        "link": "https://centacpuducherry.in/#",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T06:50:30.012Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5327,9 +5338,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T10:16:41.429Z",
+    "lastUpdatedDate": "2026-08-13T12:18:01.332Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:7e5c13a79df84b29",
+        "title": "Click here for Apply for online Application for MBBS/BDS 1st Round of Counselling 2026-27",
+        "link": "https://erpamruhp.in/applicantLoginEntReg.htm?EntrReg=EntrReg&link=ed256f5f8182120c10f6f332f1f312ed",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T12:18:01.332Z"
+      },
       {
         "id": "MBBS/BDS Counselling:131bbe6a02f173a6",
         "title": "Prospectus for MBBS/BDS Counselling 2026-27",
@@ -5518,16 +5539,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 16,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:cdd0ee839a11bd98",
-        "title": "Provisional seat vacancy for MBBS/BDS Stray round counselling 2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Provisional-seat-vacancy-for-stray-round-counselling-2025.pdf",
-        "date": "10/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 17,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
@@ -6533,9 +6544,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T17:36:08.436Z",
+    "lastUpdatedDate": "2026-08-13T12:17:58.652Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d2ed2675e6012d64",
+        "title": "Provisional List Of Third Phase Allotment To Architecture Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/190/Upload1",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T12:17:58.652Z"
+      },
       {
         "id": "558f9b015d2bdaa8",
         "title": "GENERAL GUIDELINES FOR B.Tech. CENTRALIZED SPOT ADMISSION ON 13 AUGUST 2026",
@@ -6731,16 +6752,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-07-28T12:24:22.787Z"
-      },
-      {
-        "id": "b6503b2b0ff7882b",
-        "title": "Admission To Architecture Course - Final List Of Eligible Candidates For Community/Registered Society/Trust Quota Seats Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/152/Upload1",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-27T17:23:14.615Z"
       }
     ]
   },
