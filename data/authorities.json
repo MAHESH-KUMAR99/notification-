@@ -6544,9 +6544,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T12:17:58.652Z",
+    "lastUpdatedDate": "2026-08-13T15:12:43.753Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f653f472a84ea555",
+        "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES – 2026 Kerala State Provisional Ranklist Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/194/Upload1",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T15:12:43.753Z"
+      },
       {
         "id": "d2ed2675e6012d64",
         "title": "Provisional List Of Third Phase Allotment To Architecture Course Published",
@@ -6556,6 +6566,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T12:17:58.652Z"
+      },
+      {
+        "id": "470886bac623063d",
+        "title": "DTE Centralized SPOT admissions for B.Tech 2026",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/193/Upload1",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T15:12:43.753Z"
       },
       {
         "id": "558f9b015d2bdaa8",
@@ -6730,28 +6750,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-31T10:11:09.571Z"
-      },
-      {
-        "id": "e891913836de5768",
-        "title": "കേരള മെഡിക്കൽ / മെഡിക്കൽ അനുബന്ധ കോഴ്‌സുകളിലേക്കുള്ള പ്രവേശനം – ഭിന്നശേഷി (PwD) വിഭാഗത്തിൽപ്പെട്ട ഉദ്യോഗാർത്ഥികളുടെ ശാരീരിക പരിശോധന സംബന്ധിച്ച്",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/157/Upload1",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Admission to Kerala Medical / Medical Allied Courses – Regarding physical examination of candidates belonging to differently abled (PwD) category",
-        "titleLang": "ml",
-        "detectedAt": "2026-07-28T12:24:22.787Z"
-      },
-      {
-        "id": "9c92f53cc2ac11e2",
-        "title": "Centralised Allotment For Pharmacy Course- Online Options Invited",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/155/Upload1",
-        "date": "28/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-28T12:24:22.787Z"
       }
     ]
   },
