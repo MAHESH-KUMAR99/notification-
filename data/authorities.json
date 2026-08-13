@@ -2071,9 +2071,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-10T16:02:28.129Z",
+    "lastUpdatedDate": "2026-08-13T11:21:55.264Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "fd4e7a8ba9b29402",
+        "title": "Revised Notification for admission for MBBS/BDS under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/New%20Notification%20dated%2010-07-2026.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T11:21:55.264Z"
+      },
       {
         "id": "76aefcee977b6e2e",
         "title": "Notice and guidelines regarding state medical assessment board for PWBD candidates-NEET UG-2026 1.Notice 2. Guidelines of NMC, Supreme Court orders, corrigendum and addendum",
@@ -2254,15 +2264,6 @@
         "date": "17/12/2025",
         "sortTs": null,
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "a4465e3dc74161b2",
-        "title": "Provisional result of 5th round online counselling for BDS course, under NEET UG 2025",
-        "link": "https://bfuhs.ac.in/MBBS2025/Result5thR.pdf",
-        "date": "16/12/2025",
-        "sortTs": null,
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -6119,9 +6120,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T06:59:49.601Z",
+    "lastUpdatedDate": "2026-08-13T11:24:31.534Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "658796bf5260dfc5",
+        "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T11:24:31.534Z"
+      },
       {
         "id": "db0ec4a7a1b26c2d",
         "title": "EXTENSION OF DATE OF SUMBISSION OF ONLINE APPLICATION FORM FOR CUET IN (UG) PROG. FOR A.S:2026-27_dated-13.08.2026",
@@ -6131,6 +6142,36 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T06:59:49.601Z"
+      },
+      {
+        "id": "7b32fa44a7d3a86b",
+        "title": "CUET MERIT LIST FOR B.TECH (CODE-131) FOR THE A.S:2026-27_dated-13.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131308110242.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T11:24:31.534Z"
+      },
+      {
+        "id": "d8e87808cd0bf092",
+        "title": "ROUND 01 Schedule of activities pertaining to declaration of result of PARAMEDICAL (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(SE) for the A.S:2026-27_dated-13.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813155804433.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-13T11:24:31.534Z"
+      },
+      {
+        "id": "c695b982fee60603",
+        "title": "SCHEDULE FOR SPOT ROUND OF ONLINE COUNSELLING BA(JMC)(CODE-126) and BA(ENG)(CODE-184) FOR THE A.S:2026-27_dated-13.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131262384254.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-13T11:24:31.534Z"
       },
       {
         "id": "7958b695310d2147",
@@ -6280,46 +6321,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-11T07:51:07.696Z"
-      },
-      {
-        "id": "0457dc511efb1005",
-        "title": "CUET MERIT LIST FOR BMS PRG CODE 142 FOR A.S: 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111865973678.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T06:31:29.803Z"
-      },
-      {
-        "id": "970083cb11921c10",
-        "title": "CUET MERIT LIST FOR B.COM (H) PROG. CODE-146 FOR A.S: 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811214604186.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-11T10:28:14.079Z"
-      },
-      {
-        "id": "4e505e6771fe071c",
-        "title": "SCHEDULE FOR SPOT ROUND 2 (OFFLINE ) COUNSELLING FOR B.TECH/ BBA/BCA and LE B.TECH through NLT/CET/CUET (ONLY FOR REGISTERED & NOT ADMITTED CANDIDATES) for the A.S: 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811492044051.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-11T09:04:36.104Z"
-      },
-      {
-        "id": "d59095362486c8a7",
-        "title": "VACANT SEATS IN BCA (CODE-114) FOR SPOT ROUND 02 OFFLINE COUNSELLING FOR A.S: 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811398441811.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-08-11T07:51:07.696Z"
       }
     ]
