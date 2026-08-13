@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T11:23:18.063Z",
+    "lastUpdatedDate": "2026-08-13T10:10:58.984Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "2cccbc86fe4835a6",
+        "title": "Revised Schedule for Round 1 dated 13.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608131187512522.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T10:10:58.984Z"
+      },
       {
         "id": "1aa27350e05b904d",
         "title": "Seat Matrix NEET UG MBBS BDS & BSc Nursing Round 1",
@@ -391,15 +401,6 @@
         "date": "17/10/2025",
         "sortTs": null,
         "batchIndex": 5,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
-      },
-      {
-        "id": "23294094909237ff",
-        "title": "Notice for addition of seats Round 3 dated 15.10.2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251015573430974.pdf",
-        "date": "15/10/2025",
-        "sortTs": null,
-        "batchIndex": 6,
         "detectedAt": "2026-07-24T09:05:48.578Z"
       }
     ]
@@ -5325,9 +5326,29 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-28T10:21:46.740Z",
+    "lastUpdatedDate": "2026-08-13T10:16:41.429Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:131bbe6a02f173a6",
+        "title": "Prospectus for MBBS/BDS Counselling 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Final-Prospectus-for-MBBS-BDS-counselling-2026-final.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T10:16:41.429Z"
+      },
+      {
+        "id": "MBBS/BDS Counselling:a8c2673abe578101",
+        "title": "Notice for counselling and admission for MBBD BDS course for academic session 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Notice-for-counselling-and-admission-for-MBBD-BDS-course-for-academic-session-2026-27.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T10:16:41.429Z"
+      },
       {
         "id": "MBBS/BDS Counselling:904da5ed4ae64e03",
         "title": "List of eligible candidates regarding refund and forfeit of token amount of counselling 2025-26",
@@ -5506,26 +5527,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 17,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:cc83eaeb0f77f593",
-        "title": "Final seat allocation for MBBD/BDS 3rd round counselling 2025-26",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Final-Seat-allocation-of-MBBS-BDS-3rd-round-Counselling-2025-merged.pdf",
-        "date": "04/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:f8ca01634f3647e5",
-        "title": "Re-revised provisional seat vacancy for MBBS/BDS 3rd round counselling 2025 as on 03.11.2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/re-revised-revised-provisional-seat-vacncy-for-mbbs-bds-3rd-round-counselling-Copy.pdf",
-        "date": "04/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 19,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
