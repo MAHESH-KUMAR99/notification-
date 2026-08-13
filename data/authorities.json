@@ -6118,9 +6118,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T16:03:33.282Z",
+    "lastUpdatedDate": "2026-08-13T06:59:49.601Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "db0ec4a7a1b26c2d",
+        "title": "EXTENSION OF DATE OF SUMBISSION OF ONLINE APPLICATION FORM FOR CUET IN (UG) PROG. FOR A.S:2026-27_dated-13.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813474309857.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T06:59:49.601Z"
+      },
       {
         "id": "7958b695310d2147",
         "title": "Decision of the Sports Grievance Redressal Committee",
@@ -6310,16 +6320,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-11T07:51:07.696Z"
-      },
-      {
-        "id": "8881a703f43b95fe",
-        "title": "CUET MERIT LIST FOR BHMCT PRG CODE-127 FOR THE A.S: 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111526288448.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-11T06:31:29.803Z"
       }
     ]
   },
