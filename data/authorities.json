@@ -1383,9 +1383,29 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T14:37:25.434Z",
+    "lastUpdatedDate": "2026-08-13T08:37:57.977Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d7cd673b259b76ab",
+        "title": "FOR ONLINE COUNSELLING OF MBBS / BDS COURSE FOR GOVERNMENT & MANAGEMENT QUOTA (INCL. NRI & MINORITY) 2026 - 2027 SESSION",
+        "link": "https://counug.tnmedicalonline.co.in/ugmedgq/",
+        "date": null,
+        "sortTs": 1786579200000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T08:37:57.977Z"
+      },
+      {
+        "id": "cd91e0ad00fe6d8f",
+        "title": "TENTATIVE ROUND - 1 VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027",
+        "link": "https://tnmedicalselection.net/news/13082026001742.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T08:37:57.977Z"
+      },
       {
         "id": "418fa18fd73b5176",
         "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION",
@@ -1565,26 +1585,6 @@
         "source": "Direct from Website",
         "batchIndex": 11,
         "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "ee57f0e618a0e49a",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR PWD CATEGORY FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026065812.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 13,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "e223de413192f723",
-        "title": "TENTATIVE SPECIAL CATEGORY COUNSELLING SCHEDULE FOR ADMISSION TO MBBS / BDS DEGREE COURSES IN TAMILNADU GOVT. MEDICAL/ DENTAL COLLEGES 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/11082026050210.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T12:10:50.027Z"
       }
     ]
   },
@@ -6954,9 +6954,99 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T16:03:42.191Z",
+    "lastUpdatedDate": "2026-08-13T08:40:06.798Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "fdbdbd6efc090807",
+        "title": "Annerxure B- Seat Matrix round 1 Neet ug- 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1786605200_Annerxure%20B-%20Seat%20Matrix%20round%201%20Neet%20ug-%202026.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "f49946772b6889c3",
+        "title": "NEET UG Notification 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1786605354_NEET%20UG%20Notification%202026.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "d5410226124cd891",
+        "title": "Notification regarding documents to be submitted for Manipur Medical eCounselling 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1786605320_Notification%20regarding%20documents%20to%20be%20submitted%20for%20Manipur%20Medical%20eCounselling%202026.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "bc51795db6cd74ed",
+        "title": "Seat matrix and Technical Instruction Notification- Neet ug- 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1786605288_Seat%20matrix%20and%20Technical%20Instruction%20Notification-%20Neet%20ug-%202026.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "ab43a5d83e4db0a2",
+        "title": "Tech Instructions",
+        "link": "https://manipurmc.mn.gov.in/media/1786605239_Tech%20Instructions.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "e8a8849ac4ba4a27",
+        "title": "PwBD quota for NEETUG 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1786604972_PwBD%20quota%20for%20NEETUG%202026.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "4680a69febfaae17",
+        "title": "Notification regarding FreezeFloat mechanism",
+        "link": "https://manipurmc.mn.gov.in/media/1786605110_Notification%20regarding%20FreezeFloat%20mechanism.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "1c74abdf0216f8f4",
+        "title": "Notification regarding Meritorious Sportsperson quota",
+        "link": "https://manipurmc.mn.gov.in/media/1786605050_Notification%20regarding%20Meritorious%20Sportsperson%20quota.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
+      {
+        "id": "2bd0a21782ed9725",
+        "title": "Notification regarding children of ex-servicemen and children of armed forces quota",
+        "link": "https://manipurmc.mn.gov.in/media/1786605007_Notification%20regarding%20children%20of%20ex-servicemen%20and%20children%20of%20armed%20forces%20quota.pdf",
+        "date": "12/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-13T08:40:06.798Z"
+      },
       {
         "id": "8b235ead533c8d7d",
         "title": "NEET UG Notification 2026",
@@ -7057,87 +7147,6 @@
         "date": "19/06/2026",
         "sortTs": null,
         "batchIndex": 2,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "94fd070b971212af",
-        "title": "Results of the Common Entrance Examination for admission to B.Sc. Nursing, Pharmacy & Allied and Healthcare Courses for the Academic Session 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1781851640_CommonEntranceExamResult.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "459d06a0e6dbd434",
-        "title": "Notification for Exam Postponed",
-        "link": "https://manipurmc.mn.gov.in/media/1781355854_Exam_postponed.pdf",
-        "date": "13/06/2026",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "04d331d83c8451b2",
-        "title": "Notification for Revised Registration Examination Centres and Roll Number Allocation",
-        "link": "https://manipurmc.mn.gov.in/media/1781355890_Revised_exam_centres.pdf",
-        "date": "13/06/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "fd9f512c0e3200be",
-        "title": "Entrance Examination Day - Guidelines for Candidates",
-        "link": "https://manipurmc.mn.gov.in/media/1781074747_Entrance%20Examination%20Day%20-%20Guidelines%20for%20Candidates_compressed%20(1).pdf",
-        "date": "09/06/2026",
-        "sortTs": null,
-        "batchIndex": 6,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "e7c5c2360e59b7b3",
-        "title": "Exam rescheduled and exam city change open.",
-        "link": "https://manipurmc.mn.gov.in/media/1780386348_Exam%20rescheduled.pdf",
-        "date": "02/06/2026",
-        "sortTs": null,
-        "batchIndex": 7,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "b68bf778abf8ce33",
-        "title": "Admit card issue delay 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1780123670_admitcard%20issue%20delay%202026-27.pdf",
-        "date": "30/05/2026",
-        "sortTs": null,
-        "batchIndex": 8,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "84348a1c508b2fd2",
-        "title": "User Manual notification and technical guidelines 2026 - Signed",
-        "link": "https://manipurmc.mn.gov.in/media/1778561407_User%20Manual%20notification%20and%20technical%20guidelines%202026%20-%20Signed.pdf",
-        "date": "12/05/2026",
-        "sortTs": null,
-        "batchIndex": 9,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "2cff51d7c14b685c",
-        "title": "Notification for the entrance examinations for Nursing, Pharmacy and Allied and Healthcare courses 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1778561342_Notification%20for%20the%20entrance%20examinations%20for%20Nursing,%20Pharmacy%20and%20Allied%20and%20Healthcare%20courses%202026-27.pdf",
-        "date": "12/05/2026",
-        "sortTs": null,
-        "batchIndex": 10,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "95becf92d370ad06",
-        "title": "Notification for allotment results of the 2nd Special Stray round of eCounselling 2025-26",
-        "link": "https://manipurmc.mn.gov.in/media/1767886904_Notification%20for%20allotment%20results%20of%20the%202nd%20Special%20Stray%20round%20of%20eCounselling%202025-26.pdf",
-        "date": "08/01/2026",
-        "sortTs": null,
-        "batchIndex": 11,
         "detectedAt": "2026-07-15T12:56:45.112Z"
       }
     ]
