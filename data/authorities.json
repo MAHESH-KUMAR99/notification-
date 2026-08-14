@@ -1900,9 +1900,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T07:17:26.769Z",
+    "lastUpdatedDate": "2026-08-14T14:32:08.205Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "44b268724023c069",
+        "title": "14-08-2026: MBBS & BDS CQ 2026-27 Notice to Scouts & Guides Candidates MBBS & BDS-2026-27- CQ-NOTICE FOR EXAMINATION OF PERSONS WITH DISABILITIES (PwBD) CANDIDATES MBBS & BDS _CQ 2026-27 Notification for Physical verification of original certificates of NCC candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20260814190139637.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T14:32:08.205Z"
+      },
       {
         "id": "626d94f444113a68",
         "title": "06-08-2026: Corrigendum dt.31-07-2026-Guidelines on Assessment of Persons with Benchmark Disabilities for Admission to the MBBS Course, 2026 MCC Notice dt.31-07-2026 on Assessment of Persons with Benchmark Disabilities",
@@ -2077,15 +2087,6 @@
         "date": "24/02/2026",
         "sortTs": null,
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "a947b3dd7a6b3d3a",
-        "title": "21-02-2026: PG (Medical) CQ 2025-26 - Web Options Notification for Stray Vacancy Round PG (Medical) CQ 2025-26 - Final Eligible Candidates list to Exercise web options for Stray Vacancy round B.Sc.(Nursing) 4 YDC 2025-26 - Extension of date for exercising web options DNB Admissions 2025-26 - College wise Allotment List of CQ Service Phase-II_Final",
-        "link": "https://drntr.uhsap.in/index/notification/20260221185221000.pdf",
-        "date": "21/02/2026",
-        "sortTs": null,
-        "batchIndex": 13,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -6561,9 +6562,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T13:19:33.258Z",
+    "lastUpdatedDate": "2026-08-14T14:37:06.584Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "589fbe34cc61d51c",
+        "title": "Admission to Medical And Medical Allied Courses -2026: Ranklists Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/199/Upload1",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T14:37:06.584Z"
+      },
       {
         "id": "e816556c2cf63d07",
         "title": "Third Phase Allotment To Architecture Course Published",
@@ -6759,16 +6770,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-03T18:26:13.332Z"
-      },
-      {
-        "id": "7becdbda14534397",
-        "title": "Provisional Lists Of Third Phase Allotment To Engineering Courses And Second Phase Allotment To Architecture Course Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/164/Upload1",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T13:48:54.385Z"
       }
     ]
   },
@@ -6779,7 +6780,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T13:20:53.071Z",
+    "lastUpdatedDate": "2026-08-14T14:34:14.589Z",
     "pinned": false,
     "notices": [
       {
@@ -6809,6 +6810,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "1994e20319105fab",
+        "title": "Shortlisted Candidates for 1st Round of Counselling for admission to 1st Year MBBS at PA Sangma International Medical College Academic Year 2026-27 | General Information for 1st Round of Counselling for admission to 1st Year MBBS at PA Sangma International Medical College Academic Year 2026-27",
+        "link": "https://www.meghealth.gov.in/news/14-08-2026-List%20of%20Candidates%20for%201st%20Round%20Counselling%20to%20MBBS%20course%20PIMC.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T14:34:14.589Z"
       },
       {
         "id": "312ea23dcacb8f30",
@@ -6965,15 +6976,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-21T07:11:41.151Z"
-      },
-      {
-        "id": "113edd40b79e4572",
-        "title": "Advertisement for Teaching Faculty in the 2 (two) Upgraded College of Nursing | Online Application Form",
-        "link": "https://www.meghealth.gov.in/news/DHSMER-Upgradation-CON-20254-Pt-4077%20-Advertisement%20PDF.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-17T16:19:14.312Z"
       }
     ]
   },
