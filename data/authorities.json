@@ -954,9 +954,93 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-03T06:45:08.144Z",
+    "lastUpdatedDate": "2026-08-14T05:57:38.189Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2502d31c678a0d9d",
+        "title": "(9) A candidate who has secured admission under these rules in any year shall also be eligible for admission to any course if he pays total fees as determined by the Fee Regulatory Committee for entire course which he / she is pursuing presently and thereupon the concerned institute shall require to issue the “No Objection Certificate” and return original documents. The candidate shall require to submit the same to the Admission Committee to consider him / her for new admission at the time of counselling. (9) જે ઉમેદવારે કોઈપણ વર્ષમાં અત્રેની પ્રવેશ સમિતિના પ્રવેશ નિયમો હેઠળ MBBS/BDS/BAMS/BHMS માં પ્રવેશ મેળવેલ હોય, જો તે હાલમાં જે અભ્યાસક્રમનો અભ્યાસ કરી રહ્યો/રહી છે, તે સમગ્ર અભ્યાસક્રમ માટે ફી નિયમનકારી સમિતિ દ્વારા નિર્ધારિત કુલ ફી ચૂકવે. ત્યારબાદ સંબંધિત સંસ્થાએ ઉમેદવારને ‘નો ઓબ્જેક્શન સર્ટિફિકેટ (NOC)’ આપવાનું રહેશે અને તેના મૂળ દસ્તાવેજો પરત કરવાના રહેશે. ઉમેદવારે આ NOC અને મૂળ દસ્તાવેજો પ્રવેશ સમિતિ સમક્ષ રજૂ કરવાના રહેશે, જેથી કાઉન્સેલિંગ સમયે પ્રવેશ સમિતિ તેને નવા પ્રવેશ માટે વિચારણા હેઠળ લઈ શકે.",
+        "link": null,
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "(9) A candidate who has secured admission under these rules in any year shall also be eligible for admission to any course if he pays total fees as determined by the Fee Regulatory Committee for entire course which he / she is pursuing presently and thereupon the concerned institute shall require to issue the “No Objection Certificate” and return original documents. The candidate shall require to submit the same to the Admission Committee to consider him/her for new admission at the time of counselling. (9) A candidate who has been admitted to MBBS/BDS/BAMS/BHMS under the admission rules of the Admission Committee in any year, if the course he/she is currently pursuing, shall pay the total fee prescribed by the Fee Regulation Committee for the entire course. After that the concerned organization has to issue a 'No Objection Certificate (NOC)' to the candidate and return his original documents. The candidate has to present this NOC and original documents to the admission committee, so that the admission committee can consider it for fresh admission at the time of counselling.",
+        "titleLang": "gu",
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
+      {
+        "id": "ee28f38f16e1e144",
+        "title": "UG Rules 2018",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/Rules_UG_2018.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
+      {
+        "id": "ba7df2d06261f17c",
+        "title": "પ્રવેશ સમિતિ દ્વારા ઓનલાઇન રિફંડની પ્રક્રિયા પૂર્ણ જાહેર કરી છે. જે વિધ્યાથીઓ ને રિફંડ લેવાના થતાં હોય, તેઓનું લિસ્ટ વેબસાઇટ પર મુકેલ છે. રિફંડ પાત્ર વિધ્યાથીઓને જાણ કરવામાં આવે છે કે તેઓએ રિફંડ માટે પ્રવેશ સમિતિ ખાતે સંપર્ક કરવાનો રહેશે.",
+        "link": null,
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "titleEn": "The admission committee has declared the process of online refund complete. The list of students who have to get refund is placed on the website. Refund eligible students are informed that they have to approach Admission Committee for refund.",
+        "titleLang": "gu",
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
+      {
+        "id": "962c2bf98e2769b3",
+        "title": "List of the candidates whose Tuition fee is Refundable and pending with Admission Committee",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Fees%20Refund%20R8.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
+      {
+        "id": "d4fb9be6ab56e718",
+        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 7",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR7.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
+      {
+        "id": "d3f09056c1d55165",
+        "title": "List of the candidates whose Security Deposit is Refundable and pending with Admission Committee",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Deposite%20Refund%20R8.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 16,
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
+      {
+        "id": "a9a97ae001f7b2c6",
+        "title": "List of the successful candidates whose Security Deposit is Refunded in Round 7",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_SUCCESS_UGR7.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 24,
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
+      {
+        "id": "ab663e89b4712f47",
+        "title": "List of the unsuccessful candidates whose Security Deposit is not Refunded in Round 7",
+        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_FAIL_UGR7.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 31,
+        "detectedAt": "2026-08-14T05:57:38.189Z"
+      },
       {
         "id": "0ef08e46eb6eba27",
         "title": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [ઓનલાઈન પિન ખરીદી માટે અગત્યની સૂચના: ટ્રાંઝેક્શનની નિષ્ફળતા ટાળવા માટે, સારી ગતિવાળું ઇન્ટરનેટ (ખાસ કરીને, બ્રોડબેન્ડ ઇન્ટરનેટ કનેક્શન) નો ઉપયોગ કરીને ઓનલાઈન પિન ખરીદી કરવાની સલાહ આપવામાં આવે છે.]",
@@ -1087,90 +1171,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 7,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "ff15a22e0866e2e5",
-        "title": "Information regarding Certificate for Local Quota of Surat Municipal Institute of Medical Education and Research, Surat[Click Here]",
-        "link": "https://www.suratmunicipal.gov.in/smimer",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "301c5c4b83e9b823",
-        "title": "List of Help Centers",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Help%20Centers%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "d27367d829648b26",
-        "title": "Authority Letter for Original Documents Verification",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/AUTHORITY%20LETTER%20FOR%20DOCUMENTS%20VERIFICATION.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "37afe94991b19b0d",
-        "title": "Medical Fitness Certificate – Format",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Medical%20Fitness%20Certificate%20-%20Format.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 11,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "daed44ac3c848c3a",
-        "title": "List of MBBS Institutes with address",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20MBBS%20Institutes%20with%20address.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 12,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "b00a952b758a072c",
-        "title": "List of BDS Institutes with address",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20BDS%20Institutes%20with%20address.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "4c558066080982d1",
-        "title": "PwD (PERSON with DISABILITY) Candidates: Students applying under the PwD category must take an online appointment during the registration process to appear before the Medical Board for disability assessment. દિવ્યાંગતા (PwD) કેટેગરી હેઠળ અરજી કરનાર ઉમેદવારોએ રજીસ્ટ્રેશન પ્રક્રિયા દરમિયાન મેડિકલ બોર્ડ સમક્ષ દિવ્યાંગતા ચકાસણી માટે ઓનલાઈન એપોઇન્ટમેન્ટ લેવી ફરજિયાત રહેશે.",
-        "link": null,
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 14,
-        "titleEn": "PwD (PERSON WITH DISABILITY) Candidates: Students applying under the PwD category must take an online appointment during the registration process to appear before the Medical Board for disability assessment. Candidates applying under Persons with Disabilities (PwD) category will be required to make an online appointment for disability verification before the Medical Board during the registration process.",
-        "titleLang": "gu",
-        "detectedAt": "2026-08-01T07:29:47.660Z"
-      },
-      {
-        "id": "bd82d50781656f34",
-        "title": "PwD (PERSON with DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: [દિવ્યાંગતાની કેટેગરીમાં અરજી કરેલ વિદ્યાર્થીઓએ નીચે દર્શાવેલ મુજબની સિવિલ હોસ્પિટલ ખાતે મેડિકલ બોર્ડ સમક્ષ દિવ્યાંગતાના પ્રમાણપત્ર સાથે ચકાસણી માટે હાજર થવાનું રહેશે:] Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat [આરોગ્ય અને પરિવાર કલ્યાણ વિભાગ, ગુજરાત સરકાર તરફથી પત્ર નંબર: HFWD/0133/07/2024 તારીખ 09/07/2024 દિવ્યાંગતાનો ઠરાવ] Proforma of disability [દિવ્યાંગતાનું પ્રોફોર્મા] GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Civil%20Hospital%20for%20PwD%202026-27.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 14,
-        "titleEn": "PwD (PERSON WITH DISABILITY) Candidates: Students applying under the disability category will have to appear for verification with their disability certificate before the Medical Board at the Civil Hospital as mentioned below: Civil Hospital List for PwD Letter no: HFWD/0133/07/2024 dated 09/07/2024 Resolution of Disability from Department of Health and Family Welfare, Government of Gujarat (PWBD) FOR ADMISSION TO THE MBBS COURSE, 2026",
-        "titleLang": "gu",
         "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
@@ -6131,7 +6131,7 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T14:01:06.024Z",
+    "lastUpdatedDate": "2026-08-14T05:59:53.067Z",
     "pinned": false,
     "notices": [
       {
@@ -6163,6 +6163,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T06:59:49.601Z"
+      },
+      {
+        "id": "a9ad8a0bdc0e3a1d",
+        "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101)/ MCA (CODE-105) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-14T05:59:53.067Z"
       },
       {
         "id": "7b32fa44a7d3a86b",
@@ -6323,16 +6333,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T10:28:14.079Z"
-      },
-      {
-        "id": "08d54fe6f227ea62",
-        "title": "B.COM(H) CODE-146 VACANT SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S.2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260811728931762.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T09:04:36.104Z"
       }
     ]
   },
