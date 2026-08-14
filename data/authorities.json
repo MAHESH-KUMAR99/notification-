@@ -6562,7 +6562,7 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T14:37:06.584Z",
+    "lastUpdatedDate": "2026-08-14T17:02:51.217Z",
     "pinned": false,
     "notices": [
       {
@@ -6606,6 +6606,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-14T02:18:54.044Z"
+      },
+      {
+        "id": "b454e88904e33578",
+        "title": "Option Registration For Third Phase Allotment To Pharmacy Course - Facilities Available",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/197/Upload1",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-14T17:02:51.217Z"
       },
       {
         "id": "f653f472a84ea555",
@@ -6760,16 +6770,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-05T12:07:50.107Z"
-      },
-      {
-        "id": "634a15b21a628e97",
-        "title": "KEAM 2026 - MEDICAL/MEDICAL ALLIED COURSES -Candidates Can Verify Their Profile & Rectify Defects",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/165/Upload1",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T18:26:13.332Z"
       }
     ]
   },
