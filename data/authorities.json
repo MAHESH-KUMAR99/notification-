@@ -6544,9 +6544,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T15:12:43.753Z",
+    "lastUpdatedDate": "2026-08-14T02:18:54.044Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5f820343dcf08df2",
+        "title": "ADMISSION TO MBBS/BDS COURSES CANDIDATES INCLUDED IN THE MEDICAL RANK LIST CAN UPLOAD NRI DOCUMENTS",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/195/Upload1",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T02:18:54.044Z"
+      },
       {
         "id": "f653f472a84ea555",
         "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES – 2026 Kerala State Provisional Ranklist Published",
@@ -6740,16 +6750,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-01T12:39:30.083Z"
-      },
-      {
-        "id": "48c8d246d86e4640",
-        "title": "List of candidates who have qualified in KEAM entrance examination but remain deficient in submitting their qualifying examination marks",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/158/Upload1",
-        "date": "29/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-31T10:11:09.571Z"
       }
     ]
   },
