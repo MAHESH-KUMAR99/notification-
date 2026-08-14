@@ -1384,9 +1384,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T08:37:57.977Z",
+    "lastUpdatedDate": "2026-08-14T07:43:56.036Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ae38de33e5b18f4d",
+        "title": "GQ7.5% - TENTATIVE VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 IN (TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION) AS ON 13-08-2026",
+        "link": "https://tnmedicalselection.net/news/14082026003608.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T07:43:56.036Z"
+      },
       {
         "id": "d7cd673b259b76ab",
         "title": "FOR ONLINE COUNSELLING OF MBBS / BDS COURSE FOR GOVERNMENT & MANAGEMENT QUOTA (INCL. NRI & MINORITY) 2026 - 2027 SESSION",
@@ -1575,16 +1585,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 10,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "dea2fb8697e9f8ed",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR LINGUISTIC MINORITY(MALAYALAM) CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063259.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 11,
         "detectedAt": "2026-08-12T14:37:25.434Z"
       }
     ]
@@ -4944,7 +4944,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T05:23:13.763Z",
+    "lastUpdatedDate": "2026-08-14T07:48:54.613Z",
     "pinned": false,
     "notices": [
       {
@@ -6131,9 +6131,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T05:59:53.067Z",
+    "lastUpdatedDate": "2026-08-14T07:46:05.671Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6d755dca3e1364f5",
+        "title": "SCHEDULE FOR SPOT ROUND 02 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND; FOR B.TECH/BBA/BCA and B.COM (H) PROG. through NLT/CET for the A.S:2026-27_dated-14.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608141687224035.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T07:46:05.671Z"
+      },
+      {
+        "id": "75018dd94878cb16",
+        "title": "NOTICE PART ACADEMIC FEES PROG. Paramedical (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(Special Education) for the A.S:2026-27_dated-14.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814719549662.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-14T07:46:05.671Z"
+      },
       {
         "id": "fe768494c6267075",
         "title": "Tentative overall Merit of the Appicant for admission under Sports Quota for B.Tech Programme, B.Com(H), B.Tech.(BT), BA(ECO) BA(JMC) BA/BBA LLB, BBA, and B.Design Programme A.S:2026-27_dated-13.08.20",
@@ -6313,26 +6333,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T15:05:43.686Z"
-      },
-      {
-        "id": "0b97914acef95bed",
-        "title": "EXTENSION OF LAST DATE OF SUBMISSION OF ONLINE APPLICATION FORM PGDFIS (CODE-173)/ MBA-FIS (CODE-185)/ LE MBA-FIS (172) for the A.S:2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111721474531.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T11:24:52.832Z"
-      },
-      {
-        "id": "9d05a12b55c6d711",
-        "title": "LATERAL ENTRY TO B.TECH PROG. CODE-128 SEAT STATUS FOR SPOT ROUND 2 OFFLINE COUNSELLING A.S: 2026-27_dated-11.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608111679604891.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T10:28:14.079Z"
       }
     ]
   },
