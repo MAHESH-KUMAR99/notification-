@@ -1390,7 +1390,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T11:48:31.633Z",
+    "lastUpdatedDate": "2026-08-14T13:14:27.716Z",
     "pinned": false,
     "notices": [
       {
@@ -1452,6 +1452,16 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-08-14T09:11:36.382Z"
+      },
+      {
+        "id": "15275652f668494c",
+        "title": "NOTIFICATION FOR THE CANDIDATES OF SC/SCA/ST /WHOSE PARENTS’ ANNUAL INCOME IS LESS THAN 2.50 LAKHS AND CANDIDATES OF SCHEDULED CASTE CONVERTED CHRISTIANITY WHOSE PARENT’S ANNUAL INCOME IS LESS THAN 2.50 LAKHS",
+        "link": "https://tnmedicalselection.net/news/14082026054314.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-14T13:14:27.716Z"
       },
       {
         "id": "37020f2554207c68",
@@ -1581,16 +1591,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 4,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "9f70b152a104975e",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CMC GENERAL MERIT FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063642.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
         "detectedAt": "2026-08-12T14:37:25.434Z"
       }
     ]
@@ -3171,9 +3171,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T09:16:41.076Z",
+    "lastUpdatedDate": "2026-08-14T13:19:33.619Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:b76adf27e3e04896",
+        "title": "SEAT MATRIX FOR UG NEET COURSES (M.B.B.S., B.D.S., B.A.M.S.) FOR GOVERNMENT AND SELF-FINANCING COLLEGES",
+        "link": "https://drive.google.com/file/d/1UIkGn8coj_bqXvw5DUW_3d9waN-9aOpY/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T13:19:33.619Z"
+      },
       {
         "id": "OVERALL:827697bbacc75b98",
         "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES - (2026 - 2027)",
@@ -3233,6 +3243,16 @@
         "source": "Direct from Website",
         "batchIndex": 130,
         "detectedAt": "2026-08-14T09:16:41.076Z"
+      },
+      {
+        "id": "UG NEET:b76adf27e3e04896",
+        "title": "SEAT MATRIX FOR UG NEET COURSES (M.B.B.S., B.D.S., B.A.M.S.) FOR GOVERNMENT AND SELF-FINANCING COLLEGES",
+        "link": "https://drive.google.com/file/d/1UIkGn8coj_bqXvw5DUW_3d9waN-9aOpY/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 188,
+        "detectedAt": "2026-08-14T13:19:33.619Z"
       },
       {
         "id": "OVERALL:1c953a9a40c1cf2e",
@@ -3353,26 +3373,6 @@
         "source": "Direct from Website",
         "batchIndex": 188,
         "detectedAt": "2026-08-13T12:17:59.144Z"
-      },
-      {
-        "id": "OVERALL:6301ad6035528f07",
-        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1FWwH2Md4Eflh_kXWtSMhP-4KY4u8NFKU/view?usp=sharing",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T13:23:42.446Z"
-      },
-      {
-        "id": "UG NEET:6301ad6035528f07",
-        "title": "NOTICE : OPENING OF FRESH APPLICATION FOR ADMISSION TO UG NEET COURSES (M.B.B.S. / B.D.S. / B.A.M.S. / B.V.SC.&A.H. (NATIONAL - SS & NRI) FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1FWwH2Md4Eflh_kXWtSMhP-4KY4u8NFKU/view?usp=sharing",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 172,
-        "detectedAt": "2026-08-12T13:23:42.446Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6561,9 +6561,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T11:53:32.975Z",
+    "lastUpdatedDate": "2026-08-14T13:19:33.258Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e816556c2cf63d07",
+        "title": "Third Phase Allotment To Architecture Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/198/Upload1",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T13:19:33.258Z"
+      },
       {
         "id": "cd5e8bbad7002b46",
         "title": "2026–27 അധ്യയന വർഷത്തെ കീം പ്രോസ്പെക്ടസിൽ ഭേദഗതി വരുത്തി ഉത്തരവ് പുറപ്പെടുവിക്കുന്നത് – സംബന്ധിച്ച്.",
@@ -6759,16 +6769,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-03T13:48:54.385Z"
-      },
-      {
-        "id": "7bb26c5d2de38df8",
-        "title": "First Phase Allotment To Pharmacy Course Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/162/Upload1",
-        "date": "02/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-02T10:49:43.407Z"
       }
     ]
   },
