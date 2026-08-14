@@ -1384,9 +1384,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T07:43:56.036Z",
+    "lastUpdatedDate": "2026-08-14T09:11:36.382Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0f9d63044ee3f5ff",
+        "title": "PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR SPORTS CATEGORY OF MBBS/BDS 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/14082026020841.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T09:11:36.382Z"
+      },
       {
         "id": "ae38de33e5b18f4d",
         "title": "GQ7.5% - TENTATIVE VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 IN (TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION) AS ON 13-08-2026",
@@ -1396,6 +1406,66 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-14T07:43:56.036Z"
+      },
+      {
+        "id": "c1f37ce46f66c4bf",
+        "title": "PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR EXSERVICEMEN CATEGORY OF MBBS/BDS 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/14082026020601.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-14T09:11:36.382Z"
+      },
+      {
+        "id": "e30f5d7bedce6bd5",
+        "title": "PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR PWD CATEGORY OF MBBS/BDS 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/14082026020535.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-14T09:11:36.382Z"
+      },
+      {
+        "id": "d346810ed0d2cccf",
+        "title": "PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS COURSE (TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION) 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/14082026020457.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-14T09:11:36.382Z"
+      },
+      {
+        "id": "7e8cb6995486ed59",
+        "title": "PORTAL FOR GOVERNMENT QUOTA UPLOAD INCOME CERTIFICATE OF SC/SCA/ST / SCCC WHOSE PARENTS’ ANNUAL INCOME IS LESS THAN 2.50 LAKHS",
+        "link": "https://ugdocs.tnmedicalonline.co.in/less25gq/",
+        "date": null,
+        "sortTs": 1786665600000,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-14T09:11:36.382Z"
+      },
+      {
+        "id": "37020f2554207c68",
+        "title": "NOTIFICATION FOR THE CANDIDATES OF SC/SCA/ST /WHOSE PARENTS’ ANNUAL INCOME IS LESS THAN 2.50 LAKHS AND CANDIDATES OF SCHEDULED CASTE CONVERTED CHRISTIANITY WHOSE PARENT’S ANNUAL INCOME IS LESS THAN 2.50 LAKHS",
+        "link": "https://tnmedicalselection.net/news/14082026013304.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-14T09:11:36.382Z"
+      },
+      {
+        "id": "401642fb89be7104",
+        "title": "TENTATIVE SPECIAL CATEGORY VACANCY POSITION FOR MBBS/BDS COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/14082026004434.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-14T09:11:36.382Z"
       },
       {
         "id": "d7cd673b259b76ab",
@@ -1515,76 +1585,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 6,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "cb30fa20b2b5db2d",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CMC STAFF QUOTA FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063553.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "04a9a5b50a1ccec7",
-        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION",
-        "link": "https://tnmedicalselection.net/news/12082026002115.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-08-12T07:44:13.851Z"
-      },
-      {
-        "id": "6cac4715c0ab5c11",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CHRISTIAN MINORITY CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063420.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "65b1aa86b85c90a0",
-        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
-        "link": "https://tnmedicalselection.net/news/12082026002239.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-12T07:44:13.851Z"
-      },
-      {
-        "id": "f64094d8d6c73eee",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR NRI OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063354.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "b11da4f503c77ab0",
-        "title": "PROVISIONAL RANK LIST FOR MBBS/BDS - 2026 - 2027 - SESSION (MANAGEMENT QUOTA)",
-        "link": "https://tnmedicalselection.net/news/12082026002327.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-08-12T07:44:13.851Z"
-      },
-      {
-        "id": "86068c85348623b7",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR LINGUISTIC MINORITY(TELUGU) CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063324.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
         "detectedAt": "2026-08-12T14:37:25.434Z"
       }
     ]
@@ -3155,9 +3155,69 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T16:31:16.051Z",
+    "lastUpdatedDate": "2026-08-14T09:16:41.076Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:827697bbacc75b98",
+        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1lI_H9gAJJBcrjt8ESegtPtdHeLT86Gnr/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T09:16:41.076Z"
+      },
+      {
+        "id": "OVERALL:4b618bdc80f87c7d",
+        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1V_JVR1cRD3wRQCnWIs1qWsQmSWRWMgpH/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-14T09:16:41.076Z"
+      },
+      {
+        "id": "OVERALL:6ec4079b3a248b64",
+        "title": "OVERALL LIST OF CANDIDATES APPLIED FOR NON NEET COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1gRF_93Cowlkhb5qQlCNlo5AZzWAL2TmL/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-14T09:16:41.076Z"
+      },
+      {
+        "id": "UG NON-NEET:827697bbacc75b98",
+        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1lI_H9gAJJBcrjt8ESegtPtdHeLT86Gnr/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 128,
+        "detectedAt": "2026-08-14T09:16:41.076Z"
+      },
+      {
+        "id": "UG NON-NEET:4b618bdc80f87c7d",
+        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1V_JVR1cRD3wRQCnWIs1qWsQmSWRWMgpH/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 129,
+        "detectedAt": "2026-08-14T09:16:41.076Z"
+      },
+      {
+        "id": "UG NON-NEET:6ec4079b3a248b64",
+        "title": "OVERALL LIST OF CANDIDATES APPLIED FOR NON NEET COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1gRF_93Cowlkhb5qQlCNlo5AZzWAL2TmL/view?usp=sharing",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 130,
+        "detectedAt": "2026-08-14T09:16:41.076Z"
+      },
       {
         "id": "OVERALL:1c953a9a40c1cf2e",
         "title": "ROUND 1 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
@@ -3297,66 +3357,6 @@
         "source": "Direct from Website",
         "batchIndex": 172,
         "detectedAt": "2026-08-12T13:23:42.446Z"
-      },
-      {
-        "id": "OVERALL:5942b2b05ad4f7de",
-        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - II (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1WV9-3J9YZFNh1sAehgBBSy4fGvB39V-E/view?usp=sharing",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T09:07:45.217Z"
-      },
-      {
-        "id": "OVERALL:5ae770e1621e7f64",
-        "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWBD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NEET COURSES FOR THE YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1H7mSb3bk-eyHRrDeyvr-IqdXeHz0Hbcr/view?usp=sharing",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T07:54:47.590Z"
-      },
-      {
-        "id": "OVERALL:de75086e98a4f910",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1K-nuRFvjaedVuiqLtFXntZQ1N7c_-bEX/view?usp=sharing",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-11T09:07:45.217Z"
-      },
-      {
-        "id": "UG NEET:5ae770e1621e7f64",
-        "title": "PRESS RELEASE : PHYSICAL EXAMINATION OF PWBD CANDIDATES WHO HAVE APPLIED TO CENTAC FOR ADMISSION TO UG NEET COURSES FOR THE YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1H7mSb3bk-eyHRrDeyvr-IqdXeHz0Hbcr/view?usp=sharing",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 169,
-        "detectedAt": "2026-08-11T07:54:47.590Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:5942b2b05ad4f7de",
-        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - II (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1WV9-3J9YZFNh1sAehgBBSy4fGvB39V-E/view?usp=sharing",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 207,
-        "detectedAt": "2026-08-11T09:07:45.217Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:de75086e98a4f910",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1K-nuRFvjaedVuiqLtFXntZQ1N7c_-bEX/view?usp=sharing",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 208,
-        "detectedAt": "2026-08-11T09:07:45.217Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -7180,9 +7180,19 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-07T05:45:36.949Z",
+    "lastUpdatedDate": "2026-08-14T09:13:44.505Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f4396afc36737d0e",
+        "title": "EWS Open NE MBBS seats 2026 RIMS Imphal",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/EWS-Open-NE-MBBS-seats-2026-RIMS-Imphal.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T09:13:44.505Z"
+      },
       {
         "id": "24f41a3925800828",
         "title": "State NEETUG 2026 candidates particulars rectified Notification",
@@ -7367,15 +7377,6 @@
         "sortTs": null,
         "batchIndex": 2,
         "detectedAt": "2026-07-20T11:24:08.162Z"
-      },
-      {
-        "id": "31693ddeeb34ef26",
-        "title": "Notification NEET UG 2026 form/score card submission extended",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-extension-NEET-UG-last-date-2026.pdf",
-        "date": "18/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-18T06:30:11.500Z"
       }
     ]
   },
