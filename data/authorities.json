@@ -1602,52 +1602,18 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T03:46:37.522Z",
+    "lastUpdatedDate": "2026-08-15T07:37:58.772Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
-        "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
+        "id": "Latest Instructions:467cf353eb7148cb",
+        "title": "Fee Details of Government & Private Medical/Dental Colleges of M.P. STATE COMBINED NEET U.G. Counselling (MBBS/BDS) 2026 (Dated 15/08/2026)",
+        "link": "https://dme.mponline.gov.in/Portal/Services/DMEMP/College/RptSubjectFeeDetailsUG.aspx",
         "date": "15/08/2026",
         "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
+        "source": "Latest Instructions",
         "batchIndex": 0,
-        "detectedAt": "2026-08-15T03:46:37.522Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
-        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T06:35:55.015Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-04T13:08:58.454Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-03T16:33:01.616Z"
+        "detectedAt": "2026-08-15T07:37:58.772Z"
       },
       {
         "id": "Latest Instructions:651df4a5c57fb62e",
@@ -1842,14 +1808,48 @@
         "detectedAt": "2026-08-04T16:00:11.135Z"
       },
       {
-        "id": "Latest Instructions:ffe27f6c85542d12",
-        "title": "Advisory for Candidates MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Advisory_7.pdf",
-        "date": "04/08/2026",
+        "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
+        "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
+        "date": "15/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-04T16:00:11.135Z"
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-15T03:46:37.522Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
+        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T06:35:55.015Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:58.454Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-03T16:33:01.616Z"
       },
       {
         "id": "State Merit:6199b704e08b629f",
@@ -2108,9 +2108,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T05:54:19.666Z",
+    "lastUpdatedDate": "2026-08-15T07:34:20.043Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0014caa2bc14fa64",
+        "title": "PROVISIONAL COMBINED MERIT LIST AFTER CONSIDERING OBJECTIONS OF CANDIDATES WHO HAVE APPLIED FOR 1ST ROUND OF ONLINE COUNSELLING FOR ADMISSION TO MBBS/BDS COURSE UNDER NEET-UG 2026 Updation:Christian Minority List Revised NRI Merit List",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/MeritList/Merit%20List%20Round%20_1508.pdf",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-15T07:34:20.043Z"
+      },
       {
         "id": "019a22e7f85c6a23",
         "title": "Public Notice Regarding assessment of candidates claiming Persons with Benchmark Disabilities (PwBD) category for admission to MBBS/BDS courses under NEET-UG, Session 2026, against State Quota Seats",
@@ -2294,15 +2304,6 @@
         "date": "19/12/2025",
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "4f1e19b30cbfa9fa",
-        "title": "Click here to Apply for MBBS Special Round of Counselling Click here to submit Willingness for MBBS Special Round of Counselling Click here to view Willingness List for MBBS Special Round of Counselling",
-        "link": "https://bfuhs.ac.in/pmet25onlinex/main.aspx",
-        "date": "19/12/2025",
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -6791,7 +6792,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T14:34:14.589Z",
+    "lastUpdatedDate": "2026-08-15T07:36:36.452Z",
     "pinned": false,
     "notices": [
       {
@@ -6821,6 +6822,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "48734e6ff67745e6",
+        "title": "Additional General Information for 1st Round of Counselling for admission to 1st Year MBBS at PA Sangma International Medical College Academic Year 2026-27",
+        "link": "https://www.meghealth.gov.in/news/2026-08-15-Information%20for%20First%20Round%20Counselling..pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-15T07:36:36.452Z"
       },
       {
         "id": "1994e20319105fab",
@@ -6978,15 +6989,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T15:21:37.365Z"
-      },
-      {
-        "id": "3cbd743b196befd7",
-        "title": "Notice - Results of the Written Examination held for the post of Radiology Technologist for the Centre for Evolution, R.P. Chest Hospital, Shillong",
-        "link": "https://www.meghealth.gov.in/news/DHS-JDQC-CFE-26-12-Result%20for%20the%20written%20exam%20for%20th%20epost%20of%20Radiology%20Technologist.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-21T07:11:41.151Z"
       }
     ]
   },
