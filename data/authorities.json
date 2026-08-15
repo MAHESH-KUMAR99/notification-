@@ -6574,9 +6574,29 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T17:02:51.217Z",
+    "lastUpdatedDate": "2026-08-15T11:28:27.727Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2c9e8eb2e87115ee",
+        "title": "ADMISSION TO MBBS AND BDS COURSES-2026 ONLINE OPTIONS INVITED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/201/Upload1",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-15T11:28:27.727Z"
+      },
+      {
+        "id": "cd9f9c040fead728",
+        "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES –2026 PROVISIONAL CATEGORY LIST (EXCEPT NRI) PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/200/Upload1",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-15T11:28:27.727Z"
+      },
       {
         "id": "589fbe34cc61d51c",
         "title": "Admission to Medical And Medical Allied Courses -2026: Ranklists Published",
@@ -6762,26 +6782,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-06T10:16:37.711Z"
-      },
-      {
-        "id": "5954821c7b6c4400",
-        "title": "Third Phase Allotment To Engineering And Second Phase Allotment To Architecture Courses Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/171/Upload1",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T15:01:18.582Z"
-      },
-      {
-        "id": "c587c20e3582abd0",
-        "title": "Admission To Medical & Medical Allied Courses- Online Facility For Submission Of NEET (UG) -2026 Result",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/170/Upload1",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T12:07:50.107Z"
       }
     ]
   },
