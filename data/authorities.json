@@ -2108,9 +2108,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T12:11:23.036Z",
+    "lastUpdatedDate": "2026-08-15T05:54:19.666Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "019a22e7f85c6a23",
+        "title": "Public Notice Regarding assessment of candidates claiming Persons with Benchmark Disabilities (PwBD) category for admission to MBBS/BDS courses under NEET-UG, Session 2026, against State Quota Seats",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/PublicNotice150826.pdf",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-15T05:54:19.666Z"
+      },
       {
         "id": "58126d2ac1f2b78b",
         "title": "NEET UG 2026 Merit Lists Open Merit Sikh Minority Lists Christian Minority Lists NRI Merit List",
@@ -2293,15 +2303,6 @@
         "date": "19/12/2025",
         "sortTs": null,
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "2f4ee65c6e1d9b8e",
-        "title": "Regarding special stray round of online counselling for admission to MBBS course session-2025",
-        "link": "https://bfuhs.ac.in/MBBS2025/18.12.2025%20mbbs.pdf",
-        "date": "18/12/2025",
-        "sortTs": null,
-        "batchIndex": 5,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
