@@ -1602,18 +1602,62 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T10:38:01.992Z",
+    "lastUpdatedDate": "2026-08-15T03:46:37.522Z",
     "pinned": false,
     "notices": [
       {
-        "id": "State Merit:6199b704e08b629f",
-        "title": "Merit list of Registered Candidates for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 14.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_MERIT_LIST_UG_FR_2026_23.pdf",
-        "date": "14/08/2026",
+        "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
+        "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
+        "date": "15/08/2026",
         "sortTs": null,
-        "source": "State Merit",
+        "source": "Rule Book / Steps / User Manual",
         "batchIndex": 0,
-        "detectedAt": "2026-08-14T10:38:01.992Z"
+        "detectedAt": "2026-08-15T03:46:37.522Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
+        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T06:35:55.015Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:58.454Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-03T16:33:01.616Z"
+      },
+      {
+        "id": "Latest Instructions:651df4a5c57fb62e",
+        "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-15T03:46:35.713Z"
       },
       {
         "id": "Latest Instructions:6199b704e08b629f",
@@ -1808,14 +1852,14 @@
         "detectedAt": "2026-08-04T16:00:11.135Z"
       },
       {
-        "id": "Latest Instructions:a460937625ad5b0b",
-        "title": "Frequently Asked Question MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/FAQ%202026_6.pdf",
-        "date": "04/08/2026",
+        "id": "State Merit:6199b704e08b629f",
+        "title": "Merit list of Registered Candidates for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 14.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_MERIT_LIST_UG_FR_2026_23.pdf",
+        "date": "14/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-04T16:00:11.135Z"
+        "source": "State Merit",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T10:38:01.992Z"
       },
       {
         "id": "Seat Charts:824bcd5e33e451df",
@@ -1836,40 +1880,6 @@
         "source": "Seat Charts",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T14:00:05.915Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
-        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T06:35:55.015Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-04T13:08:58.454Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-03T16:33:01.616Z"
       },
       {
         "id": "Counselling Schedule:cdc71e56ef143c41",
