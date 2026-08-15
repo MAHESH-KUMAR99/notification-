@@ -4248,9 +4248,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T11:52:11.528Z",
+    "lastUpdatedDate": "2026-08-15T15:49:27.950Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5311dff989414cc3",
+        "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु अभिषेक आई मिश्रा मेमोरियल मेडिकल कॉलेज एंड रिसर्च, जुनवानी, भिलाई एवं माँ पद्मावती इंस्टीट्यूट ऑफ मेडिकल साइंसेज़, पचेड़ा, रायपुर की एम.बी.बी.एस. सीटों में वृद्धि के संबंध में सूचना.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2161",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": ": For the state level counseling of NEET UG admission year 2026, MBBS of Abhishek I Mishra Memorial Medical College and Research, Junwani, Bhilai and Maa Padmavati Institute of Medical Sciences, Pacheda, Raipur. Information regarding increase in seats.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-15T15:49:27.950Z"
+      },
       {
         "id": "c1aaad10b9ca79b6",
         "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु श्री रावतपुरा सरकार इंस्टीट्यूट ऑफ मेडिकल साइंसेज़ एंड रिसर्च, नवा रायपुर की एम.बी.बी.एस. सीटों में वृद्धि के संबंध में सूचना.....More",
@@ -4456,17 +4468,6 @@
         "titleEn": "Date extension notice in the online information inviting concerned institutions to participate in the counseling process for Nursing course admission year 2026.....More",
         "titleLang": "hi",
         "detectedAt": "2026-07-20T08:25:50.866Z"
-      },
-      {
-        "id": "9eb89f548d497989",
-        "title": "छत्तीसगढ़ राज्य के निजी नर्सिंग महाविद्यालयों हेतु बी.एस.सी. नर्सिंग एवं बी.एस.सी. नर्सिंग (पोस्ट बेसिक) पाठ्यक्रम की शुल्क अधिसूचना.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2140",
-        "date": "15/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "B.Sc. for private nursing colleges of Chhattisgarh state. Nursing and B.Sc. Fee Notification of Nursing (Post Basic) Course.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-15T08:56:23.922Z"
       }
     ]
   },
