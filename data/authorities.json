@@ -1390,9 +1390,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T13:14:27.716Z",
+    "lastUpdatedDate": "2026-08-15T12:44:15.231Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bb33330a797c7cba",
+        "title": "Mandatory pre counselling Fee disclosure by Self-Financing Medical and Dental Institutions has directed by the Hon’ble Supreme Court",
+        "link": "https://tnmedicalselection.net/news/15082026053353.pdf",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-15T12:44:15.231Z"
+      },
       {
         "id": "0f9d63044ee3f5ff",
         "title": "PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR SPORTS CATEGORY OF MBBS/BDS 2026 - 2027 SESSION",
@@ -1582,16 +1592,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-12T13:18:33.063Z"
-      },
-      {
-        "id": "c94f4b31de655d2c",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CMC 20% OF MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063448.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
       }
     ]
   },
