@@ -2843,9 +2843,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T11:22:45.149Z",
+    "lastUpdatedDate": "2026-08-16T13:34:01.050Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9295f7a7ee9889b6",
+        "title": "Advt. No. 58 dated-16.08.2026 Public Notice Regarding Online Services Being Provided by the J.C.E.C.E. Board",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/762.pdf",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-16T13:34:01.050Z"
+      },
       {
         "id": "96d810a03faae779",
         "title": "Advt. No. 56 dated-11.08.2026 Very Important Information regarding Revised Schedule for the Submission of Online Application Form for Preparation of State Merit List on the basis of NEET (UG)-2026 Result and 1st Round of Online Counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. courses",
@@ -3031,15 +3041,6 @@
         "date": "16/01/2026",
         "sortTs": null,
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "5eeefaf9bfebb23a",
-        "title": "Advt. No. 04 Dated 16/01/2026 {Detailed information regarding Additional Round of online counselling for admission in State Quota Seats in B.H.M.S. Course}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/741.pdf",
-        "date": "16/01/2026",
-        "sortTs": null,
-        "batchIndex": 6,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
