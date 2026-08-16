@@ -956,9 +956,109 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T10:34:14.228Z",
+    "lastUpdatedDate": "2026-08-16T04:09:00.208Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e7d1da0bbeab9b30",
+        "title": "The merit list for Undergraduate courses (MBBS/BDS) for the academic year 2026-27 has been published today by the Medical Admission Committee as follows. Candidates who have applied for PwD Quota and NRI Quota, the verification of these candidates is going on. Hence PwD Quota and NRI Quota students’ merit of PwD Category/ NRI Category will be declared in due course of time.",
+        "link": null,
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "3d2b5874ef459887",
+        "title": "General Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_gen.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "8dc34d586c26a54b",
+        "title": "SC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_sc.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "03b80a719e312304",
+        "title": "ST Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_st.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "2a3e220e19b9a593",
+        "title": "SEBC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_se.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "1ce57eca99eab625",
+        "title": "EWS Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_ew.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "045847564615679d",
+        "title": "NHL Local Quota Candidate List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/NHL%20LOCAL%20QUOTA%20LIST.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "b43d29926df7a8c7",
+        "title": "SMC Local Quota Candidate List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/SMC%20LOCAL%20QUOTA%20LIST.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "e19b4750ac35884e",
+        "title": "Not Eligible Candidate List with Reasons",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/DQ%20LIST_R1.pdf?v=1",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
+      {
+        "id": "2186d8efda8ba7a3",
+        "title": "Application form for making changes/corrections in the merit list. (Click here)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/MERIT_CHANGE_APPLICATION.PDF",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-08-16T04:09:00.208Z"
+      },
       {
         "id": "5516dc2551c45f54",
         "title": "દિવ્યાંગતા ધરાવતા વિદ્યાર્થીઓનું હાજર રહેવાનું સ્થળ અને તારીખ નું લીસ્ટ",
@@ -1066,118 +1166,6 @@
         "source": "Direct from Website",
         "batchIndex": 24,
         "detectedAt": "2026-08-14T05:57:38.189Z"
-      },
-      {
-        "id": "ab663e89b4712f47",
-        "title": "List of the unsuccessful candidates whose Security Deposit is not Refunded in Round 7",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/DEPOSITE_FAIL_UGR7.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 31,
-        "detectedAt": "2026-08-14T05:57:38.189Z"
-      },
-      {
-        "id": "0ef08e46eb6eba27",
-        "title": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [ઓનલાઈન પિન ખરીદી માટે અગત્યની સૂચના: ટ્રાંઝેક્શનની નિષ્ફળતા ટાળવા માટે, સારી ગતિવાળું ઇન્ટરનેટ (ખાસ કરીને, બ્રોડબેન્ડ ઇન્ટરનેટ કનેક્શન) નો ઉપયોગ કરીને ઓનલાઈન પિન ખરીદી કરવાની સલાહ આપવામાં આવે છે.]",
-        "link": null,
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Important Instruction for Online PIN Purchase: It is advisable to do Online PIN Purchase using internet with good speed (preferably, Broadband Internet Connection) to avoid transaction failure. [Important Notice for Online PIN Purchase: To avoid transaction failure, it is advisable to purchase PIN online using a good speed internet (especially, broadband internet connection).]",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "92597aa8e674c9fe",
-        "title": "Advertisement for online Registration for Gujarat State Medical/Dental Admission [ગુજરાત રાજ્યના મેડિકલ/ડેન્ટલ અભ્યાસક્રમમાં પ્રવેશ માટે ઓનલાઇન રજીસ્ટ્રેશન માટેની જાહેરાત]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Adv.%20-%20PIN%20dist.%20&%20Online%20Reg.%20-%20UG%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "titleEn": "Advertisement for online Registration for Gujarat State Medical/Dental Admission",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "6a4e46b984b25bbf",
-        "title": "Instructions for Online Application and Registration [ઓનલાઇન એપ્લિકેશન અને રજીસ્ટ્રેશન માટેની સૂચનાઓ]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20Online%20Application%20and%20Registartion-%20[2025-26].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "titleEn": "Instructions for Online Application and Registration",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "abb52250a4f97465",
-        "title": "Process of Online Admission [ઓનલાઇન એડમિશનની કાર્યપ્રણાલી]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Process%20for%20online%20Admission%20-%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "titleEn": "Process of Online Admission",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "c102dbc373fe1f36",
-        "title": "Procedure for online registration",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Procedure%20for%20online%20registration%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "49ab79021f4ab8e6",
-        "title": "List of Documents Required for Admission Process of ACPUGMEC [ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રોની યાદી] - Updated",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "titleEn": "List of Documents Required for Admission Process of ACPUGMEC - Updated",
-        "titleLang": "gu",
-        "detectedAt": "2026-08-01T07:29:47.660Z"
-      },
-      {
-        "id": "00a6167e3535a4cc",
-        "title": "List of Documents Required for Admission Process of ACPUGMEC [ACPUGMEC ની પ્રવેશ પ્રક્રિયા માટે આવશ્યક પ્રમાણપત્રોની યાદી]",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/List%20of%20Documents%20Required%20for%20Admission%20Process%20of%20ACPUGMEC%20R01.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "titleEn": "List of Documents Required for Admission Process of ACPUGMEC",
-        "titleLang": "gu",
-        "detectedAt": "2026-07-31T10:07:06.881Z"
-      },
-      {
-        "id": "9050187506c31f16",
-        "title": "Instructions for NRI Candidate - Updated",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20NRI%20Candidates%20-%20UG%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-08-01T07:29:47.660Z"
-      },
-      {
-        "id": "a0955360c057a406",
-        "title": "Instructions for NRI Candidate",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20NRI%20Candidates%20-%20UG%20[2026-27].pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-07-31T10:07:06.881Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2108,9 +2096,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T07:34:20.043Z",
+    "lastUpdatedDate": "2026-08-16T04:09:09.050Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "411345cbe55ba934",
+        "title": "Click here to fill online choices for 1st Round of online counselling for MBBS/BDS under NEET UG 2026",
+        "link": "https://bfuhs.smartpad.in/Registration/Default.aspx",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-16T04:09:09.050Z"
+      },
       {
         "id": "0014caa2bc14fa64",
         "title": "PROVISIONAL COMBINED MERIT LIST AFTER CONSIDERING OBJECTIONS OF CANDIDATES WHO HAVE APPLIED FOR 1ST ROUND OF ONLINE COUNSELLING FOR ADMISSION TO MBBS/BDS COURSE UNDER NEET-UG 2026 Updation:Christian Minority List Revised NRI Merit List",
@@ -2295,15 +2293,6 @@
         "date": "22/12/2025",
         "sortTs": null,
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "4ffd686739f9cfe2",
-        "title": "Regarding vacancy position of seats for special stray round for MBBS courses",
-        "link": "https://bfuhs.ac.in/MBBS2025/seats%20MBBS%2019.12.2025.pdf",
-        "date": "19/12/2025",
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
