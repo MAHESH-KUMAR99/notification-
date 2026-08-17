@@ -1900,9 +1900,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T11:34:17.371Z",
+    "lastUpdatedDate": "2026-08-17T12:52:21.441Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9e794818753a29f7",
+        "title": "17-08-2026: MBBS-BDS-2026-27- ADVISORY TO CANDIDATES-Certain instructions issued with regard to Web-options MDS CQ DETAILED NOTIFICATION 2026-27 MDS CQ PROSPECTUS -2026-27 MDS CQ User Manual 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20260817175343810.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T12:52:21.441Z"
+      },
       {
         "id": "f0e0521825c2296d",
         "title": "17-08-2026: MDS CQ DETAILED NOTIFICATION 2026-27 MDS CQ PROSPECUTS-2026-27 MDS CQ User Manual 2026-27",
@@ -2079,15 +2089,6 @@
         "date": "25/02/2026",
         "sortTs": null,
         "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "4fb3ec74b95f942e",
-        "title": "24-02-2026: PG (Medical) CQ 2025-26 - Provisional College Wise Allotments List of Stray Vacancy Round B.SC.(Nursing) 4 YDC 2025-26 - MQ Special Stray round-2 - College-wise allotments",
-        "link": "https://drntr.uhsap.in/index/notification/20260224180207613.pdf",
-        "date": "24/02/2026",
-        "sortTs": null,
-        "batchIndex": 11,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
