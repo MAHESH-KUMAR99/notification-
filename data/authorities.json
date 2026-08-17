@@ -1900,9 +1900,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T14:32:08.205Z",
+    "lastUpdatedDate": "2026-08-17T11:34:17.371Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f0e0521825c2296d",
+        "title": "17-08-2026: MDS CQ DETAILED NOTIFICATION 2026-27 MDS CQ PROSPECUTS-2026-27 MDS CQ User Manual 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20260817163605023.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T11:34:17.371Z"
+      },
       {
         "id": "44b268724023c069",
         "title": "14-08-2026: MBBS & BDS CQ 2026-27 Notice to Scouts & Guides Candidates MBBS & BDS-2026-27- CQ-NOTICE FOR EXAMINATION OF PERSONS WITH DISABILITIES (PwBD) CANDIDATES MBBS & BDS _CQ 2026-27 Notification for Physical verification of original certificates of NCC candidates",
@@ -2078,15 +2088,6 @@
         "date": "24/02/2026",
         "sortTs": null,
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "949f4e3a5e4f68cd",
-        "title": "23-02-2026: B.Sc.(Nursing) 4 YDC 2025-26 - MQ Special Stray round - Addendum to the Final Merit List PG (Medical) MQ 2025-26 - List of Eligible Candidates under Institutional (S3) Quota for Stray vacancy round PG (Medical) MQ 2025-26 - Final Eligible Candidates list to Exercise web options for Stray Vacancy round PG (Medical) MQ 2025-26 - Web Options Notification for Stray Vacancy Round B.Sc.(Nursing) 4 YD course 2026-27 - Public Notice",
-        "link": "https://drntr.uhsap.in/index/notification/20260224160908307.pdf",
-        "date": "24/02/2026",
-        "sortTs": null,
-        "batchIndex": 12,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -6155,9 +6156,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T11:00:38.463Z",
+    "lastUpdatedDate": "2026-08-17T11:36:18.069Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c56f68f58d1ee373",
+        "title": "SCHEDULE OF 2nd COUNSELLING BACHELOR OF CLINICAL PSYCHOLOGY , CET CODE-163 A.S:2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608172019844077.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T11:36:18.069Z"
+      },
       {
         "id": "bc59849e56d03e0a",
         "title": "IMPORTANT NOTIFICATION FOR NEET UG 2026 QUALIFIED CANDIDATES FOR OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH REGISTRATION AND MANDATORY UPLOADING OF EDUCATIONAL TESTIMONIALS, RESERVED CATEGORY D",
@@ -6189,6 +6200,16 @@
         "detectedAt": "2026-08-17T07:04:43.636Z"
       },
       {
+        "id": "c352bfc675ac15e4",
+        "title": "TENTATIVE VACANT SEATS FOR SPOT ROUND 02 ONLINE FOR LLB (CODE-121) AS ON 17.08.2026 FOR THE A.S:2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171685802636.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-17T11:36:18.069Z"
+      },
+      {
         "id": "1acc58d429c32ec9",
         "title": "SCHEDULE FOR SPOT ROUND 02 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND; FOR BA LLB/ BBA LLB PROG for the A.S:2026-27_dated-17.08.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260817643332633.pdf",
@@ -6207,6 +6228,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-17T08:10:28.728Z"
+      },
+      {
+        "id": "185cc455a84fc2c3",
+        "title": "EXTENSION of SCHEDULE FOR SPOT ROUND 2 (ONLINE) COUNSELLING: FOLLOWED BY OFFLINE ROUND: FOR B.TECH/BBA/BCA and B.COM (H) PROG. through NLT/CET for the A.S:2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260817560435642.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-17T11:36:18.069Z"
       },
       {
         "id": "30b1ca4ffb89ace2",
@@ -6327,36 +6358,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T14:01:06.024Z"
-      },
-      {
-        "id": "658796bf5260dfc5",
-        "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T11:24:31.534Z"
-      },
-      {
-        "id": "db0ec4a7a1b26c2d",
-        "title": "EXTENSION OF DATE OF SUMBISSION OF ONLINE APPLICATION FORM FOR CUET IN (UG) PROG. FOR A.S:2026-27_dated-13.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813474309857.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T06:59:49.601Z"
-      },
-      {
-        "id": "a9ad8a0bdc0e3a1d",
-        "title": "SPOT ROUND SCHEDULE FOR MBA (CODE-101)/ MCA (CODE-105) ONLINE COUNSELLING FOLLOWED BY SLIDING ROUND FOR THE ACADEMIC SESSION 2026-27_dated-13.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813832858778.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-14T05:59:53.067Z"
       }
     ]
   },
