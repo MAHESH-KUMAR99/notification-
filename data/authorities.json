@@ -3178,9 +3178,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T13:19:33.619Z",
+    "lastUpdatedDate": "2026-08-17T16:37:53.238Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:0e09040cb22b46c0",
+        "title": "DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/Draft_merit_list.html",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T16:37:53.238Z"
+      },
+      {
+        "id": "OVERALL:b543dabdb6884dd8",
+        "title": "NOTICE : DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YI1fo_cbnap0KAKqD_Bi1SyURdyiFF79/view?usp=sharing",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-17T16:37:53.238Z"
+      },
+      {
+        "id": "UG NEET:0e09040cb22b46c0",
+        "title": "DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/Draft_merit_list.html",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 190,
+        "detectedAt": "2026-08-17T16:37:53.238Z"
+      },
+      {
+        "id": "UG NEET:b543dabdb6884dd8",
+        "title": "NOTICE : DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YI1fo_cbnap0KAKqD_Bi1SyURdyiFF79/view?usp=sharing",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 191,
+        "detectedAt": "2026-08-17T16:37:53.238Z"
+      },
       {
         "id": "OVERALL:b76adf27e3e04896",
         "title": "SEAT MATRIX FOR UG NEET COURSES (M.B.B.S., B.D.S., B.A.M.S.) FOR GOVERNMENT AND SELF-FINANCING COLLEGES",
@@ -3340,46 +3380,6 @@
         "source": "Direct from Website",
         "batchIndex": 126,
         "detectedAt": "2026-08-13T16:31:16.051Z"
-      },
-      {
-        "id": "UG NON-NEET:dd6d4767f92e89dc",
-        "title": "NOTICE : ROUND 1 DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/174XTQ9Y9szfunNoW4_nIalqWVypLqMiI/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 127,
-        "detectedAt": "2026-08-13T16:31:16.051Z"
-      },
-      {
-        "id": "FINE ARTS:f44a6def61bd8a9d",
-        "title": "ROUND II DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS - VISUAL ARTS (B.V.A.) (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1kiS4jOLVyPsSaI2TcWzSExJTn_lpjBKn/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 186,
-        "detectedAt": "2026-08-13T12:17:59.144Z"
-      },
-      {
-        "id": "FINE ARTS:f732741ad3a48ca6",
-        "title": "UPDATED FINAL MERIT LIST FOR FINE ARTS COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1fynu6oCd-fjK7Oif3GCVSAer12QpMC9_/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 187,
-        "detectedAt": "2026-08-13T12:17:59.144Z"
-      },
-      {
-        "id": "FINE ARTS:1d105732502ab268",
-        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 2 DRAFT ALLOTMENT LIST FOR VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/15n9sQTmQUy1ZNXa6gGpRzSkcQ5b-y-1N/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 188,
-        "detectedAt": "2026-08-13T12:17:59.144Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
