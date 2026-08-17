@@ -6155,9 +6155,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T07:04:43.636Z",
+    "lastUpdatedDate": "2026-08-17T08:10:28.728Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4cbf31b8ee255ceb",
+        "title": "FINAL OPPORTUNITY FOR FILLING UP OF ONLINE APPLICATION/ REGISTRATION FORMS FOR EXTENDED OPEN HOUSE OFFLINE COUNSELLING OF B.ARCH, PROG. (CODE-100) A.S: 2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/2026081799329093.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T08:10:28.728Z"
+      },
       {
         "id": "ce3ec5470d1bd779",
         "title": "Corrigendum regarding Schedule of Spot Round 2 B.Tech, BCA, B.COM and BBA/BBA-MBA integrated_dated-17.08.2026",
@@ -6167,6 +6177,36 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-17T07:04:43.636Z"
+      },
+      {
+        "id": "aba9834f07b9b338",
+        "title": "CUET MERIT LIST OF MA(MASS COMMUNICATION) CODE-106 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171358324035.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-17T08:10:28.728Z"
+      },
+      {
+        "id": "30b1ca4ffb89ace2",
+        "title": "CUET MERIT LIST OF MA(ENGLISH) CODE-113 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171701958181.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-17T08:10:28.728Z"
+      },
+      {
+        "id": "9ab1eb754e106a94",
+        "title": "CUET MERIT LIST OF MA(ECONOMICS) CODE-162 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171355981140.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-17T08:10:28.728Z"
       },
       {
         "id": "70c3abfe88e7ecff",
@@ -6317,46 +6357,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-13T11:24:31.534Z"
-      },
-      {
-        "id": "c695b982fee60603",
-        "title": "SCHEDULE FOR SPOT ROUND OF ONLINE COUNSELLING BA(JMC)(CODE-126) and BA(ENG)(CODE-184) FOR THE A.S:2026-27_dated-13.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131262384254.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-13T11:24:31.534Z"
-      },
-      {
-        "id": "7958b695310d2147",
-        "title": "Decision of the Sports Grievance Redressal Committee",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608121332730210.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T16:03:33.282Z"
-      },
-      {
-        "id": "6986880b59ca4863",
-        "title": "SCHEDULE OFFLINE COUNSELLING “SPORTS QUOTA”ALLOTMENT OF SEATS AGAINST SEATS RESERVED IN UG/PG PROG. OFFERED AT USS/CENTRES OF EXCELLENCE A.S:2026-27_dated-12.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812523926617.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T11:53:04.386Z"
-      },
-      {
-        "id": "932110adfea9b936",
-        "title": "Extension of Date Payment of Part Academic Fee: LLM/ B.Ed./BA(ECO)/LLB ONLINE COUNSELLING SCHEDULE FOR SPOT ROUND FOLLOWED BY SLIDING ROUND and Reporting for the A.S:2026-27_dated-12.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812329475241.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T10:38:17.801Z"
       }
     ]
   },
@@ -6569,9 +6569,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T11:28:27.727Z",
+    "lastUpdatedDate": "2026-08-17T08:13:20.330Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "00f6b43177888253",
+        "title": "ADMISSION TO MBBS AND BDS COURSES-2026: OPTION REGISTRATION FACILITY OPENED.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/201/Upload1",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T08:13:20.330Z"
+      },
       {
         "id": "2c9e8eb2e87115ee",
         "title": "ADMISSION TO MBBS AND BDS COURSES-2026 ONLINE OPTIONS INVITED",
@@ -6581,6 +6591,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-15T11:28:27.727Z"
+      },
+      {
+        "id": "c5ef9b1f81625b64",
+        "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES –2026: PROVISIONAL CATEGORY LIST (EXCEPT NRI) PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/200/Upload1",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-17T08:13:20.330Z"
       },
       {
         "id": "cd9f9c040fead728",
@@ -6755,28 +6775,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-07T12:15:47.441Z"
-      },
-      {
-        "id": "f3eda8b36084477f",
-        "title": "ഫാർമസി കോഴ്‌സിലേക്കുള്ള പ്രവേശനം രണ്ടാംഘട്ട അലോട്ട്മെന്റിലേക്ക് പുതുതായി ഉൾപ്പെടുത്തിയ കോളേജുകൾ",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/175/Upload1",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Admission to Pharmacy Course Newly Inducted Colleges for Second Phase Allotment",
-        "titleLang": "ml",
-        "detectedAt": "2026-08-06T15:02:04.526Z"
-      },
-      {
-        "id": "bd5cd484f90c46e9",
-        "title": "Centralised Second Phase Allotment To Pharmacy",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/172/Upload1",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-06T10:16:37.711Z"
       }
     ]
   },
