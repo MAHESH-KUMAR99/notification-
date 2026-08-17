@@ -5362,9 +5362,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T11:53:35.321Z",
+    "lastUpdatedDate": "2026-08-17T10:11:07.601Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:f5875610efe629a7",
+        "title": "Notice regarding Updating of Wards of Ex-Servicemen/Wives of Defence Personnel/EWS Category Certificates/Priority of by eligible candidates and Extension of Last Date for Submission of 1st Round Online Applications for MBBS/BDS Counselling 2026-27 up to 18.08.2026 till 05:00 PM",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Merged-date-extend-notice-and-correction-notice.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T10:11:07.601Z"
+      },
       {
         "id": "MBBS/BDS Counselling:23880ba083374cec",
         "title": "Notice regarding MBBS/BDS Application forms 2026-27",
@@ -5553,16 +5563,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 13,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:963df5b0dbd95624",
-        "title": "Revised Provisional seat vacancy for MBBS/BDS Stray Round counselling 2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Revied-Provisional-seat-vacancy-for-stray-round-counselling-2025-Copy.pdf",
-        "date": "15/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 14,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
