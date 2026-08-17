@@ -6155,9 +6155,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T08:10:28.728Z",
+    "lastUpdatedDate": "2026-08-17T11:00:38.463Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bc59849e56d03e0a",
+        "title": "IMPORTANT NOTIFICATION FOR NEET UG 2026 QUALIFIED CANDIDATES FOR OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH REGISTRATION AND MANDATORY UPLOADING OF EDUCATIONAL TESTIMONIALS, RESERVED CATEGORY D",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260817875294536.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T11:00:38.463Z"
+      },
       {
         "id": "4cbf31b8ee255ceb",
         "title": "FINAL OPPORTUNITY FOR FILLING UP OF ONLINE APPLICATION/ REGISTRATION FORMS FOR EXTENDED OPEN HOUSE OFFLINE COUNSELLING OF B.ARCH, PROG. (CODE-100) A.S: 2026-27_dated-17.08.2026",
@@ -6177,6 +6187,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-17T07:04:43.636Z"
+      },
+      {
+        "id": "1acc58d429c32ec9",
+        "title": "SCHEDULE FOR SPOT ROUND 02 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND; FOR BA LLB/ BBA LLB PROG for the A.S:2026-27_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260817643332633.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-17T11:00:38.463Z"
       },
       {
         "id": "aba9834f07b9b338",
@@ -6337,26 +6357,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-14T05:59:53.067Z"
-      },
-      {
-        "id": "7b32fa44a7d3a86b",
-        "title": "CUET MERIT LIST FOR B.TECH (CODE-131) FOR THE A.S:2026-27_dated-13.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131308110242.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T11:24:31.534Z"
-      },
-      {
-        "id": "d8e87808cd0bf092",
-        "title": "ROUND 01 Schedule of activities pertaining to declaration of result of PARAMEDICAL (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(SE) for the A.S:2026-27_dated-13.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260813155804433.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-13T11:24:31.534Z"
       }
     ]
   },
