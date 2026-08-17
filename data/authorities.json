@@ -4240,9 +4240,33 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T15:49:27.950Z",
+    "lastUpdatedDate": "2026-08-17T07:03:50.837Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2423c0d212751987",
+        "title": ": नवीन शासकीय फिजियोथेरेपी महाविद्यालयों में तृतीय एवं चतुर्थ श्रेणी के विभिन्न पदों पर संविदा भर्ती हेतु विज्ञापन.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2163",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": ": Advertisement for contractual recruitment on various posts of third and fourth class in new government physiotherapy colleges.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-17T07:03:50.837Z"
+      },
+      {
+        "id": "2b837daa7711d56d",
+        "title": ": नवीन शासकीय नर्सिंग महाविद्यालयों में तृतीय श्रेणी के विभिन्न पदों पर संविदा भर्ती हेतु विज्ञापन.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2162",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": ": Advertisement for contractual recruitment on various posts of third class in new government nursing colleges.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-17T07:03:50.837Z"
+      },
       {
         "id": "5311dff989414cc3",
         "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु अभिषेक आई मिश्रा मेमोरियल मेडिकल कॉलेज एंड रिसर्च, जुनवानी, भिलाई एवं माँ पद्मावती इंस्टीट्यूट ऑफ मेडिकल साइंसेज़, पचेड़ा, रायपुर की एम.बी.बी.एस. सीटों में वृद्धि के संबंध में सूचना.....More",
@@ -4438,28 +4462,6 @@
         "titleEn": "Expression of Interest Sl. 189345 (EOI No. 189345) Notice of Pre-Bid Clarification and Extension of Tender Period |.....More",
         "titleLang": "sa",
         "detectedAt": "2026-07-21T12:09:50.632Z"
-      },
-      {
-        "id": "c57e42e88c49e1f4",
-        "title": "छत्तीसगढ़ एलाइड परिषद के सदस्यों को नामित करने हेतु प्राप्त आवेदनों की अंतिम पात्रता सूची।.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2142",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Final eligibility list of applications received for nominating members of Chhattisgarh Allied Council.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-20T13:27:38.612Z"
-      },
-      {
-        "id": "d49c1976c7caa008",
-        "title": "नर्सिंग पाठ्यक्रम प्रवेश वर्ष 2026 के काउंसिलिंग प्रक्रिया में सम्मिलित होने के लिए संबधित संस्थाओं से आमंत्रित ऑनलाईन जानकारी में तिथि वृद्धि सूचना.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2141",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Date extension notice in the online information inviting concerned institutions to participate in the counseling process for Nursing course admission year 2026.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-20T08:25:50.866Z"
       }
     ]
   },
@@ -6153,9 +6155,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T11:50:39.928Z",
+    "lastUpdatedDate": "2026-08-17T07:04:43.636Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ce3ec5470d1bd779",
+        "title": "Corrigendum regarding Schedule of Spot Round 2 B.Tech, BCA, B.COM and BBA/BBA-MBA integrated_dated-17.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171233683044.pdf",
+        "date": "17/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-17T07:04:43.636Z"
+      },
       {
         "id": "70c3abfe88e7ecff",
         "title": "Tentative Vacant Seats for SPOT ROUND 02 ONLINE FOR BBA PRG (Code-125) as on 14.08.2026 by 04:00 P.M. FOR THE A.S:2026-27.",
@@ -6345,16 +6357,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-12T10:38:17.801Z"
-      },
-      {
-        "id": "a3beb85d699a6e05",
-        "title": "Fee Structure for Programme MBA (Fire and Industrial Safety)(Weekend) (Code-185) for the A.S:2026-27_dated-12.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260812499119446.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T09:17:48.586Z"
       }
     ]
   },
