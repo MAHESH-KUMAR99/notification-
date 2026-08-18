@@ -6157,9 +6157,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T11:36:18.069Z",
+    "lastUpdatedDate": "2026-08-18T11:30:48.666Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d4acb48b7b8ffabf",
+        "title": "SCHEDULE OF 2nd COUNSELLING MASTER IN CLINICAL PSYCHOLOGY (CET CODE-166) ADMISSION SESSION: 2026-27_dated-18.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260818650161918.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T11:30:48.666Z"
+      },
       {
         "id": "c56f68f58d1ee373",
         "title": "SCHEDULE OF 2nd COUNSELLING BACHELOR OF CLINICAL PSYCHOLOGY , CET CODE-163 A.S:2026-27_dated-17.08.2026",
@@ -6349,16 +6359,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-14T11:50:39.928Z"
-      },
-      {
-        "id": "fe768494c6267075",
-        "title": "Tentative overall Merit of the Appicant for admission under Sports Quota for B.Tech Programme, B.Com(H), B.Tech.(BT), BA(ECO) BA(JMC) BA/BBA LLB, BBA, and B.Design Programme A.S:2026-27_dated-13.08.20",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608131258038834.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T14:01:06.024Z"
       }
     ]
   },
@@ -6571,9 +6571,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T10:38:14.386Z",
+    "lastUpdatedDate": "2026-08-18T11:33:47.253Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ab12afa347aaed0c",
+        "title": "Third Phase Allotment To Pharmacy Course Provisional List Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/207/Upload1",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T11:33:47.253Z"
+      },
       {
         "id": "86bf1d4b4ee62a0b",
         "title": "Seat Matrix for MBBS and BDS Courses in Self-Financing Medical/Dental Colleges",
@@ -6767,16 +6777,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-10T14:43:06.725Z"
-      },
-      {
-        "id": "1f344f0623ca1252",
-        "title": "MEDICAL/MEDICAL ALLIED COURSES- NEET Score Submission & Defect Rectification- Last Date Extended",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/182/Upload1",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-10T10:50:14.473Z"
       }
     ]
   },
