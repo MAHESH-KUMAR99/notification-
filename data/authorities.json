@@ -4243,9 +4243,29 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T07:03:50.837Z",
+    "lastUpdatedDate": "2026-08-18T15:36:40.678Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1f8358317eae9aa1",
+        "title": ": CG STATE NEET UG -2026 ROUND-1 COUNSELLING LIST OF ELIGIBLE CANDIDATES FOR NRI QUOTA.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2165",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T15:36:40.678Z"
+      },
+      {
+        "id": "202852235ece63db",
+        "title": ": CHHATTISGARH STATE NEET-UG (MBBS & BDS)-2026 MERIT LIST-ROUND 1.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2164",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-18T15:36:40.678Z"
+      },
       {
         "id": "2423c0d212751987",
         "title": ": नवीन शासकीय फिजियोथेरेपी महाविद्यालयों में तृतीय एवं चतुर्थ श्रेणी के विभिन्न पदों पर संविदा भर्ती हेतु विज्ञापन.....More",
@@ -4445,26 +4465,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T16:57:29.547Z"
-      },
-      {
-        "id": "186bf9b173d2b3b8",
-        "title": "Final list of eligible candidates shortlisted for Document Verification and Interview after disposal of claims and objections for the post of Assistant Professor (Physiotherapy)......More",
-        "link": "https://www.cgdme.in/notice.php?id=2145",
-        "date": "21/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-21T16:25:39.688Z"
-      },
-      {
-        "id": "0c8f5e5dcc3a4d5b",
-        "title": "रूचि की अभिव्यक्ति क्र. 189345 (EOI No. 189345) मे Pre-Bid Clarification एवं निविदा अवधि मे वृद्धि सूचना |.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2143",
-        "date": "21/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Expression of Interest Sl. 189345 (EOI No. 189345) Notice of Pre-Bid Clarification and Extension of Tender Period |.....More",
-        "titleLang": "sa",
-        "detectedAt": "2026-07-21T12:09:50.632Z"
       }
     ]
   },
