@@ -1900,9 +1900,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T12:52:21.441Z",
+    "lastUpdatedDate": "2026-08-18T13:45:55.444Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a1fd5f1ac6a4f302",
+        "title": "18-08-2026: MBBS-BDS- 2026-27-CQ- NOTIFICATION - ADMISSIONS INTO MBBS & BDS COURSES",
+        "link": "https://drntr.uhsap.in/index/notification/20260818182502800.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T13:45:55.444Z"
+      },
       {
         "id": "9e794818753a29f7",
         "title": "17-08-2026: MBBS-BDS-2026-27- ADVISORY TO CANDIDATES-Certain instructions issued with regard to Web-options MDS CQ DETAILED NOTIFICATION 2026-27 MDS CQ PROSPECTUS -2026-27 MDS CQ User Manual 2026-27",
@@ -2080,15 +2090,6 @@
         "date": "27/02/2026",
         "sortTs": null,
         "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "f15fc3ff59547a04",
-        "title": "25-02-2026: PG (Medical) MQ 2025-26 - Final College Wise Allotments List of Stray Vacancy Round PG (Medical) CQ 2025-26 -Final College Wise Allotments List of Stray Vacancy Round",
-        "link": "https://drntr.uhsap.in/index/notification/20260225175109520.pdf",
-        "date": "25/02/2026",
-        "sortTs": null,
-        "batchIndex": 10,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
