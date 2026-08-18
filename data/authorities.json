@@ -6571,9 +6571,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T09:43:54.109Z",
+    "lastUpdatedDate": "2026-08-18T10:38:14.386Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "86bf1d4b4ee62a0b",
+        "title": "Seat Matrix for MBBS and BDS Courses in Self-Financing Medical/Dental Colleges",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/206/Upload1",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T10:38:14.386Z"
+      },
       {
         "id": "0d973bd7aa7fc09b",
         "title": "Admission To Medical And Medical Allied Courses Final Category List (Except NRI) Published",
@@ -6767,16 +6777,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-10T10:50:14.473Z"
-      },
-      {
-        "id": "1c1c5ce06887f9b8",
-        "title": "Provisional List Of Second Phase Allotment To Pharmacy Course Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/180/Upload1",
-        "date": "08/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-08T11:38:47.204Z"
       }
     ]
   },
