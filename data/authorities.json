@@ -6787,7 +6787,7 @@
     "category": "state",
     "officialLink": "https://www.meghealth.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T07:36:36.452Z",
+    "lastUpdatedDate": "2026-08-18T06:52:24.912Z",
     "pinned": false,
     "notices": [
       {
@@ -6817,6 +6817,16 @@
         "sortTs": 20121782400000,
         "batchIndex": 0,
         "detectedAt": "2026-07-14T11:57:19.979Z"
+      },
+      {
+        "id": "19aba30ad7b844b9",
+        "title": "Notice - Results of the Interview for the post of OBB Accountant under DHS (MCH&FW), Shillong",
+        "link": "https://www.meghealth.gov.in/news/2026-08-18-Results%20-%20OBB%20Accountant.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T06:52:24.912Z"
       },
       {
         "id": "48734e6ff67745e6",
@@ -6975,15 +6985,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T16:57:54.672Z"
-      },
-      {
-        "id": "7f46c84439d83170",
-        "title": "Advertisement for the post of OBB Accountant under DHS (MCH&FW)",
-        "link": "https://www.meghealth.gov.in/news/Advertisement%20for%20the%20post%20of%20OBB%20ACCOUNTANT%20-%20DHS%20MCH&FW.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T15:21:37.365Z"
       }
     ]
   },
