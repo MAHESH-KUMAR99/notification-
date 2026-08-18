@@ -6571,9 +6571,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T08:13:20.330Z",
+    "lastUpdatedDate": "2026-08-18T09:43:54.109Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0d973bd7aa7fc09b",
+        "title": "Admission To Medical And Medical Allied Courses Final Category List (Except NRI) Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/205/Upload1",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T09:43:54.109Z"
+      },
       {
         "id": "00f6b43177888253",
         "title": "ADMISSION TO MBBS AND BDS COURSES-2026: OPTION REGISTRATION FACILITY OPENED.",
@@ -6767,16 +6777,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-08T11:38:47.204Z"
-      },
-      {
-        "id": "8bafce0b2d6d4980",
-        "title": "Admission to Medical & Medical Allied Courses: List of defective applications has been published. Last date for rectifying defects and submitting NEET score: 10.08.2026, 12.00 noon. Candidates shall rectify defects/submit NEET score through the Candidate Portal within the deadline.",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/178/Upload1",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T12:15:47.441Z"
       }
     ]
   },
