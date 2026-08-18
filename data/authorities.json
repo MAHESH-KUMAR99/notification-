@@ -1380,9 +1380,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T12:44:15.231Z",
+    "lastUpdatedDate": "2026-08-18T08:41:08.915Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "30dab521499d857b",
+        "title": "NOTIFICATION FOR EXTENSION OF ONLINE COUNSELLING REGISTRATION, CHOICE FILLING AND LOCKING TILL 5 PM OF 20-08-2026",
+        "link": "https://tnmedicalselection.net/news/18082026005928.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T08:41:08.915Z"
+      },
       {
         "id": "bb33330a797c7cba",
         "title": "Mandatory pre counselling Fee disclosure by Self-Financing Medical and Dental Institutions has directed by the Hon’ble Supreme Court",
@@ -1572,16 +1582,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-12T14:37:25.434Z"
-      },
-      {
-        "id": "28826a9cbc81e6a4",
-        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
-        "link": "https://tnmedicalselection.net/news/12082026052135.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-12T13:18:33.063Z"
       }
     ]
   },
@@ -2500,9 +2500,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-11T13:59:59.352Z",
+    "lastUpdatedDate": "2026-08-18T08:44:40.327Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:f489853406b543d4",
+        "title": "Notice for Revised Second Round Seat allotment result of BCECE[ENGINEERING]-2026 (Adv. No. BCECEB(BCECE)-2026/10 Dated 18.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_10.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T08:44:40.327Z"
+      },
       {
         "id": "Latest Updates:1cc94554375143c3",
         "title": "Schedule for offline Mop-Up Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/11 Dated 11.08.2026)",
@@ -2691,16 +2701,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 1,
-        "detectedAt": "2026-07-22T08:35:48.216Z"
-      },
-      {
-        "id": "Latest Updates:9bb10784b779b408",
-        "title": "Notice for First Counselling of Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/08 Dated 22.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_08.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 2,
         "detectedAt": "2026-07-22T08:35:48.216Z"
       },
       {
