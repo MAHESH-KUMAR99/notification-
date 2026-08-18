@@ -1592,9 +1592,19 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-15T07:37:58.772Z",
+    "lastUpdatedDate": "2026-08-18T12:56:52.782Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Instructions:94f686120373bea5",
+        "title": "Notice regarding NMC Addendum and Appellate Boards (PwBD) -18.08.2026",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/PWD%20CENTERS%20LIST_26.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-18T12:56:52.782Z"
+      },
       {
         "id": "Latest Instructions:467cf353eb7148cb",
         "title": "Fee Details of Government & Private Medical/Dental Colleges of M.P. STATE COMBINED NEET U.G. Counselling (MBBS/BDS) 2026 (Dated 15/08/2026)",
@@ -1786,16 +1796,6 @@
         "source": "Latest Instructions",
         "batchIndex": 8,
         "detectedAt": "2026-08-11T10:29:45.481Z"
-      },
-      {
-        "id": "Latest Instructions:46458516043a586e",
-        "title": "Proforma for counselling MP State Combined NEET UG Counselling 2026-27 ( Dated 04.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/UG%20Proforma%202026_8.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T16:00:11.135Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
@@ -2500,9 +2500,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T08:44:40.327Z",
+    "lastUpdatedDate": "2026-08-18T12:56:45.229Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:fa2d8344b58d3844",
+        "title": "Important Notice for Registration-cum-Choice Filling for Admission in Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/02 Dated 18.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_02.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T12:56:45.229Z"
+      },
       {
         "id": "Latest Updates:f489853406b543d4",
         "title": "Notice for Revised Second Round Seat allotment result of BCECE[ENGINEERING]-2026 (Adv. No. BCECEB(BCECE)-2026/10 Dated 18.08.2026)",
@@ -2512,6 +2522,16 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-08-18T08:44:40.327Z"
+      },
+      {
+        "id": "Latest Updates:a344886909f393a1",
+        "title": "Details for Registration-cum-Choice Filling for Admission in Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/01 Dated 18.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_01.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-18T12:56:45.229Z"
       },
       {
         "id": "Latest Updates:1cc94554375143c3",
@@ -2682,26 +2702,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-07-23T11:27:44.182Z"
-      },
-      {
-        "id": "Latest Updates:8ca13af4865214c1",
-        "title": "Notice for First Counselling of Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/04 Dated 22.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_04.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T08:35:48.216Z"
-      },
-      {
-        "id": "Latest Updates:a47b66a8def27bf7",
-        "title": "Details of First Counselling of Post Graduate [PGEAC-2026] (M. Tech.) Course in Government Engineering Colleges of Bihar on the basis of Gate Qualified(Adv. No. BCECEB(PGEAC)-2026/03 Dated 22.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_03.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-22T08:35:48.216Z"
       },
       {
         "id": "UGMAC:60fb67ead7e4cacd",
@@ -3178,9 +3178,109 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T16:37:53.238Z",
+    "lastUpdatedDate": "2026-08-18T12:58:24.316Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:80a955bce04c1bad",
+        "title": "DRAFT MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/draft_merit_list.html",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "OVERALL:af7a067eddbd327a",
+        "title": "NOTICE : DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hQdnDIzv-S7VhWYeaF6yw-yedeVOhkd3/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "OVERALL:0b9ffdbed60f1585",
+        "title": "ROUND II DRAFT ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1AtPyVCF1fBfqPphYq5tksPho6WCpCoIt/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "OVERALL:81090627b77c7f1e",
+        "title": "UPDATED FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1eJRGvMmwQB3RWy6ms8l1Wxm4o-ruaRGL/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "OVERALL:a9b9b564faf93e85",
+        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR B.ARCH. IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1RsAJNBEkha4jX8YMcjEla2lELOH-46-y/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "PG DENTAL:80a955bce04c1bad",
+        "title": "DRAFT MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/draft_merit_list.html",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 131,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "PG DENTAL:af7a067eddbd327a",
+        "title": "NOTICE : DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hQdnDIzv-S7VhWYeaF6yw-yedeVOhkd3/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 132,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "B.ARCH.:0b9ffdbed60f1585",
+        "title": "ROUND II DRAFT ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1AtPyVCF1fBfqPphYq5tksPho6WCpCoIt/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 230,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "B.ARCH.:81090627b77c7f1e",
+        "title": "UPDATED FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1eJRGvMmwQB3RWy6ms8l1Wxm4o-ruaRGL/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 231,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
+      {
+        "id": "B.ARCH.:a9b9b564faf93e85",
+        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR B.ARCH. IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1RsAJNBEkha4jX8YMcjEla2lELOH-46-y/view?usp=sharing",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 232,
+        "detectedAt": "2026-08-18T12:58:24.316Z"
+      },
       {
         "id": "OVERALL:0e09040cb22b46c0",
         "title": "DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
@@ -3280,106 +3380,6 @@
         "source": "Direct from Website",
         "batchIndex": 129,
         "detectedAt": "2026-08-14T09:16:41.076Z"
-      },
-      {
-        "id": "UG NON-NEET:6ec4079b3a248b64",
-        "title": "OVERALL LIST OF CANDIDATES APPLIED FOR NON NEET COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1gRF_93Cowlkhb5qQlCNlo5AZzWAL2TmL/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 130,
-        "detectedAt": "2026-08-14T09:16:41.076Z"
-      },
-      {
-        "id": "UG NEET:b76adf27e3e04896",
-        "title": "SEAT MATRIX FOR UG NEET COURSES (M.B.B.S., B.D.S., B.A.M.S.) FOR GOVERNMENT AND SELF-FINANCING COLLEGES",
-        "link": "https://drive.google.com/file/d/1UIkGn8coj_bqXvw5DUW_3d9waN-9aOpY/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 188,
-        "detectedAt": "2026-08-14T13:19:33.619Z"
-      },
-      {
-        "id": "OVERALL:1c953a9a40c1cf2e",
-        "title": "ROUND 1 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1FVGhkLOkEfmsOCAR6HX2HmZV8WiX-6Jk/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T16:31:16.051Z"
-      },
-      {
-        "id": "OVERALL:f44a6def61bd8a9d",
-        "title": "ROUND II DRAFT ALLOTMENT LIST FOR BHARATHIYAR PALKALAIKOODAM PERFORMING ARTS - VISUAL ARTS (B.V.A.) (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1kiS4jOLVyPsSaI2TcWzSExJTn_lpjBKn/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T12:17:59.144Z"
-      },
-      {
-        "id": "OVERALL:04a442186a8f7fcc",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES ROUND 1 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_1_eligible_list.html",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T16:31:16.051Z"
-      },
-      {
-        "id": "OVERALL:f732741ad3a48ca6",
-        "title": "UPDATED FINAL MERIT LIST FOR FINE ARTS COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1fynu6oCd-fjK7Oif3GCVSAer12QpMC9_/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T12:17:59.144Z"
-      },
-      {
-        "id": "OVERALL:dd6d4767f92e89dc",
-        "title": "NOTICE : ROUND 1 DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/174XTQ9Y9szfunNoW4_nIalqWVypLqMiI/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-13T16:31:16.051Z"
-      },
-      {
-        "id": "OVERALL:1d105732502ab268",
-        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 2 DRAFT ALLOTMENT LIST FOR VISUAL ARTS AT BHARATHIYAR PALKALAIKOODAM FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/15n9sQTmQUy1ZNXa6gGpRzSkcQ5b-y-1N/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-13T12:17:59.144Z"
-      },
-      {
-        "id": "UG NON-NEET:1c953a9a40c1cf2e",
-        "title": "ROUND 1 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1FVGhkLOkEfmsOCAR6HX2HmZV8WiX-6Jk/view?usp=sharing",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 125,
-        "detectedAt": "2026-08-13T16:31:16.051Z"
-      },
-      {
-        "id": "UG NON-NEET:04a442186a8f7fcc",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES ROUND 1 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_1_eligible_list.html",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 126,
-        "detectedAt": "2026-08-13T16:31:16.051Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -7210,9 +7210,39 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T09:13:44.505Z",
+    "lastUpdatedDate": "2026-08-18T12:55:22.182Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "19f0158e8c6bd387",
+        "title": "State-Counselling-for-MBBS-and-allied-Medical-courses-2026-27",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/State-Counselling-for-MBBS-and-allied-Medical-courses-2026-27.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-18T12:55:22.182Z"
+      },
+      {
+        "id": "275a66fd1fd3bcec",
+        "title": "NEET-UG-MERIT-LIST-updated",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEET-UG-MERIT-LIST-updated-on-18-8-2026.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-18T12:55:22.182Z"
+      },
+      {
+        "id": "4af1fd6cbebe1afc",
+        "title": "NEET-UG-Rejected-List-updated",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEET-UG-Rejected-List-updated-on-18-8-2026.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-18T12:55:22.182Z"
+      },
       {
         "id": "f4396afc36737d0e",
         "title": "EWS Open NE MBBS seats 2026 RIMS Imphal",
@@ -7380,33 +7410,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-21T07:11:38.383Z"
-      },
-      {
-        "id": "d8c5dcbc77ee18d5",
-        "title": "Notification CUET",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/CUET-2026.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-20T11:24:08.162Z"
-      },
-      {
-        "id": "cdccb906f3b69ce2",
-        "title": "CUET MERIT LIST 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Final-Merit-List-selected-under-CUET-UG-2026-20th-July-2026.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-20T11:24:08.162Z"
-      },
-      {
-        "id": "a6a5d01255f1624e",
-        "title": "CUET rejected list 2026",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Rejected-List-CUET-UG-2026-20th-July-2026.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-20T11:24:08.162Z"
       }
     ]
   },
