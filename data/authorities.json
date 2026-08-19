@@ -6169,9 +6169,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T08:43:40.339Z",
+    "lastUpdatedDate": "2026-08-19T10:34:59.565Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6a7de1f174625350",
+        "title": "Fee Structure for PG Diploma in Bioinformatics at CEPS for A.S:2026-27_dated-19.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819598669037.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T10:34:59.565Z"
+      },
       {
         "id": "34777eceb6ba00ce",
         "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING for M.Ed (SE) (CET CODE-612) A.S: 2026-27_dated-19.08.2026",
@@ -6181,6 +6191,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T08:43:40.339Z"
+      },
+      {
+        "id": "5acfc27c3abdcff3",
+        "title": "ROUND 02 Commencement of process -Online Counselling Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) and B.Ed.(SE) (Code-159) Choice Filling for the Academic Session 2026-27_dated-19.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819915289325.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-19T10:34:59.565Z"
       },
       {
         "id": "d4acb48b7b8ffabf",
@@ -6351,26 +6371,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-14T07:46:05.671Z"
-      },
-      {
-        "id": "afcfcc9c2c8de7d2",
-        "title": "Tentative Vacant Seats for SPOT ROUND 02 B.TECH (CODE-131) as on 14.08.2026.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814879642373.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-14T11:50:39.928Z"
-      },
-      {
-        "id": "fcb7f775dd8b2bde",
-        "title": "SPECIAL ROUND OF OFFLINE COUNSELLING FOR MA(MC)/MA(ENG) and MA(ECO) through CET/CUET for the A.S:2026-27_dated-14.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814747984026.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-14T10:36:29.468Z"
       }
     ]
   },
