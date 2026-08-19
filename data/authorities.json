@@ -2101,9 +2101,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-16T04:09:09.050Z",
+    "lastUpdatedDate": "2026-08-19T11:28:33.848Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9b4262281ab3e2ca",
+        "title": "Date Extended for Online choice filling Revised Notice regarding fee structure of MBBS Course, session 2026-2027 of Adesh Institute of Medical Sciences & Research, Bathinda.",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Regarding%20extension%20of%20date%20for%20NEET%20UG-2026.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-19T11:28:33.848Z"
+      },
       {
         "id": "411345cbe55ba934",
         "title": "Click here to fill online choices for 1st Round of online counselling for MBBS/BDS under NEET UG 2026",
@@ -2289,15 +2299,6 @@
         "date": "24/12/2025",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "741bec3aed0aa3bf",
-        "title": "Click here to submit choices for MBBS Special Round of counselling Provisional merit list of candidates Special stray vacancy round for MBBS, NEET UG 2025",
-        "link": "http://bfuhs.smartpad.in/",
-        "date": "22/12/2025",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -3180,9 +3181,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T12:58:24.316Z",
+    "lastUpdatedDate": "2026-08-19T11:33:49.236Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:72db1b05412cb802",
+        "title": "ROUND II PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/14RE9nety9qA1Hwm59HWa2BsboKRCDOgs/view?usp=sharing",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T11:33:49.236Z"
+      },
+      {
+        "id": "OVERALL:d067278a101a19f4",
+        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.ARCH IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YbQ1lkiPf1SIWXHxNf1EjS5qNL9mdfyV/view?usp=sharing",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-19T11:33:49.236Z"
+      },
+      {
+        "id": "B.ARCH.:72db1b05412cb802",
+        "title": "ROUND II PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/14RE9nety9qA1Hwm59HWa2BsboKRCDOgs/view?usp=sharing",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 232,
+        "detectedAt": "2026-08-19T11:33:49.236Z"
+      },
+      {
+        "id": "B.ARCH.:d067278a101a19f4",
+        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.ARCH IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1YbQ1lkiPf1SIWXHxNf1EjS5qNL9mdfyV/view?usp=sharing",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 233,
+        "detectedAt": "2026-08-19T11:33:49.236Z"
+      },
       {
         "id": "OVERALL:80a955bce04c1bad",
         "title": "DRAFT MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
@@ -3341,46 +3382,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-14T09:16:41.076Z"
-      },
-      {
-        "id": "OVERALL:4b618bdc80f87c7d",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1V_JVR1cRD3wRQCnWIs1qWsQmSWRWMgpH/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-14T09:16:41.076Z"
-      },
-      {
-        "id": "OVERALL:6ec4079b3a248b64",
-        "title": "OVERALL LIST OF CANDIDATES APPLIED FOR NON NEET COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1gRF_93Cowlkhb5qQlCNlo5AZzWAL2TmL/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-14T09:16:41.076Z"
-      },
-      {
-        "id": "UG NON-NEET:827697bbacc75b98",
-        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1lI_H9gAJJBcrjt8ESegtPtdHeLT86Gnr/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 128,
-        "detectedAt": "2026-08-14T09:16:41.076Z"
-      },
-      {
-        "id": "UG NON-NEET:4b618bdc80f87c7d",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1V_JVR1cRD3wRQCnWIs1qWsQmSWRWMgpH/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 129,
         "detectedAt": "2026-08-14T09:16:41.076Z"
       },
       {
@@ -6169,9 +6170,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T10:34:59.565Z",
+    "lastUpdatedDate": "2026-08-19T11:30:41.146Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "01c2be6d02589745",
+        "title": "IMPORTANT NOTICE RELATING TO SPOT ROUND 02 (ONLINE) FOR THE PROG. BCA (CODE-114)/ BBA (Code 125)/ B.TECH (Code 131)/ B.Com (Code 146)/ BA LLB/BBA LLB (Code 121)._dated-19.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608191363542485.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T11:30:41.146Z"
+      },
       {
         "id": "6a7de1f174625350",
         "title": "Fee Structure for PG Diploma in Bioinformatics at CEPS for A.S:2026-27_dated-19.08.2026",
@@ -6191,6 +6202,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T08:43:40.339Z"
+      },
+      {
+        "id": "137053cb5a119b39",
+        "title": "EXTENDED OPEN HOUSE -LLB (3 YEAR) (CET CODE 238): ADMISSION THROUGH CET AND CUET_dated-19.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608191036305141.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-19T11:30:41.146Z"
       },
       {
         "id": "5acfc27c3abdcff3",
@@ -6351,26 +6372,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-14T11:50:39.928Z"
-      },
-      {
-        "id": "cb408c1807449990",
-        "title": "Schedule of 1st Counselling Bachelor of Optometry, CET CODE-169 FOR THE ADMISSION SESSION:2026-27_dated-14.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814950019947.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-14T10:36:29.468Z"
-      },
-      {
-        "id": "75018dd94878cb16",
-        "title": "NOTICE PART ACADEMIC FEES PROG. Paramedical (B.PT/B.OT/BPO/BASLP/BMLS) and B.Ed.(Special Education) for the A.S:2026-27_dated-14.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814719549662.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-14T07:46:05.671Z"
       }
     ]
   },
