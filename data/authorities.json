@@ -1380,9 +1380,29 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T07:41:50.660Z",
+    "lastUpdatedDate": "2026-08-19T08:41:35.675Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6bcb63e7c0b8d111",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR NRI OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/19082026005250.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 22,
+        "detectedAt": "2026-08-19T08:41:35.675Z"
+      },
+      {
+        "id": "71e64df806fcc67e",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR LINGUISTIC MINORITY(TELUGU) CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/19082026005311.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 23,
+        "detectedAt": "2026-08-19T08:41:35.675Z"
+      },
       {
         "id": "30dab521499d857b",
         "title": "NOTIFICATION FOR EXTENSION OF ONLINE COUNSELLING REGISTRATION, CHOICE FILLING AND LOCKING TILL 5 PM OF 20-08-2026",
@@ -1562,26 +1582,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-12T13:18:33.063Z"
-      },
-      {
-        "id": "618fec5aa499f559",
-        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
-        "link": "https://tnmedicalselection.net/news/12082026031303.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-12T10:36:13.492Z"
-      },
-      {
-        "id": "b0cb5827fe1bc2d6",
-        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (MANAGEMENT QUOTA)",
-        "link": "https://tnmedicalselection.net/news/12082026031207.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-12T10:36:13.492Z"
       }
     ]
   },
@@ -6169,9 +6169,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T11:30:48.666Z",
+    "lastUpdatedDate": "2026-08-19T08:43:40.339Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "34777eceb6ba00ce",
+        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING for M.Ed (SE) (CET CODE-612) A.S: 2026-27_dated-19.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819966314780.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T08:43:40.339Z"
+      },
       {
         "id": "d4acb48b7b8ffabf",
         "title": "SCHEDULE OF 2nd COUNSELLING MASTER IN CLINICAL PSYCHOLOGY (CET CODE-166) ADMISSION SESSION: 2026-27_dated-18.08.2026",
@@ -6361,16 +6371,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-14T10:36:29.468Z"
-      },
-      {
-        "id": "b7c8543aa2de9c3c",
-        "title": "BCA (CODE-114) SPOT ROUND 02 VACANT SEATS FOR A.S:2026-27_dated-14.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260814934163960.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-14T11:50:39.928Z"
       }
     ]
   },
