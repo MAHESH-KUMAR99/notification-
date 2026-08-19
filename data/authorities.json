@@ -4973,9 +4973,19 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T07:48:54.613Z",
+    "lastUpdatedDate": "2026-08-19T17:35:23.314Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e79ec93421745158",
+        "title": "Revised Schedule Round-1 (19/08/2026)",
+        "link": "https://meta-secure.com/HNBUMUCollegLogin/UploadDocs/revisedscheduleround1.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-08-19T17:35:23.314Z"
+      },
       {
         "id": "92ad7d13bf48f669",
         "title": "Notice for Refund of Security Deposit Candidates List NEET UG 2025",
@@ -5145,15 +5155,6 @@
         "date": "11/10/2025",
         "sortTs": null,
         "batchIndex": 47,
-        "detectedAt": "2026-07-08T09:36:51.706Z"
-      },
-      {
-        "id": "d465cc0dfa547d2d",
-        "title": "Revised NRI Schedule Round-3 (11/10/2025)",
-        "link": "https://meta-secure.com/HNBUMUCollegLogin/UploadDocs/NRIScheduleandInstrrevised.pdf",
-        "date": "11/10/2025",
-        "sortTs": null,
-        "batchIndex": 48,
         "detectedAt": "2026-07-08T09:36:51.706Z"
       }
     ]
