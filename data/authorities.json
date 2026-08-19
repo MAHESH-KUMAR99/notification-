@@ -1380,7 +1380,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T08:41:08.915Z",
+    "lastUpdatedDate": "2026-08-19T07:41:50.660Z",
     "pinned": false,
     "notices": [
       {
@@ -1392,6 +1392,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-18T08:41:08.915Z"
+      },
+      {
+        "id": "5e9618422eba7067",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CHRISTIAN MINORITY CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/18082026235754.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 21,
+        "detectedAt": "2026-08-19T07:41:50.660Z"
       },
       {
         "id": "bb33330a797c7cba",
@@ -1572,16 +1582,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-12T10:36:13.492Z"
-      },
-      {
-        "id": "17f9804a67483a12",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR IRT WARDS QUOTA FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026063722.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-12T14:37:25.434Z"
       }
     ]
   },
@@ -2846,9 +2846,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-16T13:34:01.050Z",
+    "lastUpdatedDate": "2026-08-19T07:41:44.697Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "742da7bd6e77f6b8",
+        "title": "Advt. No. 60 dated-19.08.2026 Very Important Information regarding 1st Round of Online Counselling for admission under State, All India & NRI seats in M.B.B.S., B.D.S. & B.H.M.S. courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/763.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T07:41:44.697Z"
+      },
       {
         "id": "9295f7a7ee9889b6",
         "title": "Advt. No. 58 dated-16.08.2026 Public Notice Regarding Online Services Being Provided by the J.C.E.C.E. Board",
@@ -3035,15 +3045,6 @@
         "date": "16/01/2026",
         "sortTs": null,
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "56894a2dfb37e3a3",
-        "title": "Advt. No. 05 Dated 16/01/2026 {Detailed information regarding Additional Round of Online Counselling for admission in All India Seats in B.H.M.S. course}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/742.pdf",
-        "date": "16/01/2026",
-        "sortTs": null,
-        "batchIndex": 5,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
@@ -6380,9 +6381,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T11:48:31.230Z",
+    "lastUpdatedDate": "2026-08-19T07:41:50.267Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b0475d7bcdc17cc9",
+        "title": "Provisional List of Candidates For Round 1",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608191175667871.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T07:41:50.267Z"
+      },
       {
         "id": "d61d0d0f7ef3a80d",
         "title": "PwD notice dated 14-08-2026",
@@ -6562,15 +6573,6 @@
         "date": "25/10/2025",
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "a0d7526ce772fa62",
-        "title": "Revised Schedule dated 23-10-2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/10/20251023679448658.pdf",
-        "date": "23/10/2025",
-        "sortTs": null,
-        "batchIndex": 9,
         "detectedAt": "2026-07-08T09:36:31.519Z"
       }
     ]
