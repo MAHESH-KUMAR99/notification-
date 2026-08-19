@@ -3181,9 +3181,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T11:33:49.236Z",
+    "lastUpdatedDate": "2026-08-19T11:59:29.125Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:35b05028f0f6cfe1",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
+        "link": "https://drive.google.com/file/d/1FZjYodtRFo_Myk4Ch3dNk79mSxA0hZl8/view?usp=sharing",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T11:59:29.125Z"
+      },
       {
         "id": "OVERALL:72db1b05412cb802",
         "title": "ROUND II PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
@@ -3223,6 +3233,16 @@
         "source": "Direct from Website",
         "batchIndex": 233,
         "detectedAt": "2026-08-19T11:33:49.236Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:35b05028f0f6cfe1",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
+        "link": "https://drive.google.com/file/d/1FZjYodtRFo_Myk4Ch3dNk79mSxA0hZl8/view?usp=sharing",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 248,
+        "detectedAt": "2026-08-19T11:59:29.125Z"
       },
       {
         "id": "OVERALL:80a955bce04c1bad",
@@ -3363,26 +3383,6 @@
         "source": "Direct from Website",
         "batchIndex": 191,
         "detectedAt": "2026-08-17T16:37:53.238Z"
-      },
-      {
-        "id": "OVERALL:b76adf27e3e04896",
-        "title": "SEAT MATRIX FOR UG NEET COURSES (M.B.B.S., B.D.S., B.A.M.S.) FOR GOVERNMENT AND SELF-FINANCING COLLEGES",
-        "link": "https://drive.google.com/file/d/1UIkGn8coj_bqXvw5DUW_3d9waN-9aOpY/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T13:19:33.619Z"
-      },
-      {
-        "id": "OVERALL:827697bbacc75b98",
-        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1lI_H9gAJJBcrjt8ESegtPtdHeLT86Gnr/view?usp=sharing",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T09:16:41.076Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
