@@ -956,9 +956,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-16T05:01:28.297Z",
+    "lastUpdatedDate": "2026-08-19T12:53:44.663Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4ec57c450c444d39",
+        "title": "Revised MCC Medical Dental UG Admission 2026 (Round 1) Schedule for State as well as All India Quota",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/202608191403764226.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T12:53:44.663Z"
+      },
       {
         "id": "e7d1da0bbeab9b30",
         "title": "The merit list for Undergraduate courses (MBBS/BDS) for the academic year 2026-27 has been published today by the Medical Admission Committee as follows. Candidates who have applied for PwD Quota and NRI Quota, the verification of these candidates is going on. Hence PwD Quota and NRI Quota students’ merit of PwD Category/ NRI Category will be declared in due course of time.",
@@ -1157,16 +1167,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 10,
-        "detectedAt": "2026-08-14T05:57:38.189Z"
-      },
-      {
-        "id": "d3f09056c1d55165",
-        "title": "List of the candidates whose Security Deposit is Refundable and pending with Admission Committee",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Deposite%20Refund%20R8.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 16,
         "detectedAt": "2026-08-14T05:57:38.189Z"
       },
       {
@@ -1380,9 +1380,29 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T08:41:35.675Z",
+    "lastUpdatedDate": "2026-08-19T12:53:55.581Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5d8a3cfbd16dc8ea",
+        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/19082026053358.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T12:53:55.581Z"
+      },
+      {
+        "id": "5be62d79cd4fbc0e",
+        "title": "NOTIFICATION FOR THE PwBD CANDIDATES OF MBBS/BDS COURSE 2026-2027",
+        "link": "https://tnmedicalselection.net/news/19082026050604.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-19T12:53:55.581Z"
+      },
       {
         "id": "6bcb63e7c0b8d111",
         "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR NRI OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
@@ -1561,26 +1581,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-12T13:18:33.063Z"
-      },
-      {
-        "id": "a60bd5924281bbb0",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR PWD CATEGORY FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026031826.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T10:36:13.492Z"
-      },
-      {
-        "id": "b8a69a7963729be6",
-        "title": "ROUND-I ONLINE COUNSELLING SCHEDULE FOR MBBS & BDS DEGREE COURSES FOR GOVERNMENT & MANAGEMENT QUOTA (INCL. NRI & MINORITY) 2026 – 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12082026045717.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-08-12T13:18:33.063Z"
       }
     ]
