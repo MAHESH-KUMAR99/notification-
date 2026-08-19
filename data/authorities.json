@@ -5367,9 +5367,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-17T10:11:07.601Z",
+    "lastUpdatedDate": "2026-08-19T14:42:59.591Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:c25fe2dcbe0718ea",
+        "title": "Provisional Merit list of MBBS/BDS 1st round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Provisional-MBBS-BDS-Merit-list-of-1st-round-Counselling-2026-merged-nnn.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T14:42:59.591Z"
+      },
       {
         "id": "MBBS/BDS Counselling:f5875610efe629a7",
         "title": "Notice regarding Updating of Wards of Ex-Servicemen/Wives of Defence Personnel/EWS Category Certificates/Priority of by eligible candidates and Extension of Last Date for Submission of 1st Round Online Applications for MBBS/BDS Counselling 2026-27 up to 18.08.2026 till 05:00 PM",
@@ -5558,16 +5568,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 12,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:ddb3e47c21400ff6",
-        "title": "Seat Allocation of MBBS/BDS Stray Vacancy Round Counselling 2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Seat-allocation-of-MBBS-BDS-Stray-Round-Counselling-2025-merged.pdf",
-        "date": "15/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 13,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
@@ -6585,9 +6585,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T11:33:47.253Z",
+    "lastUpdatedDate": "2026-08-19T14:42:57.152Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2a100b9e5934b3e9",
+        "title": "Third Phase Allotment To Pharmacy Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/208/Upload1",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-19T14:42:57.152Z"
+      },
       {
         "id": "ab12afa347aaed0c",
         "title": "Third Phase Allotment To Pharmacy Course Provisional List Published",
@@ -6781,16 +6791,6 @@
         "titleEn": "Filling up of Vacant Seats in Engineering Courses by Spot Admission – Guidelines regarding",
         "titleLang": "ml",
         "detectedAt": "2026-08-10T10:50:14.473Z"
-      },
-      {
-        "id": "24921714c571dfec",
-        "title": "Third Phase Allotment To Architecture Course Candidates Can Register New Options",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/186/Upload1",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-10T14:43:06.725Z"
       }
     ]
   },
