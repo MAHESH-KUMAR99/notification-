@@ -5994,9 +5994,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-12T09:19:26.662Z",
+    "lastUpdatedDate": "2026-08-19T06:54:51.995Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "dc719634816985a5",
+        "title": "Online Registration Link for UG (MBBS/BDS) Admissions 2026-2027",
+        "link": "https://mbbsadmission.uod.ac.in/",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-19T06:54:51.995Z"
+      },
       {
         "id": "1657661cc0d9253f",
         "title": "Supplementary list of CW Category applicants for UG Medical Admission 2026 under 85% DU Quota.",
