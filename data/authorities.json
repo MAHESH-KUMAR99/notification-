@@ -956,9 +956,119 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T05:34:21.940Z",
+    "lastUpdatedDate": "2026-08-20T11:30:07.564Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b6bb46ef71a49f52",
+        "title": "Candidates who have applied for NRI Quota with required document & Eligible as per NEET UG 2026 cutoff, the verification of these candidates is going on. Hence NRI Quota students’ merit of NRI Category will be declared in due course of time.",
+        "link": null,
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "a28751f33a6a7e44",
+        "title": "General Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_gen.PDF",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "1a9c1f15205f5c4e",
+        "title": "SC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_sc.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "1f5939b510076242",
+        "title": "ST Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_st.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "0648dc5a41facf97",
+        "title": "SEBC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_se.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "99a7872b2da3e789",
+        "title": "EWS Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_ew.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "fe7d308e83a61c44",
+        "title": "PwD Merit",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_ph.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "c37954e6bbac2404",
+        "title": "PwD Report",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/PWD%20report.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "d093bb57ff0b28a8",
+        "title": "NHL Local Quota Candidate List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/NHL%20LOCAL%20QUOTA%20LIST_20082026.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "c5db1908df320f5a",
+        "title": "SMC Local Quota Candidate List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/SMC%20LOCAL%20QUOTA%20LIST%2020082026%20.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
+      {
+        "id": "36b09867f7abacba",
+        "title": "Not Eligible Candidate List with Reasons",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/DQ%20LIST_R1.1.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-08-20T11:30:07.564Z"
+      },
       {
         "id": "4ec57c450c444d39",
         "title": "Revised MCC Medical Dental UG Admission 2026 (Round 1) Schedule for State as well as All India Quota",
@@ -1048,126 +1158,6 @@
         "source": "Direct from Website",
         "batchIndex": 7,
         "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "e19b4750ac35884e",
-        "title": "Not Eligible Candidate List with Reasons",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/DQ%20LIST_R1.pdf?v=1",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "20bb5a880fa0cc36",
-        "title": "Not Eligible Candidate List with Reasons",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/DQ%20LIST_R1.pdf?v=2",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-08-20T05:34:21.940Z"
-      },
-      {
-        "id": "2186d8efda8ba7a3",
-        "title": "Application form for making changes/corrections in the merit list. (Click here)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/MERIT_CHANGE_APPLICATION.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "6ed4217495795587",
-        "title": "A candidate who has secured admission under these rules in any year shall also be eligible for admission to any course if he pays total fees as determined by the Fee Regulatory Committee for entire course which he / she is pursuing presently and thereupon the concerned institute shall require to issue the “No Objection Certificate” and return original documents. The candidate shall require to submit the same to the Admission Committee to consider him / her for new admission at the time of counselling. જે ઉમેદવારે કોઈપણ વર્ષમાં અત્રેની પ્રવેશ સમિતિના પ્રવેશ નિયમો હેઠળ MBBS/BDS/BAMS/BHMS માં પ્રવેશ મેળવેલ હોય, જો તે હાલમાં જે અભ્યાસક્રમનો અભ્યાસ કરી રહ્યો/રહી છે, તે સમગ્ર અભ્યાસક્રમ માટે ફી નિયમનકારી સમિતિ દ્વારા નિર્ધારિત કુલ ફી ચૂકવે. ત્યારબાદ સંબંધિત સંસ્થાએ ઉમેદવારને ‘નો ઓબ્જેક્શન સર્ટિફિકેટ (NOC)’ આપવાનું રહેશે અને તેના મૂળ દસ્તાવેજો પરત કરવાના રહેશે. ઉમેદવારે આ NOC અને મૂળ દસ્તાવેજો પ્રવેશ સમિતિ સમક્ષ રજૂ કરવાના રહેશે, જેથી કાઉન્સેલિંગ સમયે પ્રવેશ સમિતિ તેને નવા પ્રવેશ માટે વિચારણા હેઠળ લઈ શકે.",
-        "link": null,
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "titleEn": "A candidate who has secured admission under these rules in any year shall also be eligible for admission to any course if he pays total fees as determined by the Fee Regulatory Committee for entire course which he/she is pursuing presently and thereupon the concerned institute shall require to issue the “No Objection Certificate” and return original documents. The candidate shall require to submit the same to the Admission Committee to consider him/her for new admission at the time of counselling. A candidate who has been admitted to MBBS/BDS/BAMS/BHMS under the admission rules of the Admission Committee in any year, if the course he/she is currently pursuing, shall pay the total fee prescribed by the Fee Regulation Committee for the entire course. After that the concerned organization has to issue a 'No Objection Certificate (NOC)' to the candidate and return his original documents. The candidate has to present this NOC and original documents to the admission committee, so that the admission committee can consider it for fresh admission at the time of counselling.",
-        "titleLang": "gu",
-        "detectedAt": "2026-08-16T05:01:28.297Z"
-      },
-      {
-        "id": "5516dc2551c45f54",
-        "title": "દિવ્યાંગતા ધરાવતા વિદ્યાર્થીઓનું હાજર રહેવાનું સ્થળ અને તારીખ નું લીસ્ટ",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/PWD/MEDICAL%20APPEAL%20BOARD%20%20students%20list%20MBBS%20BDS%20courses.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "List of place and date of attendance of students with disabilities",
-        "titleLang": "gu",
-        "detectedAt": "2026-08-14T10:34:14.228Z"
-      },
-      {
-        "id": "2502d31c678a0d9d",
-        "title": "(9) A candidate who has secured admission under these rules in any year shall also be eligible for admission to any course if he pays total fees as determined by the Fee Regulatory Committee for entire course which he / she is pursuing presently and thereupon the concerned institute shall require to issue the “No Objection Certificate” and return original documents. The candidate shall require to submit the same to the Admission Committee to consider him / her for new admission at the time of counselling. (9) જે ઉમેદવારે કોઈપણ વર્ષમાં અત્રેની પ્રવેશ સમિતિના પ્રવેશ નિયમો હેઠળ MBBS/BDS/BAMS/BHMS માં પ્રવેશ મેળવેલ હોય, જો તે હાલમાં જે અભ્યાસક્રમનો અભ્યાસ કરી રહ્યો/રહી છે, તે સમગ્ર અભ્યાસક્રમ માટે ફી નિયમનકારી સમિતિ દ્વારા નિર્ધારિત કુલ ફી ચૂકવે. ત્યારબાદ સંબંધિત સંસ્થાએ ઉમેદવારને ‘નો ઓબ્જેક્શન સર્ટિફિકેટ (NOC)’ આપવાનું રહેશે અને તેના મૂળ દસ્તાવેજો પરત કરવાના રહેશે. ઉમેદવારે આ NOC અને મૂળ દસ્તાવેજો પ્રવેશ સમિતિ સમક્ષ રજૂ કરવાના રહેશે, જેથી કાઉન્સેલિંગ સમયે પ્રવેશ સમિતિ તેને નવા પ્રવેશ માટે વિચારણા હેઠળ લઈ શકે.",
-        "link": null,
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "(9) A candidate who has secured admission under these rules in any year shall also be eligible for admission to any course if he pays total fees as determined by the Fee Regulatory Committee for entire course which he / she is pursuing presently and thereupon the concerned institute shall require to issue the “No Objection Certificate” and return original documents. The candidate shall require to submit the same to the Admission Committee to consider him/her for new admission at the time of counselling. (9) A candidate who has been admitted to MBBS/BDS/BAMS/BHMS under the admission rules of the Admission Committee in any year, if the course he/she is currently pursuing, shall pay the total fee prescribed by the Fee Regulation Committee for the entire course. After that the concerned organization has to issue a 'No Objection Certificate (NOC)' to the candidate and return his original documents. The candidate has to present this NOC and original documents to the admission committee, so that the admission committee can consider it for fresh admission at the time of counselling.",
-        "titleLang": "gu",
-        "detectedAt": "2026-08-14T05:57:38.189Z"
-      },
-      {
-        "id": "c00ecbd13f0dd2d4",
-        "title": "દિવ્યાંગતાનું પરફોર્મા",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/PWD/Proforma%20%20Appeal%20%20Board_Case%20Paper.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "titleEn": "Performance of Disability",
-        "titleLang": "gu",
-        "detectedAt": "2026-08-14T10:34:14.228Z"
-      },
-      {
-        "id": "ee28f38f16e1e144",
-        "title": "UG Rules 2018",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/Rules_UG_2018.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-14T05:57:38.189Z"
-      },
-      {
-        "id": "ba7df2d06261f17c",
-        "title": "પ્રવેશ સમિતિ દ્વારા ઓનલાઇન રિફંડની પ્રક્રિયા પૂર્ણ જાહેર કરી છે. જે વિધ્યાથીઓ ને રિફંડ લેવાના થતાં હોય, તેઓનું લિસ્ટ વેબસાઇટ પર મુકેલ છે. રિફંડ પાત્ર વિધ્યાથીઓને જાણ કરવામાં આવે છે કે તેઓએ રિફંડ માટે પ્રવેશ સમિતિ ખાતે સંપર્ક કરવાનો રહેશે.",
-        "link": null,
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "titleEn": "The admission committee has declared the process of online refund complete. The list of students who have to get refund is placed on the website. Refund eligible students are informed that they have to approach Admission Committee for refund.",
-        "titleLang": "gu",
-        "detectedAt": "2026-08-14T05:57:38.189Z"
-      },
-      {
-        "id": "962c2bf98e2769b3",
-        "title": "List of the candidates whose Tuition fee is Refundable and pending with Admission Committee",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/Pending%20Fees%20Refund%20R8.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-14T05:57:38.189Z"
-      },
-      {
-        "id": "9d843f5d1d550694",
-        "title": "PWD MBBS GUIDELINE NMC Addendum-1 DATED 05.08.26",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/PWD/PWD_MBBS_GUIDELINE___NMC__Addendum-1__DATED___%2005.08.26.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-08-14T10:34:14.228Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
