@@ -5371,9 +5371,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T14:42:59.591Z",
+    "lastUpdatedDate": "2026-08-20T10:40:03.730Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:54c1dcaed48fe673",
+        "title": "Revised Schedule for MBBS/BDS 1st Round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Revised-Schedule-for-MBBS-BDS-1round-counselling.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T10:40:03.730Z"
+      },
       {
         "id": "MBBS/BDS Counselling:c25fe2dcbe0718ea",
         "title": "Provisional Merit list of MBBS/BDS 1st round Counselling 2026",
@@ -5562,16 +5572,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 11,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:3889007c0f63f5f8",
-        "title": "Final Seat Allocation of MBBS/BDS Stray Vacancy Round Counselling 2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Final-Seat-Allocation-of-MBBS-BDS-Stray-Round-Counselling-2025-merged-n.pdf",
-        "date": "17/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 12,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
@@ -6386,9 +6386,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T07:41:50.267Z",
+    "lastUpdatedDate": "2026-08-20T10:34:55.216Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "452d3b1ba5090b46",
+        "title": "Revised Schedule Round 1 Dated 20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608202072716281.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-20T10:34:55.216Z"
+      },
       {
         "id": "b0475d7bcdc17cc9",
         "title": "Provisional List of Candidates For Round 1",
@@ -6570,15 +6580,6 @@
         "source": "Direct from Website",
         "batchIndex": 4,
         "detectedAt": "2026-08-04T13:05:12.582Z"
-      },
-      {
-        "id": "38eadb3897213d5e",
-        "title": "Revised Schedule dated 25-10-2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/10/202510251782679519.pdf",
-        "date": "25/10/2025",
-        "sortTs": null,
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
       }
     ]
   },
