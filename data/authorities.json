@@ -1380,9 +1380,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T12:53:55.581Z",
+    "lastUpdatedDate": "2026-08-20T06:52:25.484Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9041c016ab724906",
+        "title": "NOTIFICATION FOR EXTENSION OF ONLINE COUNSELLING REGISTRATION, CHOICE FILLING AND LOCKING TILL 5 PM OF 24-08-2026",
+        "link": "https://tnmedicalselection.net/news/19082026233844.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T06:52:25.484Z"
+      },
       {
         "id": "5d8a3cfbd16dc8ea",
         "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
@@ -1392,6 +1402,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T12:53:55.581Z"
+      },
+      {
+        "id": "76ffba8c494e61e8",
+        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/19082026232749.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T06:52:25.484Z"
       },
       {
         "id": "5be62d79cd4fbc0e",
@@ -1562,26 +1582,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T08:37:57.977Z"
-      },
-      {
-        "id": "cd91e0ad00fe6d8f",
-        "title": "TENTATIVE ROUND - 1 VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027",
-        "link": "https://tnmedicalselection.net/news/13082026001742.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T08:37:57.977Z"
-      },
-      {
-        "id": "418fa18fd73b5176",
-        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION",
-        "link": "https://tnmedicalselection.net/news/12082026053506.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T13:18:33.063Z"
       }
     ]
   },
@@ -6171,9 +6171,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T05:36:37.643Z",
+    "lastUpdatedDate": "2026-08-20T06:54:33.991Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "12d4134e6cf4e463",
+        "title": "Revised CUET Merit for BBA (Code-125) Academic Session 2026-27_dated-20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201335110113.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T06:54:33.991Z"
+      },
+      {
+        "id": "9e447e0fe9a54f64",
+        "title": "Revised CUET Merit for B.Com (H) Academic Session 2026-27_dated-20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201721822092.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T06:54:33.991Z"
+      },
+      {
+        "id": "aa6e9dcb13fc76e3",
+        "title": "PHYSICAL REPORTING IN BA (JMC) (Code-126) and BA (ENG) CODE-184_dated-20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260820438164291.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-20T06:54:33.991Z"
+      },
       {
         "id": "eeb5a44c2045ce2f",
         "title": "ROUND 02 Commencement of process -Online Counselling Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) and B.Ed.(SE) (Code-159) Choice Filling for the Academic Session 2026-27_dated-19.08.2026",
@@ -6343,36 +6373,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-17T08:10:28.728Z"
-      },
-      {
-        "id": "70c3abfe88e7ecff",
-        "title": "Tentative Vacant Seats for SPOT ROUND 02 ONLINE FOR BBA PRG (Code-125) as on 14.08.2026 by 04:00 P.M. FOR THE A.S:2026-27.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608141687945577.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T11:50:39.928Z"
-      },
-      {
-        "id": "ed02d5cc9d1be202",
-        "title": "Schedule of 1st Counselling POST GRADUATE DIPLOME IN REHABILIATION PSYCHOLOGY, CET CODE-167 for the A.S: 2026-27_dated-14.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608141106870958.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T10:36:29.468Z"
-      },
-      {
-        "id": "6d755dca3e1364f5",
-        "title": "SCHEDULE FOR SPOT ROUND 02 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND; FOR B.TECH/BBA/BCA and B.COM (H) PROG. through NLT/CET for the A.S:2026-27_dated-14.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608141687224035.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T07:46:05.671Z"
       }
     ]
   },
