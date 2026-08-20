@@ -1582,9 +1582,49 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T07:47:40.682Z",
+    "lastUpdatedDate": "2026-08-20T13:06:06.712Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Counselling Schedule:060995c400296bdf",
+        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T13:06:06.712Z"
+      },
+      {
+        "id": "Counselling Schedule:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.645Z"
+      },
+      {
+        "id": "Counselling Schedule:dadb06cb5e49ddb2",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T16:33:00.795Z"
+      },
+      {
+        "id": "Latest Instructions:060995c400296bdf",
+        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T13:06:06.179Z"
+      },
       {
         "id": "Latest Instructions:456277a88646f56c",
         "title": "NOTICE REGARDING POSTPONEMENT OF SCHEDULED ALLOTMENT OF FIRST ROUND OF COUNSELLING MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated 20.08.2026)",
@@ -1778,16 +1818,6 @@
         "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
-        "id": "Latest Instructions:77a381902e528d0e",
-        "title": "Important Information Regarding (EWS) Economically Weaker Section (Dated 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/EWS%20Reservation%20with%20amendments_11.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 6,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
-      },
-      {
         "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
         "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
@@ -1860,26 +1890,6 @@
         "source": "Seat Charts",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T14:00:05.915Z"
-      },
-      {
-        "id": "Counselling Schedule:cdc71e56ef143c41",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:08:57.645Z"
-      },
-      {
-        "id": "Counselling Schedule:dadb06cb5e49ddb2",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T16:33:00.795Z"
       }
     ]
   },
@@ -3171,9 +3181,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T05:39:48.619Z",
+    "lastUpdatedDate": "2026-08-20T13:07:29.660Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:302b5e6bd67bd1f1",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
+        "link": "https://drive.google.com/file/d/145WPVCnGKK5g-706Aeit0woBPNjHBAgR/view?usp=sharing",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T13:07:29.660Z"
+      },
       {
         "id": "OVERALL:9bd14f3749c9c0f6",
         "title": "B.TECH LATERAL ENTRY VACANCIES AFTER ROUND 2",
@@ -3193,6 +3213,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-20T05:39:48.619Z"
+      },
+      {
+        "id": "UG NON-NEET:302b5e6bd67bd1f1",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
+        "link": "https://drive.google.com/file/d/145WPVCnGKK5g-706Aeit0woBPNjHBAgR/view?usp=sharing",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 144,
+        "detectedAt": "2026-08-20T13:07:29.660Z"
       },
       {
         "id": "B.TECH. LATERAL ENTRY:9bd14f3749c9c0f6",
@@ -3352,26 +3382,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 230,
-        "detectedAt": "2026-08-18T12:58:24.316Z"
-      },
-      {
-        "id": "B.ARCH.:81090627b77c7f1e",
-        "title": "UPDATED FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1eJRGvMmwQB3RWy6ms8l1Wxm4o-ruaRGL/view?usp=sharing",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 231,
-        "detectedAt": "2026-08-18T12:58:24.316Z"
-      },
-      {
-        "id": "B.ARCH.:a9b9b564faf93e85",
-        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR B.ARCH. IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1RsAJNBEkha4jX8YMcjEla2lELOH-46-y/view?usp=sharing",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 232,
         "detectedAt": "2026-08-18T12:58:24.316Z"
       },
       {
@@ -6164,9 +6174,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T07:45:56.699Z",
+    "lastUpdatedDate": "2026-08-20T13:04:27.660Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e54bf26f53bba12e",
+        "title": "NOTICE REGARDING LLB (3 YEARS) (CET CODE 238): ADMISSION THROUGH CUET (PG)_dated-20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608202091098939.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T13:04:27.660Z"
+      },
       {
         "id": "2094cca1418eb692",
         "title": "Revised CUET Merit for B.TECH (Code-131) Academic Session 2026-27_dated-20.08.2026",
@@ -6186,6 +6206,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-20T06:54:33.991Z"
+      },
+      {
+        "id": "0ead1fba68d047a6",
+        "title": "REVISED CUET MERIT LIST FOR BCA PRG. CODE 114 FOR THE A.S.2026-27_dated-20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201063639556.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T13:04:27.660Z"
       },
       {
         "id": "9e447e0fe9a54f64",
@@ -6345,26 +6375,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-08-17T08:10:28.728Z"
-      },
-      {
-        "id": "185cc455a84fc2c3",
-        "title": "EXTENSION of SCHEDULE FOR SPOT ROUND 2 (ONLINE) COUNSELLING: FOLLOWED BY OFFLINE ROUND: FOR B.TECH/BBA/BCA and B.COM (H) PROG. through NLT/CET for the A.S:2026-27_dated-17.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260817560435642.pdf",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-17T11:36:18.069Z"
-      },
-      {
-        "id": "30b1ca4ffb89ace2",
-        "title": "CUET MERIT LIST OF MA(ENGLISH) CODE-113 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171701958181.pdf",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-08-17T08:10:28.728Z"
       }
     ]
