@@ -1592,9 +1592,29 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T12:56:52.782Z",
+    "lastUpdatedDate": "2026-08-20T07:47:40.682Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Instructions:456277a88646f56c",
+        "title": "NOTICE REGARDING POSTPONEMENT OF SCHEDULED ALLOTMENT OF FIRST ROUND OF COUNSELLING MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated 20.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Postponement%20Notice%20first%20round_28.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T07:47:40.682Z"
+      },
+      {
+        "id": "Latest Instructions:f30041e933d38bb5",
+        "title": "Notice regarding submission of bond for UG MBBS/BDS courses at the time of admission NEET UG 2026 (Dated 19.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Bond_27.pdf",
+        "date": "19/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-20T07:47:40.682Z"
+      },
       {
         "id": "Latest Instructions:94f686120373bea5",
         "title": "Notice regarding NMC Addendum and Appellate Boards (PwBD) -18.08.2026",
@@ -1776,26 +1796,6 @@
         "source": "Latest Instructions",
         "batchIndex": 6,
         "detectedAt": "2026-08-05T14:59:54.671Z"
-      },
-      {
-        "id": "Latest Instructions:53502e198d428672",
-        "title": "Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 05-08-2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Participating%20college%202026_10.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 7,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
-      },
-      {
-        "id": "Latest Instructions:ea176bca7dc2bcef",
-        "title": "Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 05-08-2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Update%20Participating%20college%202026%2047_10.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-11T10:29:45.481Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
@@ -6171,9 +6171,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T06:54:33.991Z",
+    "lastUpdatedDate": "2026-08-20T07:45:56.699Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2094cca1418eb692",
+        "title": "Revised CUET Merit for B.TECH (Code-131) Academic Session 2026-27_dated-20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201434081221.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T07:45:56.699Z"
+      },
       {
         "id": "12d4134e6cf4e463",
         "title": "Revised CUET Merit for BBA (Code-125) Academic Session 2026-27_dated-20.08.2026",
@@ -6362,16 +6372,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-08-17T08:10:28.728Z"
-      },
-      {
-        "id": "9ab1eb754e106a94",
-        "title": "CUET MERIT LIST OF MA(ECONOMICS) CODE-162 FOR ACADEMIC SESSION 2026-27_dated-17.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171355981140.pdf",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-08-17T08:10:28.728Z"
       }
     ]
