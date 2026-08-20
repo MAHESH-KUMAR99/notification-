@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T10:10:58.984Z",
+    "lastUpdatedDate": "2026-08-20T15:06:21.972Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "7925497a18fbf632",
+        "title": "PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608202078593834.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T15:06:21.972Z"
+      },
+      {
+        "id": "9b64db2a2b20f84b",
+        "title": "NOTICE FOR PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608201553515092.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T15:06:21.972Z"
+      },
       {
         "id": "2cccbc86fe4835a6",
         "title": "Revised Schedule for Round 1 dated 13.08.2026",
@@ -383,24 +403,6 @@
         "date": "23/10/2025",
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
-      },
-      {
-        "id": "e01e5d427a775f74",
-        "title": "Notice for addition of new seats in Round 3 of UG Counselling 2025 dated 18.10.2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510181110388290.pdf",
-        "date": "18/10/2025",
-        "sortTs": null,
-        "batchIndex": 4,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
-      },
-      {
-        "id": "da49a3d1fe942e1f",
-        "title": "Notice for addtion of new seat in Round 3 of UG Counselling 2025 dated 17.10.2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251017840896987.pdf",
-        "date": "17/10/2025",
-        "sortTs": null,
-        "batchIndex": 5,
         "detectedAt": "2026-07-24T09:05:48.578Z"
       }
     ]
