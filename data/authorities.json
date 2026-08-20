@@ -956,7 +956,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T12:53:44.663Z",
+    "lastUpdatedDate": "2026-08-20T05:34:21.940Z",
     "pinned": false,
     "notices": [
       {
@@ -1060,6 +1060,16 @@
         "detectedAt": "2026-08-16T04:09:00.208Z"
       },
       {
+        "id": "20bb5a880fa0cc36",
+        "title": "Not Eligible Candidate List with Reasons",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/DQ%20LIST_R1.pdf?v=2",
+        "date": "16/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-08-20T05:34:21.940Z"
+      },
+      {
         "id": "2186d8efda8ba7a3",
         "title": "Application form for making changes/corrections in the merit list. (Click here)",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/MERIT_CHANGE_APPLICATION.PDF",
@@ -1158,16 +1168,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-08-14T10:34:14.228Z"
-      },
-      {
-        "id": "d4fb9be6ab56e718",
-        "title": "List of the successful candidates whose Tuition fee is Refunded in Round 7",
-        "link": "https://medadmgujarat.ncode.in/web/UG2025/REFUND/FEE_REFUND_success_UGR7.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-08-14T05:57:38.189Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -3181,9 +3181,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T11:59:29.125Z",
+    "lastUpdatedDate": "2026-08-20T05:39:48.619Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:9bd14f3749c9c0f6",
+        "title": "B.TECH LATERAL ENTRY VACANCIES AFTER ROUND 2",
+        "link": "https://drive.google.com/file/d/1IqkdSdjyw9N_3oVBk_jh5hMNXxbQQ6Bn/view?usp=sharing",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-20T05:39:48.619Z"
+      },
+      {
+        "id": "OVERALL:c4a80fcaf0adf034",
+        "title": "ROUND II ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1eyfJEF6YjzwNv6hqzd9W7V7bOgBEe1Aq/view?usp=sharing",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-20T05:39:48.619Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:9bd14f3749c9c0f6",
+        "title": "B.TECH LATERAL ENTRY VACANCIES AFTER ROUND 2",
+        "link": "https://drive.google.com/file/d/1IqkdSdjyw9N_3oVBk_jh5hMNXxbQQ6Bn/view?usp=sharing",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 251,
+        "detectedAt": "2026-08-20T05:39:48.619Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:c4a80fcaf0adf034",
+        "title": "ROUND II ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1eyfJEF6YjzwNv6hqzd9W7V7bOgBEe1Aq/view?usp=sharing",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 252,
+        "detectedAt": "2026-08-20T05:39:48.619Z"
+      },
       {
         "id": "OVERALL:35b05028f0f6cfe1",
         "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
@@ -3343,46 +3383,6 @@
         "source": "Direct from Website",
         "batchIndex": 232,
         "detectedAt": "2026-08-18T12:58:24.316Z"
-      },
-      {
-        "id": "OVERALL:0e09040cb22b46c0",
-        "title": "DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/Draft_merit_list.html",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-17T16:37:53.238Z"
-      },
-      {
-        "id": "OVERALL:b543dabdb6884dd8",
-        "title": "NOTICE : DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YI1fo_cbnap0KAKqD_Bi1SyURdyiFF79/view?usp=sharing",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-17T16:37:53.238Z"
-      },
-      {
-        "id": "UG NEET:0e09040cb22b46c0",
-        "title": "DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/Draft_merit_list.html",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 190,
-        "detectedAt": "2026-08-17T16:37:53.238Z"
-      },
-      {
-        "id": "UG NEET:b543dabdb6884dd8",
-        "title": "NOTICE : DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YI1fo_cbnap0KAKqD_Bi1SyURdyiFF79/view?usp=sharing",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 191,
-        "detectedAt": "2026-08-17T16:37:53.238Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6171,9 +6171,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T11:30:41.146Z",
+    "lastUpdatedDate": "2026-08-20T05:36:37.643Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "eeb5a44c2045ce2f",
+        "title": "ROUND 02 Commencement of process -Online Counselling Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) and B.Ed.(SE) (Code-159) Choice Filling for the Academic Session 2026-27_dated-19.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201705413711.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-20T05:36:37.643Z"
+      },
       {
         "id": "01c2be6d02589745",
         "title": "IMPORTANT NOTICE RELATING TO SPOT ROUND 02 (ONLINE) FOR THE PROG. BCA (CODE-114)/ BBA (Code 125)/ B.TECH (Code 131)/ B.Com (Code 146)/ BA LLB/BBA LLB (Code 121)._dated-19.08.2026",
@@ -6363,16 +6373,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-14T07:46:05.671Z"
-      },
-      {
-        "id": "ddd49bb9a3562421",
-        "title": "Tentative Vacant Seats for SPOT ROUND 02 ONLINE FOR B.COM (H) PRG (Code-146) as on 14.08.2026 by 04.00 P.M. FOR THE A.S: 2026-27.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608141233723084.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-14T11:50:39.928Z"
       }
     ]
   },
