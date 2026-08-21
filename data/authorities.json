@@ -2849,9 +2849,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T07:41:44.697Z",
+    "lastUpdatedDate": "2026-08-21T10:01:40.488Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5d5a862da5fe8720",
+        "title": "Advt. No. 66 dated-21.08.2026 Very Important information regarding change in schedule of ongoing 1st (First) Round of online counselling Schedule for admission to M.B.B.S. & B.D.S. Courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/764.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-21T10:01:40.488Z"
+      },
       {
         "id": "742da7bd6e77f6b8",
         "title": "Advt. No. 60 dated-19.08.2026 Very Important Information regarding 1st Round of Online Counselling for admission under State, All India & NRI seats in M.B.B.S., B.D.S. & B.H.M.S. courses",
@@ -3039,15 +3049,6 @@
         "date": "05/02/2026",
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:30.070Z"
-      },
-      {
-        "id": "df58a24dcc9e642e",
-        "title": "Advt. No. 06 Dated 16/01/2026 {Important Notice regarding 3rd Round of Online Counselling of Post Graduate Medical (MD/MS/Diploma & DNB) State Quota seats on the basis of NEET(PG) -2025 Result}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/743.pdf",
-        "date": "16/01/2026",
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:30.070Z"
       }
     ]
@@ -6176,9 +6177,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T07:03:28.249Z",
+    "lastUpdatedDate": "2026-08-21T10:03:48.208Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8493aa510c978363",
+        "title": "CUET MERIT LIST FOR B.A (ECO) PRG CODE 197 FOR THE A.S.2026-27_dated-21.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821965059559.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-21T10:03:48.208Z"
+      },
       {
         "id": "9ad102e96a107879",
         "title": "CONDUCT OF SPECIAL ENTRANCE TEST (SET) FOR THE PROGRAMME B.ED. (CODE 122) AND B.ED. (SE) (CODE 159) AND BA(JMC) (CODE 126): A.S:2026-27_dated-21.08.2026",
@@ -6368,16 +6379,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-17T07:04:43.636Z"
-      },
-      {
-        "id": "c352bfc675ac15e4",
-        "title": "TENTATIVE VACANT SEATS FOR SPOT ROUND 02 ONLINE FOR LLB (CODE-121) AS ON 17.08.2026 FOR THE A.S:2026-27_dated-17.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171685802636.pdf",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-17T11:36:18.069Z"
       }
     ]
   },
