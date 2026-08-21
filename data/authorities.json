@@ -5382,9 +5382,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T10:40:03.730Z",
+    "lastUpdatedDate": "2026-08-21T13:54:53.036Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:1cf8d1cfd51547b3",
+        "title": "Final Merit list of MBBS/BDS 1st round Counselling 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Final-Merit-list-of-MBBS-BDS-1st-round-Counselling-2026-merged-n.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-21T13:54:53.036Z"
+      },
       {
         "id": "MBBS/BDS Counselling:54c1dcaed48fe673",
         "title": "Revised Schedule for MBBS/BDS 1st Round Counselling 2026",
@@ -5573,16 +5583,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 10,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:66b5ab784ef85f08",
-        "title": "Notice regarding admission date extension of MBBS/BDS Stray Vacancy Round Counselling 2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Notice-of-Date-extension-of-admission-of-stray-vacancy-round-Counselling-2025-new.pdf",
-        "date": "17/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 11,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
