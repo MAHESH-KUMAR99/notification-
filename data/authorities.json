@@ -4248,9 +4248,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T09:39:57.705Z",
+    "lastUpdatedDate": "2026-08-21T11:35:32.534Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a29fb8e23ece72d2",
+        "title": ": CG State NEET MDS 2026 Online Application Notice ,Seat Matrix and Schedule.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2167",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-21T11:35:32.534Z"
+      },
       {
         "id": "1f19a7d7198e185f",
         "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग के प्रथम चरण का आवंटन स्थगित किए जाने के संबंध में सूचना.....More",
@@ -4464,15 +4474,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-24T17:08:44.208Z"
-      },
-      {
-        "id": "39b6f4b45b7e1b90",
-        "title": "After due consideration of all Claims & Objections received against the previously published interview eligibility list, the Final List of Eligible Candidates for Document Verification and Interview for the recruitment of Assistant Professor (Physiotherapy) has been published......More",
-        "link": "https://www.cgdme.in/notice.php?id=2147",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T18:48:05.540Z"
       }
     ]
   },
@@ -7015,9 +7016,19 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-13T08:40:06.798Z",
+    "lastUpdatedDate": "2026-08-21T11:36:31.444Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "da5bc82909de13f6",
+        "title": "Revised schedule for Round 1 Counselling",
+        "link": "https://manipurmc.mn.gov.in/media/1787311848_newschedule.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-21T11:36:31.444Z"
+      },
       {
         "id": "fdbdbd6efc090807",
         "title": "Annerxure B- Seat Matrix round 1 Neet ug- 2026",
@@ -7199,15 +7210,6 @@
         "date": "19/06/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
-      },
-      {
-        "id": "9518a1fe556d2882",
-        "title": "Results of the Entrance Examination for ANM Courses for the Academic Session 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1781851739_ANM-result.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-15T12:56:45.112Z"
       }
     ]
