@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T15:06:21.972Z",
+    "lastUpdatedDate": "2026-08-21T14:38:47.195Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "db678fd423a6c0e3",
+        "title": "REVISED PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1 21.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608211253894987.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-21T14:38:47.195Z"
+      },
+      {
+        "id": "9d4781bd6abd15da",
+        "title": "NOTICE FOR REVISED PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1 21.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608211546484021.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-21T14:38:47.195Z"
+      },
       {
         "id": "7925497a18fbf632",
         "title": "PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1",
@@ -385,24 +405,6 @@
         "date": "28/10/2025",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
-      },
-      {
-        "id": "dd7cda49562f43b5",
-        "title": "UG State Schedule 2025 dated 24.10.2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/20251024919259468.pdf",
-        "date": "24/10/2025",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
-      },
-      {
-        "id": "f7e906ced9494aaf",
-        "title": "Final Allotment Result for Round 3 of UG Counselling 2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510231856675154.pdf",
-        "date": "23/10/2025",
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-24T09:05:48.578Z"
       }
     ]
