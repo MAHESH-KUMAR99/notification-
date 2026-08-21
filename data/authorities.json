@@ -7229,7 +7229,7 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T12:55:22.182Z",
+    "lastUpdatedDate": "2026-08-21T09:10:49.023Z",
     "pinned": false,
     "notices": [
       {
@@ -7243,6 +7243,16 @@
         "detectedAt": "2026-08-18T12:55:22.182Z"
       },
       {
+        "id": "688af886ed21ad5a",
+        "title": "NEET-UG-MERIT-LIST-updated",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/20-08-2026-updated-NEET-UG-2026-MERIT-LIST.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-21T09:10:49.023Z"
+      },
+      {
         "id": "275a66fd1fd3bcec",
         "title": "NEET-UG-MERIT-LIST-updated",
         "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEET-UG-MERIT-LIST-updated-on-18-8-2026.pdf",
@@ -7251,6 +7261,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-18T12:55:22.182Z"
+      },
+      {
+        "id": "de49447aed057692",
+        "title": "NEET-UG-Rejected-List-updated",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/20-08-2026-updated-NEET-UG-2026-REJECTED-LIST.pdf",
+        "date": "18/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-21T09:10:49.023Z"
       },
       {
         "id": "4af1fd6cbebe1afc",
@@ -7411,24 +7431,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-07-24T15:16:02.783Z"
-      },
-      {
-        "id": "70c5c68acad8de35",
-        "title": "CUET Counselling",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/CUET-Counselling.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T11:13:17.598Z"
-      },
-      {
-        "id": "dd48129929091776",
-        "title": "Notification Sl-No.-174-to-195-CUET-final-merit-list",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Sl-No.-174-to-195-CUET-final-merit-list.pdf",
-        "date": "21/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-21T07:11:38.383Z"
       }
     ]
   },
