@@ -6177,9 +6177,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T10:03:48.208Z",
+    "lastUpdatedDate": "2026-08-21T11:00:31.235Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f40dcf55c91f0b85",
+        "title": "SPOT ROUND 3(OFFLINE) COUNSELLING FOR B.TECH/ BBA/ BCA/B.COM(H)/ LE B.TECH, BA ENG and BA ECO PROG. Through NLT/CET/CUET (ONLY FOR REGISTERED & NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-2",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821805870161.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-21T11:00:31.235Z"
+      },
       {
         "id": "8493aa510c978363",
         "title": "CUET MERIT LIST FOR B.A (ECO) PRG CODE 197 FOR THE A.S.2026-27_dated-21.08.2026",
@@ -6369,16 +6379,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-17T08:10:28.728Z"
-      },
-      {
-        "id": "ce3ec5470d1bd779",
-        "title": "Corrigendum regarding Schedule of Spot Round 2 B.Tech, BCA, B.COM and BBA/BBA-MBA integrated_dated-17.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608171233683044.pdf",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-17T07:04:43.636Z"
       }
     ]
   },
