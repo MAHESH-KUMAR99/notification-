@@ -6189,9 +6189,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-22T10:30:40.027Z",
+    "lastUpdatedDate": "2026-08-22T14:27:50.175Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "66f85cb1af459931",
+        "title": "Fee payment and Reporting Schedule of SPOT ROUND 2 (ONLINE); FOR Programmes B.TECH/ BBA/ BCA/ B.COM (H)/ and LLB through NLT/CET for the A.S: 2026-27_dated-22.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221354867440.pdf",
+        "date": "22/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-22T14:27:50.175Z"
+      },
       {
         "id": "e75adc6e89a5e6d0",
         "title": "Schedule for Spot Round 3(Offline) counselling vide Notification No. 205/2026; F.No. IPU-7DI(Academic)/Offline Counselling/2026/2794 dated 21.08.2026 Stands Withdrawn_dated-22.08.2026",
@@ -6211,6 +6221,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-22T05:33:31.971Z"
+      },
+      {
+        "id": "d1eeaa68def31c02",
+        "title": "SCHEDULE FOR SPOT ROUND 3 (OFFLINE) COUNSELLING FOR B.TECH/ BBA/ BCA/ B.COM(H)/ LE BTECH/ BA (ENG) and BA (ECO) PROG. through NLT/CET/CUET for the A.S:2026-27_dated-22.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221428135421.pdf",
+        "date": "22/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-22T14:27:50.175Z"
       },
       {
         "id": "29a777fd8d338ef6",
@@ -6371,26 +6391,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T11:30:41.146Z"
-      },
-      {
-        "id": "6a7de1f174625350",
-        "title": "Fee Structure for PG Diploma in Bioinformatics at CEPS for A.S:2026-27_dated-19.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819598669037.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T10:34:59.565Z"
-      },
-      {
-        "id": "34777eceb6ba00ce",
-        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING for M.Ed (SE) (CET CODE-612) A.S: 2026-27_dated-19.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819966314780.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T08:43:40.339Z"
       }
     ]
   },
