@@ -6189,9 +6189,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-22T14:27:50.175Z",
+    "lastUpdatedDate": "2026-08-22T14:52:26.843Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "53245547f0909609",
+        "title": "Fee payment and Reporting Schedule of SPOT ROUND 2 (ONLINE); FOR Programmes B.TECH/ BBA/ BCA/ B.COM (H)/ and LLB through NLT/CET for the A.S: 2026-27_dated-22.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221176903093.pdf",
+        "date": "22/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-22T14:52:26.843Z"
+      },
       {
         "id": "66f85cb1af459931",
         "title": "Fee payment and Reporting Schedule of SPOT ROUND 2 (ONLINE); FOR Programmes B.TECH/ BBA/ BCA/ B.COM (H)/ and LLB through NLT/CET for the A.S: 2026-27_dated-22.08.2026",
@@ -6381,16 +6391,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-20T05:36:37.643Z"
-      },
-      {
-        "id": "01c2be6d02589745",
-        "title": "IMPORTANT NOTICE RELATING TO SPOT ROUND 02 (ONLINE) FOR THE PROG. BCA (CODE-114)/ BBA (Code 125)/ B.TECH (Code 131)/ B.Com (Code 146)/ BA LLB/BBA LLB (Code 121)._dated-19.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608191363542485.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T11:30:41.146Z"
       }
     ]
   },
