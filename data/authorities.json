@@ -1904,9 +1904,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T13:45:55.444Z",
+    "lastUpdatedDate": "2026-08-22T10:28:30.917Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "27a25a5abe65a6c9",
+        "title": "22-08-2026: MBBS BDS CQ 2026-27 - Provisional Merit Position of the Applied candidates MBBS BDS CQ 2026-27 - LIST OF CANDIDATES FEE PAID BUT NOT SUBMITTED THE APPLICATION MBBS BDS CQ 2026-27 - LIST OF CANDIDATES WHOSE CERTIFICATE VERIFICATION PENDING MBBS BDS CQ 2026-27 - LIST OF NOT ELIGIBLE CANDIDATES",
+        "link": "https://drntr.uhsap.in/index/notification/20260822154846200.pdf",
+        "date": "22/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-22T10:28:30.917Z"
+      },
       {
         "id": "a1fd5f1ac6a4f302",
         "title": "18-08-2026: MBBS-BDS- 2026-27-CQ- NOTIFICATION - ADMISSIONS INTO MBBS & BDS COURSES",
@@ -2085,15 +2095,6 @@
         "date": "27/02/2026",
         "sortTs": null,
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "56d5e59ef276c69e",
-        "title": "26-02-2026: MPT Not Reported list After Phase-I 2025-26 MPT Phase-II Revised Web Options Notification 2025-26 DNB Admissions 2025-26 - Not Reported candidates list after Phase-II_Final counselling (In-service)",
-        "link": "https://drntr.uhsap.in/index/notification/20260227115232160.pdf",
-        "date": "27/02/2026",
-        "sortTs": null,
-        "batchIndex": 9,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -6187,9 +6188,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-22T05:33:31.971Z",
+    "lastUpdatedDate": "2026-08-22T10:30:40.027Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e75adc6e89a5e6d0",
+        "title": "Schedule for Spot Round 3(Offline) counselling vide Notification No. 205/2026; F.No. IPU-7DI(Academic)/Offline Counselling/2026/2794 dated 21.08.2026 Stands Withdrawn_dated-22.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/2026082282074452.pdf",
+        "date": "22/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-22T10:30:40.027Z"
+      },
       {
         "id": "5f526da9c73b3e8e",
         "title": "EXTENSION OF LAST DATE M.TECH(IBT) (CODE-151) SUBMISSION OF ONLINE APPLICATION FORMS A.S:2026.",
@@ -6199,6 +6210,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-22T05:33:31.971Z"
+      },
+      {
+        "id": "29a777fd8d338ef6",
+        "title": "Withholding and Rechecking of the Result of Spot Round 2 (Online) for the programmes BCA/BBA/B.TECH/B.COM/LLB_dated-22.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608222033037861.pdf",
+        "date": "22/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-22T10:30:40.027Z"
       },
       {
         "id": "2beb97a8c8061b39",
@@ -6369,26 +6390,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T08:43:40.339Z"
-      },
-      {
-        "id": "137053cb5a119b39",
-        "title": "EXTENDED OPEN HOUSE -LLB (3 YEAR) (CET CODE 238): ADMISSION THROUGH CET AND CUET_dated-19.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608191036305141.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-19T11:30:41.146Z"
-      },
-      {
-        "id": "5acfc27c3abdcff3",
-        "title": "ROUND 02 Commencement of process -Online Counselling Paramedical (B.PT/B.OT/BASLP/BPO/BMLS)(Code-119/124) and B.Ed.(SE) (Code-159) Choice Filling for the Academic Session 2026-27_dated-19.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260819915289325.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-19T10:34:59.565Z"
       }
     ]
   },
