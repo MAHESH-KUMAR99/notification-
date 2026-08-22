@@ -4259,9 +4259,21 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T11:35:32.534Z",
+    "lastUpdatedDate": "2026-08-22T18:37:21.734Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "83cf97c524398f81",
+        "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग अंतर्गत आवंटन, दस्तावेज संवीक्षा एवं प्रवेश प्रक्रिया के संबंध में प्रेस नोट.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2168",
+        "date": "22/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": ": Press note regarding allotment, document scrutiny and admission process under the state level counseling of NEET UG admission year 2026.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-22T18:37:21.734Z"
+      },
       {
         "id": "a29fb8e23ece72d2",
         "title": ": CG State NEET MDS 2026 Online Application Notice ,Seat Matrix and Schedule.....More",
@@ -4475,16 +4487,6 @@
         "titleEn": "Regarding recognition of private hospitals located within the state for the treatment of government servants of the state and their dependent members of their families......More",
         "titleLang": "hi",
         "detectedAt": "2026-07-27T12:31:07.102Z"
-      },
-      {
-        "id": "68c3015e4b925376",
-        "title": "List of Candidates Selected for Document Verification & Interview Schedule Published – Nursing Faculty Recruitment 2026.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2148",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-24T17:08:44.208Z"
       }
     ]
   },
