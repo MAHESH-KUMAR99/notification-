@@ -960,9 +960,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-23T08:34:17.458Z",
+    "lastUpdatedDate": "2026-08-23T09:31:11.159Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8dbd75d40389821a",
+        "title": "Advertisement for 1st Round of Online Choice Filling",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Adv.%20-%201st%20Round%20-%20UG%20[2026-27]-%20Choice%20Filing.pdf?v=1",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
+      },
       {
         "id": "25aca8b764bab35f",
         "title": "General Merit List",
@@ -972,6 +982,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "5d3443bc7299dcc0",
+        "title": "Guidelines for Choice Filling",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Guidelines%20for%20Choice%20Filling%20[%E0%AA%9A%E0%AB%8B%E0%AA%88%E0%AA%B8%20%E0%AA%AB%E0%AB%80%E0%AA%B2%E0%AA%BF%E0%AA%82%E0%AA%97%20%E0%AA%AE%E0%AA%BE%E0%AA%9F%E0%AB%87%E0%AA%A8%E0%AB%80%20%E0%AA%97%E0%AA%BE%E0%AA%88%E0%AA%A1%E0%AA%B2%E0%AA%BE%E0%AA%88%E0%AA%A8%E0%AB%8D%E0%AA%B8]%20MBBS__BDS%202025-26.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
       },
       {
         "id": "b9984bb99f106da7",
@@ -984,6 +1004,16 @@
         "detectedAt": "2026-08-23T08:34:17.458Z"
       },
       {
+        "id": "3625b2a89309009f",
+        "title": "Choice Filling Screenshot",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/UG%20CHOICE%20FILLING%20SCREEN%20SHOT.pdf?v=1",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
+      },
+      {
         "id": "f9697d7896a0188f",
         "title": "ST Merit List",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_st.pdf",
@@ -992,6 +1022,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "0e2223b9e422f3d2",
+        "title": "Tentative Seat Matrix for Medical",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Seat%20Matrix%20Medical%202026-27.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
       },
       {
         "id": "8a2b69807f7b0b0f",
@@ -1004,6 +1044,16 @@
         "detectedAt": "2026-08-23T08:34:17.458Z"
       },
       {
+        "id": "cc153e8e18a54ca6",
+        "title": "Tentative Seat Matrix for Dental",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Seat%20Matrix%20Dental%202026-27.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
+      },
+      {
         "id": "1d10616987c24e5a",
         "title": "EWS Merit List",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_ew.pdf",
@@ -1012,6 +1062,16 @@
         "source": "Direct from Website",
         "batchIndex": 4,
         "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "cc77df524e829c96",
+        "title": "State 4 Round Instructions",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/State%204%20Round%20Instructions.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
       },
       {
         "id": "4a116e014f8b6ab3",
@@ -1024,6 +1084,16 @@
         "detectedAt": "2026-08-23T08:34:17.458Z"
       },
       {
+        "id": "99a3985171988583",
+        "title": "Informationm Bulletin of All India Quota issued from MCC, New Delhi",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Information%20Bulletin%20of%20All%20India%20Quota%20issued%20from%20MCC,%20New%20Delhi.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
+      },
+      {
         "id": "a28b0c6f7daf6a61",
         "title": "NRI Merit",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_nri.pdf",
@@ -1034,6 +1104,16 @@
         "detectedAt": "2026-08-23T08:34:17.458Z"
       },
       {
+        "id": "ee708edbb24fdd42",
+        "title": "Click here for MBBS and BDS College Fee Details",
+        "link": "https://medadmgujarat.ncode.in/UG/Candidate/Candidate_Default.aspx",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
+      },
+      {
         "id": "f1dda03fbccd957a",
         "title": "NRI Report",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/NRI%20Report.pdf",
@@ -1042,6 +1122,26 @@
         "source": "Direct from Website",
         "batchIndex": 8,
         "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "151f8c5c15594cb3",
+        "title": "અનામત કેટેગરીના તમામ ઉમેદવારોને અનામત બેઠકો પર પ્રવેશ આપ્યા પછી, અનામત કેટેગરીની ખાલી રહેતી બેઠકો બિન અનામત શ્રેણીની બેઠકોમાં ટ્રાન્સફર કરવાપાત્ર હોય છે. આ પ્રક્રીયા બીજા રાઉન્ડ દરમિયાન કરવામાં આવશે. દા.ત. NRI કવોટા થી Management ક્વોટા તથા SC, ST, SEBC, EWS થી General (Open) કેટેગરી અને PwD થી જે તે કેટેગરીમાં. [After all reserved category candidates have been admitted to their reserved seats, any vacant reserved category seats will be transferred to unreserved category seats. This process will be done during the second round. E.g. NRI quota to Management quota and SC, ST, SEBC, EWS to General (Open) category and PwD to those categories.]",
+        "link": null,
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
+      },
+      {
+        "id": "a6ce27bc105c079b",
+        "title": "If any NRI seats remain vacant, such Seats will be filled as Management quota seats with Management quota fees by ACPUGMEC. All the GMERS Medical Colleges and Gujarat Adani Institute of Medical Sciences, Bhuj does not have Management quota seats but have NRI seats. So vacant NRI seats of these institutes will be filled as Management quota seats with Management quota fees by ACPUGMEC જો કોઈપણ NRI બેઠકો ખાલી રહે છે, તો આવી બેઠકો ACPUGMEC દ્વારા મેનેજમેન્ટ ક્વોટા ફી સાથે મેનેજમેન્ટ ક્વોટાની બેઠકો તરીકે ભરવામાં આવશે. તમામ GMERS મેડિકલ કોલેજો અને ગુજરાત અદાણી ઇન્સ્ટિટ્યૂટ ઑફ મેડિકલ સાયન્સ, ભુજ પાસે મેનેજમેન્ટ ક્વોટાની બેઠકો નથી પરંતુ NRI બેઠકો છે. તેથી આ સંસ્થાઓની ખાલી NRI બેઠકો ACPUGMEC દ્વારા મેનેજમેન્ટ ક્વોટા ફી સાથે મેનેજમેન્ટ ક્વોટાની બેઠકો તરીકે ભરવામાં આવશે.",
+        "link": null,
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-08-23T09:31:11.159Z"
       },
       {
         "id": "b6bb46ef71a49f52",
@@ -1062,106 +1162,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "1a9c1f15205f5c4e",
-        "title": "SC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_sc.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "1f5939b510076242",
-        "title": "ST Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_st.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "0648dc5a41facf97",
-        "title": "SEBC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_se.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "99a7872b2da3e789",
-        "title": "EWS Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_ew.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "fe7d308e83a61c44",
-        "title": "PwD Merit",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_ph.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "c37954e6bbac2404",
-        "title": "PwD Report",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/PWD%20report.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "d093bb57ff0b28a8",
-        "title": "NHL Local Quota Candidate List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/NHL%20LOCAL%20QUOTA%20LIST_20082026.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "c5db1908df320f5a",
-        "title": "SMC Local Quota Candidate List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/SMC%20LOCAL%20QUOTA%20LIST%2020082026%20.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "36b09867f7abacba",
-        "title": "Not Eligible Candidate List with Reasons",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/DQ%20LIST_R1.1.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "4ec57c450c444d39",
-        "title": "Revised MCC Medical Dental UG Admission 2026 (Round 1) Schedule for State as well as All India Quota",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/202608191403764226.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T12:53:44.663Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
