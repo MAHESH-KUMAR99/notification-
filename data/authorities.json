@@ -608,9 +608,18 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-14T10:34:10.725Z",
+    "lastUpdatedDate": "2026-08-23T14:26:53.265Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1018",
+        "title": "23/08/2026 - Compliance with the directions of the Hon'ble Supreme Court of India in Amit Kumar & Others vs. Union of India & Others regarding reporting of student suicides/unnatural deaths, filling of faculty and administrative vacancies, maintenance of institutional records, and submission of updated information.",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PGMEB%20Pub%20Notice%2023-08-2026_compressed.pdf",
+        "date": "23/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-23T14:26:53.265Z"
+      },
       {
         "id": "nmc-1017",
         "title": "14/08/2026 - Draft of (Registration of Medical Practitioners and Licence to Practice Medicine (Amendment) Regulations 2026)_Inviting comments/objections /suggestions from stakeholders/ public REG",
@@ -769,14 +778,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/AppealModule_PublicNotice_merged.pdf",
         "date": "01/07/2026",
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-997",
-        "title": "01/07/2026 - Extension of last date for submission of Annual Disclosure Report (ADR)-2025 in respect of PG Medical Courses - Reg ",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Extension_PG_ADR_MergedNotice.pdf",
-        "date": "01/07/2026",
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
