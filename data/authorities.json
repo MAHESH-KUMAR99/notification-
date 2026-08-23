@@ -960,9 +960,89 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T11:30:07.564Z",
+    "lastUpdatedDate": "2026-08-23T08:34:17.458Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "25aca8b764bab35f",
+        "title": "General Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_gen.PDF",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "b9984bb99f106da7",
+        "title": "SC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_sc.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "f9697d7896a0188f",
+        "title": "ST Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_st.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "8a2b69807f7b0b0f",
+        "title": "SEBC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_se.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "1d10616987c24e5a",
+        "title": "EWS Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_ew.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "4a116e014f8b6ab3",
+        "title": "PwD Merit",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_ph_1.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "a28b0c6f7daf6a61",
+        "title": "NRI Merit",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_nri.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
+      {
+        "id": "f1dda03fbccd957a",
+        "title": "NRI Report",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/NRI%20Report.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-23T08:34:17.458Z"
+      },
       {
         "id": "b6bb46ef71a49f52",
         "title": "Candidates who have applied for NRI Quota with required document & Eligible as per NEET UG 2026 cutoff, the verification of these candidates is going on. Hence NRI Quota students’ merit of NRI Category will be declared in due course of time.",
@@ -1082,86 +1162,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T12:53:44.663Z"
-      },
-      {
-        "id": "e7d1da0bbeab9b30",
-        "title": "The merit list for Undergraduate courses (MBBS/BDS) for the academic year 2026-27 has been published today by the Medical Admission Committee as follows. Candidates who have applied for PwD Quota and NRI Quota, the verification of these candidates is going on. Hence PwD Quota and NRI Quota students’ merit of PwD Category/ NRI Category will be declared in due course of time.",
-        "link": null,
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "3d2b5874ef459887",
-        "title": "General Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_gen.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "8dc34d586c26a54b",
-        "title": "SC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_sc.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "03b80a719e312304",
-        "title": "ST Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_st.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "2a3e220e19b9a593",
-        "title": "SEBC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_se.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "1ce57eca99eab625",
-        "title": "EWS Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1_ew.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "045847564615679d",
-        "title": "NHL Local Quota Candidate List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/NHL%20LOCAL%20QUOTA%20LIST.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
-      },
-      {
-        "id": "b43d29926df7a8c7",
-        "title": "SMC Local Quota Candidate List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/SMC%20LOCAL%20QUOTA%20LIST.PDF",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-08-16T04:09:00.208Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
