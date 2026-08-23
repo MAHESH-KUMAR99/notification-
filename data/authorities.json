@@ -4259,7 +4259,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-22T18:37:21.734Z",
+    "lastUpdatedDate": "2026-08-23T13:36:17.227Z",
     "pinned": false,
     "notices": [
       {
@@ -4273,6 +4273,16 @@
         "titleEn": ": Press note regarding allotment, document scrutiny and admission process under the state level counseling of NEET UG admission year 2026.....More",
         "titleLang": "hi",
         "detectedAt": "2026-08-22T18:37:21.734Z"
+      },
+      {
+        "id": "01b7c4a01532529a",
+        "title": "09 नवीन शासकीय नर्सिंग महाविद्यालयों हेतु संविदा माध्यम से तृतीय एवं चतुर्थ श्रेणी कर्मचारियों के कुल 81 पदों को भरे जाने के संबंध में आवश्यक सहयोग/समन्वय हेतु नोडल संस्था बनाए जाने बाबत् आदेश .....More",
+        "link": "https://www.cgdme.in/notice.php?id=2169",
+        "date": null,
+        "sortTs": 1787356800000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-23T13:36:17.227Z"
       },
       {
         "id": "a29fb8e23ece72d2",
@@ -4475,18 +4485,6 @@
         "titleEn": "Regarding recognition of private hospitals located within the state and outside the state for the treatment of government servants of the state and their dependent members of their families......More",
         "titleLang": "hi",
         "detectedAt": "2026-07-28T07:17:10.130Z"
-      },
-      {
-        "id": "d28d7092d48a12ff",
-        "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत स्थित निजी चिकित्सालयों की मान्यता बाबत |.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2149",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Regarding recognition of private hospitals located within the state for the treatment of government servants of the state and their dependent members of their families......More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-27T12:31:07.102Z"
       }
     ]
   },
