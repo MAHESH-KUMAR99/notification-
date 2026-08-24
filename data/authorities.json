@@ -1590,38 +1590,48 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T13:06:06.712Z",
+    "lastUpdatedDate": "2026-08-24T14:02:16.172Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Counselling Schedule:060995c400296bdf",
-        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
-        "date": "20/08/2026",
+        "id": "Allotment List:a78f594a5849e81c",
+        "title": "First Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 24.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_DME_UG_ALLOTMENT_REPORT_FR_31.pdf",
+        "date": "24/08/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
+        "source": "Allotment List",
         "batchIndex": 0,
-        "detectedAt": "2026-08-20T13:06:06.712Z"
+        "detectedAt": "2026-08-24T14:02:16.172Z"
       },
       {
-        "id": "Counselling Schedule:cdc71e56ef143c41",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
+        "id": "Allotment List:f73017a77fec3eb6",
+        "title": "First Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 21.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_%20Opening%20closing_30.pdf",
+        "date": "21/08/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:08:57.645Z"
+        "source": "Allotment List",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T14:02:16.172Z"
       },
       {
-        "id": "Counselling Schedule:dadb06cb5e49ddb2",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
+        "id": "Latest Instructions:a78f594a5849e81c",
+        "title": "First Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 24.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_DME_UG_ALLOTMENT_REPORT_FR_31.pdf",
+        "date": "24/08/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T16:33:00.795Z"
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T14:02:14.349Z"
+      },
+      {
+        "id": "Latest Instructions:f73017a77fec3eb6",
+        "title": "First Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 21.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_%20Opening%20closing_30.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-24T14:02:14.349Z"
       },
       {
         "id": "Latest Instructions:060995c400296bdf",
@@ -1806,24 +1816,34 @@
         "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
-        "id": "Latest Instructions:a90fa82e66d2b03c",
-        "title": "Information Regarding Post Matric Scholarship Scheduled Tribe. (ST Category) (Dated 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/ST%20Scholarship_13.pdf",
-        "date": "05/08/2026",
+        "id": "Counselling Schedule:060995c400296bdf",
+        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
+        "date": "20/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T13:06:06.712Z"
       },
       {
-        "id": "Latest Instructions:c289ee4050f6952e",
-        "title": "Information Regarding Post Matric Scholarship Other Backward Class (OBC Category)(Dated 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/OBC%20Scholarship_12.pdf",
-        "date": "05/08/2026",
+        "id": "Counselling Schedule:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 5,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.645Z"
+      },
+      {
+        "id": "Counselling Schedule:dadb06cb5e49ddb2",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T16:33:00.795Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
