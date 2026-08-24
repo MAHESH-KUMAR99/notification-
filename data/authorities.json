@@ -2512,9 +2512,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-18T12:56:45.229Z",
+    "lastUpdatedDate": "2026-08-24T11:37:47.277Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:d949fe8de339ba5b",
+        "title": "Details for filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar)(Adv. No. BCECEB(BSFC)-2026/02 Dated 24.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_02.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T11:37:47.277Z"
+      },
+      {
+        "id": "Latest Updates:c51d24bdf701fabf",
+        "title": "Important Notice Regarding filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar) (Adv. No. BCECEB(BSFC)-2026/01 Dated 24.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_01.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T11:37:47.277Z"
+      },
       {
         "id": "Latest Updates:fa2d8344b58d3844",
         "title": "Important Notice for Registration-cum-Choice Filling for Admission in Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/02 Dated 18.08.2026)",
@@ -2694,26 +2714,6 @@
         "source": "Latest Updates",
         "batchIndex": 2,
         "detectedAt": "2026-07-25T11:50:55.008Z"
-      },
-      {
-        "id": "Latest Updates:865fa0cd9867c1d3",
-        "title": "Details for online counselling of BCECE[PCM/PCM OF PCMB]Group-2026 (Adv. No. BCECEB(BCECE)-2026/08 Dated 25.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_08.pdf",
-        "date": "25/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-25T11:50:55.008Z"
-      },
-      {
-        "id": "Latest Updates:cf24ef00872aafe2",
-        "title": "Schedule for Revised Second Document Verification of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/09 Dated 23.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_09.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T11:27:44.182Z"
       },
       {
         "id": "UGMAC:60fb67ead7e4cacd",
@@ -3199,9 +3199,69 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T07:46:22.836Z",
+    "lastUpdatedDate": "2026-08-24T11:39:21.983Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:045a56416ded9754",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1bEB63S9OPQJFUFaC5uG3CjtSw0DN1Mf_/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "OVERALL:f244c70b6212134a",
+        "title": "REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/revised_draft_merit_list.html",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "OVERALL:ac1cf920d28fbe49",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1NdAaKm2C-32rgQYxm5WnAo7E6Mp3aQgn/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "PG DENTAL:f244c70b6212134a",
+        "title": "REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/revised_draft_merit_list.html",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 142,
+        "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "PG DENTAL:ac1cf920d28fbe49",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1NdAaKm2C-32rgQYxm5WnAo7E6Mp3aQgn/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 143,
+        "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:045a56416ded9754",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1bEB63S9OPQJFUFaC5uG3CjtSw0DN1Mf_/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 261,
+        "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
       {
         "id": "OVERALL:3c46f23b723d90f2",
         "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER ROUND 1",
@@ -3341,66 +3401,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T11:33:49.236Z"
-      },
-      {
-        "id": "OVERALL:d067278a101a19f4",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.ARCH IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbQ1lkiPf1SIWXHxNf1EjS5qNL9mdfyV/view?usp=sharing",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-19T11:33:49.236Z"
-      },
-      {
-        "id": "B.ARCH.:72db1b05412cb802",
-        "title": "ROUND II PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/14RE9nety9qA1Hwm59HWa2BsboKRCDOgs/view?usp=sharing",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 232,
-        "detectedAt": "2026-08-19T11:33:49.236Z"
-      },
-      {
-        "id": "B.ARCH.:d067278a101a19f4",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR B.ARCH IN SMVEC FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1YbQ1lkiPf1SIWXHxNf1EjS5qNL9mdfyV/view?usp=sharing",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 233,
-        "detectedAt": "2026-08-19T11:33:49.236Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:35b05028f0f6cfe1",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
-        "link": "https://drive.google.com/file/d/1FZjYodtRFo_Myk4Ch3dNk79mSxA0hZl8/view?usp=sharing",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 248,
-        "detectedAt": "2026-08-19T11:59:29.125Z"
-      },
-      {
-        "id": "OVERALL:80a955bce04c1bad",
-        "title": "DRAFT MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/draft_merit_list.html",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-18T12:58:24.316Z"
-      },
-      {
-        "id": "OVERALL:af7a067eddbd327a",
-        "title": "NOTICE : DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hQdnDIzv-S7VhWYeaF6yw-yedeVOhkd3/view?usp=sharing",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-18T12:58:24.316Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
