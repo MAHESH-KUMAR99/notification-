@@ -1378,9 +1378,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T07:39:24.220Z",
+    "lastUpdatedDate": "2026-08-24T13:00:03.011Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "29646278236ccf99",
+        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/24082026050945.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T13:00:03.011Z"
+      },
       {
         "id": "f73c7cf17b591287",
         "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
@@ -1569,16 +1579,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 6,
-        "detectedAt": "2026-08-14T09:11:36.382Z"
-      },
-      {
-        "id": "401642fb89be7104",
-        "title": "TENTATIVE SPECIAL CATEGORY VACANCY POSITION FOR MBBS/BDS COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/14082026004434.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
         "detectedAt": "2026-08-14T09:11:36.382Z"
       }
     ]
@@ -2857,9 +2857,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T12:55:06.046Z",
+    "lastUpdatedDate": "2026-08-24T12:58:49.033Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1cf268a9f425a3ac",
+        "title": "Advt. No. 68 dated-23.08.2026 डिप्लोमा प्रवेश प्रतियोगिता परीक्षा (पाश्विक प्रवेश)-2026 के परीक्षाफल आधारित तृतीय एवं विशेष चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/770.pdf",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T12:58:49.033Z"
+      },
       {
         "id": "5cb35993ae9be3ab",
         "title": "Advt. No. 67 dated-21.08.2026 Important Information related to Special Round of Online Counselling for B.E./B.Tech. Regular Course on the basis of State Merit List prepared through JEE (Main)-2026 Result",
@@ -3054,17 +3064,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-23T11:26:48.617Z"
-      },
-      {
-        "id": "34d3bf17c2a789c9",
-        "title": "Advt. No. 41 dated-20.07.2026 डिप्लोमा प्रवेश प्रतियोगिता परीक्षा (पाश्विक प्रवेश)-2026 के परीक्षाफल (Result) प्रकाशन एवं परीक्षाफल आधारित प्रथम एवं द्वितीय चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/749.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "titleEn": "Advt. No. 41 dated-20.07.2026 Information related to publication of result of Diploma Entrance Competitive Examination (Lateral Entry)-2026 and organization of result based first and second round online interview.",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-20T15:30:59.252Z"
       }
     ]
   },
@@ -3199,9 +3198,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T11:39:21.983Z",
+    "lastUpdatedDate": "2026-08-24T13:07:26.314Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:9b61b7da4c3b5b04",
+        "title": "LIST OF CANDIDATES ALLOTTED SEATS IN JIPMER PUDUCHERRY / KARAIKAL THROUGH ALL INDIA COUNSELLING INTERNAL - PUDUCHERRY UT DOMICILE JIPMER ALLOTTED CANDIDATES WILL BE REMOVED IN CENTAC ROUND 1 ALLOTMENT (OBJECTIONS IF ANY, MAY BE SUBMITTED THROUGH DASHBOARD LOGIN)",
+        "link": "https://drive.google.com/file/d/1fA0DRrPiHPRJohpHtYyabVSvyoTXImbI/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
+      },
       {
         "id": "OVERALL:045a56416ded9754",
         "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3211,6 +3220,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "OVERALL:6b940aab01b86613",
+        "title": "NOTICE : REMOVAL OF JIPMER-ALLOTTED CANDIDATES IN CENTAC UG-NEET ROUND 1 ALLOTMENT",
+        "link": "https://drive.google.com/file/d/1gi9C4TK66qXdTFeeXCX7az18Hv-3T-XK/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
       },
       {
         "id": "OVERALL:f244c70b6212134a",
@@ -3223,6 +3242,16 @@
         "detectedAt": "2026-08-24T11:39:21.983Z"
       },
       {
+        "id": "OVERALL:e3395d7384614708",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - III (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/13JDYUoQCwOP5okMijMuy7Ui2hlh6QXQ9/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
+      },
+      {
         "id": "OVERALL:ac1cf920d28fbe49",
         "title": "NOTICE : REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1NdAaKm2C-32rgQYxm5WnAo7E6Mp3aQgn/view?usp=sharing",
@@ -3231,6 +3260,26 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "OVERALL:0cd8450eb37af88b",
+        "title": "UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1rvaqG-msODmWS6lxkeyspyQ2e-bRp1O6/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
+      },
+      {
+        "id": "OVERALL:1b4fa20a917cadd7",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1vrR7_99oKpuYgbSZBsIgfsIeZ3W9v8jq/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
       },
       {
         "id": "PG DENTAL:f244c70b6212134a",
@@ -3253,6 +3302,26 @@
         "detectedAt": "2026-08-24T11:39:21.983Z"
       },
       {
+        "id": "UG NEET:9b61b7da4c3b5b04",
+        "title": "LIST OF CANDIDATES ALLOTTED SEATS IN JIPMER PUDUCHERRY / KARAIKAL THROUGH ALL INDIA COUNSELLING INTERNAL - PUDUCHERRY UT DOMICILE JIPMER ALLOTTED CANDIDATES WILL BE REMOVED IN CENTAC ROUND 1 ALLOTMENT (OBJECTIONS IF ANY, MAY BE SUBMITTED THROUGH DASHBOARD LOGIN)",
+        "link": "https://drive.google.com/file/d/1fA0DRrPiHPRJohpHtYyabVSvyoTXImbI/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 217,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
+      },
+      {
+        "id": "UG NEET:6b940aab01b86613",
+        "title": "NOTICE : REMOVAL OF JIPMER-ALLOTTED CANDIDATES IN CENTAC UG-NEET ROUND 1 ALLOTMENT",
+        "link": "https://drive.google.com/file/d/1gi9C4TK66qXdTFeeXCX7az18Hv-3T-XK/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 218,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
+      },
+      {
         "id": "B.TECH. LATERAL ENTRY:045a56416ded9754",
         "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1bEB63S9OPQJFUFaC5uG3CjtSw0DN1Mf_/view?usp=sharing",
@@ -3261,6 +3330,36 @@
         "source": "Direct from Website",
         "batchIndex": 261,
         "detectedAt": "2026-08-24T11:39:21.983Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:e3395d7384614708",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - III (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/13JDYUoQCwOP5okMijMuy7Ui2hlh6QXQ9/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 267,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:0cd8450eb37af88b",
+        "title": "UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1rvaqG-msODmWS6lxkeyspyQ2e-bRp1O6/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 268,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:1b4fa20a917cadd7",
+        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1vrR7_99oKpuYgbSZBsIgfsIeZ3W9v8jq/view?usp=sharing",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 269,
+        "detectedAt": "2026-08-24T13:07:26.314Z"
       },
       {
         "id": "OVERALL:3c46f23b723d90f2",
@@ -3301,106 +3400,6 @@
         "source": "Direct from Website",
         "batchIndex": 146,
         "detectedAt": "2026-08-21T13:00:21.049Z"
-      },
-      {
-        "id": "UG NON-NEET:d6c4e288a46d13f9",
-        "title": "FIRST ROUND UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1G4H3w4hjkAKarzUeWsUDaAMkvm5KD-PP/view?usp=sharing",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 147,
-        "detectedAt": "2026-08-24T07:46:22.836Z"
-      },
-      {
-        "id": "UG NON-NEET:6a05dc03447e23a5",
-        "title": "FIRST ROUND UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/16t35fDqB1xPNDDx26Z_jMGdyam-WLMPe/view?usp=sharing",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 147,
-        "detectedAt": "2026-08-21T13:00:21.049Z"
-      },
-      {
-        "id": "OVERALL:302b5e6bd67bd1f1",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
-        "link": "https://drive.google.com/file/d/145WPVCnGKK5g-706Aeit0woBPNjHBAgR/view?usp=sharing",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-20T13:07:29.660Z"
-      },
-      {
-        "id": "OVERALL:9bd14f3749c9c0f6",
-        "title": "B.TECH LATERAL ENTRY VACANCIES AFTER ROUND 2",
-        "link": "https://drive.google.com/file/d/1IqkdSdjyw9N_3oVBk_jh5hMNXxbQQ6Bn/view?usp=sharing",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-20T05:39:48.619Z"
-      },
-      {
-        "id": "OVERALL:c4a80fcaf0adf034",
-        "title": "ROUND II ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1eyfJEF6YjzwNv6hqzd9W7V7bOgBEe1Aq/view?usp=sharing",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-20T05:39:48.619Z"
-      },
-      {
-        "id": "UG NON-NEET:302b5e6bd67bd1f1",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
-        "link": "https://drive.google.com/file/d/145WPVCnGKK5g-706Aeit0woBPNjHBAgR/view?usp=sharing",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 144,
-        "detectedAt": "2026-08-20T13:07:29.660Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:9bd14f3749c9c0f6",
-        "title": "B.TECH LATERAL ENTRY VACANCIES AFTER ROUND 2",
-        "link": "https://drive.google.com/file/d/1IqkdSdjyw9N_3oVBk_jh5hMNXxbQQ6Bn/view?usp=sharing",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 251,
-        "detectedAt": "2026-08-20T05:39:48.619Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:c4a80fcaf0adf034",
-        "title": "ROUND II ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1eyfJEF6YjzwNv6hqzd9W7V7bOgBEe1Aq/view?usp=sharing",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 252,
-        "detectedAt": "2026-08-20T05:39:48.619Z"
-      },
-      {
-        "id": "OVERALL:35b05028f0f6cfe1",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
-        "link": "https://drive.google.com/file/d/1FZjYodtRFo_Myk4Ch3dNk79mSxA0hZl8/view?usp=sharing",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T11:59:29.125Z"
-      },
-      {
-        "id": "OVERALL:72db1b05412cb802",
-        "title": "ROUND II PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/14RE9nety9qA1Hwm59HWa2BsboKRCDOgs/view?usp=sharing",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T11:33:49.236Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6609,9 +6608,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T07:46:22.272Z",
+    "lastUpdatedDate": "2026-08-24T13:07:24.545Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7eeae538a1b3ed5b",
+        "title": "KERALA MEDICAL COURSES CANDIDATES CAN RECTIFY DEFECTS IN NRI DOCUMENTS DATE EXTENDED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/227/Upload1",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T13:07:24.545Z"
+      },
       {
         "id": "f16def72fb007765",
         "title": "Admission to BDS Course in Self-Financing Dental Colleges – Implementation of 15% All India Quota (AIQ) from the Academic Year 2026-27",
@@ -6803,16 +6812,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T12:17:58.652Z"
-      },
-      {
-        "id": "470886bac623063d",
-        "title": "DTE Centralized SPOT admissions for B.Tech 2026",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/193/Upload1",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T15:12:43.753Z"
       }
     ]
   },
@@ -7031,9 +7030,49 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T11:36:31.444Z",
+    "lastUpdatedDate": "2026-08-24T13:03:18.809Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "740e7e64a1956b10",
+        "title": "Merit lists of the State Government quota seats for 1st round of Manipur Medical e-Counselling 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1787574593_Merit%20lists%20of%20the%20State%20Government%20quota%20seats%20%20for%201st%20round%20of%20Manipur%20Medical%20e-Counselling%202026-27_compressed.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T13:03:18.809Z"
+      },
+      {
+        "id": "fe2d1f5365989963",
+        "title": "Merit lists of the NRI quota for 1st round of Manipur Medical ecounselling 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1787574496_Merit%20lists%20of%20the%20NRI%20quota%20for%201st%20round%20of%20Manipur%20Medical%20ecounselling%202026-27.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T13:03:18.809Z"
+      },
+      {
+        "id": "631151264fe8410f",
+        "title": "Merit lists of the Management quota for 1st round of Manipur Medical e-Counselling 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1787574417_Merit%20lists%20of%20the%20Management%20quota%20for%201st%20round%20of%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-24T13:03:18.809Z"
+      },
+      {
+        "id": "a7f6931031700512",
+        "title": "Notification of the merit lists of the 1st round of Manipur Medical e-Counselling 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1787574236_Notification%20of%20the%20merit%20lists%20of%20the%201st%20round%20of%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-24T13:03:18.809Z"
+      },
       {
         "id": "da5bc82909de13f6",
         "title": "Revised schedule for Round 1 Counselling",
@@ -7189,43 +7228,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T15:21:36.116Z"
-      },
-      {
-        "id": "26e50ec0e680d4f1",
-        "title": "Bachelor of Nutrition & Dietetics (Hons.) [BND] notification",
-        "link": "https://manipurmc.mn.gov.in/media/1783591080_BND%20notification.pdf",
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-09T16:02:47.332Z"
-      },
-      {
-        "id": "0bb4fdc5c4fab7de",
-        "title": "BND notification",
-        "link": "https://manipurmc.mn.gov.in/media/1783590461_BND%20notification.pdf",
-        "date": "09/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-09T09:48:04.353Z"
-      },
-      {
-        "id": "88c015d034a9e5fd",
-        "title": "Result of Common Entrance Examination",
-        "link": "https://manipurmc.mn.gov.in/media/1781847347_CommonEntranceExamResult.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T16:03:42.191Z"
-      },
-      {
-        "id": "930450ddb7b6a04c",
-        "title": "Results of the Entrance Examination for M.Sc Nursing Courses for the Academic Session 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1781851883_MSC-result.pdf",
-        "date": "19/06/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-15T12:56:45.112Z"
       }
     ]
   },
