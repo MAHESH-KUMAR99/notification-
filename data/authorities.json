@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T06:04:30.092Z",
+    "lastUpdatedDate": "2026-08-24T09:52:10.165Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "4acba36b1fcdc732",
+        "title": "Final Allotment Result for Round 1 of UG Counselling 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260824606525705.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T09:52:10.165Z"
+      },
       {
         "id": "2f8f3c984fc7cf58",
         "title": "Revised Provisional Result II for UG Counselling Round 1 dated 24.08.2026",
@@ -398,15 +408,6 @@
         "date": "15/11/2025",
         "sortTs": null,
         "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "1b38805b833aacae",
-        "title": "SEAT MATRIX STRAY ROUND UG 2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/11/202511061324228354.pdf",
-        "date": "06/11/2025",
-        "sortTs": null,
-        "batchIndex": 10,
         "detectedAt": "2026-07-08T09:35:42.565Z"
       }
     ]
@@ -6404,9 +6405,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-20T10:34:55.216Z",
+    "lastUpdatedDate": "2026-08-24T09:52:43.225Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "74d0cfcc851c5eb2",
+        "title": "Fee Structure for Private Medical and Dental Colleges",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608241072214322.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T09:52:43.225Z"
+      },
       {
         "id": "452d3b1ba5090b46",
         "title": "Revised Schedule Round 1 Dated 20.08.2026",
@@ -6588,16 +6599,6 @@
         "sortTs": null,
         "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "f6b7cb3479bd18b7",
-        "title": "URGENT NOTICE DATED 17-11-2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/11/202511172053046158.pdf",
-        "date": "17/11/2025",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-04T13:05:12.582Z"
       }
     ]
   },
