@@ -963,7 +963,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-23T09:31:11.159Z",
+    "lastUpdatedDate": "2026-08-24T07:38:36.467Z",
     "pinned": false,
     "notices": [
       {
@@ -1107,6 +1107,16 @@
         "detectedAt": "2026-08-23T08:34:17.458Z"
       },
       {
+        "id": "6355e7be907f8607",
+        "title": "Click here for MBBS and BDS College Fee Details",
+        "link": "https://medadmgujarat.ncode.in/UG/Candidate/Candidate_Login.aspx",
+        "date": "23/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-08-24T07:38:36.467Z"
+      },
+      {
         "id": "ee708edbb24fdd42",
         "title": "Click here for MBBS and BDS College Fee Details",
         "link": "https://medadmgujarat.ncode.in/UG/Candidate/Candidate_Default.aspx",
@@ -1154,16 +1164,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-20T11:30:07.564Z"
-      },
-      {
-        "id": "a28751f33a6a7e44",
-        "title": "General Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.1_gen.PDF",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-08-20T11:30:07.564Z"
       },
       {
@@ -1377,9 +1377,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T07:01:20.050Z",
+    "lastUpdatedDate": "2026-08-24T07:39:24.220Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f73c7cf17b591287",
+        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/24082026001917.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T07:39:24.220Z"
+      },
       {
         "id": "4e0522a9fcde8401",
         "title": "KIND ATTENTION- FOR SPECIAL CATEGORY MBBS/BDS COURSE ALLOTTED CANDIDATES ON 13.08.2026",
@@ -1569,16 +1579,6 @@
         "source": "Direct from Website",
         "batchIndex": 7,
         "detectedAt": "2026-08-14T09:11:36.382Z"
-      },
-      {
-        "id": "53593b429bb4b51f",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR CHRISTIAN MINORITY CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/14082026042807.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
-        "detectedAt": "2026-08-14T11:48:31.633Z"
       }
     ]
   },
@@ -3198,7 +3198,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T13:00:21.049Z",
+    "lastUpdatedDate": "2026-08-24T07:46:22.836Z",
     "pinned": false,
     "notices": [
       {
@@ -3210,6 +3210,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-21T13:00:21.049Z"
+      },
+      {
+        "id": "OVERALL:d6c4e288a46d13f9",
+        "title": "FIRST ROUND UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1G4H3w4hjkAKarzUeWsUDaAMkvm5KD-PP/view?usp=sharing",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T07:46:22.836Z"
       },
       {
         "id": "OVERALL:6a05dc03447e23a5",
@@ -3230,6 +3240,16 @@
         "source": "Direct from Website",
         "batchIndex": 146,
         "detectedAt": "2026-08-21T13:00:21.049Z"
+      },
+      {
+        "id": "UG NON-NEET:d6c4e288a46d13f9",
+        "title": "FIRST ROUND UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1G4H3w4hjkAKarzUeWsUDaAMkvm5KD-PP/view?usp=sharing",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 147,
+        "detectedAt": "2026-08-24T07:46:22.836Z"
       },
       {
         "id": "UG NON-NEET:6a05dc03447e23a5",
@@ -3379,26 +3399,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-08-18T12:58:24.316Z"
-      },
-      {
-        "id": "OVERALL:0b9ffdbed60f1585",
-        "title": "ROUND II DRAFT ALLOTMENT LIST FOR UG NON-NEET - B.ARCH. (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1AtPyVCF1fBfqPphYq5tksPho6WCpCoIt/view?usp=sharing",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-18T12:58:24.316Z"
-      },
-      {
-        "id": "OVERALL:81090627b77c7f1e",
-        "title": "UPDATED FINAL MERIT LIST - UG NON-NEET - B.ARCH. - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1eJRGvMmwQB3RWy6ms8l1Wxm4o-ruaRGL/view?usp=sharing",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-08-18T12:58:24.316Z"
       },
       {
@@ -6608,9 +6608,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T06:04:23.389Z",
+    "lastUpdatedDate": "2026-08-24T07:46:22.272Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f16def72fb007765",
+        "title": "Admission to BDS Course in Self-Financing Dental Colleges – Implementation of 15% All India Quota (AIQ) from the Academic Year 2026-27",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/226/Upload1",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T07:46:22.272Z"
+      },
       {
         "id": "c645bd86ec0f20b8",
         "title": "Seat Matrix for MBBS Courses in Palakkad Institute of Medical Sciences, Walayar",
@@ -6802,16 +6812,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-13T15:12:43.753Z"
-      },
-      {
-        "id": "558f9b015d2bdaa8",
-        "title": "GENERAL GUIDELINES FOR B.Tech. CENTRALIZED SPOT ADMISSION ON 13 AUGUST 2026",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/189/Upload1",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-12T17:36:08.436Z"
       }
     ]
   },
@@ -7246,9 +7246,29 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T09:10:49.023Z",
+    "lastUpdatedDate": "2026-08-24T07:42:09.718Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "477f0563e27d9336",
+        "title": "Nagaland-State-Quota-Seats-Allocation-for-NEET-2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/Nagaland-State-Quota-Seats-Allocation-for-NEET-2026.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T07:42:09.718Z"
+      },
+      {
+        "id": "713b85b730c03757",
+        "title": "Nagaland-State-Quota-Seats-Allocation-for-NON-NEET-2026",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/Nagaland-State-Quota-Seats-Allocation-for-NON-NEET-2026.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T07:42:09.718Z"
+      },
       {
         "id": "19f0158e8c6bd387",
         "title": "State-Counselling-for-MBBS-and-allied-Medical-courses-2026-27",
@@ -7427,26 +7447,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-07-24T15:16:02.783Z"
-      },
-      {
-        "id": "bb82fb9a779bbb32",
-        "title": "NEET UG 2026 candidate list applied",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/NEET-UG-2026-Candidates-List-Not-Merit-List.pdf",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-24T15:16:02.783Z"
-      },
-      {
-        "id": "32015dbc7ba3b449",
-        "title": "Notification under NEET UG 2026 and Non NEET application list",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notiifcation-under-NEET-2026-application-list.pdf",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-07-24T15:16:02.783Z"
       }
     ]
