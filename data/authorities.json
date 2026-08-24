@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T14:38:47.195Z",
+    "lastUpdatedDate": "2026-08-24T06:04:30.092Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "2f8f3c984fc7cf58",
+        "title": "Revised Provisional Result II for UG Counselling Round 1 dated 24.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260824777992744.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T06:04:30.092Z"
+      },
+      {
+        "id": "4098a8d26c589891",
+        "title": "Notice for Revised Provisional Result II for UG Counselling Round 1 dated 24.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608241333291566.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T06:04:30.092Z"
+      },
       {
         "id": "db678fd423a6c0e3",
         "title": "REVISED PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1 21.08.2026",
@@ -388,24 +408,6 @@
         "sortTs": null,
         "batchIndex": 10,
         "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "d56ee248b327794b",
-        "title": "ADMITTED JOINED CANDIDATES LIST UPTO ROUND 3 UG COUNSELLING 2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/11/202511031508909973.pdf",
-        "date": "03/11/2025",
-        "sortTs": null,
-        "batchIndex": 11,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "01ef998cda0f282b",
-        "title": "Notice for Weeding out",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/10/202510289276770.pdf",
-        "date": "28/10/2025",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-24T09:05:48.578Z"
       }
     ]
   },
