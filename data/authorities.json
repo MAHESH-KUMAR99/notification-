@@ -2132,9 +2132,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T11:28:33.848Z",
+    "lastUpdatedDate": "2026-08-25T10:36:48.389Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "41c90d66b842febb",
+        "title": "Revised Schedule for 1st Round of Counselling Under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Revised%20Schedule%20for%20first%20round%20of%20online%20counseling.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-25T10:36:48.389Z"
+      },
       {
         "id": "9b4262281ab3e2ca",
         "title": "Date Extended for Online choice filling Revised Notice regarding fee structure of MBBS Course, session 2026-2027 of Adesh Institute of Medical Sciences & Research, Bathinda.",
@@ -2321,15 +2331,6 @@
         "date": "26/12/2025",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:30.560Z"
-      },
-      {
-        "id": "c181a253922c4f5d",
-        "title": "Provisional allotment list of Special Stray Round online counseling for admission to MBBS courses, session 2025 in the Pvt. Medical Colleges in the State of Punjab under NEET UG-2025",
-        "link": "https://bfuhs.ac.in/MBBS2025/Result5thspecialstrayR24.12.2025.pdf",
-        "date": "24/12/2025",
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:30.560Z"
       }
     ]
@@ -6214,9 +6215,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T08:51:01.847Z",
+    "lastUpdatedDate": "2026-08-25T10:39:16.279Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9dddc82470407f0a",
+        "title": "Tentative Vacancy Position of BBA (Code-125) as on_dated-25.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608251522586332.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T10:39:16.279Z"
+      },
       {
         "id": "3c11cbbfd0d5b7ae",
         "title": "Tentative Vacancy Position of B.Com (Code: 146) as on 25/08/2026",
@@ -6406,16 +6417,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-20T06:54:33.991Z"
-      },
-      {
-        "id": "0ead1fba68d047a6",
-        "title": "REVISED CUET MERIT LIST FOR BCA PRG. CODE 114 FOR THE A.S.2026-27_dated-20.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608201063639556.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-20T13:04:27.660Z"
       }
     ]
   },
