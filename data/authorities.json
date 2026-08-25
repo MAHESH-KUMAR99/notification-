@@ -1928,9 +1928,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-22T13:34:53.789Z",
+    "lastUpdatedDate": "2026-08-25T06:54:54.522Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f62c897654d0a5c3",
+        "title": "25-08-2026: List of Candidates to be debarred for counselling to MDS course in the State of AP for the year 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20260825115250643.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T06:54:54.522Z"
+      },
       {
         "id": "aab17e18ebcbd644",
         "title": "22-08-2026: MBBS-BDS-2026-27-CQ-Notice to candidaates on Provisional Merit List MBBS-BDS-2026-27-CQ -LIST OF ELIGIBLE-NOT ELIGIBLE-ABSENT -PENDING UNDER PwBD CATEGORY MBBS BDS CQ 2026-27 - Provisional Merit Position of the Applied candidates MBBS BDS CQ 2026-27 - LIST OF CANDIDATES FEE PAID BUT NOT SUBMITTED THE APPLICATION MBBS BDS CQ 2026-27 - LIST OF CANDIDATES WHOSE CERTIFICATE VERIFICATION PENDING MBBS BDS CQ 2026-27 - LIST OF NOT ELIGIBLE CANDIDATES",
@@ -2111,15 +2121,6 @@
         "date": "02/03/2026",
         "sortTs": null,
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "2589c0ee92cd9955",
-        "title": "28-02-2026: B.Sc.(N) 4 YDC 2025-26 - Closure of Admissions - Notice Allied and Healthcare Courses 2025-26 - 3rd & Final Phase Web Options Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20260228163309910.pdf",
-        "date": "28/02/2026",
-        "sortTs": null,
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -2532,9 +2533,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T11:37:47.277Z",
+    "lastUpdatedDate": "2026-08-25T06:59:37.676Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:4fa1f46f34a5237e",
+        "title": "Notice for filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar)(Adv. No. BCECEB(BSFC)-2026/02 Dated 24.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_02.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T06:59:37.676Z"
+      },
       {
         "id": "Latest Updates:d949fe8de339ba5b",
         "title": "Details for filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar)(Adv. No. BCECEB(BSFC)-2026/02 Dated 24.08.2026)",
@@ -2544,6 +2555,16 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-08-24T11:37:47.277Z"
+      },
+      {
+        "id": "Latest Updates:72844ef4826164c2",
+        "title": "Details for filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar) (Adv. No. BCECEB(BSFC)-2026/01 Dated 24.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_01.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-25T06:59:37.676Z"
       },
       {
         "id": "Latest Updates:c51d24bdf701fabf",
@@ -2713,26 +2734,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 0,
-        "detectedAt": "2026-07-25T11:50:55.008Z"
-      },
-      {
-        "id": "Latest Updates:adc53e4d52521408",
-        "title": "Details of offline Mop-Up Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/09 Dated 25.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_09.pdf",
-        "date": "25/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-25T11:50:55.008Z"
-      },
-      {
-        "id": "Latest Updates:7c6062919489357f",
-        "title": "Notice for online counselling of BCECE[PCM/PCM OF PCMB]Group-2026 (Adv. No. BCECEB(BCECE)-2026/09 Dated 25.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_09.pdf",
-        "date": "25/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 2,
         "detectedAt": "2026-07-25T11:50:55.008Z"
       },
       {
@@ -6628,9 +6629,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T13:07:24.545Z",
+    "lastUpdatedDate": "2026-08-25T07:01:22.881Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "680e5652e8e1d5ec",
+        "title": "ADMISSION TO MBBS/ BDS COURSES – 2026 FIRST PHASE PROVISIONAL ALLOTMENT PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/228/Upload1",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T07:01:22.881Z"
+      },
       {
         "id": "7eeae538a1b3ed5b",
         "title": "KERALA MEDICAL COURSES CANDIDATES CAN RECTIFY DEFECTS IN NRI DOCUMENTS DATE EXTENDED",
@@ -6822,16 +6833,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T15:12:43.753Z"
-      },
-      {
-        "id": "d2ed2675e6012d64",
-        "title": "Provisional List Of Third Phase Allotment To Architecture Course Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/190/Upload1",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T12:17:58.652Z"
       }
     ]
   },
