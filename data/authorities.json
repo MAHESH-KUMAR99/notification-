@@ -1378,7 +1378,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T09:40:16.403Z",
+    "lastUpdatedDate": "2026-08-25T14:50:54.067Z",
     "pinned": false,
     "notices": [
       {
@@ -1400,6 +1400,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-25T08:48:51.468Z"
+      },
+      {
+        "id": "cd82538e86972a18",
+        "title": "Mandatory pre counselling Fee disclosure by Self-Financing Medical and Dental Institutions has directed by the Hon’ble Supreme Court",
+        "link": "https://tnmedicalselection.net/news/25082026070001.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-08-25T14:50:54.067Z"
       },
       {
         "id": "17d81fe049ffe7e7",
@@ -1570,16 +1580,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-14T07:43:56.036Z"
-      },
-      {
-        "id": "c1f37ce46f66c4bf",
-        "title": "PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR EXSERVICEMEN CATEGORY OF MBBS/BDS 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/14082026020601.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-14T09:11:36.382Z"
       }
     ]
   },
@@ -4299,9 +4299,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-23T13:36:17.227Z",
+    "lastUpdatedDate": "2026-08-25T14:52:04.459Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c4075ce17845e383",
+        "title": ":CG STATE NEET-UG (MBBS/BDS) 2026 Provisional Allotment List-Round 1.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2171",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T14:52:04.459Z"
+      },
       {
         "id": "83cf97c524398f81",
         "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग अंतर्गत आवंटन, दस्तावेज संवीक्षा एवं प्रवेश प्रक्रिया के संबंध में प्रेस नोट.....More",
@@ -4513,18 +4523,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-31T07:12:57.987Z"
-      },
-      {
-        "id": "7e926165390504ac",
-        "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत एवं राज्य के बाहर स्थित निजी चिकित्सालयों की मान्यता बाबत |.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2149",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Regarding recognition of private hospitals located within the state and outside the state for the treatment of government servants of the state and their dependent members of their families......More",
-        "titleLang": "hi",
-        "detectedAt": "2026-07-28T07:17:10.130Z"
       }
     ]
   },
