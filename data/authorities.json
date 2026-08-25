@@ -2879,9 +2879,21 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T08:48:21.510Z",
+    "lastUpdatedDate": "2026-08-25T11:31:50.622Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7737370e920553c9",
+        "title": "Advt. No. 70 dated-25.08.2026 झारखण्ड संयुक्त प्रवेश प्रतियोगिता परीक्षा (कृषि एवं अन्य समवर्गी पाठ्‌यक्रमों के लिए) -2026 के परीक्षाफल के आधार पर प्रथम, द्वितीय एवं तृतीय चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/773.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 70 dated-25.08.2026 Necessary information related to the organization of first, second and third round online interview on the basis of the result of Jharkhand Joint Entrance Competitive Examination (for Agriculture and other allied courses)-2026.",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-25T11:31:50.622Z"
+      },
       {
         "id": "d5b675f67f6c0745",
         "title": "Advt. No. 69 dated-24.08.2026 Very Important Notice regarding State Merit List of POST-GRADUATE DENTAL State Quota seats on the basis of NEET (MDS)-2026 Result",
@@ -3077,16 +3089,6 @@
         "titleEn": "Advt. No. - 46 Dated - 05/08/2026 {Information related to the results of the Engineering Entrance Competitive Examination (Lateral Entry)-2026 and the organization of the first round online interview for result-based nomination}",
         "titleLang": "hi",
         "detectedAt": "2026-08-05T14:56:09.780Z"
-      },
-      {
-        "id": "3accad009310a305",
-        "title": "Important Information Regarding Submission of Online Application Form for Preparation of the State Merit List on the basis of NEET(UG)-2026 Result and conduct of the 1st,2nd, 3rd & Stray Vacancy rounds of online counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/753.pdf",
-        "date": null,
-        "sortTs": 1785888000000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-06T12:27:07.494Z"
       }
     ]
   },
