@@ -3235,9 +3235,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T08:55:36.269Z",
+    "lastUpdatedDate": "2026-08-25T18:50:25.691Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7c1a768f9b283e3f",
+        "title": "REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/revised_draft_merit_list.html",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T18:50:25.691Z"
+      },
       {
         "id": "OVERALL:09ce8c45920e749a",
         "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - III (2026 - 2027)",
@@ -3249,6 +3259,16 @@
         "detectedAt": "2026-08-25T08:55:36.269Z"
       },
       {
+        "id": "OVERALL:a4097c14b96066bf",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Cx6QaXIQS-tZyAxZJ1T7HwFns56MSUvf/view?usp=sharing",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-25T18:50:25.691Z"
+      },
+      {
         "id": "OVERALL:f0900143e364bedc",
         "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1VyDuf6jf5MXn2lF9urG8dKIlMYk3_JMb/view?usp=sharing",
@@ -3257,6 +3277,26 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-25T08:55:36.269Z"
+      },
+      {
+        "id": "UG NEET:7c1a768f9b283e3f",
+        "title": "REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/revised_draft_merit_list.html",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 221,
+        "detectedAt": "2026-08-25T18:50:25.691Z"
+      },
+      {
+        "id": "UG NEET:a4097c14b96066bf",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1Cx6QaXIQS-tZyAxZJ1T7HwFns56MSUvf/view?usp=sharing",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 222,
+        "detectedAt": "2026-08-25T18:50:25.691Z"
       },
       {
         "id": "B.TECH. LATERAL ENTRY:09ce8c45920e749a",
@@ -3396,46 +3436,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 218,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:045a56416ded9754",
-        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1bEB63S9OPQJFUFaC5uG3CjtSw0DN1Mf_/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 261,
-        "detectedAt": "2026-08-24T11:39:21.983Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:e3395d7384614708",
-        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - III (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/13JDYUoQCwOP5okMijMuy7Ui2hlh6QXQ9/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 267,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:0cd8450eb37af88b",
-        "title": "UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1rvaqG-msODmWS6lxkeyspyQ2e-bRp1O6/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 268,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:1b4fa20a917cadd7",
-        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1vrR7_99oKpuYgbSZBsIgfsIeZ3W9v8jq/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 269,
         "detectedAt": "2026-08-24T13:07:26.314Z"
       },
       {
