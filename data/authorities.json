@@ -1928,9 +1928,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T12:54:51.037Z",
+    "lastUpdatedDate": "2026-08-25T13:54:11.732Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "21d3fca0515f07cd",
+        "title": "25-08-2026: MBBS-BDS-2026-27-CQ-Notification of schedule for Physicall verification of Original Certificates for SPORTS & GAMES Category MBBS & BDS CQ -2026-27 Notice & Provisional List of Eligible & Not Eligible candidates under CAP category List of Candidates to be debarred for counselling to MDS course in the State of AP for the year 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20260825190910020.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T13:54:11.732Z"
+      },
       {
         "id": "d0ee2a61644bc0f7",
         "title": "25-08-2026: MBBS & BDS CQ -2026-27 Notice & Provisional List of Eligible & Not Eligible candidates under CAP category List of Candidates to be debarred for counselling to MDS course in the State of AP for the year 2026-27",
@@ -2113,15 +2123,6 @@
         "date": "05/03/2026",
         "sortTs": null,
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "8d48e27136049d55",
-        "title": "04-03-2026: MPT Phase-II College Wise Allotments 2025-26",
-        "link": "https://drntr.uhsap.in/index/notification/20260305114710643.pdf",
-        "date": "05/03/2026",
-        "sortTs": null,
-        "batchIndex": 5,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
