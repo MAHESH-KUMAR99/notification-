@@ -5028,9 +5028,19 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T17:35:23.314Z",
+    "lastUpdatedDate": "2026-08-26T14:19:32.670Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "333d548b9e09da31",
+        "title": "List of candidates registered under the FF Category",
+        "link": "https://meta-secure.com/HNBUMUCollegLogin/UploadDocs/FFList..pdf",
+        "date": null,
+        "sortTs": 1787097600000,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-08-26T14:19:32.670Z"
+      },
       {
         "id": "e79ec93421745158",
         "title": "Revised Schedule Round-1 (19/08/2026)",
@@ -5201,15 +5211,6 @@
         "date": "11/10/2025",
         "sortTs": null,
         "batchIndex": 46,
-        "detectedAt": "2026-07-08T09:36:51.706Z"
-      },
-      {
-        "id": "1ec663892fd7287b",
-        "title": "Revised Schedule Round-3 (11/10/2025)",
-        "link": "https://meta-secure.com/HNBUMUCollegLogin/UploadDocs/Schedulerevised3.pdf",
-        "date": "11/10/2025",
-        "sortTs": null,
-        "batchIndex": 47,
         "detectedAt": "2026-07-08T09:36:51.706Z"
       }
     ]
