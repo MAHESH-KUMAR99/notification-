@@ -3234,9 +3234,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T18:50:25.691Z",
+    "lastUpdatedDate": "2026-08-26T18:24:02.048Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7f18d308ce846ef8",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_2_eligible_list.html",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-26T18:24:02.048Z"
+      },
+      {
+        "id": "OVERALL:69ea114054ee126f",
+        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1TFG8VgzwcToR9Uftw51ikqGpMJ_HJ3rd/view?usp=sharing",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-26T18:24:02.048Z"
+      },
+      {
+        "id": "UG NON-NEET:7f18d308ce846ef8",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_2_eligible_list.html",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 161,
+        "detectedAt": "2026-08-26T18:24:02.048Z"
+      },
+      {
+        "id": "UG NON-NEET:69ea114054ee126f",
+        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1TFG8VgzwcToR9Uftw51ikqGpMJ_HJ3rd/view?usp=sharing",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 162,
+        "detectedAt": "2026-08-26T18:24:02.048Z"
+      },
       {
         "id": "OVERALL:7c1a768f9b283e3f",
         "title": "REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
@@ -3395,46 +3435,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 4,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "PG DENTAL:f244c70b6212134a",
-        "title": "REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/revised_draft_merit_list.html",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 142,
-        "detectedAt": "2026-08-24T11:39:21.983Z"
-      },
-      {
-        "id": "PG DENTAL:ac1cf920d28fbe49",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1NdAaKm2C-32rgQYxm5WnAo7E6Mp3aQgn/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 143,
-        "detectedAt": "2026-08-24T11:39:21.983Z"
-      },
-      {
-        "id": "UG NEET:9b61b7da4c3b5b04",
-        "title": "LIST OF CANDIDATES ALLOTTED SEATS IN JIPMER PUDUCHERRY / KARAIKAL THROUGH ALL INDIA COUNSELLING INTERNAL - PUDUCHERRY UT DOMICILE JIPMER ALLOTTED CANDIDATES WILL BE REMOVED IN CENTAC ROUND 1 ALLOTMENT (OBJECTIONS IF ANY, MAY BE SUBMITTED THROUGH DASHBOARD LOGIN)",
-        "link": "https://drive.google.com/file/d/1fA0DRrPiHPRJohpHtYyabVSvyoTXImbI/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 217,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "UG NEET:6b940aab01b86613",
-        "title": "NOTICE : REMOVAL OF JIPMER-ALLOTTED CANDIDATES IN CENTAC UG-NEET ROUND 1 ALLOTMENT",
-        "link": "https://drive.google.com/file/d/1gi9C4TK66qXdTFeeXCX7az18Hv-3T-XK/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 218,
         "detectedAt": "2026-08-24T13:07:26.314Z"
       },
       {
