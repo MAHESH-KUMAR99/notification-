@@ -6226,9 +6226,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T12:56:56.101Z",
+    "lastUpdatedDate": "2026-08-26T09:15:37.471Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9137de907f5e58e1",
+        "title": "Vacancy Position of B.Com (H) as on 26/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260826671887763.pdf",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-26T09:15:37.471Z"
+      },
+      {
+        "id": "e3582b7d6ec04a46",
+        "title": "Vacancy Position of BCA (Code: 114) as on 26/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608261834052734.pdf",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-26T09:15:37.471Z"
+      },
+      {
+        "id": "88bd5a8b86a351dc",
+        "title": "Vacancy Position of BBA (Code: 125) as on 26/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608262043785748.pdf",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-26T09:15:37.471Z"
+      },
+      {
+        "id": "059aa8f8e800aa9f",
+        "title": "Vacancy Position of B.Tech (Code: 131) as on 26/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260826392004231.pdf",
+        "date": "26/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-26T09:15:37.471Z"
+      },
       {
         "id": "42a1733d8b2b58d4",
         "title": "MBBS-CODE 103 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 FOR A.S:2026-27_dated-22.08.2026",
@@ -6388,46 +6428,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-21T11:00:31.235Z"
-      },
-      {
-        "id": "8493aa510c978363",
-        "title": "CUET MERIT LIST FOR B.A (ECO) PRG CODE 197 FOR THE A.S.2026-27_dated-21.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821965059559.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T10:03:48.208Z"
-      },
-      {
-        "id": "9ad102e96a107879",
-        "title": "CONDUCT OF SPECIAL ENTRANCE TEST (SET) FOR THE PROGRAMME B.ED. (CODE 122) AND B.ED. (SE) (CODE 159) AND BA(JMC) (CODE 126): A.S:2026-27_dated-21.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608211920404724.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T07:03:28.249Z"
-      },
-      {
-        "id": "3fa1c38e6bf2a1ab",
-        "title": "MBBS (CODE 103) EXTENSION OF CLOSING DATE FOR OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH REGISTRATION AND MANDATORY UPLOADING OF EDUCATIONAL TESTIMONIALS, RESERVED CATEGORY DOCUMENTS & NEET",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821859131161.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-21T12:57:15.808Z"
-      },
-      {
-        "id": "35ae6e59f319ed90",
-        "title": "EXTENSION OF DATE FOR FILLING UP OF ONLINE APPLICATION/ REGISTRATION FORMS FOR EXTENDED OPEN HOUSE OFFLINE COUNSELLING OF PROG. B.ARCH (CODE-100) A.S.2026-27_dated-21.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821635964341.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-21T07:03:28.249Z"
       }
     ]
   },
