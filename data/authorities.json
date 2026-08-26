@@ -1590,28 +1590,18 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T14:02:16.172Z",
+    "lastUpdatedDate": "2026-08-26T10:12:37.354Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Allotment List:a78f594a5849e81c",
-        "title": "First Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 24.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_DME_UG_ALLOTMENT_REPORT_FR_31.pdf",
-        "date": "24/08/2026",
+        "id": "Latest Instructions:a7351b97ed3039bf",
+        "title": "New order regarding Mukhyamantri Jankalyan Yojna (MMJKY) Scholarship Scheme. (Dated 26.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised_Government_Order_2_290626_32.pdf",
+        "date": "26/08/2026",
         "sortTs": null,
-        "source": "Allotment List",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T14:02:16.172Z"
-      },
-      {
-        "id": "Allotment List:f73017a77fec3eb6",
-        "title": "First Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 21.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_%20Opening%20closing_30.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Allotment List",
+        "source": "Latest Instructions",
         "batchIndex": 1,
-        "detectedAt": "2026-08-24T14:02:16.172Z"
+        "detectedAt": "2026-08-26T10:12:37.354Z"
       },
       {
         "id": "Latest Instructions:a78f594a5849e81c",
@@ -1806,14 +1796,24 @@
         "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
-        "id": "Latest Instructions:c7bc2d979fc8be34",
-        "title": "Information Regarding Post Matric Scholarship Scheduled Castes (SC Category) (Dated 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/SC%20Scholarship%20Rule%20_14.pdf",
-        "date": "05/08/2026",
+        "id": "Allotment List:a78f594a5849e81c",
+        "title": "First Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 24.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_DME_UG_ALLOTMENT_REPORT_FR_31.pdf",
+        "date": "24/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
+        "source": "Allotment List",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T14:02:16.172Z"
+      },
+      {
+        "id": "Allotment List:f73017a77fec3eb6",
+        "title": "First Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 21.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_%20Opening%20closing_30.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Allotment List",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T14:02:16.172Z"
       },
       {
         "id": "Counselling Schedule:060995c400296bdf",
