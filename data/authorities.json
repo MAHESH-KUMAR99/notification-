@@ -792,9 +792,72 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-15T11:45:47.504Z",
+    "lastUpdatedDate": "2026-08-27T11:04:15.339Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-114",
+        "title": "Recruitment of Project Nurse III Post at MRU-Core, AFMC, Pune.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "21/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-27T11:04:15.339Z"
+      },
+      {
+        "id": "afmc-pune-113",
+        "title": "RECRUITMENT FOR THE POST OF SCIENTIST-B MEDICAL VRDL, DEPT OF MICROBIOLOGY, AFMC, PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "18/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-27T11:04:15.339Z"
+      },
+      {
+        "id": "afmc-pune-112",
+        "title": "SCREENING FOR ADMISSION IN TO MBBS COURSE AT AFMC PUNE - 2026",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "16/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-27T11:04:15.339Z"
+      },
+      {
+        "id": "afmc-pune-111",
+        "title": "LIST OF SHORTLISTED CANDIDATES FOR THE INTERVIEW FOR THE POST OF JRF FOR AFMRC PROJECT 5763 2025",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "13/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-27T11:04:15.339Z"
+      },
+      {
+        "id": "afmc-pune-110",
+        "title": "RECRUITMENT OF MANPOWER ON CONTRACTUAL BASIS FOR THE POST OF SRF AND FIELD WORKER FOR AFMRC PROJECT AT DEPT OF COMMUNITY MEDICINE, AFMC, PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "30/07/2026",
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-27T11:04:15.339Z"
+      },
+      {
+        "id": "afmc-pune-109",
+        "title": "RECRUITMENT OF LAB TECHNICIAN POST AT MRU, AFMC PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "19/07/2026",
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-27T11:04:15.339Z"
+      },
+      {
+        "id": "afmc-pune-108",
+        "title": "RECRUITMENT OF JRF FOR AFMRC PROJECT 5763 2025, DEPT OF PHARMACY, AFMC PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "16/07/2026",
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-08-27T11:04:15.339Z"
+      },
       {
         "id": "afmc-pune-106",
         "title": "INTERVIEW FOR THE POST OF STAFF NURSE AT ART PLUS CENTRE, AFMC PUNE.",
@@ -898,62 +961,6 @@
         "date": "08/05/2026",
         "batchIndex": 11,
         "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-83",
-        "title": "VACANCY FOR PROJECT NURSE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "08/05/2026",
-        "batchIndex": 12,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-81",
-        "title": "SELECTION OF SCIENTIST-B (NON-MEDICAL) FOR VIRAL RESEARCH DIAGNOSTIC LABORATORY AND (VRDL), AFMC, PUNE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "01/04/2026",
-        "batchIndex": 13,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-80",
-        "title": "STUDENT'S FEED BACK FOR HOSTEL FACILITIES",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "28/03/2026",
-        "batchIndex": 14,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-79",
-        "title": "Information Brochure for Admission to MBBS Course at AFMC, Pune - 2026",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "23/03/2026",
-        "batchIndex": 15,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-78",
-        "title": "RECRUITMENT OF PROJECT POSITIONS FOR SCIENTIST-B (NON-MEDICAL) VIRAL RESEARCH AND DIAGNOSTICS LABORATORY (VRDL)",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "16/03/2026",
-        "batchIndex": 16,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-77",
-        "title": "RESULTS FOR SCIENTIST C/RESEARCH OFFICER AT HTA REGIONAL RESOURCE CENTRE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "14/02/2026",
-        "batchIndex": 17,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-76",
-        "title": "RECRUITMENT FOR TEMPORARY POST OF SENIOR RESEARCH FELLOW (SRF) AND FIELD WORKER FOR AFMRC PROJECT NO 5769/2025 AT AFMC, PUNE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "03/02/2026",
-        "batchIndex": 18,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
   },
@@ -964,208 +971,208 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T08:52:15.565Z",
+    "lastUpdatedDate": "2026-08-27T11:01:26.510Z",
     "pinned": false,
     "notices": [
       {
-        "id": "8dbd75d40389821a",
-        "title": "Advertisement for 1st Round of Online Choice Filling",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Adv.%20-%201st%20Round%20-%20UG%20[2026-27]-%20Choice%20Filing.pdf?v=1",
-        "date": "23/08/2026",
+        "id": "75082d49a83755ad",
+        "title": "Advertisement for 1st Round of Online Allotment & Reporting",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Adv.%20-%201st%20Round%20-%20UG%20[2026-27]%20-%20Allotment%20&%20Reporting.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "25aca8b764bab35f",
-        "title": "General Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_gen.PDF",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
-      },
-      {
-        "id": "5d3443bc7299dcc0",
-        "title": "Guidelines for Choice Filling",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Guidelines%20for%20Choice%20Filling%20[%E0%AA%9A%E0%AB%8B%E0%AA%88%E0%AA%B8%20%E0%AA%AB%E0%AB%80%E0%AA%B2%E0%AA%BF%E0%AA%82%E0%AA%97%20%E0%AA%AE%E0%AA%BE%E0%AA%9F%E0%AB%87%E0%AA%A8%E0%AB%80%20%E0%AA%97%E0%AA%BE%E0%AA%88%E0%AA%A1%E0%AA%B2%E0%AA%BE%E0%AA%88%E0%AA%A8%E0%AB%8D%E0%AA%B8]%20MBBS__BDS%202025-26.pdf",
-        "date": "23/08/2026",
+        "id": "56be73edb2ae0b09",
+        "title": "Rank Wise Result",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/r1_merit_wiseadm_025530.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "b9984bb99f106da7",
-        "title": "SC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_sc.pdf",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
-      },
-      {
-        "id": "3625b2a89309009f",
-        "title": "Choice Filling Screenshot",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/UG%20CHOICE%20FILLING%20SCREEN%20SHOT.pdf?v=1",
-        "date": "23/08/2026",
+        "id": "b3ce0df7c48a93ab",
+        "title": "Institute Wise Result",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/r1_instwiseadm_025530.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "f9697d7896a0188f",
-        "title": "ST Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_st.pdf",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
-      },
-      {
-        "id": "0e2223b9e422f3d2",
-        "title": "Tentative Seat Matrix for Medical",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Seat%20Matrix%20Medical%202026-27.pdf",
-        "date": "23/08/2026",
+        "id": "2bf1f56ade05f2aa",
+        "title": "Last Rank",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/r1_last_merit_mopwise_025530.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "8a2b69807f7b0b0f",
-        "title": "SEBC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_se.pdf",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
-      },
-      {
-        "id": "cc153e8e18a54ca6",
-        "title": "Tentative Seat Matrix for Dental",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Seat%20Matrix%20Dental%202026-27.pdf",
-        "date": "23/08/2026",
+        "id": "fc7e9926400ad126",
+        "title": "Procedure for Admission Confirmation - Round 1",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Procedure%20for%20Admission%20Confirmation%20for%20Round%201.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 4,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "1d10616987c24e5a",
-        "title": "EWS Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.2_ew.pdf",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
-      },
-      {
-        "id": "cc77df524e829c96",
-        "title": "State 4 Round Instructions",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/State%204%20Round%20Instructions.pdf",
-        "date": "23/08/2026",
+        "id": "ab701fe5be58e44a",
+        "title": "List of Help Centers",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/List%20of%20Help%20Centers%20[2026-27].pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 5,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "4a116e014f8b6ab3",
-        "title": "PwD Merit",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_ph_1.pdf",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
-      },
-      {
-        "id": "99a3985171988583",
-        "title": "Informationm Bulletin of All India Quota issued from MCC, New Delhi",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Information%20Bulletin%20of%20All%20India%20Quota%20issued%20from%20MCC,%20New%20Delhi.pdf",
-        "date": "23/08/2026",
+        "id": "e7be45d17e019220",
+        "title": "List of Designated Branches of HDFC Bank for Payment of Tuition Fees",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/List%20of%20Designated%20Branches%20of%20HDFC%20Bank%20for%20Payment%20of%20Tuition%20Fees%202026-2027.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 6,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "a28b0c6f7daf6a61",
-        "title": "NRI Merit",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_nri.pdf",
-        "date": "23/08/2026",
+        "id": "80db300f704bbd7c",
+        "title": "Steps for Admission Confirmation",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Steps%20for%20Admission%20Confirmation.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 7,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "6355e7be907f8607",
-        "title": "Click here for MBBS and BDS College Fee Details",
-        "link": "https://medadmgujarat.ncode.in/UG/Candidate/Candidate_Login.aspx",
-        "date": "23/08/2026",
+        "id": "69ef43fbf036001b",
+        "title": "Non-Converted Vacant Seats of NRI & PwD Quota After Round-01",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/r1_vac_025530.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 8,
-        "detectedAt": "2026-08-24T07:38:36.467Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "ee708edbb24fdd42",
-        "title": "Click here for MBBS and BDS College Fee Details",
-        "link": "https://medadmgujarat.ncode.in/UG/Candidate/Candidate_Default.aspx",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
-      },
-      {
-        "id": "f1dda03fbccd957a",
-        "title": "NRI Report",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/NRI%20Report.pdf",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-23T08:34:17.458Z"
-      },
-      {
-        "id": "151f8c5c15594cb3",
-        "title": "અનામત કેટેગરીના તમામ ઉમેદવારોને અનામત બેઠકો પર પ્રવેશ આપ્યા પછી, અનામત કેટેગરીની ખાલી રહેતી બેઠકો બિન અનામત શ્રેણીની બેઠકોમાં ટ્રાન્સફર કરવાપાત્ર હોય છે. આ પ્રક્રીયા બીજા રાઉન્ડ દરમિયાન કરવામાં આવશે. દા.ત. NRI કવોટા થી Management ક્વોટા તથા SC, ST, SEBC, EWS થી General (Open) કેટેગરી અને PwD થી જે તે કેટેગરીમાં. [After all reserved category candidates have been admitted to their reserved seats, any vacant reserved category seats will be transferred to unreserved category seats. This process will be done during the second round. E.g. NRI quota to Management quota and SC, ST, SEBC, EWS to General (Open) category and PwD to those categories.]",
-        "link": null,
-        "date": "23/08/2026",
+        "id": "91a65c0b1b559303",
+        "title": "Information to be written on 11 x 15-inch (Appropriate Size) Envelope",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Information%20to%20be%20written%20on%2011%20x%2015%20inch%20(Appropriate%20Size)%20Envelope.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 9,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "a6ce27bc105c079b",
-        "title": "If any NRI seats remain vacant, such Seats will be filled as Management quota seats with Management quota fees by ACPUGMEC. All the GMERS Medical Colleges and Gujarat Adani Institute of Medical Sciences, Bhuj does not have Management quota seats but have NRI seats. So vacant NRI seats of these institutes will be filled as Management quota seats with Management quota fees by ACPUGMEC જો કોઈપણ NRI બેઠકો ખાલી રહે છે, તો આવી બેઠકો ACPUGMEC દ્વારા મેનેજમેન્ટ ક્વોટા ફી સાથે મેનેજમેન્ટ ક્વોટાની બેઠકો તરીકે ભરવામાં આવશે. તમામ GMERS મેડિકલ કોલેજો અને ગુજરાત અદાણી ઇન્સ્ટિટ્યૂટ ઑફ મેડિકલ સાયન્સ, ભુજ પાસે મેનેજમેન્ટ ક્વોટાની બેઠકો નથી પરંતુ NRI બેઠકો છે. તેથી આ સંસ્થાઓની ખાલી NRI બેઠકો ACPUGMEC દ્વારા મેનેજમેન્ટ ક્વોટા ફી સાથે મેનેજમેન્ટ ક્વોટાની બેઠકો તરીકે ભરવામાં આવશે.",
-        "link": null,
-        "date": "23/08/2026",
+        "id": "59da24062a13e3a0",
+        "title": "Authority Letter",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/AUTHORITY%20LETTER%20FOR%20ORIGINAL%20DOCUMENTS%20SUBMISSION.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 10,
-        "detectedAt": "2026-08-23T09:31:11.159Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
-        "id": "914deb269d9e0ef1",
-        "title": "General Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R1/merit_r1.3_gen.pdf",
-        "date": "23/08/2026",
+        "id": "99d60dad5d700153",
+        "title": "Instructions for State Counselling Rounds (All 04 Rounds)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/State%204%20Round%20Instructions.pdf",
+        "date": "27/08/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 11,
-        "detectedAt": "2026-08-24T08:52:15.565Z"
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "be6ace51194b0750",
+        "title": "ACPUGMEC Allotment Letter",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 12,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "341359a52a266035",
+        "title": "Std. 10th Marksheet passed from school situated in Gujarat state only (Original)",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 13,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "702757654a589823",
+        "title": "Std. 12th Marksheet passed from school situated in Gujarat state only (Original)",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 14,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "b05c5e2fbc29d9ea",
+        "title": "Proof of Birth & Citizenship (Original) Mandatory: School Leaving Certificate / Transfer Certificate (Original) If Place of Birth is NOT mentioned: Required Birth Certificate (Original) or Passport (photocopy) If born outside Gujarat: Required Domicile Certificate (Original) issued by Gujarat State Authorities (Mamlatdar / Executive Magistrate / Police Commissioner)",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 15,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "40e2d5867b8b75f4",
+        "title": "Mandatory: School Leaving Certificate / Transfer Certificate (Original)",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 16,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "d926bb9474cd1b77",
+        "title": "If Place of Birth is NOT mentioned: Required Birth Certificate (Original) or Passport (photocopy)",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 17,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "f02edc5d719fac47",
+        "title": "If born outside Gujarat: Required Domicile Certificate (Original) issued by Gujarat State Authorities (Mamlatdar / Executive Magistrate / Police Commissioner)",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 18,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
+      },
+      {
+        "id": "3f41cb40b339bdeb",
+        "title": "NEET-UG Marksheet-2026",
+        "link": null,
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 19,
+        "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -1378,9 +1385,39 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T14:50:54.067Z",
+    "lastUpdatedDate": "2026-08-27T11:01:43.285Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3aa24966bf4b2871",
+        "title": "GQ - PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE SESSION :2026 - 2027 ON - 27.08.2026",
+        "link": "https://tnmedicalselection.net/news/27082026021010.pdf",
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-27T11:01:43.285Z"
+      },
+      {
+        "id": "78582cdeb6897057",
+        "title": "MQ - PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE SESSION :2026 - 2027 ON - 27.08.2026",
+        "link": "https://tnmedicalselection.net/news/27082026020858.pdf",
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-27T11:01:43.285Z"
+      },
+      {
+        "id": "0c09539cac3406a6",
+        "title": "TENTATIVE ROUND-1 VACANCY FOR MBBS/BDS DEGREE COURSE 2026-2027 - AFTER SPECIAL CATEGORY ALLOTMENT",
+        "link": "https://tnmedicalselection.net/news/27082026013447.pdf",
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-27T11:01:43.285Z"
+      },
       {
         "id": "75d94228afbb62ea",
         "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
@@ -1550,36 +1587,6 @@
         "source": "Direct from Website",
         "batchIndex": 21,
         "detectedAt": "2026-08-19T07:41:50.660Z"
-      },
-      {
-        "id": "bb33330a797c7cba",
-        "title": "Mandatory pre counselling Fee disclosure by Self-Financing Medical and Dental Institutions has directed by the Hon’ble Supreme Court",
-        "link": "https://tnmedicalselection.net/news/15082026053353.pdf",
-        "date": "15/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-15T12:44:15.231Z"
-      },
-      {
-        "id": "0f9d63044ee3f5ff",
-        "title": "PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR SPORTS CATEGORY OF MBBS/BDS 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/14082026020841.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T09:11:36.382Z"
-      },
-      {
-        "id": "ae38de33e5b18f4d",
-        "title": "GQ7.5% - TENTATIVE VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 IN (TAMILNADU GOVT SCHOOL CANDIDATES 7.5% RESERVATION) AS ON 13-08-2026",
-        "link": "https://tnmedicalselection.net/news/14082026003608.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T07:43:56.036Z"
       }
     ]
   },
@@ -5028,7 +5035,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-26T14:19:32.670Z",
+    "lastUpdatedDate": "2026-08-27T11:07:08.689Z",
     "pinned": false,
     "notices": [
       {
@@ -6053,9 +6060,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-19T06:54:51.995Z",
+    "lastUpdatedDate": "2026-08-27T11:05:58.755Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7e871db12edd4e97",
+        "title": "Certificate_from_the_Principal_of_the_school last attended",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1787804042462-Performa_of_Certificate_from_the_Principal_of_the_school.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-27T11:05:58.755Z"
+      },
+      {
+        "id": "63b9cbadbd9ee82d",
+        "title": "Surety Bond (2026)",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1787801007394-SURETY_BOND-2026_260826_100008.PDF",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-27T11:05:58.755Z"
+      },
       {
         "id": "dc719634816985a5",
         "title": "Online Registration Link for UG (MBBS/BDS) Admissions 2026-2027",
@@ -6227,9 +6254,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-26T09:15:37.471Z",
+    "lastUpdatedDate": "2026-08-27T11:03:56.354Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4b5ac70c7ebb6eb7",
+        "title": "SCHEDULE OF SPOT ROUND OF OFFLINE COUNSELLING MCA/MCA(SE) (CODE-105) (NIMCET/CET/CUET) and MBA (CODE-101) (CAT/CMAT/CET/CUET) A.S.2026-27_dated-27.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271873149132.pdf",
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-27T11:03:56.354Z"
+      },
+      {
+        "id": "cd1c9747562a9335",
+        "title": "PROVISIONAL SEAT ALLOTMENT OF CANDIDATES IN PROG. MBBS (CODE-103) IN ROUND 01 ONLINE COUNSELLING BY GGSIP UNIVERSITY_2026-27_dated-27.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271495127589.pdf",
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-27T11:03:56.354Z"
+      },
       {
         "id": "9137de907f5e58e1",
         "title": "Vacancy Position of B.Com (H) as on 26/08/2026",
@@ -6409,26 +6456,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-22T10:30:40.027Z"
-      },
-      {
-        "id": "2beb97a8c8061b39",
-        "title": "Extended SCHEDULE FOR SPOT ROUND 02 (ONLINE) COUNSELLING; FOLLOWED BY OFFLINE ROUND FOR LLB PROG. through NLT for the A.S:2026-27_dated-21.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821669017811.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T12:57:15.808Z"
-      },
-      {
-        "id": "f40dcf55c91f0b85",
-        "title": "SPOT ROUND 3(OFFLINE) COUNSELLING FOR B.TECH/ BBA/ BCA/B.COM(H)/ LE B.TECH, BA ENG and BA ECO PROG. Through NLT/CET/CUET (ONLY FOR REGISTERED & NOT ADMITTED CANDIDATES) for the A.S:2026-27_dated-2",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260821805870161.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T11:00:31.235Z"
       }
     ]
   },
