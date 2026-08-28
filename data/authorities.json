@@ -792,9 +792,27 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T11:04:15.339Z",
+    "lastUpdatedDate": "2026-08-28T05:35:38.107Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-116",
+        "title": "RECRUITMENT OF STAFF FOR JRF AFMRC PROJECT AT FACULTY OF DENTAL SURGERY AND OHS AT AFMC,PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "27/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T05:35:38.107Z"
+      },
+      {
+        "id": "afmc-pune-115",
+        "title": "RECRUITMENT OF PROJECT POSITIONS FOR INFECTIOUS DISEASE RESEARCH AND DIAGNOSTIC LABORATORY IRDL AT AFMC, PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "27/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-28T05:35:38.107Z"
+      },
       {
         "id": "afmc-pune-114",
         "title": "Recruitment of Project Nurse III Post at MRU-Core, AFMC, Pune.",
@@ -944,22 +962,6 @@
         "link": "https://afmc.nic.in/letestnews",
         "date": "21/05/2026",
         "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-88",
-        "title": "RECRUITMENT OF STAFF FOR DIAMONDS PROJECT",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "15/05/2026",
-        "batchIndex": 10,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-84",
-        "title": "VACANCY FOR PROJECT RESEARCH SCIENTIST",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "08/05/2026",
-        "batchIndex": 11,
         "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
@@ -5433,9 +5435,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-21T13:54:53.036Z",
+    "lastUpdatedDate": "2026-08-28T05:38:15.101Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:f9f104edf75686e5",
+        "title": "Provisional Seat Allocation of MBBS/BDS 1st Round Counselling NEET UG 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Provisional-Seat-Allocation-of-MBBS-BDS-1st-round-Counselling-2026-merged-n.pdf",
+        "date": "27/08/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T05:38:15.101Z"
+      },
       {
         "id": "MBBS/BDS Counselling:1cf8d1cfd51547b3",
         "title": "Final Merit list of MBBS/BDS 1st round Counselling 2026-27",
@@ -5624,16 +5636,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 9,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:0ad6c78d60559857",
-        "title": "Notice for Schedule of MBBS/BDS 2nd Stray Round Counselling 2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Notice-of-2nd-Stray-round-of-MBBS-Counselling-2025.pdf",
-        "date": "18/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 10,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
@@ -6256,9 +6258,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T21:08:31.397Z",
+    "lastUpdatedDate": "2026-08-28T05:35:20.947Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1601b1b1c6db02e6",
+        "title": "Vacancy Position of BCA (Code-114) as on 28.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281165218326.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T05:35:20.947Z"
+      },
+      {
+        "id": "4e4ed58d6ca4c7b1",
+        "title": "Vacancy Position of BBA (Code-125) as on 28.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281486071479.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-28T05:35:20.947Z"
+      },
+      {
+        "id": "726e9a02b4572e6e",
+        "title": "Vacancy Position of B.Com (H) (Code-146) as on 28.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281263736825.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-28T05:35:20.947Z"
+      },
+      {
+        "id": "8b63982ff0818a8d",
+        "title": "Vacancy Position of B.Tech (Code-131) as on 28.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260828504881356.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-28T05:35:20.947Z"
+      },
       {
         "id": "ccfe479cf2a595f0",
         "title": "B.SC(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH RAGISTRATION A.S:2026-27_dated-27.08.2026",
@@ -6418,46 +6460,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-25T12:56:56.101Z"
-      },
-      {
-        "id": "53245547f0909609",
-        "title": "Fee payment and Reporting Schedule of SPOT ROUND 2 (ONLINE); FOR Programmes B.TECH/ BBA/ BCA/ B.COM (H)/ and LLB through NLT/CET for the A.S: 2026-27_dated-22.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221176903093.pdf",
-        "date": "22/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-22T14:52:26.843Z"
-      },
-      {
-        "id": "66f85cb1af459931",
-        "title": "Fee payment and Reporting Schedule of SPOT ROUND 2 (ONLINE); FOR Programmes B.TECH/ BBA/ BCA/ B.COM (H)/ and LLB through NLT/CET for the A.S: 2026-27_dated-22.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608221354867440.pdf",
-        "date": "22/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-22T14:27:50.175Z"
-      },
-      {
-        "id": "e75adc6e89a5e6d0",
-        "title": "Schedule for Spot Round 3(Offline) counselling vide Notification No. 205/2026; F.No. IPU-7DI(Academic)/Offline Counselling/2026/2794 dated 21.08.2026 Stands Withdrawn_dated-22.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/2026082282074452.pdf",
-        "date": "22/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-22T10:30:40.027Z"
-      },
-      {
-        "id": "5f526da9c73b3e8e",
-        "title": "EXTENSION OF LAST DATE M.TECH(IBT) (CODE-151) SUBMISSION OF ONLINE APPLICATION FORMS A.S:2026.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260822696074046.pdf",
-        "date": "22/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-22T05:33:31.971Z"
       }
     ]
   },
