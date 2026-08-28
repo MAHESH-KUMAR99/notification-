@@ -611,9 +611,27 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-23T14:26:53.265Z",
+    "lastUpdatedDate": "2026-08-28T18:22:23.117Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1020",
+        "title": "28/08/2026 - Details of students admitted to PGMEB (MD/MS/Diploma - Broad Specialities)  for the Academic Year 2025_26 - Reg",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PGMEB_BS_pubnotice_meged.pdf",
+        "date": "28/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T18:22:23.117Z"
+      },
+      {
+        "id": "nmc-1019",
+        "title": "28/08/2026 - Online Application for Eligibility Certificate REG",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/OnlineApplication_EC_Merged_uploading.pdf",
+        "date": "28/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-28T18:22:23.117Z"
+      },
       {
         "id": "nmc-1018",
         "title": "23/08/2026 - Compliance with the directions of the Hon'ble Supreme Court of India in Amit Kumar & Others vs. Union of India & Others regarding reporting of student suicides/unnatural deaths, filling of faculty and administrative vacancies, maintenance of institutional records, and submission of updated information.",
@@ -765,22 +783,6 @@
         "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_WithList_NVR.pdf",
         "date": "07/07/2026",
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-999",
-        "title": "02/07/2026 - Advisory on Medical Innovations Patent Mitra REG",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Advisory_MedicalInnovationsPatentMitra.pdf",
-        "date": "02/07/2026",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
-      },
-      {
-        "id": "nmc-998",
-        "title": "01/07/2026 - Operationalization of NMC's Online Appeal Portal for Filing of Appeals by Medical Colleges/Institutions under various provisions of the National Medical Commission Act, 2019-reg.",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/AppealModule_PublicNotice_merged.pdf",
-        "date": "01/07/2026",
-        "batchIndex": 2,
         "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
@@ -1937,9 +1939,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T21:06:18.608Z",
+    "lastUpdatedDate": "2026-08-28T18:23:12.929Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0e01e5b55bc2fa70",
+        "title": "28-08-2026: PG (Dental) CQ 2026-27 - Provisional Merit list PG (Dental) CQ 2026-27 - Not Eligible list PG (Dental) CQ 2026-27 - Fee paid but documents not uploaded list",
+        "link": "https://drntr.uhsap.in/index/notification/20260828162424320.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T18:23:12.929Z"
+      },
       {
         "id": "66c26c9334b162f8",
         "title": "27-08-2026: MBBS & BDS (CQ)_2026_27_ SCOUTS & GUIDES _PROVISIONAL LIST OF ELIGIBLE CANDIDATES, NOT ELIGIBLE & ABSENTEES CANDIDATES",
@@ -2125,15 +2137,6 @@
         "date": "25/03/2026",
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
-      },
-      {
-        "id": "f819a7e5696da4c5",
-        "title": "17-03-2026: MPT MOP-UP Round Counselling College wise allotments 2025-26",
-        "link": "https://drntr.uhsap.in/index/notification/20260317163440850.pdf",
-        "date": "17/03/2026",
-        "sortTs": null,
-        "batchIndex": 2,
         "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
@@ -2903,9 +2906,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-26T08:09:41.881Z",
+    "lastUpdatedDate": "2026-08-28T18:22:31.594Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7482256619f69bd9",
+        "title": "Advt. No. 72 dated-25.08.2026 बी.एससी. नर्सिंग (पोस्ट बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम, द्वितीय एवं तृतीय ऑनलाईन साक्षात्कारों से संबंधित सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/776.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T18:22:31.594Z"
+      },
       {
         "id": "7ae77b8e8aef2c7b",
         "title": "Advt. No. 72 dated-25.08.2026 बी.एससी. नर्सिंग (पोस्ट बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम, द्वितीय एवं तृतीय ऑनलाईन साक्षात्कारों से संबंधित सूचना",
@@ -2927,6 +2940,16 @@
         "titleEn": "Advt. No. 70 dated-25.08.2026 Necessary information related to the organization of first, second and third round online interview on the basis of the result of Jharkhand Joint Entrance Competitive Examination (for Agriculture and other allied courses)-2026.",
         "titleLang": "hi",
         "detectedAt": "2026-08-25T11:31:50.622Z"
+      },
+      {
+        "id": "c6d5a589093bada6",
+        "title": "Advt. No. 71 dated-25.08.2026 बी.एससी. नर्सिंग (बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथ्था प्रथम, द्वितीय एवं तृतीय ऑनलाईन साक्षात्कारों से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/775.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-28T18:22:31.594Z"
       },
       {
         "id": "d5b675f67f6c0745",
@@ -3091,26 +3114,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-09T06:10:04.483Z"
-      },
-      {
-        "id": "ffda35d1a1b9abbe",
-        "title": "Advt. No. 51 dated-08.08.2026 Indicative Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy rounds of online counselling for admission to B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/757.pdf",
-        "date": "08/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-09T06:10:04.483Z"
-      },
-      {
-        "id": "a08b2dda34c96bc4",
-        "title": "Advt. No. 50 dated-08.08.2026 Indicative Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy rounds of online counselling for admission to M.B.B.S. course",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/756.pdf",
-        "date": "08/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-09T06:10:04.483Z"
       }
     ]
   },
@@ -3245,9 +3248,129 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-26T18:24:02.048Z",
+    "lastUpdatedDate": "2026-08-28T18:30:34.077Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:8d1b9a11cbe9f0b6",
+        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
+        "link": "https://drive.google.com/file/d/1kQ3aDYqDPnF8DcHAXwIakaSc9TmLiU4f/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "OVERALL:ce078e68c614fef6",
+        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "OVERALL:83106a61e3d31c46",
+        "title": "IGMC&RI - UG NEET - FEE STRUCTURE FOR THE ACADEMICE YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1vV2yxryQr2mYTJns8U0OOjsDkWUccXXn/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "OVERALL:94f6c5f76260fbe4",
+        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
+        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "PG DENTAL:ce078e68c614fef6",
+        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 156,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "PG DENTAL:94f6c5f76260fbe4",
+        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
+        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 157,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "UG NON-NEET:ce078e68c614fef6",
+        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 167,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "UG NON-NEET:94f6c5f76260fbe4",
+        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
+        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 168,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "UG NEET:8d1b9a11cbe9f0b6",
+        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
+        "link": "https://drive.google.com/file/d/1kQ3aDYqDPnF8DcHAXwIakaSc9TmLiU4f/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 233,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "UG NEET:ce078e68c614fef6",
+        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 234,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "UG NEET:83106a61e3d31c46",
+        "title": "IGMC&RI - UG NEET - FEE STRUCTURE FOR THE ACADEMICE YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1vV2yxryQr2mYTJns8U0OOjsDkWUccXXn/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 235,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
+      {
+        "id": "UG NEET:94f6c5f76260fbe4",
+        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
+        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 236,
+        "detectedAt": "2026-08-28T18:30:34.077Z"
+      },
       {
         "id": "OVERALL:7f18d308ce846ef8",
         "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
@@ -3327,126 +3450,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-25T08:55:36.269Z"
-      },
-      {
-        "id": "UG NEET:7c1a768f9b283e3f",
-        "title": "REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/revised_draft_merit_list.html",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 221,
-        "detectedAt": "2026-08-25T18:50:25.691Z"
-      },
-      {
-        "id": "UG NEET:a4097c14b96066bf",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Cx6QaXIQS-tZyAxZJ1T7HwFns56MSUvf/view?usp=sharing",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 222,
-        "detectedAt": "2026-08-25T18:50:25.691Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:09ce8c45920e749a",
-        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - III (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1WjEkknuk53Kdqd9UQJJQOIh-dMwr0Zrf/view?usp=sharing",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 269,
-        "detectedAt": "2026-08-25T08:55:36.269Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:f0900143e364bedc",
-        "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1VyDuf6jf5MXn2lF9urG8dKIlMYk3_JMb/view?usp=sharing",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 270,
-        "detectedAt": "2026-08-25T08:55:36.269Z"
-      },
-      {
-        "id": "OVERALL:9b61b7da4c3b5b04",
-        "title": "LIST OF CANDIDATES ALLOTTED SEATS IN JIPMER PUDUCHERRY / KARAIKAL THROUGH ALL INDIA COUNSELLING INTERNAL - PUDUCHERRY UT DOMICILE JIPMER ALLOTTED CANDIDATES WILL BE REMOVED IN CENTAC ROUND 1 ALLOTMENT (OBJECTIONS IF ANY, MAY BE SUBMITTED THROUGH DASHBOARD LOGIN)",
-        "link": "https://drive.google.com/file/d/1fA0DRrPiHPRJohpHtYyabVSvyoTXImbI/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "OVERALL:045a56416ded9754",
-        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1bEB63S9OPQJFUFaC5uG3CjtSw0DN1Mf_/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T11:39:21.983Z"
-      },
-      {
-        "id": "OVERALL:6b940aab01b86613",
-        "title": "NOTICE : REMOVAL OF JIPMER-ALLOTTED CANDIDATES IN CENTAC UG-NEET ROUND 1 ALLOTMENT",
-        "link": "https://drive.google.com/file/d/1gi9C4TK66qXdTFeeXCX7az18Hv-3T-XK/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "OVERALL:f244c70b6212134a",
-        "title": "REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/revised_draft_merit_list.html",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-24T11:39:21.983Z"
-      },
-      {
-        "id": "OVERALL:e3395d7384614708",
-        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT ROUND - III (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/13JDYUoQCwOP5okMijMuy7Ui2hlh6QXQ9/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "OVERALL:ac1cf920d28fbe49",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR PG DENTAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1NdAaKm2C-32rgQYxm5WnAo7E6Mp3aQgn/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-24T11:39:21.983Z"
-      },
-      {
-        "id": "OVERALL:0cd8450eb37af88b",
-        "title": "UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1rvaqG-msODmWS6lxkeyspyQ2e-bRp1O6/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
-      },
-      {
-        "id": "OVERALL:1b4fa20a917cadd7",
-        "title": "NOTICE : UPDATED FINAL MERIT LIST AND ROUND 3 DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1vrR7_99oKpuYgbSZBsIgfsIeZ3W9v8jq/view?usp=sharing",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-24T13:07:26.314Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5039,7 +5042,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T11:07:08.689Z",
+    "lastUpdatedDate": "2026-08-28T18:29:00.048Z",
     "pinned": false,
     "notices": [
       {
@@ -7098,9 +7101,59 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T13:03:18.809Z",
+    "lastUpdatedDate": "2026-08-28T18:25:53.662Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f6cbf142c037666d",
+        "title": "Annexure A Allotment for State Government quota_001",
+        "link": "https://manipurmc.mn.gov.in/media/1787911927_Annexure%20A%20Allotment%20for%20State%20Government%20quota_001.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-28T18:25:53.662Z"
+      },
+      {
+        "id": "c3c00899a3d3bdef",
+        "title": "Notification of Allotment(Round -1)",
+        "link": "https://manipurmc.mn.gov.in/media/1787912162_Notification%20of%20Allotment(Round%20-1).pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-28T18:25:53.662Z"
+      },
+      {
+        "id": "0eb7e4310867bac2",
+        "title": "Counselling allotment results Instructions and User Manual 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1787912110_Counselling%20allotment%20results%20Instructions%20and%20User%20Manual%202026.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-28T18:25:53.662Z"
+      },
+      {
+        "id": "9a283c28acfc65a6",
+        "title": "Annexure C Allotment for NRI quota seats",
+        "link": "https://manipurmc.mn.gov.in/media/1787912080_Annexure%20C%20Allotment%20for%20NRI%20quota%20seats_001.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-28T18:25:53.662Z"
+      },
+      {
+        "id": "dc745915d47b453b",
+        "title": "Annexure B Allotment for Management quota_001",
+        "link": "https://manipurmc.mn.gov.in/media/1787911957_Annexure%20B%20Allotment%20for%20Management%20quota_001.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-28T18:25:53.662Z"
+      },
       {
         "id": "740e7e64a1956b10",
         "title": "Merit lists of the State Government quota seats for 1st round of Manipur Medical e-Counselling 2026-27",
@@ -7250,52 +7303,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-11T10:28:19.082Z"
-      },
-      {
-        "id": "15552e51fc0a045e",
-        "title": "DME Notification Documents required",
-        "link": "https://manipurmc.mn.gov.in/media/1786440206_DME%20Notification%20Documents%20required.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-11T10:28:19.082Z"
-      },
-      {
-        "id": "7f095584f0e511ed",
-        "title": "Seat Matrix Notification",
-        "link": "https://manipurmc.mn.gov.in/media/1784804521_Seat%20matrix%20notification.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T11:27:29.020Z"
-      },
-      {
-        "id": "e37c5c345bd77fd3",
-        "title": "BND Merit list",
-        "link": "https://manipurmc.mn.gov.in/media/1784796135_BND%20Merit%20list_compressed.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-23T09:27:59.467Z"
-      },
-      {
-        "id": "bf358402698a2eab",
-        "title": "D. Pharm Merit list",
-        "link": "https://manipurmc.mn.gov.in/media/1784796170_D.%20Pharm%20Merit%20list_compressed.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-23T09:27:59.467Z"
-      },
-      {
-        "id": "fc66a4e44532dfd5",
-        "title": "Notification for 1st round counselling",
-        "link": "https://manipurmc.mn.gov.in/media/1784726291_Notification%20for%201st%20round%20counselling.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T15:21:36.116Z"
       }
     ]
   },
