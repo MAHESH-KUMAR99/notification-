@@ -2149,9 +2149,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T14:16:26.801Z",
+    "lastUpdatedDate": "2026-08-29T17:49:03.525Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e69a764a3b9915c9",
+        "title": "Provisional Allocation of MBBS/BDS Seats - 1st Round of Online Counselling, Session 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/AllocationofSeats-1stRoundcounselling-290826.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-29T17:49:03.525Z"
+      },
       {
         "id": "eec9ed6cce78868e",
         "title": "List of Candidates Debarred from 85% Punjab State Quota Seats [List 2]",
@@ -2341,16 +2351,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-04T10:43:33.658Z"
-      },
-      {
-        "id": "e818bd9217ee4832",
-        "title": "SCHEDULE FOR ADMISSION TO MBBS/BDS COURSES, SESSION 2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Schedule%20for%20Admissions%20to%20MBBS%20and%20BDS.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-03T10:46:46.030Z"
       }
     ]
   },
@@ -6263,9 +6263,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T14:18:38.274Z",
+    "lastUpdatedDate": "2026-08-29T17:51:16.961Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1f6fc56a17966ae6",
+        "title": "Vacancy Position of B.Com (H) (Code 146) as on 29/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/2026082925851094.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-29T17:51:16.961Z"
+      },
       {
         "id": "5197c8f26ddbc11b",
         "title": "Tentative Vacant Seat in B.A (ENGLISH) (Code-184) for A.S: 2026-27 as on 29.08.2026",
@@ -6275,6 +6285,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-29T14:18:38.274Z"
+      },
+      {
+        "id": "34f0a5432a97c2ac",
+        "title": "Vacancy Position of BCA (Code 114) as on 29/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608291941550681.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-29T17:51:16.961Z"
       },
       {
         "id": "acc6c33ea4fe9ed2",
@@ -6287,6 +6307,16 @@
         "detectedAt": "2026-08-29T14:18:38.274Z"
       },
       {
+        "id": "4770836fe7f38c54",
+        "title": "Vacancy Position of BBA (Code 125) as on 29/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260829451886367.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-29T17:51:16.961Z"
+      },
+      {
         "id": "0e939dc63dc67bbb",
         "title": "CUET MERIT LIST FOR LLM PRG CODE 112 FOR THE A.S:2026-27_dated-29.08.2026",
         "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260829243665649.pdf",
@@ -6295,6 +6325,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-29T14:18:38.274Z"
+      },
+      {
+        "id": "fe78937d0e445f63",
+        "title": "Vacancy Position of B.Tech (Code 131) as on 29/08/2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608291724381801.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-29T17:51:16.961Z"
       },
       {
         "id": "a9483cd2f5cf794b",
@@ -6425,46 +6465,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-26T09:15:37.471Z"
-      },
-      {
-        "id": "059aa8f8e800aa9f",
-        "title": "Vacancy Position of B.Tech (Code: 131) as on 26/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260826392004231.pdf",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-26T09:15:37.471Z"
-      },
-      {
-        "id": "42a1733d8b2b58d4",
-        "title": "MBBS-CODE 103 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 FOR A.S:2026-27_dated-22.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260825364110909.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T12:56:56.101Z"
-      },
-      {
-        "id": "9dddc82470407f0a",
-        "title": "Tentative Vacancy Position of BBA (Code-125) as on_dated-25.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608251522586332.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T10:39:16.279Z"
-      },
-      {
-        "id": "3c11cbbfd0d5b7ae",
-        "title": "Tentative Vacancy Position of B.Com (Code: 146) as on 25/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608251532569526.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T08:51:01.847Z"
       }
     ]
   },
