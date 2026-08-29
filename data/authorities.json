@@ -975,9 +975,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T11:01:26.510Z",
+    "lastUpdatedDate": "2026-08-29T08:46:41.118Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "20159d27dba06d43",
+        "title": "MCC Medical Dental UG Admission 2026 (Round 2) Schedule for State as well as All India Quota",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/202608271997455134.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-29T08:46:41.118Z"
+      },
       {
         "id": "75082d49a83755ad",
         "title": "Advertisement for 1st Round of Online Allotment & Reporting",
@@ -1166,16 +1176,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 18,
-        "detectedAt": "2026-08-27T11:01:26.510Z"
-      },
-      {
-        "id": "3f41cb40b339bdeb",
-        "title": "NEET-UG Marksheet-2026",
-        "link": null,
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
         "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
@@ -2148,9 +2148,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T21:06:06.278Z",
+    "lastUpdatedDate": "2026-08-29T08:46:48.110Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ed3041243fda2204",
+        "title": "List of Candidates Debarred from 85% Punjab State Quota Seats",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Debarred_1.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-29T08:46:48.110Z"
+      },
       {
         "id": "f3b820f6a9ec783c",
         "title": "Provisional allotment of MBBS/BDS Seats in 1st Round of Counselling under NEET UG 2026",
@@ -2340,15 +2350,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-24T15:14:19.547Z"
-      },
-      {
-        "id": "22e2907fe2be066b",
-        "title": "Admission under NEET UG 2026 Notification Dated 10-07-2026",
-        "link": "https://bfuhs.ac.in/MBBS2026/Notification%20MBBS%20BDS%202026.pdf",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-13T07:49:11.040Z"
       }
     ]
   },
@@ -2551,58 +2552,68 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T12:59:27.963Z",
+    "lastUpdatedDate": "2026-08-29T08:51:00.010Z",
     "pinned": false,
     "notices": [
       {
-        "id": "UGMAC:d777a670358ff99f",
-        "title": "Notice for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/03 Dated 25.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_03.pdf",
-        "date": "25/08/2026",
+        "id": "Latest Updates:190d2dce8cbccd5d",
+        "title": "Important Notice for online MOP-UP Round Counselling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/12 Dated 29.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_12.pdf",
+        "date": "29/08/2026",
         "sortTs": null,
-        "source": "UGMAC",
+        "source": "Latest Updates",
         "batchIndex": 0,
-        "detectedAt": "2026-08-25T12:59:27.963Z"
+        "detectedAt": "2026-08-29T08:51:00.010Z"
       },
       {
-        "id": "UGMAC:60fb67ead7e4cacd",
-        "title": "Notice for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/02 Dated 07.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_02.pdf",
-        "date": "07/08/2026",
+        "id": "Latest Updates:3ca0f87dd7d51fff",
+        "title": "Details for online MOP-UP Round Counselling of BCECE[LE][ENGINEERING]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/11 Dated 29.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_11.pdf",
+        "date": "29/08/2026",
         "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T10:08:01.116Z"
-      },
-      {
-        "id": "UGMAC:e62c695adb249de3",
-        "title": "Details for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 07.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_01.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "UGMAC",
+        "source": "Latest Updates",
         "batchIndex": 1,
-        "detectedAt": "2026-08-07T10:08:01.116Z"
+        "detectedAt": "2026-08-29T08:51:00.010Z"
       },
       {
-        "id": "UGMAC:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
+        "id": "Latest Updates:86224da6264aa26b",
+        "title": "Important Notice for online MOP-UP Round Counselling of DECE[LE]-2026 (Adv. No. BCECEB(DECE[LE])-2026/08 Dated 29.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DLE26_08.pdf",
+        "date": "29/08/2026",
         "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-29T08:51:00.010Z"
       },
       {
-        "id": "UGMAC:434d52739f09976d",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
-        "date": "02/04/2026",
+        "id": "Latest Updates:1436aa04a7e6e391",
+        "title": "Detail Notice for online MOP-UP Round Counselling of DECE[LE]-2026 (Adv. No. BCECEB(DECE[LE])-2026/07 Dated 29.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DLE26_07.pdf",
+        "date": "29/08/2026",
         "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-29T08:51:00.010Z"
+      },
+      {
+        "id": "Latest Updates:bb719877b9aac1de",
+        "title": "Important Notice for online MOP-UP Round-2 Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/15 Dated 29.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_15.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 4,
+        "detectedAt": "2026-08-29T08:51:00.010Z"
+      },
+      {
+        "id": "Latest Updates:87a7aab24b5f9aad",
+        "title": "Detail Notice for online MOP-UP Round-2 Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/14 Dated 29.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_14.pdf",
+        "date": "29/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 5,
+        "detectedAt": "2026-08-29T08:51:00.010Z"
       },
       {
         "id": "Latest Updates:d777a670358ff99f",
@@ -2745,64 +2756,54 @@
         "detectedAt": "2026-08-07T08:38:49.781Z"
       },
       {
-        "id": "Latest Updates:e62c695adb249de3",
+        "id": "UGMAC:d777a670358ff99f",
+        "title": "Notice for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/03 Dated 25.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_03.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T12:59:27.963Z"
+      },
+      {
+        "id": "UGMAC:60fb67ead7e4cacd",
+        "title": "Notice for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/02 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_02.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T10:08:01.116Z"
+      },
+      {
+        "id": "UGMAC:e62c695adb249de3",
         "title": "Details for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 07.08.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_01.pdf",
         "date": "07/08/2026",
         "sortTs": null,
-        "source": "Latest Updates",
+        "source": "UGMAC",
         "batchIndex": 1,
-        "detectedAt": "2026-08-07T10:08:00.826Z"
+        "detectedAt": "2026-08-07T10:08:01.116Z"
       },
       {
-        "id": "Latest Updates:3ed9a27e124067d9",
-        "title": "Detail for offline counselling of BCECE[LE][PHARMACY/PARA MEDICAL]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/09 Dated 07.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_09.pdf",
-        "date": "07/08/2026",
+        "id": "UGMAC:11ee47ceaf3415d9",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
+        "date": "28/06/2026",
         "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-07T08:38:49.781Z"
-      },
-      {
-        "id": "Latest Updates:29a629552a7063ec",
-        "title": "Important Notice for MOP-UP Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/13 Dated 01.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_13.pdf",
-        "date": "01/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
+        "source": "UGMAC",
         "batchIndex": 0,
-        "detectedAt": "2026-08-01T12:37:59.653Z"
+        "detectedAt": "2026-07-08T09:36:47.664Z"
       },
       {
-        "id": "Latest Updates:ad363070bf8450c0",
-        "title": "Detail Notice for MOP-UP Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/12 Dated 01.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_12.pdf",
-        "date": "01/08/2026",
+        "id": "UGMAC:434d52739f09976d",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
+        "date": "02/04/2026",
         "sortTs": null,
-        "source": "Latest Updates",
+        "source": "UGMAC",
         "batchIndex": 1,
-        "detectedAt": "2026-08-01T12:37:59.653Z"
-      },
-      {
-        "id": "Latest Updates:9f8de388b0d49b30",
-        "title": "Important Notice for Filling up Online Application Form for Second Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/06 Dated 31.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_06.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-31T10:10:14.487Z"
-      },
-      {
-        "id": "Latest Updates:b8047ac3ff69a0ea",
-        "title": "Details for Filling up Online Application Form for Second Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/05 Dated 31.07.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_05.pdf",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-31T10:10:14.487Z"
+        "detectedAt": "2026-07-08T09:36:47.664Z"
       }
     ]
   },
@@ -5042,7 +5043,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-28T18:29:00.048Z",
+    "lastUpdatedDate": "2026-08-29T08:52:25.813Z",
     "pinned": false,
     "notices": [
       {
