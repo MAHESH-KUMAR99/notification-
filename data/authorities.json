@@ -6261,9 +6261,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-28T05:35:20.947Z",
+    "lastUpdatedDate": "2026-08-29T01:53:15.677Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a9483cd2f5cf794b",
+        "title": "SCHEDULE FOR SPOT ROUND 03 (OFFLINE COUNSELLING) FOR Integrated LLB (Hons.) (Code-121) and LLM (Code-112) PROG. through NLT/CUET for the A.S.2026-27_dated-28.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281710179311.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-29T01:53:15.677Z"
+      },
       {
         "id": "1601b1b1c6db02e6",
         "title": "Vacancy Position of BCA (Code-114) as on 28.08.2026",
@@ -6273,6 +6283,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-28T05:35:20.947Z"
+      },
+      {
+        "id": "5bcd98c4d8c8be2a",
+        "title": "EXTENSION OF LAST DATE M.PHARM (CODE-189)/ D.PHARM (CODE-190) OF SUBMISSION OF ONLINE APPLICATION FORMS.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281982528427.pdf",
+        "date": "28/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-29T01:53:15.677Z"
       },
       {
         "id": "4e4ed58d6ca4c7b1",
@@ -6442,26 +6462,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-08-25T12:56:56.101Z"
-      },
-      {
-        "id": "24629277f3baa60d",
-        "title": "Tentative Vacancy Position of B.Tech (Code 131) as on 25/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260825255796410.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-25T08:51:01.847Z"
-      },
-      {
-        "id": "67f8cb5c783af85b",
-        "title": "CUET MERIT LIST FOR BA(JMC) PRG. CODE-126 FOR THE A.S. 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608251800172054.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-08-25T12:56:56.101Z"
       }
     ]
