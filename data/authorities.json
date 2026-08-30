@@ -6263,9 +6263,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-30T08:07:26.801Z",
+    "lastUpdatedDate": "2026-08-30T21:01:12.118Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c91b136498614816",
+        "title": "MBBS (CODE-103) EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 FOR A.S:2026-27_dated-30.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301850908555.pdf",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-30T21:01:12.118Z"
+      },
       {
         "id": "6303aaf039c70d46",
         "title": "Vacancy Position of LLB (Code-121) as on 30.08.2026",
@@ -6275,6 +6285,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-30T08:07:26.801Z"
+      },
+      {
+        "id": "344c685fe4132bf7",
+        "title": "B.Sc(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES FILLING OF CHOICES/ PREFERENCES FOLLOWED BY DECLARATION OF RESULT OF ROUND 01 A.S:2026-27_dated-30.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301396546105.pdf",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-30T21:01:12.118Z"
       },
       {
         "id": "e01d567c4472706d",
@@ -6445,26 +6465,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-27T21:08:31.397Z"
-      },
-      {
-        "id": "cd1c9747562a9335",
-        "title": "PROVISIONAL SEAT ALLOTMENT OF CANDIDATES IN PROG. MBBS (CODE-103) IN ROUND 01 ONLINE COUNSELLING BY GGSIP UNIVERSITY_2026-27_dated-27.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271495127589.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-27T11:03:56.354Z"
-      },
-      {
-        "id": "9137de907f5e58e1",
-        "title": "Vacancy Position of B.Com (H) as on 26/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260826671887763.pdf",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-26T09:15:37.471Z"
       }
     ]
   },
