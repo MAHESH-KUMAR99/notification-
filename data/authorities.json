@@ -2149,9 +2149,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T17:49:03.525Z",
+    "lastUpdatedDate": "2026-08-30T08:04:55.156Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "52ea29cf7fc1644b",
+        "title": "Click here to download allotment Letter [ for candidates] Click here to verify documents [for Colleges] Click here for Joining/Reporting candidates [for colleges] Candidates can pay tution fee online only if their eligibility is verified by concerned colleges.",
+        "link": "https://bfuhs.smartpad.in/Registration/Default.aspx",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-30T08:04:55.156Z"
+      },
       {
         "id": "e69a764a3b9915c9",
         "title": "Provisional Allocation of MBBS/BDS Seats - 1st Round of Online Counselling, Session 2026",
@@ -2341,16 +2351,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-05T06:31:57.292Z"
-      },
-      {
-        "id": "f1b7210f2129de52",
-        "title": "Seat matrix of MBBS/BDS Course of session-2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/SEAT%20MATRIX%20MBBS%20and%20BDS%202026.pdf",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-04T10:43:33.658Z"
       }
     ]
   },
@@ -2553,9 +2553,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T08:51:00.010Z",
+    "lastUpdatedDate": "2026-08-30T08:08:55.406Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:487b84f7bbd9fe97",
+        "title": "Important Notice for Filling up Online Application Form for Third Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/09 Dated 30.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_09.pdf",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-30T08:08:55.406Z"
+      },
+      {
+        "id": "Latest Updates:3ea35974b2451431",
+        "title": "Details for Filling up Online Application Form for Third Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/08 Dated 30.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_08.pdf",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-30T08:08:55.406Z"
+      },
       {
         "id": "Latest Updates:190d2dce8cbccd5d",
         "title": "Important Notice for online MOP-UP Round Counselling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/12 Dated 29.08.2026)",
@@ -2735,26 +2755,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-08-07T15:00:14.800Z"
-      },
-      {
-        "id": "Latest Updates:60fb67ead7e4cacd",
-        "title": "Notice for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/02 Dated 07.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_02.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T10:08:00.826Z"
-      },
-      {
-        "id": "Latest Updates:8d9dd3b0fc38fea8",
-        "title": "Notice for offline counselling of BCECE[LE][PHARMACY/PARA MEDICAL]-2026 (Adv. No. BCECEB(BCECE[LE])-2026/10 Dated 07.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_10.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T08:38:49.781Z"
       },
       {
         "id": "UGMAC:d777a670358ff99f",
@@ -4548,9 +4548,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-06T15:01:54.191Z",
+    "lastUpdatedDate": "2026-08-30T08:10:17.504Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:02ba61b0ac26f6c8",
+        "title": "Public Notice Regarding Extension of Admission Deadline to all Professional Courses following AICTE Revised Academic Calendar 2026–27 .",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260830361033805.pdf",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-30T08:10:17.504Z"
+      },
       {
         "id": "OJEE:1a04718184e89e7e",
         "title": "NOTICE REGARDING DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEES FOR 3 rd ROUND ALLOTTED CANDIDATES UNDER LE-TECH(DIPLOMA)/ LEB.Sc./ Int. MBA and Working Professionals for Engineering, M.TECH/M.AR",
@@ -4739,16 +4749,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
-      },
-      {
-        "id": "OJEE:90fb8b366a98e6a3",
-        "title": "NOTICE No: OJEE / 297 FOR CORRECTIONS IN 2nd/SPECIAL OJEE 2026 ONLINE APPLICATION",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/06/20260629733319959.pdf",
-        "date": "29/06/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
@@ -6263,9 +6263,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T17:51:16.961Z",
+    "lastUpdatedDate": "2026-08-30T08:07:26.801Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6303aaf039c70d46",
+        "title": "Vacancy Position of LLB (Code-121) as on 30.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301524869945.pdf",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-30T08:07:26.801Z"
+      },
+      {
+        "id": "e01d567c4472706d",
+        "title": "Vacancy Position of LLM (Code-112) as on 30.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260830176944379.pdf",
+        "date": "30/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-30T08:07:26.801Z"
+      },
       {
         "id": "1f6fc56a17966ae6",
         "title": "Vacancy Position of B.Com (H) (Code 146) as on 29/08/2026",
@@ -6444,26 +6464,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-26T09:15:37.471Z"
-      },
-      {
-        "id": "e3582b7d6ec04a46",
-        "title": "Vacancy Position of BCA (Code: 114) as on 26/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608261834052734.pdf",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-26T09:15:37.471Z"
-      },
-      {
-        "id": "88bd5a8b86a351dc",
-        "title": "Vacancy Position of BBA (Code: 125) as on 26/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608262043785748.pdf",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-08-26T09:15:37.471Z"
       }
     ]
