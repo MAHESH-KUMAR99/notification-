@@ -3266,9 +3266,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T16:24:16.022Z",
+    "lastUpdatedDate": "2026-08-31T21:40:30.568Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:4dafa69b029d9b07",
+        "title": "UPDATED REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/updated_revised_merit_list.html",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-31T21:40:30.568Z"
+      },
       {
         "id": "OVERALL:691c73026b4daaa0",
         "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR MOPUP ROUND ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
@@ -3280,6 +3290,16 @@
         "detectedAt": "2026-08-31T16:24:16.022Z"
       },
       {
+        "id": "OVERALL:50d928de441b5a67",
+        "title": "NOTICE : UPDATED REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1DqrFDXj9f4JGng0AR1RzLJR8MBfAk2lG/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-31T21:40:30.568Z"
+      },
+      {
         "id": "OVERALL:d7840d1b8a906283",
         "title": "ROUND III ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
         "link": "https://drive.google.com/file/d/1T48L50pZtzHPOcWv8T_8utR3p4nbrTrR/view?usp=sharing",
@@ -3288,6 +3308,36 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-31T16:24:16.022Z"
+      },
+      {
+        "id": "OVERALL:41c86653d59cde17",
+        "title": "LIST OF B.TECH. LATERAL ENTRY VACANCIES AFTER ROUND 3",
+        "link": "https://drive.google.com/file/d/1MHiw03QOZsVw5FGlYkKpMX9c8iYHartc/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-31T21:40:30.568Z"
+      },
+      {
+        "id": "UG NEET:4dafa69b029d9b07",
+        "title": "UPDATED REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/updated_revised_merit_list.html",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 238,
+        "detectedAt": "2026-08-31T21:40:30.568Z"
+      },
+      {
+        "id": "UG NEET:50d928de441b5a67",
+        "title": "NOTICE : UPDATED REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1DqrFDXj9f4JGng0AR1RzLJR8MBfAk2lG/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 239,
+        "detectedAt": "2026-08-31T21:40:30.568Z"
       },
       {
         "id": "B.TECH. LATERAL ENTRY:691c73026b4daaa0",
@@ -3308,6 +3358,16 @@
         "source": "Direct from Website",
         "batchIndex": 292,
         "detectedAt": "2026-08-31T16:24:16.022Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:41c86653d59cde17",
+        "title": "LIST OF B.TECH. LATERAL ENTRY VACANCIES AFTER ROUND 3",
+        "link": "https://drive.google.com/file/d/1MHiw03QOZsVw5FGlYkKpMX9c8iYHartc/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 296,
+        "detectedAt": "2026-08-31T21:40:30.568Z"
       },
       {
         "id": "OVERALL:8d1b9a11cbe9f0b6",
@@ -3408,66 +3468,6 @@
         "source": "Direct from Website",
         "batchIndex": 234,
         "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "UG NEET:83106a61e3d31c46",
-        "title": "IGMC&RI - UG NEET - FEE STRUCTURE FOR THE ACADEMICE YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1vV2yxryQr2mYTJns8U0OOjsDkWUccXXn/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 235,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "UG NEET:94f6c5f76260fbe4",
-        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
-        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 236,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "OVERALL:7f18d308ce846ef8",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_2_eligible_list.html",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-26T18:24:02.048Z"
-      },
-      {
-        "id": "OVERALL:69ea114054ee126f",
-        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1TFG8VgzwcToR9Uftw51ikqGpMJ_HJ3rd/view?usp=sharing",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-26T18:24:02.048Z"
-      },
-      {
-        "id": "UG NON-NEET:7f18d308ce846ef8",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_2_eligible_list.html",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 161,
-        "detectedAt": "2026-08-26T18:24:02.048Z"
-      },
-      {
-        "id": "UG NON-NEET:69ea114054ee126f",
-        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1TFG8VgzwcToR9Uftw51ikqGpMJ_HJ3rd/view?usp=sharing",
-        "date": "26/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 162,
-        "detectedAt": "2026-08-26T18:24:02.048Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5060,7 +5060,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T08:52:25.813Z",
+    "lastUpdatedDate": "2026-08-31T21:40:16.085Z",
     "pinned": false,
     "notices": [
       {
