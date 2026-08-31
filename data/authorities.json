@@ -794,9 +794,27 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-28T05:35:38.107Z",
+    "lastUpdatedDate": "2026-08-31T16:21:34.484Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-118",
+        "title": "MERIT AND RESERVE LIST OF CANDIDATES MBBS 2026",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "30/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-31T16:21:34.484Z"
+      },
+      {
+        "id": "afmc-pune-117",
+        "title": "Final JOINING INSTRUCTION 2026-1",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "30/08/2026",
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-31T16:21:34.484Z"
+      },
       {
         "id": "afmc-pune-116",
         "title": "RECRUITMENT OF STAFF FOR JRF AFMRC PROJECT AT FACULTY OF DENTAL SURGERY AND OHS AT AFMC,PUNE.",
@@ -949,22 +967,6 @@
         "date": "01/06/2026",
         "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-90",
-        "title": "RECRUITMENT FOR TEMPORARY POSITION OF FIELD INVESTIGATOR FOR HTA REGIONAL RESOURCE CENTRE AT AFMC, PUNE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "21/05/2026",
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-89",
-        "title": "ADVERTISEMENT FOR MEDICAL OFFICIER POST TO BE PUBLISHED ON THE WEBSITE ARTC AFMC, PUNE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "21/05/2026",
-        "batchIndex": 9,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
   },
@@ -975,9 +977,33 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T08:46:41.118Z",
+    "lastUpdatedDate": "2026-08-31T16:18:51.551Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6239b51afc0d5622",
+        "title": "Advertisement for Online Registration for the 2nd Round [બીજા ઓનલાઇન રાઉન્ડના રજીસ્ટ્રેશન માટેની જાહેરાત]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R2/Adv.%20-%20PIN%20dist.%20&%20Online%20Reg.%20-%20UG%20Round-02%20%20[2026-27].pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "Advertisement for Online Registration for the 2nd Round",
+        "titleLang": "gu",
+        "detectedAt": "2026-08-31T16:18:51.551Z"
+      },
+      {
+        "id": "7364b3b4f0be36aa",
+        "title": "Procedure for Online Registration [ઓનલાઇન રજીસ્ટ્રેશન માટેની પ્રક્રિયા]",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Procedure%20for%20online%20registration%20[2026-27].pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "titleEn": "Procedure for Online Registration",
+        "titleLang": "gu",
+        "detectedAt": "2026-08-31T16:18:51.551Z"
+      },
       {
         "id": "20159d27dba06d43",
         "title": "MCC Medical Dental UG Admission 2026 (Round 2) Schedule for State as well as All India Quota",
@@ -1156,26 +1182,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 16,
-        "detectedAt": "2026-08-27T11:01:26.510Z"
-      },
-      {
-        "id": "d926bb9474cd1b77",
-        "title": "If Place of Birth is NOT mentioned: Required Birth Certificate (Original) or Passport (photocopy)",
-        "link": null,
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 17,
-        "detectedAt": "2026-08-27T11:01:26.510Z"
-      },
-      {
-        "id": "f02edc5d719fac47",
-        "title": "If born outside Gujarat: Required Domicile Certificate (Original) issued by Gujarat State Authorities (Mamlatdar / Executive Magistrate / Police Commissioner)",
-        "link": null,
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 18,
         "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
@@ -1389,9 +1395,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T08:22:54.329Z",
+    "lastUpdatedDate": "2026-08-31T16:19:05.715Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e3382f0bb3005f7f",
+        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR IRT WARDS QUOTA FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/31082026021855.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 28,
+        "detectedAt": "2026-08-31T16:19:05.715Z"
+      },
       {
         "id": "3e5e249dd3803ba2",
         "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR IRT WARDS QUOTA FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
@@ -1580,16 +1596,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 22,
-        "detectedAt": "2026-08-19T08:41:35.675Z"
-      },
-      {
-        "id": "71e64df806fcc67e",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR LINGUISTIC MINORITY(TELUGU) CATEGORY OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/19082026005311.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 23,
         "detectedAt": "2026-08-19T08:41:35.675Z"
       }
     ]
@@ -2918,9 +2924,29 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-28T18:22:31.594Z",
+    "lastUpdatedDate": "2026-08-31T16:18:57.780Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a8a47ba522083f96",
+        "title": "Advt. No. 76 dated-31.08.2026 Important information regarding Revised Schedule for 2nd (Second) Round of online counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. Courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/778.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-31T16:18:57.780Z"
+      },
+      {
+        "id": "edc14772dfe8dc32",
+        "title": "Advt. No. 75 dated-31.08.2026 Indicative information regarding Revised Schedule for 2nd (Second) Round of online counselling for admission to M.B.B.S. course",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/777.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-31T16:18:57.780Z"
+      },
       {
         "id": "7482256619f69bd9",
         "title": "Advt. No. 72 dated-25.08.2026 बी.एससी. नर्सिंग (पोस्ट बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम, द्वितीय एवं तृतीय ऑनलाईन साक्षात्कारों से संबंधित सूचना",
@@ -3106,26 +3132,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-08T13:49:24.810Z"
-      },
-      {
-        "id": "a83c9880b2457cb6",
-        "title": "Advt. No. 53 dated-08.08.2026 Important Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy Rounds of online counselling for admission to B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/759.pdf",
-        "date": "08/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-09T06:10:04.483Z"
-      },
-      {
-        "id": "5592301aa8941359",
-        "title": "Advt. No. 52 dated-08.08.2026 Important Information Regarding Submission of Online Application Form for Preparation of the Merit List on the basis of NEET (UG)-2026 Result and conduct of the 1st, 2nd, 3rd & Stray Vacancy rounds of online counselling for admission to M.B.B.S. course",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/758.pdf",
-        "date": "08/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-09T06:10:04.483Z"
       }
     ]
   },
@@ -3260,9 +3266,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-28T18:30:34.077Z",
+    "lastUpdatedDate": "2026-08-31T16:24:16.022Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:691c73026b4daaa0",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR MOPUP ROUND ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
+        "link": "https://drive.google.com/file/d/11DH97PsI_MDP8CMdmoISjS6KKlJ-1aRk/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-31T16:24:16.022Z"
+      },
+      {
+        "id": "OVERALL:d7840d1b8a906283",
+        "title": "ROUND III ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1T48L50pZtzHPOcWv8T_8utR3p4nbrTrR/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-31T16:24:16.022Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:691c73026b4daaa0",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR MOPUP ROUND ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
+        "link": "https://drive.google.com/file/d/11DH97PsI_MDP8CMdmoISjS6KKlJ-1aRk/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 291,
+        "detectedAt": "2026-08-31T16:24:16.022Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:d7840d1b8a906283",
+        "title": "ROUND III ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1T48L50pZtzHPOcWv8T_8utR3p4nbrTrR/view?usp=sharing",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 292,
+        "detectedAt": "2026-08-31T16:24:16.022Z"
+      },
       {
         "id": "OVERALL:8d1b9a11cbe9f0b6",
         "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
@@ -3422,46 +3468,6 @@
         "source": "Direct from Website",
         "batchIndex": 162,
         "detectedAt": "2026-08-26T18:24:02.048Z"
-      },
-      {
-        "id": "OVERALL:7c1a768f9b283e3f",
-        "title": "REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/revised_draft_merit_list.html",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T18:50:25.691Z"
-      },
-      {
-        "id": "OVERALL:09ce8c45920e749a",
-        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT ROUND - III (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1WjEkknuk53Kdqd9UQJJQOIh-dMwr0Zrf/view?usp=sharing",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T08:55:36.269Z"
-      },
-      {
-        "id": "OVERALL:a4097c14b96066bf",
-        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1Cx6QaXIQS-tZyAxZJ1T7HwFns56MSUvf/view?usp=sharing",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-25T18:50:25.691Z"
-      },
-      {
-        "id": "OVERALL:f0900143e364bedc",
-        "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1VyDuf6jf5MXn2lF9urG8dKIlMYk3_JMb/view?usp=sharing",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-25T08:55:36.269Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4324,7 +4330,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-25T14:52:04.459Z",
+    "lastUpdatedDate": "2026-08-31T16:20:22.902Z",
     "pinned": false,
     "notices": [
       {
@@ -4336,6 +4342,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-25T14:52:04.459Z"
+      },
+      {
+        "id": "07b3cd97dc51ebe7",
+        "title": "31 Aug. 2026: CG STATE MDS Round 1 Merit List Session 2026-27.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2172",
+        "date": null,
+        "sortTs": 1787616000000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-31T16:20:22.902Z"
       },
       {
         "id": "83cf97c524398f81",
@@ -4538,16 +4554,6 @@
         "titleEn": ": On-line Expression of Interest A. Information about extension of period of 194109 and pre-bid purification.....More",
         "titleLang": "hi",
         "detectedAt": "2026-07-31T15:03:51.676Z"
-      },
-      {
-        "id": "ce619978d54873a1",
-        "title": "List of candidates category wise found qualified for interview for the post of demonstrator during thorough checking of the list of eligible candidates......More",
-        "link": "https://www.cgdme.in/notice.php?id=2150",
-        "date": "31/07/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-31T07:12:57.987Z"
       }
     ]
   },
@@ -6273,9 +6279,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-30T21:01:12.118Z",
+    "lastUpdatedDate": "2026-08-31T16:21:15.952Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a535ebafc9cc93d1",
+        "title": "Vacancy Position of BBA (CODE-125) as on 31.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608311512058269.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-31T16:21:15.952Z"
+      },
+      {
+        "id": "c962bef26830b2fb",
+        "title": "Vacancy Position of B.Com (CODE-146) as on 31.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608311162758219.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-31T16:21:15.952Z"
+      },
+      {
+        "id": "ac7349f0bdaf4c5d",
+        "title": "Vacancy Position of B.Tech (CODE-131) as on 31.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608311430027521.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-08-31T16:21:15.952Z"
+      },
+      {
+        "id": "6890da9f4801f178",
+        "title": "Vacancy Position of LLB (CODE-121) as on 31.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260831297682808.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-08-31T16:21:15.952Z"
+      },
       {
         "id": "c91b136498614816",
         "title": "MBBS (CODE-103) EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 FOR A.S:2026-27_dated-30.08.2026",
@@ -6435,46 +6481,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-28T05:35:20.947Z"
-      },
-      {
-        "id": "8b63982ff0818a8d",
-        "title": "Vacancy Position of B.Tech (Code-131) as on 28.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260828504881356.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-28T05:35:20.947Z"
-      },
-      {
-        "id": "ccfe479cf2a595f0",
-        "title": "B.SC(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES OPENING OF CORRECTION/EDIT WINDOW ALONGWITH FRESH RAGISTRATION A.S:2026-27_dated-27.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271533639425.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-27T21:08:31.397Z"
-      },
-      {
-        "id": "4b5ac70c7ebb6eb7",
-        "title": "SCHEDULE OF SPOT ROUND OF OFFLINE COUNSELLING MCA/MCA(SE) (CODE-105) (NIMCET/CET/CUET) and MBA (CODE-101) (CAT/CMAT/CET/CUET) A.S.2026-27_dated-27.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271873149132.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-27T11:03:56.354Z"
-      },
-      {
-        "id": "e664345afa18f3c8",
-        "title": "Tentative Vancant Seat BA(ECO)_197 ACADEMIC SESSION 2026-27_dated-27.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608271551428229.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-27T21:08:31.397Z"
       }
     ]
   },
