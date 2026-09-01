@@ -1945,9 +1945,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-01T12:27:42.822Z",
+    "lastUpdatedDate": "2026-09-01T16:53:11.175Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "38df032155b0be49",
+        "title": "01-09-2026: MBBS & BDS MQ 2026-27 Detailed Notification for Online Application MBBS-BDS-CQ-2026-27-REVISED PRIORITY WISE FINAL LIST OF ELIGIBLE & NOT ELIGIBLE CANDIDATES UNDER CAP CATEGORY AFTER EXAMINATION OF GRIEVANCES MBBS-BDS-CQ-2026-27-Addendum to Final Merit list displayed on 29-08-2026 MBBS-BDS-CQ-2026-27-GRIEVANCE REPORT UNDER SCOUTS & GUIDES CATEGORY MBBS& BDS _CQ_2026-27 Priority wise _ FINAL Eligible LIST under Scouts Guides Category",
+        "link": "https://drntr.uhsap.in/index/notification/20260901205809253.pdf",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T16:53:11.175Z"
+      },
       {
         "id": "6c16ee2fc9ce315b",
         "title": "01-09-2026: MBBS-BDS-CQ-2026-27-Addendum to Final Merit list displayed on 29-08-2026 MBBS-BDS-CQ-2026-27-GRIEVANCE REPORT UNDER SCOUTS & GUIDES CATEGORY MBBS& BDS _CQ_2026-27 Priority wise _ FINAL Eligible LIST under Scouts Guides Category",
@@ -2137,15 +2147,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-07-25T10:10:03.725Z"
-      },
-      {
-        "id": "25e06e6f239ef0f4",
-        "title": "22-07-2026: Admission into MBBS& BDS courses -CQ(Convenor) 2026-27 - Provisional list of Documents required MBBS-BDS- CQ(Convenor) - 2026-27 -Sports & Games Category - Proformas 1 to 4 Admission into MBBS& BDS courses -CQ(Convenor) 2026-27 -Sports & Games - List of Priorities",
-        "link": "https://drntr.uhsap.in/index/notification/20260722131451123.pdf",
-        "date": "22/07/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-22T08:35:01.150Z"
       }
     ]
   },
@@ -3267,9 +3268,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-01T12:33:25.044Z",
+    "lastUpdatedDate": "2026-09-01T16:58:17.417Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:45ce7098e18a746e",
+        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
+        "link": "https://drive.google.com/file/d/13orkgulWgTDL5aKxkf8FyuNymlfBJJOD/view?usp=sharing",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T16:58:17.417Z"
+      },
       {
         "id": "OVERALL:9b7b637ce65fc87e",
         "title": "FINAL MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
@@ -3281,6 +3292,16 @@
         "detectedAt": "2026-09-01T12:33:25.044Z"
       },
       {
+        "id": "OVERALL:6de3e473064a635b",
+        "title": "REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Round_2_eligible_list_updated.html",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-01T16:58:17.417Z"
+      },
+      {
         "id": "OVERALL:86c0628b6b07de90",
         "title": "NOTICE : FINAL MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/18TMGkaXgz56VMss2u791XHuU4fe8o1XW/view?usp=sharing",
@@ -3289,6 +3310,36 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-01T12:33:25.044Z"
+      },
+      {
+        "id": "OVERALL:fe7d0469339ed961",
+        "title": "NOTICE : REVISED ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ApCl8Gui-0Bmf2GVoiRINyGLaZLtZqBc/view?usp=sharing",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-01T16:58:17.417Z"
+      },
+      {
+        "id": "UG NON-NEET:6de3e473064a635b",
+        "title": "REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Round_2_eligible_list_updated.html",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 177,
+        "detectedAt": "2026-09-01T16:58:17.417Z"
+      },
+      {
+        "id": "UG NON-NEET:fe7d0469339ed961",
+        "title": "NOTICE : REVISED ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ApCl8Gui-0Bmf2GVoiRINyGLaZLtZqBc/view?usp=sharing",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 178,
+        "detectedAt": "2026-09-01T16:58:17.417Z"
       },
       {
         "id": "UG NEET:9b7b637ce65fc87e",
@@ -3309,6 +3360,16 @@
         "source": "Direct from Website",
         "batchIndex": 241,
         "detectedAt": "2026-09-01T12:33:25.044Z"
+      },
+      {
+        "id": "UG NEET:45ce7098e18a746e",
+        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
+        "link": "https://drive.google.com/file/d/13orkgulWgTDL5aKxkf8FyuNymlfBJJOD/view?usp=sharing",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 245,
+        "detectedAt": "2026-09-01T16:58:17.417Z"
       },
       {
         "id": "OVERALL:4dafa69b029d9b07",
@@ -3409,66 +3470,6 @@
         "source": "Direct from Website",
         "batchIndex": 296,
         "detectedAt": "2026-08-31T21:40:30.568Z"
-      },
-      {
-        "id": "OVERALL:8d1b9a11cbe9f0b6",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
-        "link": "https://drive.google.com/file/d/1kQ3aDYqDPnF8DcHAXwIakaSc9TmLiU4f/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "OVERALL:ce078e68c614fef6",
-        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "OVERALL:83106a61e3d31c46",
-        "title": "IGMC&RI - UG NEET - FEE STRUCTURE FOR THE ACADEMICE YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1vV2yxryQr2mYTJns8U0OOjsDkWUccXXn/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "OVERALL:94f6c5f76260fbe4",
-        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
-        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "PG DENTAL:ce078e68c614fef6",
-        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 156,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "PG DENTAL:94f6c5f76260fbe4",
-        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
-        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 157,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4331,7 +4332,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-01T06:40:47.626Z",
+    "lastUpdatedDate": "2026-09-01T16:54:21.049Z",
     "pinned": false,
     "notices": [
       {
@@ -5059,7 +5060,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T21:40:16.085Z",
+    "lastUpdatedDate": "2026-09-01T16:58:04.721Z",
     "pinned": false,
     "notices": [
       {
@@ -6278,9 +6279,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-01T12:29:56.069Z",
+    "lastUpdatedDate": "2026-09-01T16:55:15.491Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "15fdfb5b4382d7b1",
+        "title": "SCHEDULE FOR VERIFICATION OF DOCUMENTS OF DOCUMENTS FOR PREPARATION OF RANK/ MERIT FOR EXTENDED OPEN HOUSE OF OFFLINE COUNSELLING FOR ADMISSION IN PROG. B.ARCH (CODE-100) A.S:2026-27_dated-01.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260901991825441.pdf",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T16:55:15.491Z"
+      },
       {
         "id": "728ac150631c7218",
         "title": "Round 03 Onwards Commencement process Paramedical (B.PT/ B.OT/ BASLP/ BPO) (Code-119/124) and B.Ed (SE) (Code-159) Enrollment for Centralized Online Counselling Choice Filling Followed by SLIDING ROUN",
@@ -6470,16 +6481,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-28T05:35:20.947Z"
-      },
-      {
-        "id": "5bcd98c4d8c8be2a",
-        "title": "EXTENSION OF LAST DATE M.PHARM (CODE-189)/ D.PHARM (CODE-190) OF SUBMISSION OF ONLINE APPLICATION FORMS.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281982528427.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-29T01:53:15.677Z"
       }
     ]
   },
