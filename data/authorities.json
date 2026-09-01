@@ -4332,7 +4332,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-01T16:54:21.049Z",
+    "lastUpdatedDate": "2026-09-01T19:49:14.636Z",
     "pinned": false,
     "notices": [
       {
@@ -4344,6 +4344,26 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-01T06:40:47.626Z"
+      },
+      {
+        "id": "19aa55f6a3cd7ac0",
+        "title": "01 Sep. 2026: Provisional Eligibility List – Class-3 Posts | New Government Nursing Colleges, Chhattisgarh. Claims & Objections may be submitted up to 03/09/2026, 11:59 PM.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2181",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T19:49:14.636Z"
+      },
+      {
+        "id": "095fa90fd3a50f9d",
+        "title": "01 Sep. 2026: Provisional Eligibility List – Class-3 Posts | New Government Physiotherapy Colleges, Chhattisgarh. Claims & Objections may be submitted up to 03/09/2026, 11:59 PM.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2180",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-01T19:49:14.636Z"
       },
       {
         "id": "c4075ce17845e383",
@@ -4532,28 +4552,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-07T08:36:14.287Z"
-      },
-      {
-        "id": "4d395d2986f24d9c",
-        "title": "छत्‍तीसगढ़ एलाईड हेल्‍थकेयर प्रोफेसनल कांउसिल के सदस्‍यों के नामांकन हेतु साक्षात्‍कार एवं दस्‍तावेज सत्‍यापन सूचना।.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2153",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "titleEn": "Interview and document verification notice for nomination of members of Chhattisgarh Allied Healthcare Professional Council.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-07T08:36:14.287Z"
-      },
-      {
-        "id": "10740715f0ee4dbd",
-        "title": "Publication of Complete List of Candidates with Allotted Marks After Online Verification of Eligibility Documents for Faculty Recruitment in New Government Nursing Colleges, Chhattisgarh.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2152",
-        "date": "04/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:06:23.035Z"
       }
     ]
   },
