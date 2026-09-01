@@ -1945,9 +1945,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-29T14:16:35.061Z",
+    "lastUpdatedDate": "2026-09-01T12:27:42.822Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6c16ee2fc9ce315b",
+        "title": "01-09-2026: MBBS-BDS-CQ-2026-27-Addendum to Final Merit list displayed on 29-08-2026 MBBS-BDS-CQ-2026-27-GRIEVANCE REPORT UNDER SCOUTS & GUIDES CATEGORY MBBS& BDS _CQ_2026-27 Priority wise _ FINAL Eligible LIST under Scouts Guides Category",
+        "link": "https://drntr.uhsap.in/index/notification/20260901173030470.pdf",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T12:27:42.822Z"
+      },
       {
         "id": "ee43d4496ada17e6",
         "title": "29-08-2026: MBBS & BDS CQ 2026-27 - Final merit list MBBS & BDS-CQ 2026-27 PRIORITY WISE FINAL LIST OF ELIGIBLE & NOT ELIGIBLE CANDIDATES UNDER CAP CATEGORY AFTER EXAMINATION OF GRIEVANCES MBBS - 2026-27 CQ -ADDENDUM TO ELIGIBILITY LIST UNDER PwBD CATEGORY MBBS-SVU-SEAT MATRIX-2026-27 MBBS-SWI-SEAT MATRIX-2026-27 MBBS-AU-SEAT MATRIX-2026-27 MBBS-MINORITY COLLEGES SEAT MATRIX-2026-27 1st Phase MBBS CQ- 2026-27- Notification for Web Options MBBS-CQ-2026-27-INSTRUCTIONS ON PROCEDURE OF COUNSELLING",
@@ -2136,15 +2146,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-22T08:35:01.150Z"
-      },
-      {
-        "id": "53414ac43c9e224f",
-        "title": "07-05-2026: MBBS_CQ 2025-26-CATEGORY-WISE, COLLEGE-WISE, UNIVERSITY-AREA WISE LAST RANKS WITH NEET SCORES",
-        "link": "https://drntr.uhsap.in/index/notification/20260507123811617.pdf",
-        "date": "07/05/2026",
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:34.039Z"
       }
     ]
   },
@@ -2924,9 +2925,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T16:18:57.780Z",
+    "lastUpdatedDate": "2026-09-01T12:27:32.126Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f6e110ad668b9b1e",
+        "title": "Advt. No. 74 dated-31.08.2026 Indicative information regarding Revised Schedule for 2nd (Second) Round of online counselling for admission to B.D.S. course",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/779.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T12:27:32.126Z"
+      },
       {
         "id": "a8a47ba522083f96",
         "title": "Advt. No. 76 dated-31.08.2026 Important information regarding Revised Schedule for 2nd (Second) Round of online counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. Courses",
@@ -3122,16 +3133,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-09T06:10:04.483Z"
-      },
-      {
-        "id": "6fddd78218ed37af",
-        "title": "Advt. No. 54 dated-08.08.2026 Important Notice regarding correction in State Merit List Based on JEE (Main)-2026 Result & change in schedule of ongoing 4th (Fourth) Round of online Counselling",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/755.pdf",
-        "date": "08/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-08T13:49:24.810Z"
       }
     ]
   },
@@ -3266,9 +3267,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T21:40:30.568Z",
+    "lastUpdatedDate": "2026-09-01T12:33:25.044Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:9b7b637ce65fc87e",
+        "title": "FINAL MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/final_merit_list_09012026.html",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T12:33:25.044Z"
+      },
+      {
+        "id": "OVERALL:86c0628b6b07de90",
+        "title": "NOTICE : FINAL MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/18TMGkaXgz56VMss2u791XHuU4fe8o1XW/view?usp=sharing",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-01T12:33:25.044Z"
+      },
+      {
+        "id": "UG NEET:9b7b637ce65fc87e",
+        "title": "FINAL MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/final_merit_list_09012026.html",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 240,
+        "detectedAt": "2026-09-01T12:33:25.044Z"
+      },
+      {
+        "id": "UG NEET:86c0628b6b07de90",
+        "title": "NOTICE : FINAL MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/18TMGkaXgz56VMss2u791XHuU4fe8o1XW/view?usp=sharing",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 241,
+        "detectedAt": "2026-09-01T12:33:25.044Z"
+      },
       {
         "id": "OVERALL:4dafa69b029d9b07",
         "title": "UPDATED REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
@@ -3427,46 +3468,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 157,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "UG NON-NEET:ce078e68c614fef6",
-        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 167,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "UG NON-NEET:94f6c5f76260fbe4",
-        "title": "FEE STRUCTURE FOR MEDICAL (PG/UG)/ DENTAL (UG/PG)/ NURSING (DEGREE/DIPLOMA)/OTHER ALLIED AND HEALTHCARE COURSES IN UN-AIDED PRIVATE PROFESSIONAL EDUCATIONAL INSTITUTIONS FUNCTIONING IN THE UNION TERRITORY OF PUDUCHERRY FOR THE ACADEMIC YEAR 2026-27",
-        "link": "https://drive.google.com/file/d/1ulK5ZSkqgWfZT6NwCN5LBkYD13GrOJbK/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 168,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "UG NEET:8d1b9a11cbe9f0b6",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
-        "link": "https://drive.google.com/file/d/1kQ3aDYqDPnF8DcHAXwIakaSc9TmLiU4f/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 233,
-        "detectedAt": "2026-08-28T18:30:34.077Z"
-      },
-      {
-        "id": "UG NEET:ce078e68c614fef6",
-        "title": "MGPGIDS - FEES STRUCTURE FOR M.D.S. / B.D.S. / DIPLOMA COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1aW6-faMpF4CMBliNscl5z2x-t02rBxXX/view?usp=sharing",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 234,
         "detectedAt": "2026-08-28T18:30:34.077Z"
       },
       {
@@ -6277,9 +6278,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T16:21:15.952Z",
+    "lastUpdatedDate": "2026-09-01T12:29:56.069Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "728ac150631c7218",
+        "title": "Round 03 Onwards Commencement process Paramedical (B.PT/ B.OT/ BASLP/ BPO) (Code-119/124) and B.Ed (SE) (Code-159) Enrollment for Centralized Online Counselling Choice Filling Followed by SLIDING ROUN",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260901507927457.pdf",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-01T12:29:56.069Z"
+      },
+      {
+        "id": "db07201dea2e3c3b",
+        "title": "CUET MERIT LIST FOR B.Ed (Code-122)_01.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260901216892503.pdf",
+        "date": "01/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-01T12:29:56.069Z"
+      },
       {
         "id": "a535ebafc9cc93d1",
         "title": "Vacancy Position of BBA (CODE-125) as on 31.08.2026",
@@ -6459,26 +6480,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-29T01:53:15.677Z"
-      },
-      {
-        "id": "4e4ed58d6ca4c7b1",
-        "title": "Vacancy Position of BBA (Code-125) as on 28.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281486071479.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-28T05:35:20.947Z"
-      },
-      {
-        "id": "726e9a02b4572e6e",
-        "title": "Vacancy Position of B.Com (H) (Code-146) as on 28.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608281263736825.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-28T05:35:20.947Z"
       }
     ]
   },
