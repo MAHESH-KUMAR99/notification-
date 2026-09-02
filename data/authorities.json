@@ -1947,9 +1947,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T13:50:10.543Z",
+    "lastUpdatedDate": "2026-09-02T17:45:41.399Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d73c432d3dbabfc8",
+        "title": "02-09-2026: MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-I MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MDS CQ 2026-27 - Phase-I Weboptions Notification PG (Dental) CQ 2026-27 - Provisional Final Merit list of Candidates PG (Dental) CQ 2026-27 - Not Eligible list of Candidates MDS CQ 2026-27 - AU SEAT MATRIX MDS CQ 2026-27 - AU NET GROUP MDS CQ 2026-27 - SVU SEAT MATRIX MDS CQ 2026-27 - SVU NET GROUP MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I",
+        "link": "https://drntr.uhsap.in/index/notification/20260902210229750.pdf",
+        "date": "02/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-02T17:45:41.399Z"
+      },
       {
         "id": "76c2701695116512",
         "title": "02-09-2026: MDS CQ 2026-27 - Phase-I Weboptions Notification PG (Dental) CQ 2026-27 - Provisional Final Merit list of Candidates PG (Dental) CQ 2026-27 - Not Eligible list of Candidates MDS CQ 2026-27 - AU SEAT MATRIX MDS CQ 2026-27 - AU NET GROUP MDS CQ 2026-27 - SVU SEAT MATRIX MDS CQ 2026-27 - SVU NET GROUP MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I",
@@ -2139,16 +2149,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-06T07:17:26.769Z"
-      },
-      {
-        "id": "80b4d8d6a82213cb",
-        "title": "05-08-2026: MBBS-BDS-2026-27-CQ-Detail online application Notification MBBS-BDS-2026-27- CQ-Prospects & Regulations",
-        "link": "https://drntr.uhsap.in/index/notification/20260805170520093.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T12:02:15.442Z"
       }
     ]
   },
@@ -3270,9 +3270,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T09:33:42.156Z",
+    "lastUpdatedDate": "2026-09-02T17:50:44.617Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:027906acf8743777",
+        "title": "ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1rAY9sXIr-wKblTXCk9HqCMjR047t0cPU/view?usp=sharing",
+        "date": "02/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-02T17:50:44.617Z"
+      },
       {
         "id": "OVERALL:e0f82f74f6d61963",
         "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
@@ -3284,6 +3294,16 @@
         "detectedAt": "2026-09-02T09:33:42.156Z"
       },
       {
+        "id": "OVERALL:e52853d9713283d7",
+        "title": "NOTICE : ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1uxkZJEIblbRSw5p-Pdw3G23qI4fNbE1y/view?usp=sharing",
+        "date": "02/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-02T17:50:44.617Z"
+      },
+      {
         "id": "UG NON-NEET:e0f82f74f6d61963",
         "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
         "link": "https://drive.google.com/file/d/1jLGBqicff26MgfxBrEygoHDSIyZeHa4a/view?usp=sharing",
@@ -3292,6 +3312,26 @@
         "source": "Direct from Website",
         "batchIndex": 178,
         "detectedAt": "2026-09-02T09:33:42.156Z"
+      },
+      {
+        "id": "UG NEET:027906acf8743777",
+        "title": "ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1rAY9sXIr-wKblTXCk9HqCMjR047t0cPU/view?usp=sharing",
+        "date": "02/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 249,
+        "detectedAt": "2026-09-02T17:50:44.617Z"
+      },
+      {
+        "id": "UG NEET:e52853d9713283d7",
+        "title": "NOTICE : ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1uxkZJEIblbRSw5p-Pdw3G23qI4fNbE1y/view?usp=sharing",
+        "date": "02/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 250,
+        "detectedAt": "2026-09-02T17:50:44.617Z"
       },
       {
         "id": "OVERALL:45ce7098e18a746e",
@@ -3431,46 +3471,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-08-31T16:24:16.022Z"
-      },
-      {
-        "id": "OVERALL:41c86653d59cde17",
-        "title": "LIST OF B.TECH. LATERAL ENTRY VACANCIES AFTER ROUND 3",
-        "link": "https://drive.google.com/file/d/1MHiw03QOZsVw5FGlYkKpMX9c8iYHartc/view?usp=sharing",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-31T21:40:30.568Z"
-      },
-      {
-        "id": "UG NEET:4dafa69b029d9b07",
-        "title": "UPDATED REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/updated_revised_merit_list.html",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 238,
-        "detectedAt": "2026-08-31T21:40:30.568Z"
-      },
-      {
-        "id": "UG NEET:50d928de441b5a67",
-        "title": "NOTICE : UPDATED REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1DqrFDXj9f4JGng0AR1RzLJR8MBfAk2lG/view?usp=sharing",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 239,
-        "detectedAt": "2026-08-31T21:40:30.568Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:691c73026b4daaa0",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR MOPUP ROUND ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
-        "link": "https://drive.google.com/file/d/11DH97PsI_MDP8CMdmoISjS6KKlJ-1aRk/view?usp=sharing",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 291,
         "detectedAt": "2026-08-31T16:24:16.022Z"
       },
       {
