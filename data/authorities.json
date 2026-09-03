@@ -3270,7 +3270,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T17:50:44.617Z",
+    "lastUpdatedDate": "2026-09-03T06:25:04.193Z",
     "pinned": false,
     "notices": [
       {
@@ -6491,9 +6491,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T21:06:10.290Z",
+    "lastUpdatedDate": "2026-09-03T06:19:25.433Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b6e3c6567ec54d70",
+        "title": "PwD related MCC Notice for Round 2",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/20260903701030144.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T06:19:25.433Z"
+      },
       {
         "id": "3c79862f7fa90cfb",
         "title": "Urgent notice for NRI to Indian conversion for Round 1",
@@ -6677,15 +6687,6 @@
         "date": "22/12/2025",
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "b977330862e532f3",
-        "title": "Urgent Notice Dated 22-12-2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/12/20251222820357608.pdf",
-        "date": "22/12/2025",
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:31.519Z"
       }
     ]
