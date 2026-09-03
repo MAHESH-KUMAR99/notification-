@@ -977,7 +977,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T13:49:16.394Z",
+    "lastUpdatedDate": "2026-09-03T11:34:53.891Z",
     "pinned": false,
     "notices": [
       {
@@ -2159,9 +2159,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T13:49:25.273Z",
+    "lastUpdatedDate": "2026-09-03T11:35:01.791Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "817871cc9ba45256",
+        "title": "MBBS/BDS 2nd Round Schedule under NEET UG 2026 Click here to apply online Click here to submit willingness for 2nd Round Click here to view willingness list",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/New%20schedule%20of%202nd%20round%20of%20counseling%20MBBSBDS.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T11:35:01.791Z"
+      },
       {
         "id": "5dc88124c816261e",
         "title": "Public Notice Regarding Sports Category Merit List Sports Merit List",
@@ -2351,16 +2361,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-06T12:27:08.349Z"
-      },
-      {
-        "id": "7ae38e6b99c09ece",
-        "title": "Guidelines on Assessment of Persons with Benchmark GUIDELINES ON ASSESSMENT OF PERSONS PWD",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Guidelines%20on%20Assessment%20of%20Persons%20with%20Benchmark.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-06T04:16:04.273Z"
       }
     ]
   },
@@ -2563,9 +2563,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-01T06:43:26.730Z",
+    "lastUpdatedDate": "2026-09-03T11:39:13.191Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:d29d2e20dbc86acc",
+        "title": "Notice for offline Spot Round Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/12 Dated 03.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_12.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T11:39:13.191Z"
+      },
       {
         "id": "Latest Updates:5aaf2acb2c37d0cb",
         "title": "Notice for Extension in Date for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/04 Dated 31.08.2026)",
@@ -2755,16 +2765,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-08-18T12:56:45.229Z"
-      },
-      {
-        "id": "Latest Updates:f489853406b543d4",
-        "title": "Notice for Revised Second Round Seat allotment result of BCECE[ENGINEERING]-2026 (Adv. No. BCECEB(BCECE)-2026/10 Dated 18.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECE26_10.pdf",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-18T08:44:40.327Z"
       },
       {
         "id": "UGMAC:5aaf2acb2c37d0cb",
@@ -3270,9 +3270,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T06:25:04.193Z",
+    "lastUpdatedDate": "2026-09-03T11:40:42.346Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:fb3185209111d655",
+        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1iAWxPaKbOcZlWJfzqsbsStstcxtbzYLN/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T11:40:42.346Z"
+      },
+      {
+        "id": "OVERALL:6207dcfee4d10e46",
+        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/109WPei1mRJ52-G8z6cKX_uvAb8Jlp66O/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T11:40:42.346Z"
+      },
+      {
+        "id": "UG NEET:fb3185209111d655",
+        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1iAWxPaKbOcZlWJfzqsbsStstcxtbzYLN/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 249,
+        "detectedAt": "2026-09-03T11:40:42.346Z"
+      },
+      {
+        "id": "UG NEET:6207dcfee4d10e46",
+        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/109WPei1mRJ52-G8z6cKX_uvAb8Jlp66O/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 250,
+        "detectedAt": "2026-09-03T11:40:42.346Z"
+      },
       {
         "id": "OVERALL:027906acf8743777",
         "title": "ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
@@ -3432,46 +3472,6 @@
         "source": "Direct from Website",
         "batchIndex": 245,
         "detectedAt": "2026-09-01T16:58:17.417Z"
-      },
-      {
-        "id": "OVERALL:4dafa69b029d9b07",
-        "title": "UPDATED REVISED DRAFT MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/updated_revised_merit_list.html",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-31T21:40:30.568Z"
-      },
-      {
-        "id": "OVERALL:691c73026b4daaa0",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR MOPUP ROUND ALLOTMENT OF UG B.TECH. LATERAL ENTRY COURSES",
-        "link": "https://drive.google.com/file/d/11DH97PsI_MDP8CMdmoISjS6KKlJ-1aRk/view?usp=sharing",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-31T16:24:16.022Z"
-      },
-      {
-        "id": "OVERALL:50d928de441b5a67",
-        "title": "NOTICE : UPDATED REVISED DRAFT MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1DqrFDXj9f4JGng0AR1RzLJR8MBfAk2lG/view?usp=sharing",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-31T21:40:30.568Z"
-      },
-      {
-        "id": "OVERALL:d7840d1b8a906283",
-        "title": "ROUND III ADMITTED LIST FOR B.TECH. LATERAL ENTRY - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1T48L50pZtzHPOcWv8T_8utR3p4nbrTrR/view?usp=sharing",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-31T16:24:16.022Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4564,9 +4564,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T09:33:33.004Z",
+    "lastUpdatedDate": "2026-09-03T11:40:32.658Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:306c0716f64d1ff5",
+        "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B. Pharm / M.Pharm and Lateral Entry to B.Pharm Programmes.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/20260903166635353.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T11:40:32.658Z"
+      },
       {
         "id": "OJEE:71cf046178ad3e14",
         "title": "Counselling for B.PHARM/ LE.PHARM/ M.PHARM for the Session 2026-27",
@@ -4756,16 +4766,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-07-08T14:58:36.427Z"
-      },
-      {
-        "id": "OJEE:0dd0f1d78d4d9e60",
-        "title": "ONLINE APPLICATION for 2nd/Second OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607071941473999.pdf",
-        "date": "07/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:52.043Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -5456,9 +5456,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T13:55:21.479Z",
+    "lastUpdatedDate": "2026-09-03T11:40:47.210Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:63c87a931843972f",
+        "title": "Notice for extend the last date of admission to MBBS/BDS 1st Round of Counselling for the Academic Session 2026-27up to 04.09.2026.",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/MBBS-1st-round-admission-date-extend-notice.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T11:40:47.210Z"
+      },
       {
         "id": "MBBS/BDS Counselling:3d6bf659e48bc1dc",
         "title": "Counselling Schedule for 2nd Round of MBBS/BDS Counselling 2026-2027",
@@ -5647,16 +5657,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 6,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:2e7248a77f1a0553",
-        "title": "Notice Regarding cancellation of admission of Ms. Gagan Preet Kaur of MBBS/BDS Counselling 2025 as per direction of Hon’ble High Court.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/11/Notice-regarding-cancilation-of-admission.pdf",
-        "date": "20/11/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 7,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
