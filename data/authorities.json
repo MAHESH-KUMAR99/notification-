@@ -217,9 +217,39 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-24T09:52:10.165Z",
+    "lastUpdatedDate": "2026-09-03T16:05:27.183Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "fbc0a0bbb8dd0546",
+        "title": "NEWLY ADDED SEATS ROUND 2 (MBBS BDS) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609032106684396.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T16:05:27.183Z"
+      },
+      {
+        "id": "783363e0c339f04a",
+        "title": "CLEAR VACANCY ROUND 2 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260903254511963.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T16:05:27.183Z"
+      },
+      {
+        "id": "d394c09c67bd2970",
+        "title": "VIRTUAL VACANCY ROUND 2 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609031954399379.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-03T16:05:27.183Z"
+      },
       {
         "id": "4acba36b1fcdc732",
         "title": "Final Allotment Result for Round 1 of UG Counselling 2026",
@@ -381,33 +411,6 @@
         "date": "09/12/2025",
         "sortTs": null,
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "6918ebedaca59702",
-        "title": "SCHEDULE OF ROUND 5 & ROUND 6 OF UG COUNSELLING 2025 FOR BDS/B.SC (NURSING)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/12/202512081633163473.pdf",
-        "date": "08/12/2025",
-        "sortTs": null,
-        "batchIndex": 7,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "9481f57470099bb2",
-        "title": "Notice for weeding out of candidates dated 15.11.2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/11/202511151570160169.pdf",
-        "date": "15/11/2025",
-        "sortTs": null,
-        "batchIndex": 8,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "33adec2477eeff22",
-        "title": "Final Allotment Result for Stray Vacacy Round UG 2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/11/2025111596488171.pdf",
-        "date": "15/11/2025",
-        "sortTs": null,
-        "batchIndex": 9,
         "detectedAt": "2026-07-08T09:35:42.565Z"
       }
     ]
@@ -611,9 +614,27 @@
     "category": "central",
     "officialLink": "https://www.nmc.org.in/all-news/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-28T18:22:23.117Z",
+    "lastUpdatedDate": "2026-09-03T16:05:30.270Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "nmc-1022",
+        "title": "03/09/2026 - Filling up of Senior Advisor posts in the National Medical Commission (NMC) and its four Autonomous Boards on Deputation basis - reg",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Circular%20dated%2003.09.2026%20_%20Sr.%20Advisor.pdf",
+        "date": "03/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T16:05:30.270Z"
+      },
+      {
+        "id": "nmc-1021",
+        "title": "03/09/2026 - Mandatory updation of NMR / SMR Numbers of Medical Faculty in Medical Colleges/ Institutions under NMC on AEBAS Portal - Reg",
+        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/public_notice.pdf",
+        "date": "03/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T16:05:30.270Z"
+      },
       {
         "id": "nmc-1020",
         "title": "28/08/2026 - Details of students admitted to PGMEB (MD/MS/Diploma - Broad Specialities)  for the Academic Year 2025_26 - Reg",
@@ -768,22 +789,6 @@
         "date": "13/07/2026",
         "batchIndex": 0,
         "detectedAt": "2026-07-13T07:49:01.140Z"
-      },
-      {
-        "id": "nmc-1001",
-        "title": "09/07/2026 - Login Credentials to be used by Medical Colleges/Institutions for Accessing the Online Appeal Portal for Filing Appeals-reg.",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/Pubnotice%20june%20-9.pdf",
-        "date": "09/07/2026",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-09T22:00:33.412Z"
-      },
-      {
-        "id": "nmc-1000",
-        "title": "07/07/2026 - Installation of CCTV Systems at Medical Colleges and their access to NMC Command & Control Center via NVR - reg",
-        "link": "https://www.nmc.org.in/Documents/Public/Portal/LatestNews/PublicNotice_WithList_NVR.pdf",
-        "date": "07/07/2026",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:35:43.856Z"
       }
     ]
   },
@@ -1947,9 +1952,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T17:45:41.399Z",
+    "lastUpdatedDate": "2026-09-03T16:05:57.184Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "da67fa97256128d1",
+        "title": "03-09-2026: Post Basic (Nursing) 2 YD Course Prospectus 2026-27 Post Basic (Nursing) 2 YD Course Online application Notification 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20260903202617160.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T16:05:57.184Z"
+      },
       {
         "id": "d73c432d3dbabfc8",
         "title": "02-09-2026: MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-I MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MDS CQ 2026-27 - Phase-I Weboptions Notification PG (Dental) CQ 2026-27 - Provisional Final Merit list of Candidates PG (Dental) CQ 2026-27 - Not Eligible list of Candidates MDS CQ 2026-27 - AU SEAT MATRIX MDS CQ 2026-27 - AU NET GROUP MDS CQ 2026-27 - SVU SEAT MATRIX MDS CQ 2026-27 - SVU NET GROUP MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I",
@@ -2139,16 +2154,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-14T14:32:08.205Z"
-      },
-      {
-        "id": "626d94f444113a68",
-        "title": "06-08-2026: Corrigendum dt.31-07-2026-Guidelines on Assessment of Persons with Benchmark Disabilities for Admission to the MBBS Course, 2026 MCC Notice dt.31-07-2026 on Assessment of Persons with Benchmark Disabilities",
-        "link": "https://drntr.uhsap.in/index/notification/20260806121255773.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-06T07:17:26.769Z"
       }
     ]
   },
@@ -3270,9 +3275,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T11:40:42.346Z",
+    "lastUpdatedDate": "2026-09-03T16:10:52.345Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:2625908f8c4576f5",
+        "title": "MINDS - BDS REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1IHWK5li88JYw5jYnRqMcNcfFZ3-9S3Lz/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T16:10:52.345Z"
+      },
       {
         "id": "OVERALL:fb3185209111d655",
         "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
@@ -3282,6 +3297,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-03T11:40:42.346Z"
+      },
+      {
+        "id": "OVERALL:84e84fd505d8b910",
+        "title": "UG NEET - ROUND 1 - CUT OFF MARKS - 2026-2027",
+        "link": "https://drive.google.com/file/d/1Rvzy0Hozmxf41SLDyZfzW6RbT-MI7tyR/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T16:10:52.345Z"
       },
       {
         "id": "OVERALL:6207dcfee4d10e46",
@@ -3312,6 +3337,26 @@
         "source": "Direct from Website",
         "batchIndex": 250,
         "detectedAt": "2026-09-03T11:40:42.346Z"
+      },
+      {
+        "id": "UG NEET:2625908f8c4576f5",
+        "title": "MINDS - BDS REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1IHWK5li88JYw5jYnRqMcNcfFZ3-9S3Lz/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 251,
+        "detectedAt": "2026-09-03T16:10:52.345Z"
+      },
+      {
+        "id": "UG NEET:84e84fd505d8b910",
+        "title": "UG NEET - ROUND 1 - CUT OFF MARKS - 2026-2027",
+        "link": "https://drive.google.com/file/d/1Rvzy0Hozmxf41SLDyZfzW6RbT-MI7tyR/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 252,
+        "detectedAt": "2026-09-03T16:10:52.345Z"
       },
       {
         "id": "OVERALL:027906acf8743777",
@@ -3431,46 +3476,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 177,
-        "detectedAt": "2026-09-01T16:58:17.417Z"
-      },
-      {
-        "id": "UG NON-NEET:fe7d0469339ed961",
-        "title": "NOTICE : REVISED ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1ApCl8Gui-0Bmf2GVoiRINyGLaZLtZqBc/view?usp=sharing",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 178,
-        "detectedAt": "2026-09-01T16:58:17.417Z"
-      },
-      {
-        "id": "UG NEET:9b7b637ce65fc87e",
-        "title": "FINAL MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/final_merit_list_09012026.html",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 240,
-        "detectedAt": "2026-09-01T12:33:25.044Z"
-      },
-      {
-        "id": "UG NEET:86c0628b6b07de90",
-        "title": "NOTICE : FINAL MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/18TMGkaXgz56VMss2u791XHuU4fe8o1XW/view?usp=sharing",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 241,
-        "detectedAt": "2026-09-01T12:33:25.044Z"
-      },
-      {
-        "id": "UG NEET:45ce7098e18a746e",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
-        "link": "https://drive.google.com/file/d/13orkgulWgTDL5aKxkf8FyuNymlfBJJOD/view?usp=sharing",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 245,
         "detectedAt": "2026-09-01T16:58:17.417Z"
       },
       {
@@ -6279,9 +6284,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T13:52:14.065Z",
+    "lastUpdatedDate": "2026-09-03T16:07:57.602Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8cd4ecd49eaf077a",
+        "title": "SCHEDULE OF 1st COUNSELLING/ MASTER OF PHYSIOTHERAPY (MPT: CET CODE 107) A.S: -2026-27_dated-03.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260903126184758.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T16:07:57.602Z"
+      },
+      {
+        "id": "483e6b7402f6f967",
+        "title": "Admission Notice-cum-Counselling Schedule for admission to Programme M.Tech. Prog. (Mechanical Engineering): A.S: 2026-27_dated-03.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260903264688762.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T16:07:57.602Z"
+      },
+      {
+        "id": "086cfffbf67e8717",
+        "title": "SCHEDULE OF 1st OFFLINE COUNSELLING LE IN BS (PACKAGING TECHNOLOGY), CET CODE-171 ADMISSION A.S:2026-27_dated-03.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609032104833350.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-03T16:07:57.602Z"
+      },
+      {
+        "id": "77f9b06eca8d2e75",
+        "title": "SCHEDULE OF 2nd COUNSELLING MASTER IN CLINICAL PSYCHOLOGY, CET CODE-166 ADMISSION FOLLOWED BY OPEN HOUSE A.S:2026-27_dated-03.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609031616061187.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-03T16:07:57.602Z"
+      },
       {
         "id": "65cd55c4b96930c5",
         "title": "B.SC (H) NURSING FOR NEET UG 2026 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 FOR A.S:2026-27_dated-02.09.2026",
@@ -6441,46 +6486,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-29T17:51:16.961Z"
-      },
-      {
-        "id": "acc6c33ea4fe9ed2",
-        "title": "CUET MERIT LIST FOR BA LLB/ BBA LLB PRG CODE 121 FOR THE A.S:2026-27_dated-29.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608291858216310.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-29T14:18:38.274Z"
-      },
-      {
-        "id": "4770836fe7f38c54",
-        "title": "Vacancy Position of BBA (Code 125) as on 29/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260829451886367.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-29T17:51:16.961Z"
-      },
-      {
-        "id": "0e939dc63dc67bbb",
-        "title": "CUET MERIT LIST FOR LLM PRG CODE 112 FOR THE A.S:2026-27_dated-29.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260829243665649.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-29T14:18:38.274Z"
-      },
-      {
-        "id": "fe78937d0e445f63",
-        "title": "Vacancy Position of B.Tech (Code 131) as on 29/08/2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608291724381801.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-29T17:51:16.961Z"
       }
     ]
   },
@@ -6491,7 +6496,7 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T06:19:25.433Z",
+    "lastUpdatedDate": "2026-09-03T16:05:54.901Z",
     "pinned": false,
     "notices": [
       {
@@ -6503,6 +6508,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-03T06:19:25.433Z"
+      },
+      {
+        "id": "34a0d0d06b32723b",
+        "title": "Round 2 Schedule Dated 03.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/202609031302532871.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-03T16:05:54.901Z"
       },
       {
         "id": "3c79862f7fa90cfb",
@@ -6555,6 +6570,16 @@
         "detectedAt": "2026-08-20T10:34:55.216Z"
       },
       {
+        "id": "278484107a0b2bc8",
+        "title": "Round 1 Revised Schedule Dated 20.08.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608202072716281.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-09-03T16:05:54.901Z"
+      },
+      {
         "id": "b0475d7bcdc17cc9",
         "title": "Provisional List of Candidates For Round 1",
         "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608191175667871.pdf",
@@ -6593,6 +6618,16 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-11T17:29:28.847Z"
+      },
+      {
+        "id": "1b4351e2c8f0f072",
+        "title": "Round 1 Counselling Schedule",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/20260811338855569.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-09-03T16:05:54.901Z"
       },
       {
         "id": "ca1c432b18b921f2",
@@ -6661,33 +6696,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "7f4d4e013b13f36e",
-        "title": "Notice of Round 5 (Dental)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/01/2026010290632345.pdf",
-        "date": "02/01/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "a4da66965ebe19fa",
-        "title": "Schedule Round 5 (Dental)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/01/202601021997002578.pdf",
-        "date": "02/01/2026",
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "7e39440758033315",
-        "title": "Eligible Candidate List Special Stray Vacancy Round",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/12/20251222989213026.pdf",
-        "date": "22/12/2025",
-        "sortTs": null,
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
       }
     ]
   },
@@ -6698,9 +6706,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-02T13:55:19.007Z",
+    "lastUpdatedDate": "2026-09-03T16:10:51.754Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4b944f02a0bb948c",
+        "title": "MBBS/BDS - FINAL NRI CATEGORY LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/240/Upload1",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T16:10:51.754Z"
+      },
       {
         "id": "2f92f1de24e60564",
         "title": "Provisional NRI Category List Published",
@@ -6892,16 +6910,6 @@
         "titleEn": "Issuance of order amending KEEM Prospectus for the academic year 2026-27 – Regards.",
         "titleLang": "ml",
         "detectedAt": "2026-08-14T11:53:32.975Z"
-      },
-      {
-        "id": "5f820343dcf08df2",
-        "title": "ADMISSION TO MBBS/BDS COURSES CANDIDATES INCLUDED IN THE MEDICAL RANK LIST CAN UPLOAD NRI DOCUMENTS",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/195/Upload1",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T02:18:54.044Z"
       }
     ]
   },
