@@ -1614,9 +1614,79 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-26T10:12:37.354Z",
+    "lastUpdatedDate": "2026-09-03T19:27:04.896Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Counselling Schedule:fd3c3d02074c40ec",
+        "title": "Tentative Time Schedule for Second round of Counselling MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-03.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20Schedule%20-%20Second%20Round_35.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T19:27:04.896Z"
+      },
+      {
+        "id": "Counselling Schedule:060995c400296bdf",
+        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T13:06:06.712Z"
+      },
+      {
+        "id": "Counselling Schedule:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.645Z"
+      },
+      {
+        "id": "Counselling Schedule:dadb06cb5e49ddb2",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T16:33:00.795Z"
+      },
+      {
+        "id": "Latest Instructions:fd3c3d02074c40ec",
+        "title": "Tentative Time Schedule for Second round of Counselling MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-03.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20Schedule%20-%20Second%20Round_35.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T19:27:04.379Z"
+      },
+      {
+        "id": "Latest Instructions:8c4a51d2a0bcbaf8",
+        "title": "Notice Regarding Registration for Fresh Candidates MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-03.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Regarding%20Registration_34.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-03T19:27:04.379Z"
+      },
+      {
+        "id": "Latest Instructions:aa78fe97ba8ea35c",
+        "title": "Notice Regarding Extension of Last Date of Resignation (1st Round )MP STATE COMBINED COUNSELLING NEET UG 2026-27(Dated- 03.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Regarding%20Extension%20Resignation_33.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-03T19:27:04.379Z"
+      },
       {
         "id": "Latest Instructions:a7351b97ed3039bf",
         "title": "New order regarding Mukhyamantri Jankalyan Yojna (MMJKY) Scholarship Scheme. (Dated 26.08.2026)",
@@ -1790,36 +1860,6 @@
         "detectedAt": "2026-08-05T14:59:54.671Z"
       },
       {
-        "id": "Latest Instructions:3d0398756edf4a0e",
-        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T06:35:53.468Z"
-      },
-      {
-        "id": "Latest Instructions:789dbe6179108340",
-        "title": "Important information regarding scholarship- Mukhyamantri Jan Kalyan (Shiksha Protsahan) Yojna (Dated 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/MMJKY%20Scholarship%20Rule%20updated_16.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
-      },
-      {
-        "id": "Latest Instructions:4a937997a99a4d5f",
-        "title": "Amended Proforma no. 7 and 9 for counselling MP State Combined NEET UG Counselling 2026-27 ( Dated 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Amended%20proforma%202026_15.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
-      },
-      {
         "id": "Allotment List:a78f594a5849e81c",
         "title": "First Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 24.08.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_DME_UG_ALLOTMENT_REPORT_FR_31.pdf",
@@ -1838,36 +1878,6 @@
         "source": "Allotment List",
         "batchIndex": 1,
         "detectedAt": "2026-08-24T14:02:16.172Z"
-      },
-      {
-        "id": "Counselling Schedule:060995c400296bdf",
-        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-20T13:06:06.712Z"
-      },
-      {
-        "id": "Counselling Schedule:cdc71e56ef143c41",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:08:57.645Z"
-      },
-      {
-        "id": "Counselling Schedule:dadb06cb5e49ddb2",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T16:33:00.795Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
@@ -3275,9 +3285,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T16:10:52.345Z",
+    "lastUpdatedDate": "2026-09-03T19:28:32.924Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:70a90543bbb53e41",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT MOPUP ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/14SKpq3JOe3tmKOu2xHAKpZd04RTPv5UX/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
+      },
       {
         "id": "OVERALL:2625908f8c4576f5",
         "title": "MINDS - BDS REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3299,6 +3319,16 @@
         "detectedAt": "2026-09-03T11:40:42.346Z"
       },
       {
+        "id": "OVERALL:c9b00b0227ede4e9",
+        "title": "(PUDUCHERRY U.T. - OVERALL ) UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1_Hu8C0EdJqvSuFqbN5V-j5zm2mXvhaem/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
+      },
+      {
         "id": "OVERALL:84e84fd505d8b910",
         "title": "UG NEET - ROUND 1 - CUT OFF MARKS - 2026-2027",
         "link": "https://drive.google.com/file/d/1Rvzy0Hozmxf41SLDyZfzW6RbT-MI7tyR/view?usp=sharing",
@@ -3317,6 +3347,66 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-03T11:40:42.346Z"
+      },
+      {
+        "id": "OVERALL:3eb42e86d6043931",
+        "title": "OTHER STATES - UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1G_7dBLoAve7DZJON5K2eAMLM-OM35lul/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
+      },
+      {
+        "id": "OVERALL:9debe6366351ff6b",
+        "title": "NOTICE : MOPUP ROUND DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hGlszRNBEX0XUdldNfN8MbLuHy2aYphR/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
+      },
+      {
+        "id": "OVERALL:df961aa4f3e5f860",
+        "title": "UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/updated_round_2_eligible_list.html",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
+      },
+      {
+        "id": "OVERALL:d891df904194328c",
+        "title": "NOTICE : UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 OF UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1BTwkPzlSlXG_annPGdmuM00WcAUBLPBe/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
+      },
+      {
+        "id": "UG NON-NEET:df961aa4f3e5f860",
+        "title": "UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/updated_round_2_eligible_list.html",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 189,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
+      },
+      {
+        "id": "UG NON-NEET:d891df904194328c",
+        "title": "NOTICE : UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 OF UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1BTwkPzlSlXG_annPGdmuM00WcAUBLPBe/view?usp=sharing",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 190,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
         "id": "UG NEET:fb3185209111d655",
@@ -3359,124 +3449,44 @@
         "detectedAt": "2026-09-03T16:10:52.345Z"
       },
       {
-        "id": "OVERALL:027906acf8743777",
-        "title": "ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1rAY9sXIr-wKblTXCk9HqCMjR047t0cPU/view?usp=sharing",
-        "date": "02/09/2026",
+        "id": "B.TECH. LATERAL ENTRY:70a90543bbb53e41",
+        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT MOPUP ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/14SKpq3JOe3tmKOu2xHAKpZd04RTPv5UX/view?usp=sharing",
+        "date": "03/09/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-02T17:50:44.617Z"
+        "batchIndex": 326,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
-        "id": "OVERALL:e0f82f74f6d61963",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
-        "link": "https://drive.google.com/file/d/1jLGBqicff26MgfxBrEygoHDSIyZeHa4a/view?usp=sharing",
-        "date": "02/09/2026",
+        "id": "B.TECH. LATERAL ENTRY:c9b00b0227ede4e9",
+        "title": "(PUDUCHERRY U.T. - OVERALL ) UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1_Hu8C0EdJqvSuFqbN5V-j5zm2mXvhaem/view?usp=sharing",
+        "date": "03/09/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-02T09:33:42.156Z"
+        "batchIndex": 327,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
-        "id": "OVERALL:e52853d9713283d7",
-        "title": "NOTICE : ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1uxkZJEIblbRSw5p-Pdw3G23qI4fNbE1y/view?usp=sharing",
-        "date": "02/09/2026",
+        "id": "B.TECH. LATERAL ENTRY:3eb42e86d6043931",
+        "title": "OTHER STATES - UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1G_7dBLoAve7DZJON5K2eAMLM-OM35lul/view?usp=sharing",
+        "date": "03/09/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-02T17:50:44.617Z"
+        "batchIndex": 328,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
-        "id": "UG NON-NEET:e0f82f74f6d61963",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR ROUND 2 ALLOTMENT OF UG NON-NEET COURSES",
-        "link": "https://drive.google.com/file/d/1jLGBqicff26MgfxBrEygoHDSIyZeHa4a/view?usp=sharing",
-        "date": "02/09/2026",
+        "id": "B.TECH. LATERAL ENTRY:9debe6366351ff6b",
+        "title": "NOTICE : MOPUP ROUND DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1hGlszRNBEX0XUdldNfN8MbLuHy2aYphR/view?usp=sharing",
+        "date": "03/09/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 178,
-        "detectedAt": "2026-09-02T09:33:42.156Z"
-      },
-      {
-        "id": "UG NEET:027906acf8743777",
-        "title": "ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1rAY9sXIr-wKblTXCk9HqCMjR047t0cPU/view?usp=sharing",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 249,
-        "detectedAt": "2026-09-02T17:50:44.617Z"
-      },
-      {
-        "id": "UG NEET:e52853d9713283d7",
-        "title": "NOTICE : ROUND 1 DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1uxkZJEIblbRSw5p-Pdw3G23qI4fNbE1y/view?usp=sharing",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 250,
-        "detectedAt": "2026-09-02T17:50:44.617Z"
-      },
-      {
-        "id": "OVERALL:45ce7098e18a746e",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR UG NEET COURSES",
-        "link": "https://drive.google.com/file/d/13orkgulWgTDL5aKxkf8FyuNymlfBJJOD/view?usp=sharing",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-01T16:58:17.417Z"
-      },
-      {
-        "id": "OVERALL:9b7b637ce65fc87e",
-        "title": "FINAL MERIT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] (2026-27)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/final_merit_list_09012026.html",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-01T12:33:25.044Z"
-      },
-      {
-        "id": "OVERALL:6de3e473064a635b",
-        "title": "REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Round_2_eligible_list_updated.html",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-01T16:58:17.417Z"
-      },
-      {
-        "id": "OVERALL:86c0628b6b07de90",
-        "title": "NOTICE : FINAL MERIT LIST FOR UG NEET COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/18TMGkaXgz56VMss2u791XHuU4fe8o1XW/view?usp=sharing",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-01T12:33:25.044Z"
-      },
-      {
-        "id": "OVERALL:fe7d0469339ed961",
-        "title": "NOTICE : REVISED ROUND 2 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1ApCl8Gui-0Bmf2GVoiRINyGLaZLtZqBc/view?usp=sharing",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-01T16:58:17.417Z"
-      },
-      {
-        "id": "UG NON-NEET:6de3e473064a635b",
-        "title": "REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/Round_2_eligible_list_updated.html",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 177,
-        "detectedAt": "2026-09-01T16:58:17.417Z"
+        "batchIndex": 329,
+        "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
