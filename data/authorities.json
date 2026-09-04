@@ -3287,9 +3287,89 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T19:28:32.924Z",
+    "lastUpdatedDate": "2026-09-04T17:04:49.813Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:82444d4d6649fde7",
+        "title": "FINAL MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/final_merit_list.html",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
+      {
+        "id": "OVERALL:49a13b14f99dca24",
+        "title": "NOTICE : FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES & SUBMISSION OF COURSE PREFERENCES FOR ROUND 1 FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1iQ8qh8UwLHH56xemMN4eMvvzP7x1_LoV/view?usp=sharing",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
+      {
+        "id": "OVERALL:dd322d1e22dac222",
+        "title": "ROUND 2 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/15ce8w_ES89HcP7e_eYpx3axQ6ilVnGWR/view?usp=drivesdk",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
+      {
+        "id": "OVERALL:a96c89284cef2587",
+        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1brmPblRZVrBEnPLmT4AqKJP43lHRi8UF/view?usp=drivesdk",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
+      {
+        "id": "PG DENTAL:82444d4d6649fde7",
+        "title": "FINAL MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/final_merit_list.html",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 183,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
+      {
+        "id": "PG DENTAL:49a13b14f99dca24",
+        "title": "NOTICE : FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES & SUBMISSION OF COURSE PREFERENCES FOR ROUND 1 FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1iQ8qh8UwLHH56xemMN4eMvvzP7x1_LoV/view?usp=sharing",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 184,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
+      {
+        "id": "UG NON-NEET:dd322d1e22dac222",
+        "title": "ROUND 2 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/15ce8w_ES89HcP7e_eYpx3axQ6ilVnGWR/view?usp=drivesdk",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 195,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
+      {
+        "id": "UG NON-NEET:a96c89284cef2587",
+        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1brmPblRZVrBEnPLmT4AqKJP43lHRi8UF/view?usp=drivesdk",
+        "date": "04/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 196,
+        "detectedAt": "2026-09-04T17:04:49.813Z"
+      },
       {
         "id": "OVERALL:70a90543bbb53e41",
         "title": "UG LATERAL ENTRY DRAFT ALLOTMENT MOPUP ROUND - (2026 - 2027)",
@@ -3408,86 +3488,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 190,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "UG NEET:fb3185209111d655",
-        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1iAWxPaKbOcZlWJfzqsbsStstcxtbzYLN/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 249,
-        "detectedAt": "2026-09-03T11:40:42.346Z"
-      },
-      {
-        "id": "UG NEET:6207dcfee4d10e46",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/109WPei1mRJ52-G8z6cKX_uvAb8Jlp66O/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 250,
-        "detectedAt": "2026-09-03T11:40:42.346Z"
-      },
-      {
-        "id": "UG NEET:2625908f8c4576f5",
-        "title": "MINDS - BDS REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1IHWK5li88JYw5jYnRqMcNcfFZ3-9S3Lz/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 251,
-        "detectedAt": "2026-09-03T16:10:52.345Z"
-      },
-      {
-        "id": "UG NEET:84e84fd505d8b910",
-        "title": "UG NEET - ROUND 1 - CUT OFF MARKS - 2026-2027",
-        "link": "https://drive.google.com/file/d/1Rvzy0Hozmxf41SLDyZfzW6RbT-MI7tyR/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 252,
-        "detectedAt": "2026-09-03T16:10:52.345Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:70a90543bbb53e41",
-        "title": "UG LATERAL ENTRY DRAFT ALLOTMENT MOPUP ROUND - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/14SKpq3JOe3tmKOu2xHAKpZd04RTPv5UX/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 326,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:c9b00b0227ede4e9",
-        "title": "(PUDUCHERRY U.T. - OVERALL ) UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1_Hu8C0EdJqvSuFqbN5V-j5zm2mXvhaem/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 327,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:3eb42e86d6043931",
-        "title": "OTHER STATES - UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1G_7dBLoAve7DZJON5K2eAMLM-OM35lul/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 328,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:9debe6366351ff6b",
-        "title": "NOTICE : MOPUP ROUND DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hGlszRNBEX0XUdldNfN8MbLuHy2aYphR/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 329,
         "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
