@@ -982,9 +982,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-04T08:41:58.595Z",
+    "lastUpdatedDate": "2026-09-05T11:57:59.311Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1dccfa40849f45ce",
+        "title": "Round-01 (Medical & Dental) Non-Reported Candidate List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/NR%20CANDIDATE%20LIST%20R1.pdf",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-05T11:57:59.311Z"
+      },
       {
         "id": "7645b2651caa028f",
         "title": "નેશનલ મેડિકલ કમિશન (NMC), નવી દિલ્હી દ્વારા અનન્યા કોલેજ ઓફ મેડિસિન એન્ડ રિસર્ચ, કલોલ, ગાંધીનગર (College Code: ANAMED) માટે MBBS અભ્યાસક્રમમાં 50 બેઠકોનો વધારો મંજૂર કરવામાં આવ્યો છે. આથી MBBS/BDSના બીજા રાઉન્ડની પ્રવેશ પ્રક્રિયામાં ઉપરોક્ત વધારાની બેઠકોનો સમાવેશ કરવામાં આવશે. તમામ વિદ્યાર્થીઓએ આ બાબતની ખાસ નોંધ લેવી. [The National Medical Commission (NMC), New Delhi has approved an increase of 50 seatsin the MBBS course at Ananya College of Medicine & Research, Kalol, Gandhinagar (College Code: ANAMED).Accordingly, these additional 50 seats will be included in the second round of the MBBS/BDS admission process.All students are requested to take special note of the above information.]",
@@ -1181,16 +1191,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 8,
-        "detectedAt": "2026-08-27T11:01:26.510Z"
-      },
-      {
-        "id": "91a65c0b1b559303",
-        "title": "Information to be written on 11 x 15-inch (Appropriate Size) Envelope",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Information%20to%20be%20written%20on%2011%20x%2015%20inch%20(Appropriate%20Size)%20Envelope.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
         "detectedAt": "2026-08-27T11:01:26.510Z"
       },
       {
@@ -2176,9 +2176,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T11:35:01.791Z",
+    "lastUpdatedDate": "2026-09-05T11:58:09.134Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b6c8b852054eda9a",
+        "title": "Public notice regarding sports category candidates",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Public%20Notice%20Sports.pdf",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-05T11:58:09.134Z"
+      },
       {
         "id": "817871cc9ba45256",
         "title": "MBBS/BDS 2nd Round Schedule under NEET UG 2026 Click here to apply online Click here to submit willingness for 2nd Round Click here to view willingness list",
@@ -2367,16 +2377,6 @@
         "sortTs": 1785974400000,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-06T12:27:08.349Z"
-      },
-      {
-        "id": "0aa9f11b88a5198e",
-        "title": "Regarding clarification of annexure VI",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/clarification%20regarding%20annexure%20vi%20of%20the%20mbbs%20bds.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-08-06T12:27:08.349Z"
       }
     ]
@@ -3287,9 +3287,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-05T08:18:37.499Z",
+    "lastUpdatedDate": "2026-09-05T12:03:24.527Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:d5a6dcd7c546b7c7",
+        "title": "MGPGIDS - MDS FEE STRUCTURE FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1yQxdq5ZYELuAPt7YHGzpKo0_4ctYj-Ok/view?usp=sharing",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-05T12:03:24.527Z"
+      },
       {
         "id": "OVERALL:0f62d50b68ca1189",
         "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT MOPUP ROUND - (2026 - 2027)",
@@ -3301,6 +3311,16 @@
         "detectedAt": "2026-09-05T08:18:37.499Z"
       },
       {
+        "id": "OVERALL:e4061c6d5bc7867c",
+        "title": "ROUND 2 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1HTxI6I5KIhYR_YEPrPC12tGbNH3sisaB/view?usp=drivesdk",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-05T12:03:24.527Z"
+      },
+      {
         "id": "OVERALL:e588b04651976757",
         "title": "NOTICE : MOPUP ROUND PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1tUh3nr_WcbeLDa0U88xpwToUMz7EqOYQ/view?usp=drivesdk",
@@ -3309,6 +3329,46 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-05T08:18:37.499Z"
+      },
+      {
+        "id": "OVERALL:deb0376c466bb221",
+        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1t0evUP5nywDyF0iC0Y5a-rAuW_UcE847/view?usp=sharing",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-05T12:03:24.527Z"
+      },
+      {
+        "id": "PG DENTAL:d5a6dcd7c546b7c7",
+        "title": "MGPGIDS - MDS FEE STRUCTURE FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1yQxdq5ZYELuAPt7YHGzpKo0_4ctYj-Ok/view?usp=sharing",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 188,
+        "detectedAt": "2026-09-05T12:03:24.527Z"
+      },
+      {
+        "id": "UG NON-NEET:e4061c6d5bc7867c",
+        "title": "ROUND 2 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1HTxI6I5KIhYR_YEPrPC12tGbNH3sisaB/view?usp=drivesdk",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 202,
+        "detectedAt": "2026-09-05T12:03:24.527Z"
+      },
+      {
+        "id": "UG NON-NEET:deb0376c466bb221",
+        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1t0evUP5nywDyF0iC0Y5a-rAuW_UcE847/view?usp=sharing",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 203,
+        "detectedAt": "2026-09-05T12:03:24.527Z"
       },
       {
         "id": "B.TECH. LATERAL ENTRY:0f62d50b68ca1189",
@@ -3429,66 +3489,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-03T16:10:52.345Z"
-      },
-      {
-        "id": "OVERALL:fb3185209111d655",
-        "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1iAWxPaKbOcZlWJfzqsbsStstcxtbzYLN/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T11:40:42.346Z"
-      },
-      {
-        "id": "OVERALL:c9b00b0227ede4e9",
-        "title": "(PUDUCHERRY U.T. - OVERALL ) UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1_Hu8C0EdJqvSuFqbN5V-j5zm2mXvhaem/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "OVERALL:84e84fd505d8b910",
-        "title": "UG NEET - ROUND 1 - CUT OFF MARKS - 2026-2027",
-        "link": "https://drive.google.com/file/d/1Rvzy0Hozmxf41SLDyZfzW6RbT-MI7tyR/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-03T16:10:52.345Z"
-      },
-      {
-        "id": "OVERALL:6207dcfee4d10e46",
-        "title": "NOTICE : ROUND 1 PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/109WPei1mRJ52-G8z6cKX_uvAb8Jlp66O/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-03T11:40:42.346Z"
-      },
-      {
-        "id": "OVERALL:3eb42e86d6043931",
-        "title": "OTHER STATES - UPDATED FINAL MERIT LIST FOR B.TECH. LATERAL ENTRY COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1G_7dBLoAve7DZJON5K2eAMLM-OM35lul/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "OVERALL:9debe6366351ff6b",
-        "title": "NOTICE : MOPUP ROUND DRAFT ALLOTMENT LIST FOR LATERAL ENTRY ADMISSION TO B.TECH. COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1hGlszRNBEX0XUdldNfN8MbLuHy2aYphR/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6720,9 +6720,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T16:10:51.754Z",
+    "lastUpdatedDate": "2026-09-05T12:03:24.215Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5a0967272ae7362e",
+        "title": "Seat Matrix for the Azeezia College of Medical Sciences & Research, Meeyyannoor,Dr.Mooppen's Medical College and Hospital, Wayanad, and MES Medical College, Perinthalmanna",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/246/Upload1",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-05T12:03:24.215Z"
+      },
       {
         "id": "4b944f02a0bb948c",
         "title": "MBBS/BDS - FINAL NRI CATEGORY LIST PUBLISHED",
@@ -6912,18 +6922,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-14T13:19:33.258Z"
-      },
-      {
-        "id": "cd5e8bbad7002b46",
-        "title": "2026–27 അധ്യയന വർഷത്തെ കീം പ്രോസ്പെക്ടസിൽ ഭേദഗതി വരുത്തി ഉത്തരവ് പുറപ്പെടുവിക്കുന്നത് – സംബന്ധിച്ച്.",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/196/Upload1",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Issuance of order amending KEEM Prospectus for the academic year 2026-27 – Regards.",
-        "titleLang": "ml",
-        "detectedAt": "2026-08-14T11:53:32.975Z"
       }
     ]
   },
