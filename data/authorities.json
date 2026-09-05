@@ -1964,9 +1964,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T16:05:57.184Z",
+    "lastUpdatedDate": "2026-09-05T15:03:31.585Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5cb326bec60e1d34",
+        "title": "05-09-2026: MDS CQ 2026-27 - Phase-I College wise Provisional Allotments list MDS CQ 2026-27 - Phase-I MRC list",
+        "link": "https://drntr.uhsap.in/index/notification/20260905183331650.pdf",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-05T15:03:31.585Z"
+      },
       {
         "id": "da67fa97256128d1",
         "title": "03-09-2026: Post Basic (Nursing) 2 YD Course Prospectus 2026-27 Post Basic (Nursing) 2 YD Course Online application Notification 2026-27",
@@ -2156,16 +2166,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-17T11:34:17.371Z"
-      },
-      {
-        "id": "44b268724023c069",
-        "title": "14-08-2026: MBBS & BDS CQ 2026-27 Notice to Scouts & Guides Candidates MBBS & BDS-2026-27- CQ-NOTICE FOR EXAMINATION OF PERSONS WITH DISABILITIES (PwBD) CANDIDATES MBBS & BDS _CQ 2026-27 Notification for Physical verification of original certificates of NCC candidates",
-        "link": "https://drntr.uhsap.in/index/notification/20260814190139637.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T14:32:08.205Z"
       }
     ]
   },
