@@ -3287,9 +3287,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-04T17:04:49.813Z",
+    "lastUpdatedDate": "2026-09-05T08:18:37.499Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:0f62d50b68ca1189",
+        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT MOPUP ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1k1yVim8fPIRw6Kq_KUfeyGCSWLwXOD-l/view?usp=drivesdk",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-05T08:18:37.499Z"
+      },
+      {
+        "id": "OVERALL:e588b04651976757",
+        "title": "NOTICE : MOPUP ROUND PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1tUh3nr_WcbeLDa0U88xpwToUMz7EqOYQ/view?usp=drivesdk",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-05T08:18:37.499Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:0f62d50b68ca1189",
+        "title": "UG LATERAL ENTRY PROVISIONAL ALLOTMENT MOPUP ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1k1yVim8fPIRw6Kq_KUfeyGCSWLwXOD-l/view?usp=drivesdk",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 336,
+        "detectedAt": "2026-09-05T08:18:37.499Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:e588b04651976757",
+        "title": "NOTICE : MOPUP ROUND PROVISIONAL ALLOTMENT LIST FOR B.TECH. LATERAL ENTRY FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1tUh3nr_WcbeLDa0U88xpwToUMz7EqOYQ/view?usp=drivesdk",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 337,
+        "detectedAt": "2026-09-05T08:18:37.499Z"
+      },
       {
         "id": "OVERALL:82444d4d6649fde7",
         "title": "FINAL MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
@@ -3448,46 +3488,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "OVERALL:df961aa4f3e5f860",
-        "title": "UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/updated_round_2_eligible_list.html",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "OVERALL:d891df904194328c",
-        "title": "NOTICE : UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 OF UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1BTwkPzlSlXG_annPGdmuM00WcAUBLPBe/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "UG NON-NEET:df961aa4f3e5f860",
-        "title": "UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/updated_round_2_eligible_list.html",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 189,
-        "detectedAt": "2026-09-03T19:28:32.924Z"
-      },
-      {
-        "id": "UG NON-NEET:d891df904194328c",
-        "title": "NOTICE : UPDATED REVISED LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 OF UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1BTwkPzlSlXG_annPGdmuM00WcAUBLPBe/view?usp=sharing",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 190,
         "detectedAt": "2026-09-03T19:28:32.924Z"
       },
       {
@@ -5475,9 +5475,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T11:40:47.210Z",
+    "lastUpdatedDate": "2026-09-05T08:18:39.605Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:d42e7de009771e8b",
+        "title": "Click here for Fresh Registration for MBBS/BDS 2nd Round Counselling 2026 (Only for candidates who were unable to successfully submit their application form during the 1st Round of Counselling 2026.)",
+        "link": "https://erpamruhp.in/applicantLoginEntReg.htm?EntrReg=EntrReg&link=ed256f5f8182120c10f6f332f1f312ed",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-05T08:18:39.605Z"
+      },
       {
         "id": "MBBS/BDS Counselling:63c87a931843972f",
         "title": "Notice for extend the last date of admission to MBBS/BDS 1st Round of Counselling for the Academic Session 2026-27up to 04.09.2026.",
@@ -5666,16 +5676,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 5,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:4b56ae68b72b3052",
-        "title": "Schedule for BDS 3rd Stray Round Counselling 2025",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/12/Schedule-for-3rd-Stray-round-of-BDS-counselling-2025.pdf",
-        "date": "18/12/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 6,
         "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
