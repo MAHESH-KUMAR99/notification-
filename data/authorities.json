@@ -1404,9 +1404,29 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T16:19:05.715Z",
+    "lastUpdatedDate": "2026-09-06T15:41:08.709Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d3b4d2d77e2d443b",
+        "title": "7.5% - TENTATIVE ROUND-II COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSES (7.5% SEAT RESERVATION FOR TAMIL NADU GOVERNMENT SCHOOL STUDENTS ONLY) 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/06092026073339.pdf",
+        "date": "06/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-06T15:41:08.709Z"
+      },
+      {
+        "id": "4612e0f61e8ed016",
+        "title": "92.5% - TENTATIVE ROUND-II COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSES 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/06092026073135.pdf",
+        "date": "06/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-06T15:41:08.709Z"
+      },
       {
         "id": "e3382f0bb3005f7f",
         "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR IRT WARDS QUOTA FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
@@ -1586,26 +1606,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-20T06:52:25.484Z"
-      },
-      {
-        "id": "5be62d79cd4fbc0e",
-        "title": "NOTIFICATION FOR THE PwBD CANDIDATES OF MBBS/BDS COURSE 2026-2027",
-        "link": "https://tnmedicalselection.net/news/19082026050604.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-19T12:53:55.581Z"
-      },
-      {
-        "id": "6bcb63e7c0b8d111",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR NRI OF MBBS/BDS (MANAGEMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/19082026005250.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 22,
-        "detectedAt": "2026-08-19T08:41:35.675Z"
       }
     ]
   },
@@ -3287,7 +3287,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-06T12:25:05.564Z",
+    "lastUpdatedDate": "2026-09-06T15:46:29.001Z",
     "pinned": false,
     "notices": [
       {
@@ -3321,6 +3321,16 @@
         "detectedAt": "2026-09-06T12:25:05.564Z"
       },
       {
+        "id": "OVERALL:14e3052e60addbbe",
+        "title": "NOTICE : : RE-OPENING OF FRESH APPLICATION FOR UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1I3Olmsi08tlAH25RqcvfTD9ath9arrWK/view?usp=drivesdk",
+        "date": "06/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-06T15:46:29.001Z"
+      },
+      {
         "id": "OVERALL:7d221b5f88325182",
         "title": "NOTICE : RE-OPENING OF FRESH APPLICATION FOR UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES FOR THE ACADEMIC YEAR 2025-2026",
         "link": "https://drive.google.com/file/d/1_8e5079-hRSXDcqG74h5Z2T1HrptSrug/view?usp=drivesdk",
@@ -3349,6 +3359,16 @@
         "source": "Direct from Website",
         "batchIndex": 193,
         "detectedAt": "2026-09-06T12:25:05.564Z"
+      },
+      {
+        "id": "UG NON-NEET:14e3052e60addbbe",
+        "title": "NOTICE : : RE-OPENING OF FRESH APPLICATION FOR UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1I3Olmsi08tlAH25RqcvfTD9ath9arrWK/view?usp=drivesdk",
+        "date": "06/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 208,
+        "detectedAt": "2026-09-06T15:46:29.001Z"
       },
       {
         "id": "UG NON-NEET:7d221b5f88325182",
@@ -3469,26 +3489,6 @@
         "source": "Direct from Website",
         "batchIndex": 337,
         "detectedAt": "2026-09-05T08:18:37.499Z"
-      },
-      {
-        "id": "OVERALL:82444d4d6649fde7",
-        "title": "FINAL MERIT LIST FOR PG DENTAL COURSES BASED ON NEET MDS 2026",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/final_merit_list.html",
-        "date": "04/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-04T17:04:49.813Z"
-      },
-      {
-        "id": "OVERALL:49a13b14f99dca24",
-        "title": "NOTICE : FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES & SUBMISSION OF COURSE PREFERENCES FOR ROUND 1 FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1iQ8qh8UwLHH56xemMN4eMvvzP7x1_LoV/view?usp=sharing",
-        "date": "04/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-04T17:04:49.813Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
