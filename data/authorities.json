@@ -1404,7 +1404,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-06T15:41:08.709Z",
+    "lastUpdatedDate": "2026-09-07T05:51:36.046Z",
     "pinned": false,
     "notices": [
       {
@@ -1416,6 +1416,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-06T15:41:08.709Z"
+      },
+      {
+        "id": "c2c48338fc26f14c",
+        "title": "92.5% - CLICK HERE FOR ROUND-2 ONLINE COUNSELLING OF MBBS / BDS COURSE FOR GOVERNMENT & MANAGEMENT QUOTA (INCL. NRI & MINORITY) 2026 - 2027 SESSION",
+        "link": "https://counug.tnmedicalonline.co.in/ugmedgq",
+        "date": null,
+        "sortTs": 1788652800000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-07T05:51:36.046Z"
       },
       {
         "id": "4612e0f61e8ed016",
@@ -1596,16 +1606,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T12:53:55.581Z"
-      },
-      {
-        "id": "76ffba8c494e61e8",
-        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/19082026232749.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-20T06:52:25.484Z"
       }
     ]
   },
