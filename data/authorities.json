@@ -1612,48 +1612,148 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T19:27:04.896Z",
+    "lastUpdatedDate": "2026-09-07T17:48:01.182Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Counselling Schedule:fd3c3d02074c40ec",
-        "title": "Tentative Time Schedule for Second round of Counselling MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-03.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20Schedule%20-%20Second%20Round_35.pdf",
-        "date": "03/09/2026",
+        "id": "State Merit:4368d5cc9a7cf948",
+        "title": "List of Eligible Candidates for Second Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20DMEUG_2026_Eligible_Candidate_List_SR_Round_40.pdf",
+        "date": "07/09/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
+        "source": "State Merit",
         "batchIndex": 0,
-        "detectedAt": "2026-09-03T19:27:04.896Z"
+        "detectedAt": "2026-09-07T17:48:01.182Z"
       },
       {
-        "id": "Counselling Schedule:060995c400296bdf",
-        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
-        "date": "20/08/2026",
+        "id": "State Merit:08d27b34af4c441d",
+        "title": "Revised Merit list of MP State Registered Candidates for MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20COMMON_MERIT_LIST_UG_SR_2026_39.pdf",
+        "date": "07/09/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-20T13:06:06.712Z"
+        "source": "State Merit",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-07T17:48:01.182Z"
       },
       {
-        "id": "Counselling Schedule:cdc71e56ef143c41",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
+        "id": "State Merit:93b00271cc8a37ba",
+        "title": "List of Candidates Who Opted For Upgrade (Virtual Vacancy) in Second Round MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Candidate%20Upgaradtion%20list%20_2026-09-07_38.pdf",
+        "date": "07/09/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:08:57.645Z"
+        "source": "State Merit",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-07T17:48:01.182Z"
       },
       {
-        "id": "Counselling Schedule:dadb06cb5e49ddb2",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
+        "id": "State Merit:78f68182eb0a2606",
+        "title": "List Of Candidates Who Did not Opt for Upgradation(Satisfied Candidate) MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Satisfied%20Candidate_37.pdf",
+        "date": "07/09/2026",
         "sortTs": null,
-        "source": "Counselling Schedule",
+        "source": "State Merit",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-07T17:48:01.182Z"
+      },
+      {
+        "id": "State Merit:6199b704e08b629f",
+        "title": "Merit list of Registered Candidates for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 14.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_MERIT_LIST_UG_FR_2026_23.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "State Merit",
         "batchIndex": 0,
-        "detectedAt": "2026-08-03T16:33:00.795Z"
+        "detectedAt": "2026-08-14T10:38:01.992Z"
+      },
+      {
+        "id": "Seat Charts:5c12d7c626444b91",
+        "title": "Category and Class wise vacancies in Government and Private Medical/Dental Colleges (MBBS/BDS Course) for Second Round- MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY%20VACANCIES%20IN%20GOVT_PRIVATE%20MBBS%20COURSE%20FOR%20SECOND%20ROUND%20OF%20COUNSELLING%20MP%20STATE%20NEET%20UG-2026_36.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-07T17:48:00.699Z"
+      },
+      {
+        "id": "Seat Charts:824bcd5e33e451df",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 13.08.2026) (Final)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Final%20seat%20chart%2013_08_2026_22.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T12:16:02.397Z"
+      },
+      {
+        "id": "Seat Charts:9e0f7e504a551737",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T14:00:05.915Z"
+      },
+      {
+        "id": "Latest Instructions:2364d065435b5756",
+        "title": "Student Advisory for Second Round MP State combined NEET UG Counselling 2026 (Dated 07-09-2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Student%20Advisory%20for%20Second%20Round_41.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-07T17:47:59.720Z"
+      },
+      {
+        "id": "Latest Instructions:4368d5cc9a7cf948",
+        "title": "List of Eligible Candidates for Second Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20DMEUG_2026_Eligible_Candidate_List_SR_Round_40.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-07T17:47:59.720Z"
+      },
+      {
+        "id": "Latest Instructions:08d27b34af4c441d",
+        "title": "Revised Merit list of MP State Registered Candidates for MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20COMMON_MERIT_LIST_UG_SR_2026_39.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-07T17:47:59.720Z"
+      },
+      {
+        "id": "Latest Instructions:93b00271cc8a37ba",
+        "title": "List of Candidates Who Opted For Upgrade (Virtual Vacancy) in Second Round MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Candidate%20Upgaradtion%20list%20_2026-09-07_38.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-07T17:47:59.720Z"
+      },
+      {
+        "id": "Latest Instructions:78f68182eb0a2606",
+        "title": "List Of Candidates Who Did not Opt for Upgradation(Satisfied Candidate) MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Satisfied%20Candidate_37.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 4,
+        "detectedAt": "2026-09-07T17:47:59.720Z"
+      },
+      {
+        "id": "Latest Instructions:5c12d7c626444b91",
+        "title": "Category and Class wise vacancies in Government and Private Medical/Dental Colleges (MBBS/BDS Course) for Second Round- MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY%20VACANCIES%20IN%20GOVT_PRIVATE%20MBBS%20COURSE%20FOR%20SECOND%20ROUND%20OF%20COUNSELLING%20MP%20STATE%20NEET%20UG-2026_36.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-07T17:47:59.720Z"
       },
       {
         "id": "Latest Instructions:fd3c3d02074c40ec",
@@ -1796,66 +1896,44 @@
         "detectedAt": "2026-08-13T12:16:01.632Z"
       },
       {
-        "id": "Latest Instructions:9e0f7e504a551737",
-        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
-        "date": "11/08/2026",
+        "id": "Counselling Schedule:fd3c3d02074c40ec",
+        "title": "Tentative Time Schedule for Second round of Counselling MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-03.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20Schedule%20-%20Second%20Round_35.pdf",
+        "date": "03/09/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "Counselling Schedule",
         "batchIndex": 0,
-        "detectedAt": "2026-08-11T14:00:05.171Z"
+        "detectedAt": "2026-09-03T19:27:04.896Z"
       },
       {
-        "id": "Latest Instructions:96a980824e3f701a",
-        "title": "Amended-Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 11-08-2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Participating%20college%202026_19.pdf",
-        "date": "11/08/2026",
+        "id": "Counselling Schedule:060995c400296bdf",
+        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
+        "date": "20/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "Counselling Schedule",
         "batchIndex": 0,
-        "detectedAt": "2026-08-11T12:14:23.842Z"
+        "detectedAt": "2026-08-20T13:06:06.712Z"
       },
       {
-        "id": "Latest Instructions:1443b0638d7f50ed",
-        "title": "Amended-Names of Participating Medical and Dental Colleges in M.P. State Combined NEET UG-2026 Counselling (Date- 11-08-2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Participating%20college%202026_10.pdf",
-        "date": "11/08/2026",
+        "id": "Counselling Schedule:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 8,
-        "detectedAt": "2026-08-11T11:26:24.559Z"
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.645Z"
       },
       {
-        "id": "Latest Instructions:a9dc35e2ee24c47f",
-        "title": "दिव्यांगजन अभ्यर्थियों के लिये महत्वपूर्ण सूचना मध्यप्रदेष राज्य स्तरीय संयुक्त काउंसिलिंग नीट यू0जी0 2026-27 06-08-2026",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/PWD%20INFORMATION_21.pdf",
-        "date": "06/08/2026",
+        "id": "Counselling Schedule:dadb06cb5e49ddb2",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "Counselling Schedule",
         "batchIndex": 0,
-        "titleEn": "Important information for disabled candidates Madhya Pradesh State Level Joint Counseling NEET UG 2026-27 06-08-2026",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-12T07:47:51.641Z"
-      },
-      {
-        "id": "Latest Instructions:766d5c28f74c7532",
-        "title": "Important Notice for Government School Students Quota Candidates MP State Combined Counselling NEET UG 2026 (Dated 06.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/GS%20Notice_18.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-06T12:30:54.008Z"
-      },
-      {
-        "id": "Latest Instructions:e0b12f254efd8eee",
-        "title": "Information regarding Mukhyamantri Medhavi Vidyarthi Yojna (MMMVY) Scholarship Scheme. (Dated 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/MMMVY%20Consolidated_Order_Latest_2026_17.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T14:59:54.671Z"
+        "detectedAt": "2026-08-03T16:33:00.795Z"
       },
       {
         "id": "Allotment List:a78f594a5849e81c",
@@ -1920,36 +1998,6 @@
         "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
         "titleLang": "hi",
         "detectedAt": "2026-08-03T16:33:01.616Z"
-      },
-      {
-        "id": "State Merit:6199b704e08b629f",
-        "title": "Merit list of Registered Candidates for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 14.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_MERIT_LIST_UG_FR_2026_23.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "State Merit",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T10:38:01.992Z"
-      },
-      {
-        "id": "Seat Charts:824bcd5e33e451df",
-        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 13.08.2026) (Final)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Final%20seat%20chart%2013_08_2026_22.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T12:16:02.397Z"
-      },
-      {
-        "id": "Seat Charts:9e0f7e504a551737",
-        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T14:00:05.915Z"
       }
     ]
   },
@@ -2172,7 +2220,7 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-07T12:00:02.179Z",
+    "lastUpdatedDate": "2026-09-07T17:43:30.546Z",
     "pinned": false,
     "notices": [
       {
@@ -2184,6 +2232,26 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-07T12:00:02.179Z"
+      },
+      {
+        "id": "df27ceacf7f22c73",
+        "title": "PUBLIC NOTICE It is hereby notified for information of all concerned that the deadline for submission of willingness has been extended up to 12:00 midnight on 07.09.2026. Click here to submit willingness for 2nd Round Click here to view willingness list",
+        "link": "https://admission.bfuhsonline.ac.in/pmet26onlineD/main.aspx",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-07T17:43:30.546Z"
+      },
+      {
+        "id": "2ac7e421ebde2446",
+        "title": "Tentative Vacancy position for the MBBS/BDS Courses for the session 2026 for 2nd round Note: The vacancy position displayed is tentative and subject to change. Candidates are advised to exercise their choices for all colleges, categories and quotas, as additional vacancies may arise during the counselling process due to shifting/upgradation of candidates or other consequential changes in seat availability. MBBS BDS",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndVacancy/Tentative%20vacany%20poistion%20of%20MBS%20of%201st%20round%20of%20counseling.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-07T17:43:30.546Z"
       },
       {
         "id": "b6c8b852054eda9a",
@@ -2354,26 +2422,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-13T11:21:55.264Z"
-      },
-      {
-        "id": "76aefcee977b6e2e",
-        "title": "Notice and guidelines regarding state medical assessment board for PWBD candidates-NEET UG-2026 1.Notice 2. Guidelines of NMC, Supreme Court orders, corrigendum and addendum",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/NOTICE%2010-8-26.pdf",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-10T16:02:28.129Z"
-      },
-      {
-        "id": "982c2774bed4b0ce",
-        "title": "Notice regarding Adesh Medical College fee structure Public Notice regarding office open on 08.08.2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Adesh%20fees%20notice.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-07T07:21:52.957Z"
       }
     ]
   },
@@ -6294,9 +6342,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-07T12:02:52.838Z",
+    "lastUpdatedDate": "2026-09-07T17:46:26.168Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "55890ac1fcddae81",
+        "title": "Final Opportunity for Offline Registration (Only for ‘not registered’ candidates) in respect of various courses through the merit of respective NLT/CET/CUET_dated-07.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609071123680957.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-07T17:46:26.168Z"
+      },
       {
         "id": "afb8b693889c480f",
         "title": "Fee Structure for Executive MBA Prog. (Weekend Basis) (of 2 Year Duration) Session 2026-28._dated-07.09.2026",
@@ -6486,16 +6544,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-30T21:01:12.118Z"
-      },
-      {
-        "id": "e01d567c4472706d",
-        "title": "Vacancy Position of LLM (Code-112) as on 30.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/20260830176944379.pdf",
-        "date": "30/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-30T08:07:26.801Z"
       }
     ]
   },
@@ -6716,9 +6764,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-07T12:06:32.867Z",
+    "lastUpdatedDate": "2026-09-07T17:49:15.916Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "663b3c9e6e764f65",
+        "title": "Second Phase Allotment To MBBS/BDS Courses Facility For Option Confirmation/Registration",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/251/Upload1",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-07T17:49:15.916Z"
+      },
       {
         "id": "3ebdcc82cfa908fe",
         "title": "Admission To Medical/Medical allied (BHMS) Courses-2026 Facility To Submit Caste/Community Certificate (Konkani Linguistic Minority)",
@@ -6908,16 +6966,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-15T11:28:27.727Z"
-      },
-      {
-        "id": "c5ef9b1f81625b64",
-        "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES –2026: PROVISIONAL CATEGORY LIST (EXCEPT NRI) PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/200/Upload1",
-        "date": "15/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-17T08:13:20.330Z"
       }
     ]
   },
@@ -7136,9 +7184,29 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-06T08:32:21.363Z",
+    "lastUpdatedDate": "2026-09-07T17:46:33.423Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e6cf193d16602314",
+        "title": "Round 2 Technical Instructions",
+        "link": "https://manipurmc.mn.gov.in/media/1788784443_Round_2_Tech_Instructions.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-07T17:46:33.423Z"
+      },
+      {
+        "id": "fdc7adfba9a58a16",
+        "title": "Seat matrix and technical instructions for 2nd Round Manipur Medical e-Counselling 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1788784477_Seat%20matrix%20and%20technical%20instructions%20for%202nd%20Round%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-07T17:46:33.423Z"
+      },
       {
         "id": "a4e5e89db89f47f5",
         "title": "2nd Round Manipur Medical e-Counselling 2026-27",
@@ -7317,26 +7385,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 6,
-        "detectedAt": "2026-08-13T08:40:06.798Z"
-      },
-      {
-        "id": "1c74abdf0216f8f4",
-        "title": "Notification regarding Meritorious Sportsperson quota",
-        "link": "https://manipurmc.mn.gov.in/media/1786605050_Notification%20regarding%20Meritorious%20Sportsperson%20quota.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-08-13T08:40:06.798Z"
-      },
-      {
-        "id": "2bd0a21782ed9725",
-        "title": "Notification regarding children of ex-servicemen and children of armed forces quota",
-        "link": "https://manipurmc.mn.gov.in/media/1786605007_Notification%20regarding%20children%20of%20ex-servicemen%20and%20children%20of%20armed%20forces%20quota.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
         "detectedAt": "2026-08-13T08:40:06.798Z"
       }
     ]
