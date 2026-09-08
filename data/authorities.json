@@ -3337,9 +3337,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-08T17:26:47.005Z",
+    "lastUpdatedDate": "2026-09-08T20:14:55.515Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:709402b42251647f",
+        "title": "NOTICE : ROUND 2 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR UG NEET-BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/195bVX2ZtznqCYAlW9c8KcN0oEKOQr8bh/view?usp=sharing",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-08T20:14:55.515Z"
+      },
       {
         "id": "OVERALL:90f51c87cdec76fb",
         "title": "FEE STRUCTURE APPLICABLE FOR VENKATESWARAA MEDICAL COLLEGE & RESEARCH INSTITUTE AS PER INTERIM ORDER DATED 08.09.2026 IN WP NO.15159 OF 2026",
@@ -3359,6 +3369,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-08T13:29:48.724Z"
+      },
+      {
+        "id": "OVERALL:45a7e9d88d8dac6e",
+        "title": "FEE STRUCTURE APPLICABLE FOR SRI VENKATESHWARAA MEDICAL COLLEGE & RESEARCH INSTITUTE AS PER INTERIM ORDER DATED 08.09.2026 IN WP NO.15159 OF 2026",
+        "link": "https://drive.google.com/file/d/1ooQ38uCsouiitOKiN1HoKzuUMwEJegMK/view?usp=sharing",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-08T20:14:55.515Z"
       },
       {
         "id": "OVERALL:334a583cbc5c2f7e",
@@ -3401,6 +3421,16 @@
         "detectedAt": "2026-09-08T17:26:47.005Z"
       },
       {
+        "id": "UG NEET:709402b42251647f",
+        "title": "NOTICE : ROUND 2 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR UG NEET-BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/195bVX2ZtznqCYAlW9c8KcN0oEKOQr8bh/view?usp=sharing",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 292,
+        "detectedAt": "2026-09-08T20:14:55.515Z"
+      },
+      {
         "id": "UG NEET:334a583cbc5c2f7e",
         "title": "INTERIM ORDER GRANTED FOR WP NO. 15159 OF 2026 AND WMP NO.16354 OF 2026",
         "link": "https://drive.google.com/file/d/12Bcn1q9slLCS2MgP_YUGZZUR6NwQfo8c/view?usp=sharing",
@@ -3409,6 +3439,16 @@
         "source": "Direct from Website",
         "batchIndex": 292,
         "detectedAt": "2026-09-08T17:26:47.005Z"
+      },
+      {
+        "id": "UG NEET:45a7e9d88d8dac6e",
+        "title": "FEE STRUCTURE APPLICABLE FOR SRI VENKATESHWARAA MEDICAL COLLEGE & RESEARCH INSTITUTE AS PER INTERIM ORDER DATED 08.09.2026 IN WP NO.15159 OF 2026",
+        "link": "https://drive.google.com/file/d/1ooQ38uCsouiitOKiN1HoKzuUMwEJegMK/view?usp=sharing",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 293,
+        "detectedAt": "2026-09-08T20:14:55.515Z"
       },
       {
         "id": "UG NEET:32104fbe2cc3bc01",
@@ -3498,46 +3538,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-09-06T15:46:29.001Z"
-      },
-      {
-        "id": "OVERALL:7d221b5f88325182",
-        "title": "NOTICE : RE-OPENING OF FRESH APPLICATION FOR UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES FOR THE ACADEMIC YEAR 2025-2026",
-        "link": "https://drive.google.com/file/d/1_8e5079-hRSXDcqG74h5Z2T1HrptSrug/view?usp=drivesdk",
-        "date": "06/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-06T12:25:05.564Z"
-      },
-      {
-        "id": "PG DENTAL:3738c7299f03b39e",
-        "title": "FIRST ROUND DRAFT ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1DZ0r9Mpy5BGeLPgUfiyPbFwSBvIakF5p/view?usp=sharing",
-        "date": "06/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 192,
-        "detectedAt": "2026-09-06T12:25:05.564Z"
-      },
-      {
-        "id": "PG DENTAL:5b5c4a2f82a9ed30",
-        "title": "NOTICE : ROUND 1 DRAFT ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1TJxM64_bqXEnbW-Ad1ALcAvIN1p7A4T2/view?usp=sharing",
-        "date": "06/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 193,
-        "detectedAt": "2026-09-06T12:25:05.564Z"
-      },
-      {
-        "id": "UG NON-NEET:14e3052e60addbbe",
-        "title": "NOTICE : : RE-OPENING OF FRESH APPLICATION FOR UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1I3Olmsi08tlAH25RqcvfTD9ath9arrWK/view?usp=drivesdk",
-        "date": "06/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 208,
         "detectedAt": "2026-09-06T15:46:29.001Z"
       },
       {
