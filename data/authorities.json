@@ -982,9 +982,79 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-07T11:59:53.703Z",
+    "lastUpdatedDate": "2026-09-08T08:44:19.242Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9cf82b443c8ce501",
+        "title": "Candidates who have applied for PwD Quota , the verification of these candidates is going on. Hence PwD Quota students’ merit of PwD Category will be declared in due course of time.",
+        "link": null,
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-08T08:44:19.242Z"
+      },
+      {
+        "id": "940d46ed37d6a52f",
+        "title": "General Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_gen_1.1.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-08T08:44:19.242Z"
+      },
+      {
+        "id": "ed5de9899fe79d4e",
+        "title": "EWS Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_ew_1.1.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-08T08:44:19.242Z"
+      },
+      {
+        "id": "6c910084041b25f6",
+        "title": "NRI Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_nri_r2.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-09-08T08:44:19.242Z"
+      },
+      {
+        "id": "6469ce67e8c2b205",
+        "title": "NRI Report",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/Report%20for%20website.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-09-08T08:44:19.242Z"
+      },
+      {
+        "id": "0efb08163fe6413f",
+        "title": "NHL Local Quota Candidate List (As Per the College List)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/NHL%20LOCAL%20QUOTA%20LIST%20R2.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-09-08T08:44:19.242Z"
+      },
+      {
+        "id": "7e46aff8edbd6425",
+        "title": "SMC Local Quota Candidate List (As Per the College List)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/SMC%20LOCAL%20QUOTA%20LIST%20R2.pdf?V=1",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-09-08T08:44:19.242Z"
+      },
       {
         "id": "f7b9c7a76d4c2c2b",
         "title": "Advertisement for 2nd Round of Online Choice Filling",
@@ -1114,80 +1184,6 @@
         "source": "Direct from Website",
         "batchIndex": 18,
         "detectedAt": "2026-09-07T11:59:53.703Z"
-      },
-      {
-        "id": "1558a386c0780738",
-        "title": "NHL Local Quota Candidate List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/NHL%20LOCAL%20QUOTA%20LIST%20R2.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
-        "detectedAt": "2026-09-07T11:59:53.703Z"
-      },
-      {
-        "id": "1bad3044bc47e15a",
-        "title": "SMC Local Quota Candidate List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/SMC%20LOCAL%20QUOTA%20LIST%20R2.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 20,
-        "detectedAt": "2026-09-07T11:59:53.703Z"
-      },
-      {
-        "id": "b4a43756963c4b15",
-        "title": "Not Eligible Candidate List with Reasons",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/DQ%20LIST_R2.pdf?V=1",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 21,
-        "detectedAt": "2026-09-07T11:59:53.703Z"
-      },
-      {
-        "id": "1dccfa40849f45ce",
-        "title": "Round-01 (Medical & Dental) Non-Reported Candidate List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/NR%20CANDIDATE%20LIST%20R1.pdf",
-        "date": "05/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-05T11:57:59.311Z"
-      },
-      {
-        "id": "7645b2651caa028f",
-        "title": "નેશનલ મેડિકલ કમિશન (NMC), નવી દિલ્હી દ્વારા અનન્યા કોલેજ ઓફ મેડિસિન એન્ડ રિસર્ચ, કલોલ, ગાંધીનગર (College Code: ANAMED) માટે MBBS અભ્યાસક્રમમાં 50 બેઠકોનો વધારો મંજૂર કરવામાં આવ્યો છે. આથી MBBS/BDSના બીજા રાઉન્ડની પ્રવેશ પ્રક્રિયામાં ઉપરોક્ત વધારાની બેઠકોનો સમાવેશ કરવામાં આવશે. તમામ વિદ્યાર્થીઓએ આ બાબતની ખાસ નોંધ લેવી. [The National Medical Commission (NMC), New Delhi has approved an increase of 50 seatsin the MBBS course at Ananya College of Medicine & Research, Kalol, Gandhinagar (College Code: ANAMED).Accordingly, these additional 50 seats will be included in the second round of the MBBS/BDS admission process.All students are requested to take special note of the above information.]",
-        "link": null,
-        "date": null,
-        "sortTs": 1788307200000,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "National Medical Commission (NMC), New Delhi has approved an increase of 50 seats in MBBS course for Ananya College of Medicine and Research, Kalol, Gandhinagar (College Code: ANAMED). Hence the above additional seats will be included in the second round admission process of MBBS/BDS. All students should take special note of this matter. [The National Medical Commission (NMC), New Delhi has approved an increase of 50 seats in the MBBS course at Ananya College of Medicine & Research, Kalol, Gandhinagar (College Code: ANAMED). Accordingly, these additional 50 seats will be included in the second round of the MBBS/BDS admission process. All students are requested to take special note of the above information.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-09-04T08:41:58.595Z"
-      },
-      {
-        "id": "61fbc1789fb8fd23",
-        "title": "As per the counseling schedule of Undergraduate Medical and Dental Courses given by MCC, New Delhi, the academic session of MBBS & BDS Courses for the academic year 2026-27 will start from September15, 2026. [MCC, નવી દિલ્હી દ્વારા આપવામાં આવેલ અંડરગ્રેજ્યુએટ મેડિકલ અને ડેન્ટલ કોર્સીસના કાઉન્સેલિંગ શેડ્યૂલ મુજબ, શૈક્ષણિક વર્ષ ૨૦૨૬-૨૭ માટે અંડરગ્રેજ્યુએટ મેડિકલ અને ડેન્ટલ કોર્સિસનું શૈક્ષણિક સત્ર ૧૫/૦૯/૨૦૨૬ થી શરૂ થશે.]",
-        "link": null,
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "As per the counseling schedule of Undergraduate Medical and Dental Courses given by MCC, New Delhi, the academic session of MBBS & BDS Courses for the academic year 2026-27 will start from September 15, 2026. Commencing from 15/09/2026.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-09-02T13:49:16.394Z"
-      },
-      {
-        "id": "543890716b2c112b",
-        "title": "MCC Medical Dental UG Admission 2026 (Round 2) Schedule for State as well as All India Quota (UPDATED)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/202609021737158592.pdf",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-02T13:49:16.394Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2220,9 +2216,29 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-07T17:43:30.546Z",
+    "lastUpdatedDate": "2026-09-08T08:45:11.788Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e5c2e9fc9df0d6ee",
+        "title": "Provisional Merit List of candidates who give their willingness for 2nd round of online counselling",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndMerit/Provisional%20Merit%20List%20Round-2.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-08T08:45:11.788Z"
+      },
+      {
+        "id": "a3c4c5af2ee9c7de",
+        "title": "Christian Minority Eligible candidates list Christian Minority Not eligible candidates list",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndMerit/ELIGIBLE_Christian%20Minority_Round%202_MBBS_BDS_2026_8%20Sep%202026.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-08T08:45:11.788Z"
+      },
       {
         "id": "66f4502d56d5e419",
         "title": "Tentative Vacancy position for the MBBS/BDS Courses for the session 2026 for 2nd round MBBS BDS",
@@ -2402,26 +2418,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-15T05:54:19.666Z"
-      },
-      {
-        "id": "58126d2ac1f2b78b",
-        "title": "NEET UG 2026 Merit Lists Open Merit Sikh Minority Lists Christian Minority Lists NRI Merit List",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/MeritList/ProvisionalCombinedMeritListBFUHS-2026.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T12:11:23.036Z"
-      },
-      {
-        "id": "fd4e7a8ba9b29402",
-        "title": "Revised Notification for admission for MBBS/BDS under NEET UG 2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/New%20Notification%20dated%2010-07-2026.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T11:21:55.264Z"
       }
     ]
   },
@@ -5742,9 +5738,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-07-08T11:32:47.059Z",
+    "lastUpdatedDate": "2026-09-08T08:49:46.009Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "28e06f274e19711a",
+        "title": "Educational Notice-NEET-UG 2nd_Counselling_Notice_2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice-neet-ug_2nd_counselling_notice_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-08T08:49:46.009Z"
+      },
       {
         "id": "3e81b9456de0370d",
         "title": "Advertisement Lecturer Nursing College-18-6-26",
@@ -5755,175 +5761,184 @@
         "detectedAt": "2026-07-08T11:32:47.059Z"
       },
       {
-        "id": "7e96c4bdfcc199b5",
-        "title": "Engagement Order - DME SR Positing-May-2026 (Suppl)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/engagement_order_-_dme_sr_positing-may-2026_suppl.pdf",
+        "id": "b8d314930ff712e9",
+        "title": "Educational Notice (For PwD category candidates)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_for_pwd_category_candidates.pdf",
         "date": null,
-        "sortTs": 1780102800000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "3c981baf9c340e58",
-        "title": "List of FMGs allotted 1 year CRMI - 30/05/2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/acmr_fmg_1yr_60_signed.pdf",
-        "date": "30/05/2026",
-        "sortTs": null,
+        "id": "bd2158022fd402c2",
+        "title": "Corrigendum Notice",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/corrigendum_notice_0.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "183b62f6556e7f17",
-        "title": "Admission Notice (after stray round online counselling, session 2025)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_after_stray_round_online_counselling_session_2025_0.pdf",
+        "id": "422a81d297e87559",
+        "title": "Educational Notice-1st round of B.Sc Nursing Counselling, Session, 2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice-1st_round_of_b._sc_nursing_counselling_session_2026.pdf",
         "date": null,
-        "sortTs": 1767355200000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "a828cc8683b43a25",
-        "title": "vacancy matrix walk in interview march 26",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/vacancy_matrix_walk_in_interview_march_26.pdf",
+        "id": "abdcea2e9f435a0f",
+        "title": "Admission Notice-Admission into 1st year MBBS-BDS Courses after completion of 1st round of online counselling, Session,2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice-admission_into_1st_year_mbbs-bds_courses_after_completion_of_1st_round_of_online_counselling_session2026.pdf",
         "date": null,
-        "sortTs": 1767351600000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 4,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "81236ff6d1bc6264",
-        "title": "Advertisement for Registrar-Demonstrator",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/advertisement_for_registrar-demonstrator.pdf",
+        "id": "7ef9aac0aa322b08",
+        "title": "Educational Notice (Admission into various courses at RIPANS)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_admission_into_various_courses_at_ripans.pdf",
         "date": null,
-        "sortTs": 1767348000000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 5,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "1ba8f50305c6e9a3",
-        "title": "Admission Notice (after stray round online counselling, session 2025)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_after_stray_round_online_counselling_session_2025.pdf",
+        "id": "b3829e00977ec896",
+        "title": "Educational Notice (FMG Compulsory Rotating Medical Internship",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_fmg_compulsory_rotating_medical_internship.pdf",
         "date": null,
-        "sortTs": 1767344400000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "e25e8fd830aa8213",
-        "title": "Stray round online PG counselling_2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/stray_round_online_pg_counselling_2026.pdf",
+        "id": "061b86642e75ad36",
+        "title": "Educational Notice (extension schedule_UG-2026 Round 1)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_extension_schedule_ug-2026_round_1.pdf",
         "date": null,
-        "sortTs": 1767340800000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 7,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "26312001cd6dd4e6",
-        "title": "Admission Notice & Select List after 3rd round Counselling 2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_select_list_after_3rd_round_counselling_2026.pdf",
+        "id": "af4849e3ed647ce1",
+        "title": "Reschedule of MDS 1st Counselling-2026 Notice-2",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/docscanner_28_aug_2026_3-28_pm.pdf",
         "date": null,
-        "sortTs": 1767337200000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 8,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "7dcd15b365186a22",
-        "title": "Notice-3rd PG Counselling,2025(New Date)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/6._notice_3rd_pg_counselling_2025_new_dates.pdf",
+        "id": "31466f20a0259cae",
+        "title": "Reschedule of MDS 1st Counselling-2026 Notice",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/reschedule_of_mds_1st_counselling-2026_notice.pdf",
         "date": null,
-        "sortTs": 1767333600000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 9,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "8f843c9a05db05a6",
-        "title": "Educational Notice 3rd PG Counselling, 2025 (New result & admission dates)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/edu_notice_3rd_pg_counselling_2025_new_result_admission_dates.pdf",
+        "id": "437dd937cf08aacb",
+        "title": "Educational Notice-Counseling for admission into MDS Courses, Session, 2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice-counseling_for_admission_into_mds_courses_session_2026.pdf",
         "date": null,
-        "sortTs": 1767330000000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 10,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "699d5614840cf385",
-        "title": "Notice (Incentive marks) after reduction of percentile",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_incentive_marks_after_reduction_of_percentile.pdf",
+        "id": "f9b017fe1c557cae",
+        "title": "NEET-UG_Round1_counseling_extension_Notice",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/ug26_rd1_extension_notice.pdf",
         "date": null,
-        "sortTs": 1767326400000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 11,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "cb997319819ac30a",
-        "title": "Notice 3rd PG Counselling, 2025 (New)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_3rd_pg_counselling_2025_new.pdf",
+        "id": "21452769127ee8a1",
+        "title": "Notice & Assam State NEET-MDS-2026 Merit List",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_assam_state_neet-mds-2026_merit_list.pdf",
         "date": null,
-        "sortTs": 1767322800000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 12,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "70051ddf002a9271",
-        "title": "Notice for state counselling authority",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_for_state_counsellling_authority.pdf",
+        "id": "da3f863f11e11ce3",
+        "title": "UG Counselling Scrutiny Form (Doc. Verification)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/ug_counselling_scrutiny_form_doc._verification.pdf",
         "date": null,
-        "sortTs": 1767319200000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 13,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "1714cb9fa22f1964",
-        "title": "Notice (Postponement of 3rd round PG Counselling, 2025)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/3._postponement_notice_3rd_pg_counselling_2025.pdf",
+        "id": "7f638c3b0c448aaf",
+        "title": "Educational Notice (TGL candidates)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_tgl_candidates.pdf",
         "date": null,
-        "sortTs": 1767315600000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 14,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "48457f3cb2d96d72",
-        "title": "Office Order-02-01-2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/office_order-02-01-2026.pdf",
-        "date": "02/01/2026",
-        "sortTs": null,
+        "id": "3af9201118fe08e0",
+        "title": "Notice (Inclusion of name in Assam State Merit List_NEET-UG-2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_inclusion_of_name_in_assam_state_merit_list_neet-ug-2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 15,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "2c433488f577a8ea",
-        "title": "Admission Notice (after 5th round online counselling, session 2025)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_after_5th_round_online_counselling_session_2025_0.pdf",
+        "id": "9a4703dda7647195",
+        "title": "Educational Notice (Application for CRMI counselling)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_application_for_crmi_counselling.pdf",
         "date": null,
-        "sortTs": 1765897200000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 16,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "d34c1c076c15ad26",
-        "title": "M. Sc. Counselling Form, 2025",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/m._sc._counselling_form_2025.pdf",
+        "id": "b30ec920c772b2ba",
+        "title": "Educational Notice (Document verification_3GC)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_document_verification_3gc.pdf",
         "date": null,
-        "sortTs": 1765893600000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 17,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       },
       {
-        "id": "7a7e4a2650296355",
-        "title": "Corrigendum Notice-SHQ candidate's document verification",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/3._corrigendum_shq_candidates_document_verification_0001.pdf",
+        "id": "ebcf6601f84a2062",
+        "title": "1st_NEET_UG Online Counselling_Notice-2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/1st_ug_online_counselling_notice-2026.pdf",
         "date": null,
-        "sortTs": 1765890000000,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
         "batchIndex": 18,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
-      },
-      {
-        "id": "a8955aadea50ecaf",
-        "title": "Notice 3rd PG Counselling, 2025",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_3rd_pg_counselling_2025.pdf",
-        "date": null,
-        "sortTs": 1765886400000,
-        "batchIndex": 19,
-        "detectedAt": "2026-07-08T11:32:47.059Z"
+        "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
   },
@@ -6342,9 +6357,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-07T17:46:26.168Z",
+    "lastUpdatedDate": "2026-09-08T08:48:02.579Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "46839e3b30a2bb04",
+        "title": "SCHEDULE OF EXTENDED OPEN HOUSE OF OFFLINE COUNSELLING FOR ADMISSION IN B.ARCH. PROG. (CODE-100) AND DISPLAY OF REVISED RANK/MERIT LIST_dated-08.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609082061267982.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-08T08:48:02.579Z"
+      },
+      {
+        "id": "1d908afe58a7fdd8",
+        "title": "Revised Rank/Merit List of the candidates, who have registered for Admission in B.Arch Prog. (Code-100) and reported for Verification A.S:2026-27_dated-08.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260908977538718.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-08T08:48:02.579Z"
+      },
+      {
+        "id": "9379157742f78b3b",
+        "title": "LLM (Code-112) and BMS (Code-142) Final Opportunity for Offline Registration in respect of above programme (only for ‘not registered’ candidates)_dated-08.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609081883429454.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-08T08:48:02.579Z"
+      },
       {
         "id": "55890ac1fcddae81",
         "title": "Final Opportunity for Offline Registration (Only for ‘not registered’ candidates) in respect of various courses through the merit of respective NLT/CET/CUET_dated-07.09.2026",
@@ -6514,36 +6559,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-31T16:21:15.952Z"
-      },
-      {
-        "id": "c91b136498614816",
-        "title": "MBBS (CODE-103) EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 01 FOR A.S:2026-27_dated-30.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301850908555.pdf",
-        "date": "30/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-30T21:01:12.118Z"
-      },
-      {
-        "id": "6303aaf039c70d46",
-        "title": "Vacancy Position of LLB (Code-121) as on 30.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301524869945.pdf",
-        "date": "30/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-30T08:07:26.801Z"
-      },
-      {
-        "id": "344c685fe4132bf7",
-        "title": "B.Sc(H) NURSING FOR NEET UG 2026 QUALIFIED CANDIDATES FILLING OF CHOICES/ PREFERENCES FOLLOWED BY DECLARATION OF RESULT OF ROUND 01 A.S:2026-27_dated-30.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/08/202608301396546105.pdf",
-        "date": "30/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-30T21:01:12.118Z"
       }
     ]
   },
@@ -7184,9 +7199,19 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-07T17:46:33.423Z",
+    "lastUpdatedDate": "2026-09-08T08:48:07.107Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e1bb01ca3da3f2ba",
+        "title": "Round 2 Vacant seats available at SAHS-MBBS 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1788847409_vacant_seatsSAHS_MBBS2026-27.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-08T08:48:07.107Z"
+      },
       {
         "id": "e6cf193d16602314",
         "title": "Round 2 Technical Instructions",
@@ -7375,16 +7400,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 5,
-        "detectedAt": "2026-08-13T08:40:06.798Z"
-      },
-      {
-        "id": "4680a69febfaae17",
-        "title": "Notification regarding FreezeFloat mechanism",
-        "link": "https://manipurmc.mn.gov.in/media/1786605110_Notification%20regarding%20FreezeFloat%20mechanism.pdf",
-        "date": "12/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
         "detectedAt": "2026-08-13T08:40:06.798Z"
       }
     ]
