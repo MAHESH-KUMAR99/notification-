@@ -1397,9 +1397,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T11:48:20.149Z",
+    "lastUpdatedDate": "2026-09-09T16:14:19.059Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7f0260a81c25f4fe",
+        "title": "NEWLY ADDED COLLEGE AND SEATS IN ROUND 2 (MBBS) – UG COUNSELLING 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/09092026073854.pdf",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-09T16:14:19.059Z"
+      },
       {
         "id": "fffda8d71d22bc85",
         "title": "7.5% - TENTATIVE ROUND - 2 VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 AS ON 09-09-2026",
@@ -1589,16 +1599,6 @@
         "source": "Direct from Website",
         "batchIndex": 32,
         "detectedAt": "2026-08-25T09:40:16.403Z"
-      },
-      {
-        "id": "29646278236ccf99",
-        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/24082026050945.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T13:00:03.011Z"
       }
     ]
   },
@@ -2217,9 +2217,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T11:47:39.851Z",
+    "lastUpdatedDate": "2026-09-09T16:14:15.231Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "da23427d8a7a4197",
+        "title": "PROVISIONAL COMBINED MERIT LIST AFTER CONSIDERING OBJECTIONS OF CANDIDATES WHO HAVE APPLIED/GIVE WILLINGNESS FOR 2nd ROUND OF ONLINE COUNSELLING FOR ADMISSION TO MBBS/BDS COURSE UNDER NEET-UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndMerit/Provisional%20Merit%20List%20Round-2%20After%20Considering%20Objections.pdf",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-09T16:14:15.231Z"
+      },
       {
         "id": "4477d8c3321ec10d",
         "title": "Public notice regarding surrender the seat",
@@ -2229,6 +2239,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-09T11:47:39.851Z"
+      },
+      {
+        "id": "4dcc4ac5af2534d2",
+        "title": "Public notice regarding NRI candidates",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Public%20Notice%20regarding%20NRI.pdf",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-09T16:14:15.231Z"
       },
       {
         "id": "f2d740b339e72a68",
@@ -2398,26 +2418,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-08-29T14:16:26.801Z"
-      },
-      {
-        "id": "ed3041243fda2204",
-        "title": "List of Candidates Debarred from 85% Punjab State Quota Seats",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Debarred_1.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-29T08:46:48.110Z"
-      },
-      {
-        "id": "15efa986099d9f06",
-        "title": "List of Candidates Debarred from 85% Punjab State Quota Seats [List 1]",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Debarred_1.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-08-29T14:16:26.801Z"
       }
     ]
@@ -2621,9 +2621,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T11:52:03.269Z",
+    "lastUpdatedDate": "2026-09-09T16:18:15.572Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:061465bb23058217",
+        "title": "Schedule for Third Round Counselling of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/10 Dated 09.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_10.pdf",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-09T16:18:15.572Z"
+      },
       {
         "id": "Latest Updates:70c617a8bd4d98d2",
         "title": "Notice for Extension of Date for filling up online application form for the post of Senior Resident/Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/03 Dated 09.09.2026)",
@@ -2815,16 +2825,6 @@
         "detectedAt": "2026-08-24T11:37:47.277Z"
       },
       {
-        "id": "Latest Updates:72844ef4826164c2",
-        "title": "Details for filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar) (Adv. No. BCECEB(BSFC)-2026/01 Dated 24.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_01.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-25T06:59:37.676Z"
-      },
-      {
         "id": "UGMAC:6ee4f4eb4f25c3b2",
         "title": "Notice for Refund of Security Money of Candidates for UGMAC-2024 & UGMAC-2025 (Adv. No. BCECEB(BCECEB)-2026/03 Dated 08.09.2026)",
         "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_03.pdf",
@@ -2996,9 +2996,33 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-04T13:18:25.849Z",
+    "lastUpdatedDate": "2026-09-09T16:14:14.005Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "631688465950369b",
+        "title": "Advt. No. 80 dated-09.09.2026 जी०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम एवं द्वितीय ऑनलाईन साक्षात्कारों से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/783.pdf",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 80 dated-09.09.2026 Necessary information related to Result Publication of GNM Entrance Competitive Examination-2026 and first and second online interviews.",
+        "titleLang": "hi",
+        "detectedAt": "2026-09-09T16:14:14.005Z"
+      },
+      {
+        "id": "09792ee55099ab7a",
+        "title": "Advt. No. 79 dated-09.09.2026 ए०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम एवं द्वित्तीय ऑनलाईन साक्षात्कारों से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/782.pdf",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "Advt. No. 79 dated-09.09.2026 Necessary information related to result publication of ANM Entrance Competitive Examination-2026 and first and second online interviews.",
+        "titleLang": "hi",
+        "detectedAt": "2026-09-09T16:14:14.005Z"
+      },
       {
         "id": "d2daab76c0a51e91",
         "title": "Advt. No. 78 dated-04.09.2026 Very Important Notice regarding extension of date for correction in State Merit List Based on NEET (UG)-2026 Result",
@@ -3184,26 +3208,6 @@
         "titleEn": "Advt. No. 62 dated-20.08.2026 Necessary information related to the second and third (final) online interviews based on the results of the Polytechnic Entrance Competitive Examination-2026.",
         "titleLang": "hi",
         "detectedAt": "2026-08-21T12:55:06.046Z"
-      },
-      {
-        "id": "742da7bd6e77f6b8",
-        "title": "Advt. No. 60 dated-19.08.2026 Very Important Information regarding 1st Round of Online Counselling for admission under State, All India & NRI seats in M.B.B.S., B.D.S. & B.H.M.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/763.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T07:41:44.697Z"
-      },
-      {
-        "id": "9295f7a7ee9889b6",
-        "title": "Advt. No. 58 dated-16.08.2026 Public Notice Regarding Online Services Being Provided by the J.C.E.C.E. Board",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/762.pdf",
-        "date": "16/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-16T13:34:01.050Z"
       }
     ]
   },
@@ -3338,9 +3342,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T11:52:55.241Z",
+    "lastUpdatedDate": "2026-09-09T16:19:07.465Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7e55c5a646458e7b",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG NON-NEET COURSES",
+        "link": "https://drive.google.com/file/d/1tu2Gi6duxoOxNudJmu4YQqZXwqxX54QK/view?usp=sharing",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-09T16:19:07.465Z"
+      },
       {
         "id": "OVERALL:7ae814b33ce3b1b8",
         "title": "UG NEET - BSMS/BUMS/BHMS COURSES - DRAFT MERIT LIST (2026-2027)",
@@ -3420,6 +3434,16 @@
         "source": "Direct from Website",
         "batchIndex": 224,
         "detectedAt": "2026-09-09T11:52:55.241Z"
+      },
+      {
+        "id": "UG NON-NEET:7e55c5a646458e7b",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG NON-NEET COURSES",
+        "link": "https://drive.google.com/file/d/1tu2Gi6duxoOxNudJmu4YQqZXwqxX54QK/view?usp=sharing",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 225,
+        "detectedAt": "2026-09-09T16:19:07.465Z"
       },
       {
         "id": "UG NON-NEET:02dcc17db7afc938",
@@ -3520,26 +3544,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-08T20:14:55.515Z"
-      },
-      {
-        "id": "OVERALL:334a583cbc5c2f7e",
-        "title": "INTERIM ORDER GRANTED FOR WP NO. 15159 OF 2026 AND WMP NO.16354 OF 2026",
-        "link": "https://drive.google.com/file/d/12Bcn1q9slLCS2MgP_YUGZZUR6NwQfo8c/view?usp=sharing",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-08T17:26:47.005Z"
-      },
-      {
-        "id": "OVERALL:32104fbe2cc3bc01",
-        "title": "LIST OF VACANCIES IN UG NEET - MBBS - BDS - BAMS - BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 1",
-        "link": "https://drive.google.com/file/d/1d7va6q66Ri921xyxtmw92qhwaZlm0DzH/view?usp=sharing",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-08T17:26:47.005Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6580,9 +6584,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-03T16:05:54.901Z",
+    "lastUpdatedDate": "2026-09-09T16:14:18.619Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f677936c3465f333",
+        "title": "Urgent notice dated 09-09-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/202609091994576625.pdf",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-09T16:14:18.619Z"
+      },
       {
         "id": "b6e3c6567ec54d70",
         "title": "PwD related MCC Notice for Round 2",
@@ -6770,15 +6784,6 @@
         "date": "13/02/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:31.519Z"
-      },
-      {
-        "id": "e082b3783579e477",
-        "title": "Eligible Candidate List Round 5 (Dental)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/01/202601031100986358.pdf",
-        "date": "03/01/2026",
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:31.519Z"
       }
     ]
