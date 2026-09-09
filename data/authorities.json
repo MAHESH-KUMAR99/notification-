@@ -799,9 +799,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-31T16:21:34.484Z",
+    "lastUpdatedDate": "2026-09-09T06:33:34.354Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-119",
+        "title": "RESERVE LIST OF CANDIDATES FOR MBBS ADMISSION AT AFMC PUNE THROUGH NEET UG-2026.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "08/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-09T06:33:34.354Z"
+      },
       {
         "id": "afmc-pune-118",
         "title": "MERIT AND RESERVE LIST OF CANDIDATES MBBS 2026",
@@ -963,14 +972,6 @@
         "link": "https://afmc.nic.in/letestnews",
         "date": "01/06/2026",
         "batchIndex": 6,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-93",
-        "title": "RECRUITMENT OF HUMAN RESOURSES AT YMF PhD NODE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "01/06/2026",
-        "batchIndex": 7,
         "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
@@ -2004,9 +2005,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-08T13:25:27.841Z",
+    "lastUpdatedDate": "2026-09-09T06:30:49.475Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1d1a0f0321029833",
+        "title": "08-09-2026: UG AYUSH Courses 2026-27 - CQ - Detailed Notification - For Online Application UG AYUSH Courses 2026-27 - CQ Prospectus",
+        "link": "https://drntr.uhsap.in/index/notification/20260908181302803.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-09T06:30:49.475Z"
+      },
       {
         "id": "ccb5c4f619e5762f",
         "title": "08-09-2026: UG AYUSH Courses 2026-27 - CQ - Detailed Notification UG AYUSH Courses 2026-27 - CQ Prospectus",
@@ -2196,16 +2207,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-22T10:28:30.917Z"
-      },
-      {
-        "id": "a1fd5f1ac6a4f302",
-        "title": "18-08-2026: MBBS-BDS- 2026-27-CQ- NOTIFICATION - ADMISSIONS INTO MBBS & BDS COURSES",
-        "link": "https://drntr.uhsap.in/index/notification/20260818182502800.pdf",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-18T13:45:55.444Z"
       }
     ]
   },
@@ -2216,9 +2217,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-08T13:25:15.833Z",
+    "lastUpdatedDate": "2026-09-09T06:30:04.601Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f2d740b339e72a68",
+        "title": "NEET UG 2024,2025 Cutoff Regarding execution of MBBS Bond (UG All India/State Quota Admissions) Click here to apply online for admission in MBBS/BDS under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Cut%20off%20of%20session%202024%20and%202025%20of%20MBBSBDS.pdf",
+        "date": null,
+        "sortTs": 1788825600000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-09T06:30:04.601Z"
+      },
       {
         "id": "da53c9475ecd7976",
         "title": "Click here to fill online choices for 2nd Round of online counselling for MBBS/BDS under NEET UG 2026",
@@ -2408,16 +2419,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-27T21:06:06.278Z"
-      },
-      {
-        "id": "41c90d66b842febb",
-        "title": "Revised Schedule for 1st Round of Counselling Under NEET UG 2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Revised%20Schedule%20for%20first%20round%20of%20online%20counseling.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-25T10:36:48.389Z"
       }
     ]
   },
