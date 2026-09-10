@@ -3345,9 +3345,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T13:31:38.968Z",
+    "lastUpdatedDate": "2026-09-10T17:11:29.415Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7d5c646f77655290",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1JRS4j44rLnxKtUyh9WRZlA1N3USBAc_R/view?usp=drivesdk",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-10T17:11:29.415Z"
+      },
       {
         "id": "OVERALL:12673eb984702a11",
         "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER ROUND 2",
@@ -3407,6 +3417,16 @@
         "source": "Direct from Website",
         "batchIndex": 230,
         "detectedAt": "2026-09-10T13:31:38.968Z"
+      },
+      {
+        "id": "UG NEET:7d5c646f77655290",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1JRS4j44rLnxKtUyh9WRZlA1N3USBAc_R/view?usp=drivesdk",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 310,
+        "detectedAt": "2026-09-10T17:11:29.415Z"
       },
       {
         "id": "OVERALL:7e55c5a646458e7b",
@@ -3526,26 +3546,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 301,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "UG NEET:0b0e0657b316c88f",
-        "title": "NOTICE : DRAFT MERIT LIST AND COUNSELLING SCHEDULE FOR BSMS/BUMS/BHMS",
-        "link": "https://drive.google.com/file/d/1rk-jSjLcdP0o7ekz6UAEq3ueXXmZdC5R/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 302,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "UG NEET:5f4e04c67dceefc9",
-        "title": "REVISED LIST OF VACANCIES IN UG NEET - MBBS / BDS / BAMS / BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 1",
-        "link": "https://drive.google.com/file/d/1sjXmwX22z7AZ5qb90upBDBl_5qxu7rIk/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 303,
         "detectedAt": "2026-09-09T11:52:55.241Z"
       },
       {
