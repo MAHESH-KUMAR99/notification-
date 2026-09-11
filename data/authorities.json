@@ -986,9 +986,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T13:26:25.562Z",
+    "lastUpdatedDate": "2026-09-11T05:06:19.319Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3a614d15eba6a75b",
+        "title": "Undergraduate (MBBS) Course Seat Matrix for the Academic Year 2026–27 as Provided by the National Medical Commission (NMC), New Delhi, on 10.09.2026",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/SeatMatrixPublicNotice_on_1_9_26_Merged.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T05:06:19.319Z"
+      },
       {
         "id": "4e3fbb790a14af94",
         "title": "General Merit List",
@@ -1177,16 +1187,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 8,
-        "detectedAt": "2026-09-08T08:44:19.242Z"
-      },
-      {
-        "id": "7e46aff8edbd6425",
-        "title": "SMC Local Quota Candidate List (As Per the College List)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/SMC%20LOCAL%20QUOTA%20LIST%20R2.pdf?V=1",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
         "detectedAt": "2026-09-08T08:44:19.242Z"
       },
       {
@@ -3345,9 +3345,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T17:11:29.415Z",
+    "lastUpdatedDate": "2026-09-11T05:10:36.041Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:3a3aefa6cf41ea7e",
+        "title": "LAST DATE FOR PAYMENT OF REGISTRATION FEE FOR UG NEET ROUND 2 HAS BEEN EXTENDED UPTO 11/09/2026, 3.00 P.M.",
+        "link": "https://centacpuducherry.in/#",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T05:10:36.041Z"
+      },
+      {
+        "id": "UG NEET:3a3aefa6cf41ea7e",
+        "title": "LAST DATE FOR PAYMENT OF REGISTRATION FEE FOR UG NEET ROUND 2 HAS BEEN EXTENDED UPTO 11/09/2026, 3.00 P.M.",
+        "link": "https://centacpuducherry.in/#",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 311,
+        "detectedAt": "2026-09-11T05:10:36.041Z"
+      },
       {
         "id": "OVERALL:7d5c646f77655290",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
@@ -3367,6 +3387,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-10T13:31:38.968Z"
+      },
+      {
+        "id": "OVERALL:b39e5c0525d8c4ab",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1776bXZ3TJAIvwxPVSWnf5X_SQvsMcDwK/view?usp=drivesdk",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-11T05:10:36.041Z"
       },
       {
         "id": "OVERALL:37b95ed687e40036",
@@ -3427,6 +3457,16 @@
         "source": "Direct from Website",
         "batchIndex": 310,
         "detectedAt": "2026-09-10T17:11:29.415Z"
+      },
+      {
+        "id": "UG NEET:b39e5c0525d8c4ab",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1776bXZ3TJAIvwxPVSWnf5X_SQvsMcDwK/view?usp=drivesdk",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 312,
+        "detectedAt": "2026-09-11T05:10:36.041Z"
       },
       {
         "id": "OVERALL:7e55c5a646458e7b",
@@ -3506,46 +3546,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 6,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "UG NON-NEET:415924e860a84bf7",
-        "title": "B.N.Y.S COURSE - DRAFT MERIT LIST BASED ON H.SC. SCORE",
-        "link": "https://drive.google.com/file/d/1JPxSGmY2jgJDf6J0i0UsmJ8E88KjmtXo/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 224,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "UG NON-NEET:7e55c5a646458e7b",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG NON-NEET COURSES",
-        "link": "https://drive.google.com/file/d/1tu2Gi6duxoOxNudJmu4YQqZXwqxX54QK/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 225,
-        "detectedAt": "2026-09-09T16:19:07.465Z"
-      },
-      {
-        "id": "UG NON-NEET:02dcc17db7afc938",
-        "title": "NOTICE : DRAFT MERIT LIST AND COUNSELLING SCHEDULE FOR BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1qFJtPzvV2nEML1rPGWg5uzVkXZfR51yb/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 225,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "UG NEET:7ae814b33ce3b1b8",
-        "title": "UG NEET - BSMS/BUMS/BHMS COURSES - DRAFT MERIT LIST (2026-2027)",
-        "link": "https://drive.google.com/file/d/1Cw0BcX1zF98Rt2RhtjFrtL2Z3BSUvYK1/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 301,
         "detectedAt": "2026-09-09T11:52:55.241Z"
       },
       {
