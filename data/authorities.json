@@ -986,9 +986,21 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-11T05:06:19.319Z",
+    "lastUpdatedDate": "2026-09-11T09:56:52.176Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "772d06258ee13124",
+        "title": "આથી પ્રવેશ સમિતિ દ્વારા જાણ કરવામાં આવે છે કે MBBS/BDS અભ્યાસક્રમોના બીજા રાઉન્ડ માટેની ચોઇસ ફિલિંગની સમયમર્યાદા તા. 12/09/2026ના રોજ સવારે 10:00 વાગ્યા સુધી લંબાવવામાં આવેલ છે. તમામ ઉમેદવારોએ આ બાબતની ખાસ નોંધ લેવા વિનંતી છે. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 10:00 AM on 12/09/2026. All candidates are advised to take special note of the above.]",
+        "link": null,
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "It is hereby informed by the Admission Committee that the deadline for choice filling for the second round of MBBS/BDS courses is dt. Extended to 10:00 AM on 12/09/2026. All the candidates are requested to take special note of this matter. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 10:00 AM on 12/09/2026. All candidates are advised to take special note of the above.]",
+        "titleLang": "gu",
+        "detectedAt": "2026-09-11T09:56:52.176Z"
+      },
       {
         "id": "3a614d15eba6a75b",
         "title": "Undergraduate (MBBS) Course Seat Matrix for the Academic Year 2026–27 as Provided by the National Medical Commission (NMC), New Delhi, on 10.09.2026",
@@ -1030,6 +1042,16 @@
         "detectedAt": "2026-09-10T13:26:25.562Z"
       },
       {
+        "id": "a604bc0dbfeea5e7",
+        "title": "General Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_gen_1.3.pdf",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-11T09:56:52.176Z"
+      },
+      {
         "id": "08c6ef12ed1706b3",
         "title": "ST Merit List",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_st_1.2.pdf",
@@ -1058,6 +1080,16 @@
         "source": "Direct from Website",
         "batchIndex": 4,
         "detectedAt": "2026-09-10T13:26:25.562Z"
+      },
+      {
+        "id": "b6a26cba4db30f80",
+        "title": "EWS Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_ew_1.3.pdf",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-09-11T09:56:52.176Z"
       },
       {
         "id": "f7ad32eb78602ebc",
@@ -1120,6 +1152,26 @@
         "detectedAt": "2026-09-10T13:26:25.562Z"
       },
       {
+        "id": "9be23b4f7490357e",
+        "title": "EW Category PWD Merit List (Updated 11-Sep-2026 12:21 PM)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_ew_pwd_1.1.pdf",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 13,
+        "detectedAt": "2026-09-11T09:56:52.176Z"
+      },
+      {
+        "id": "addb2e13e4669d38",
+        "title": "PWD Report (Updated 11-Sep-2026 12:21 PM)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/PWD%20Report%202nd%20round_110926.pdf",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 14,
+        "detectedAt": "2026-09-11T09:56:52.176Z"
+      },
+      {
         "id": "b11bec72b4540aaf",
         "title": "Not Eligible Candidate List with Reasons",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/DQ%20LIST_R2.1.pdf?V=1",
@@ -1137,56 +1189,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-09-08T08:44:19.242Z"
-      },
-      {
-        "id": "940d46ed37d6a52f",
-        "title": "General Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_gen_1.1.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-08T08:44:19.242Z"
-      },
-      {
-        "id": "ed5de9899fe79d4e",
-        "title": "EWS Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_ew_1.1.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-08T08:44:19.242Z"
-      },
-      {
-        "id": "6c910084041b25f6",
-        "title": "NRI Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_nri_r2.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-09-08T08:44:19.242Z"
-      },
-      {
-        "id": "6469ce67e8c2b205",
-        "title": "NRI Report",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/Report%20for%20website.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-09-08T08:44:19.242Z"
-      },
-      {
-        "id": "0efb08163fe6413f",
-        "title": "NHL Local Quota Candidate List (As Per the College List)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/NHL%20LOCAL%20QUOTA%20LIST%20R2.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
         "detectedAt": "2026-09-08T08:44:19.242Z"
       },
       {
@@ -1400,9 +1402,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T13:27:11.525Z",
+    "lastUpdatedDate": "2026-09-11T09:57:03.393Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d904d8d114074e49",
+        "title": "RESIGNATION PORTAL LINK FOR ROUND 1 JOINED CANDIDATES OF MBBS/BDS (GOVERNMENT / MANAGEMENT (INCLUDING MINORITY) / NRI QUOTA) COURSE 2026 - 2027 SESSION",
+        "link": "https://counug.tnmedicalonline.co.in/discugmedgq",
+        "date": null,
+        "sortTs": 1788998400000,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-11T09:57:03.393Z"
+      },
       {
         "id": "718eae4cabb3e469",
         "title": "7.5% - TENTATIVE ROUND - 2 VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 AS ON 10-09-2026",
@@ -1592,16 +1604,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-25T08:48:51.468Z"
-      },
-      {
-        "id": "cd82538e86972a18",
-        "title": "Mandatory pre counselling Fee disclosure by Self-Financing Medical and Dental Institutions has directed by the Hon’ble Supreme Court",
-        "link": "https://tnmedicalselection.net/news/25082026070001.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-08-25T14:50:54.067Z"
       }
     ]
   },
@@ -2008,9 +2010,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T13:27:14.609Z",
+    "lastUpdatedDate": "2026-09-11T09:57:05.729Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ecec81ff8f744622",
+        "title": "11-09-2026: MBBS & BDS MQ 2026-27 Provisional Merit Position of the applied candidates MBBS & BDS MQ 2026-27 List of candidates paid Registration Fee but not submitted applications & to reupload the documents",
+        "link": "https://drntr.uhsap.in/index/notification/20260911131436148.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T09:57:05.729Z"
+      },
       {
         "id": "54a0cea9fbb88f00",
         "title": "10-09-2026: MBBS-CQ- 2026-27 - Notification for Free Exit after Phase - I MBBS CQ 2026-27 - List of Not Reported candidates after Phase-I",
@@ -2200,16 +2212,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-25T12:54:51.037Z"
-      },
-      {
-        "id": "f62c897654d0a5c3",
-        "title": "25-08-2026: List of Candidates to be debarred for counselling to MDS course in the State of AP for the year 2026-27",
-        "link": "https://drntr.uhsap.in/index/notification/20260825115250643.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T06:54:54.522Z"
       }
     ]
   },
@@ -2624,9 +2626,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T16:18:15.572Z",
+    "lastUpdatedDate": "2026-09-11T10:00:32.389Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:510a6a31d3c1406c",
+        "title": "Important Notice Regarding filling Online Application Form for Round-2 Counselling of Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/10 Dated 11.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_10.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T10:00:32.389Z"
+      },
+      {
+        "id": "Latest Updates:cd2b65d485208737",
+        "title": "Details for filling Online Application Form for Round-2 Counselling of Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/09 Dated 11.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_09.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-11T10:00:32.389Z"
+      },
       {
         "id": "Latest Updates:061465bb23058217",
         "title": "Schedule for Third Round Counselling of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/10 Dated 09.09.2026)",
@@ -2806,26 +2828,6 @@
         "source": "Latest Updates",
         "batchIndex": 2,
         "detectedAt": "2026-08-25T12:59:27.690Z"
-      },
-      {
-        "id": "Latest Updates:4fa1f46f34a5237e",
-        "title": "Notice for filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar)(Adv. No. BCECEB(BSFC)-2026/02 Dated 24.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_02.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T06:59:37.676Z"
-      },
-      {
-        "id": "Latest Updates:d949fe8de339ba5b",
-        "title": "Details for filling Online Application Form for the post of Assistant Manager/Assistant Account officer/Accountant/Quality Controller and Lower Division Clerk in Bihar State Food & Civil Supplies Corporation Limited( Under Food and Consumer Portection Department Govt. of Bihar)(Adv. No. BCECEB(BSFC)-2026/02 Dated 24.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BSFC26_02.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T11:37:47.277Z"
       },
       {
         "id": "UGMAC:6ee4f4eb4f25c3b2",
@@ -3345,9 +3347,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-11T05:10:36.041Z",
+    "lastUpdatedDate": "2026-09-11T10:01:21.649Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:c3ff54aec794736c",
+        "title": "NOTICE : CORRIGENDUM FOR THE EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1776bXZ3TJAIvwxPVSWnf5X_SQvsMcDwK/view?usp=sharing",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T10:01:21.649Z"
+      },
       {
         "id": "OVERALL:3a3aefa6cf41ea7e",
         "title": "LAST DATE FOR PAYMENT OF REGISTRATION FEE FOR UG NEET ROUND 2 HAS BEEN EXTENDED UPTO 11/09/2026, 3.00 P.M.",
@@ -3367,6 +3379,16 @@
         "source": "Direct from Website",
         "batchIndex": 311,
         "detectedAt": "2026-09-11T05:10:36.041Z"
+      },
+      {
+        "id": "UG NEET:c3ff54aec794736c",
+        "title": "NOTICE : CORRIGENDUM FOR THE EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1776bXZ3TJAIvwxPVSWnf5X_SQvsMcDwK/view?usp=sharing",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 312,
+        "detectedAt": "2026-09-11T10:01:21.649Z"
       },
       {
         "id": "OVERALL:7d5c646f77655290",
@@ -3407,6 +3429,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-10T13:31:38.968Z"
+      },
+      {
+        "id": "OVERALL:2771a5822dcc8d59",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1JRS4j44rLnxKtUyh9WRZlA1N3USBAc_R/view?usp=sharing",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-11T10:01:21.649Z"
       },
       {
         "id": "OVERALL:4e3fff0713916248",
@@ -3469,6 +3501,16 @@
         "detectedAt": "2026-09-11T05:10:36.041Z"
       },
       {
+        "id": "UG NEET:2771a5822dcc8d59",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1JRS4j44rLnxKtUyh9WRZlA1N3USBAc_R/view?usp=sharing",
+        "date": "10/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 314,
+        "detectedAt": "2026-09-11T10:01:21.649Z"
+      },
+      {
         "id": "OVERALL:7e55c5a646458e7b",
         "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG NON-NEET COURSES",
         "link": "https://drive.google.com/file/d/1tu2Gi6duxoOxNudJmu4YQqZXwqxX54QK/view?usp=sharing",
@@ -3506,46 +3548,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "OVERALL:02dcc17db7afc938",
-        "title": "NOTICE : DRAFT MERIT LIST AND COUNSELLING SCHEDULE FOR BACHELOR OF NATUROPATHY AND YOGA SCIENCE (B.N.Y.S.) FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1qFJtPzvV2nEML1rPGWg5uzVkXZfR51yb/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "OVERALL:5f4e04c67dceefc9",
-        "title": "REVISED LIST OF VACANCIES IN UG NEET - MBBS / BDS / BAMS / BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 1",
-        "link": "https://drive.google.com/file/d/1sjXmwX22z7AZ5qb90upBDBl_5qxu7rIk/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "OVERALL:3c822a289c1e97d2",
-        "title": "RIVER - B.V.SC.&A.H. - VETERINARY - NATIONAL - SS AND NRI FEE STRUCTURE",
-        "link": "https://drive.google.com/file/d/1cERkUGwNRHo9-Ncfliz6n8FInFcEYLAs/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
-      },
-      {
-        "id": "OVERALL:ddf06121b26d08f8",
-        "title": "RGAMC - BAMS - FEE STRUCTURE",
-        "link": "https://drive.google.com/file/d/1DtYvpV3xJnAJi8QFPzCEkTfQ3aDY2g3g/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
         "detectedAt": "2026-09-09T11:52:55.241Z"
       },
       {
@@ -5137,7 +5139,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-08T13:29:36.131Z",
+    "lastUpdatedDate": "2026-09-11T10:01:10.143Z",
     "pinned": false,
     "notices": [
       {
@@ -5756,9 +5758,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-08T08:49:46.009Z",
+    "lastUpdatedDate": "2026-09-11T10:01:08.067Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a8de47f18be119af",
+        "title": "Educational Notice (RIPANS 2nd counselling, 2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_ripans_2nd_counselling_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T10:01:08.067Z"
+      },
       {
         "id": "28e06f274e19711a",
         "title": "Educational Notice-NEET-UG 2nd_Counselling_Notice_2026",
@@ -5946,16 +5958,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 17,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "ebcf6601f84a2062",
-        "title": "1st_NEET_UG Online Counselling_Notice-2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/1st_ug_online_counselling_notice-2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 18,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
@@ -6587,9 +6589,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T13:27:11.251Z",
+    "lastUpdatedDate": "2026-09-11T09:57:03.088Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "30a9aa8b960dc8cd",
+        "title": "Formal Course Start Notice",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/202609111613254601.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T09:57:03.088Z"
+      },
       {
         "id": "5376ebf5a0917d16",
         "title": "Urgent notice dated 09-09-2026",
@@ -6779,16 +6791,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-07T07:21:58.553Z"
-      },
-      {
-        "id": "652e59d035afa772",
-        "title": "EWS Proforma",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/20260807456356749.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-07T07:21:58.553Z"
       }
     ]
   },
@@ -6799,9 +6801,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T11:52:54.907Z",
+    "lastUpdatedDate": "2026-09-11T10:01:21.205Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "acc3bfd1a8031433",
+        "title": "Admission to MBBS course in Dr. Somervel Memorial CSI Medical College, Karakonam,Thiruvananthapuram - revised Seat Matrix (including the 50 newly added seats)",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/253/Upload1",
+        "date": "09/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T10:01:21.205Z"
+      },
       {
         "id": "1f2b1fb5a295a0ce",
         "title": "Admission to MBBS course in Dr. Somervel Memorial CSI Medical College, Karakonam,Thiruvananthapuram - revised Seat Matrix(50 seats enhanced)",
@@ -6861,6 +6873,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-07T12:06:32.867Z"
+      },
+      {
+        "id": "89dd4c39b98e2666",
+        "title": "Newly added MBBS seats in Azeezia College of Medical Sciences & Research, Meeyyannoor, Dr.Mooppen's Medical College and Hospital, Wayanad, and MES Medical College, Perinthalmanna",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/246/Upload1",
+        "date": "05/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-09-11T10:01:21.205Z"
       },
       {
         "id": "4b944f02a0bb948c",
@@ -6981,26 +7003,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-18T10:38:14.386Z"
-      },
-      {
-        "id": "0d973bd7aa7fc09b",
-        "title": "Admission To Medical And Medical Allied Courses Final Category List (Except NRI) Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/205/Upload1",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-18T09:43:54.109Z"
-      },
-      {
-        "id": "00f6b43177888253",
-        "title": "ADMISSION TO MBBS AND BDS COURSES-2026: OPTION REGISTRATION FACILITY OPENED.",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/201/Upload1",
-        "date": "15/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-17T08:13:20.330Z"
       }
     ]
   },
