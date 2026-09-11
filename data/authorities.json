@@ -3397,9 +3397,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-11T14:20:01.650Z",
+    "lastUpdatedDate": "2026-09-11T20:47:39.643Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:69651514dbade06e",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 ALLOTMENT (MBBS/BDS/BAMS/BVSC.& AH [NATIONAL SS & NRI]) (ADMITTED IN ROUND 1 / REGISTERED IN ROUND 2)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/round_2_eligible_list.html",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T20:47:39.643Z"
+      },
       {
         "id": "OVERALL:0d7d62a5844ac1e0",
         "title": "NOTICE : VERIFICATION OF DATA OF CANDIDATES WHO APPLIED FRESH FOR UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3431,6 +3441,16 @@
         "detectedAt": "2026-09-11T05:10:36.041Z"
       },
       {
+        "id": "OVERALL:74359440043b8c24",
+        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/16lOH8DrmAEWYUm-rZ2Pf7hWFjQxrfJDs/view?usp=sharing",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-11T20:47:39.643Z"
+      },
+      {
         "id": "UG NON-NEET:0d7d62a5844ac1e0",
         "title": "NOTICE : VERIFICATION OF DATA OF CANDIDATES WHO APPLIED FRESH FOR UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1aLQo9sEQJ--nHXroiRhpiwO32BGMWi3o/view?usp=sharing",
@@ -3459,6 +3479,26 @@
         "source": "Direct from Website",
         "batchIndex": 312,
         "detectedAt": "2026-09-11T10:01:21.649Z"
+      },
+      {
+        "id": "UG NEET:69651514dbade06e",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 ALLOTMENT (MBBS/BDS/BAMS/BVSC.& AH [NATIONAL SS & NRI]) (ADMITTED IN ROUND 1 / REGISTERED IN ROUND 2)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/round_2_eligible_list.html",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 316,
+        "detectedAt": "2026-09-11T20:47:39.643Z"
+      },
+      {
+        "id": "UG NEET:74359440043b8c24",
+        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/16lOH8DrmAEWYUm-rZ2Pf7hWFjQxrfJDs/view?usp=sharing",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 317,
+        "detectedAt": "2026-09-11T20:47:39.643Z"
       },
       {
         "id": "OVERALL:7d5c646f77655290",
@@ -3559,46 +3599,6 @@
         "source": "Direct from Website",
         "batchIndex": 310,
         "detectedAt": "2026-09-10T17:11:29.415Z"
-      },
-      {
-        "id": "UG NEET:b39e5c0525d8c4ab",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1776bXZ3TJAIvwxPVSWnf5X_SQvsMcDwK/view?usp=drivesdk",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 312,
-        "detectedAt": "2026-09-11T05:10:36.041Z"
-      },
-      {
-        "id": "UG NEET:2771a5822dcc8d59",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1JRS4j44rLnxKtUyh9WRZlA1N3USBAc_R/view?usp=sharing",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 314,
-        "detectedAt": "2026-09-11T10:01:21.649Z"
-      },
-      {
-        "id": "OVERALL:7e55c5a646458e7b",
-        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ROUND 3 ALLOTMENT OF UG NON-NEET COURSES",
-        "link": "https://drive.google.com/file/d/1tu2Gi6duxoOxNudJmu4YQqZXwqxX54QK/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-09T16:19:07.465Z"
-      },
-      {
-        "id": "OVERALL:7ae814b33ce3b1b8",
-        "title": "UG NEET - BSMS/BUMS/BHMS COURSES - DRAFT MERIT LIST (2026-2027)",
-        "link": "https://drive.google.com/file/d/1Cw0BcX1zF98Rt2RhtjFrtL2Z3BSUvYK1/view?usp=sharing",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-09T11:52:55.241Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
