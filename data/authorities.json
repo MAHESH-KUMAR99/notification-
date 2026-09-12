@@ -5823,9 +5823,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-11T10:01:08.067Z",
+    "lastUpdatedDate": "2026-09-12T17:27:12.516Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "453c5e5793650697",
+        "title": "Admission Notice & Select list (after 2nd round online counselling, session 2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_select_list_after_2nd_round_online_counselling_session_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-12T17:27:12.516Z"
+      },
       {
         "id": "a8de47f18be119af",
         "title": "Educational Notice (RIPANS 2nd counselling, 2026)",
@@ -6013,16 +6023,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 16,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "b30ec920c772b2ba",
-        "title": "Educational Notice (Document verification_3GC)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_document_verification_3gc.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 17,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
