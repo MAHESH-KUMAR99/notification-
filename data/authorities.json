@@ -3066,9 +3066,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T16:14:14.005Z",
+    "lastUpdatedDate": "2026-09-12T22:02:26.575Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0af85f8f9e2eec33",
+        "title": "Advt. No. 81 dated-12.09.2026 Important Notice regarding correction in State Merit List Based on NEET (UG)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/784.pdf",
+        "date": "12/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-12T22:02:26.575Z"
+      },
       {
         "id": "631688465950369b",
         "title": "Advt. No. 80 dated-09.09.2026 जी०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम एवं द्वितीय ऑनलाईन साक्षात्कारों से संबंधित आवश्यक सूचना",
@@ -3264,18 +3274,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "titleEn": "Advt. No. 63 dated-20.08.2026 Information related to the organization of second and third round online interview for the result based nomination of Engineering Entrance Competitive Examination (Western Entrance)-2026.",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-21T12:55:06.046Z"
-      },
-      {
-        "id": "fa430d42a1892e2c",
-        "title": "Advt. No. 62 dated-20.08.2026 पोलिटेकनिक प्रवेश प्रतियोगिता परीक्षा (Polytechnic Entrance Competitive Examination]-2026 के परीक्षाफल आधारित द्वितीय एवं तृतीय (अंतिम) ऑनलाईन साक्षात्कारों से संबंधित आवश्यक सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/765.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "titleEn": "Advt. No. 62 dated-20.08.2026 Necessary information related to the second and third (final) online interviews based on the results of the Polytechnic Entrance Competitive Examination-2026.",
         "titleLang": "hi",
         "detectedAt": "2026-08-21T12:55:06.046Z"
       }
