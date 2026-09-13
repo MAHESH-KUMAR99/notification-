@@ -6440,9 +6440,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T13:29:17.536Z",
+    "lastUpdatedDate": "2026-09-13T05:16:34.948Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c8412ec9601b2560",
+        "title": "Vacant seats for B.Tech (CET CODE-131)._0001",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260913336598159.pdf",
+        "date": "13/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-13T05:16:34.948Z"
+      },
+      {
+        "id": "55991bd4af37cab7",
+        "title": "Vacant seats for BBA (CET CODE-125)._0001",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260913133875171.pdf",
+        "date": "13/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-13T05:16:34.948Z"
+      },
+      {
+        "id": "928a76d6996d8a9b",
+        "title": "Vacant Seats for BCA (CET CODE-114)._0001",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260913612821059.pdf",
+        "date": "13/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-13T05:16:34.948Z"
+      },
+      {
+        "id": "d20c325d9fe280f9",
+        "title": "Vacant Seats for MBA (CET CODE-101)._0001",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609131605798467.pdf",
+        "date": "13/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-13T05:16:34.948Z"
+      },
       {
         "id": "676b36254be1f8b4",
         "title": "CUET MERIT LIST FOR B.PHARM PRG. CODE-133 FOR THE A.S:2026-27_dated-10.09.2026",
@@ -6602,46 +6642,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-07T12:02:52.838Z"
-      },
-      {
-        "id": "a99e92841320736c",
-        "title": "ROUND 02 MBBS (CODE-103) & B.Sc. (H) Nursing (CODE-115) (NEET UG 2026): 2026-27.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609071650161557.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-07T12:02:52.838Z"
-      },
-      {
-        "id": "8cd4ecd49eaf077a",
-        "title": "SCHEDULE OF 1st COUNSELLING/ MASTER OF PHYSIOTHERAPY (MPT: CET CODE 107) A.S: -2026-27_dated-03.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260903126184758.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T16:07:57.602Z"
-      },
-      {
-        "id": "483e6b7402f6f967",
-        "title": "Admission Notice-cum-Counselling Schedule for admission to Programme M.Tech. Prog. (Mechanical Engineering): A.S: 2026-27_dated-03.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260903264688762.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-03T16:07:57.602Z"
-      },
-      {
-        "id": "086cfffbf67e8717",
-        "title": "SCHEDULE OF 1st OFFLINE COUNSELLING LE IN BS (PACKAGING TECHNOLOGY), CET CODE-171 ADMISSION A.S:2026-27_dated-03.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609032104833350.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-03T16:07:57.602Z"
       }
     ]
   },
