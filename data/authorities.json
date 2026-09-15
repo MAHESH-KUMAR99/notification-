@@ -802,9 +802,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-10T13:29:36.329Z",
+    "lastUpdatedDate": "2026-09-15T06:35:51.904Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-121",
+        "title": "RESERVE LIST OF CANDIDATES FOR MBBS ADMISSION AT AFMC PUNE THROUGH NEET UG-2026.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "14/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T06:35:51.904Z"
+      },
       {
         "id": "afmc-pune-120",
         "title": "SELECTED CANDIDATE FOR POSITION OF SCIENTIST B MEDICAL FOR VIRAL RESEARCH AND DIAGNOSTIC LABORATORY VRDL, AFMC, PUNE.",
@@ -969,14 +978,6 @@
         "date": "18/06/2026",
         "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-95",
-        "title": "RECRUITMENT OF RESEARCH STAFF FOR MRU - CORE",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "06/06/2026",
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
   },
@@ -987,7 +988,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T13:46:04.204Z",
+    "lastUpdatedDate": "2026-09-15T06:32:10.542Z",
     "pinned": false,
     "notices": [
       {
@@ -1069,6 +1070,16 @@
         "source": "Direct from Website",
         "batchIndex": 6,
         "detectedAt": "2026-09-14T13:46:04.204Z"
+      },
+      {
+        "id": "68d643295d964946",
+        "title": "List of Designated Branches of HDFC Bank for Payment of Tuition Fees",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/List%20of%20Designated%20Branches%20of%20HDFC%20Bank%20for%20Payment%20of%20Tuition%20Fees%202026%202027.pdf",
+        "date": "14/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-09-15T06:32:10.542Z"
       },
       {
         "id": "9ae6cb6ed7c9179b",
@@ -1189,16 +1200,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-11T05:06:19.319Z"
-      },
-      {
-        "id": "4e3fbb790a14af94",
-        "title": "General Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R2/merit_r2_gen_1.2.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-10T13:26:25.562Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -6444,9 +6445,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T19:09:35.849Z",
+    "lastUpdatedDate": "2026-09-15T06:35:02.154Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0c7681fd4358a5e7",
+        "title": "ROUND 02 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR THE PROG. MBBS (CODE-103) & B.Sc (H) NURSING (CODE-115) FOR A.S:2026-27_dated-14.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151350554664.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T06:35:02.154Z"
+      },
       {
         "id": "c867e691821df2e5",
         "title": "GIBS Additional Sanctioned Intake for Admission in BCA (Code-114) for A.S.2026-27",
@@ -6636,16 +6647,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-08T08:48:02.579Z"
-      },
-      {
-        "id": "49a1a0e51011c8e2",
-        "title": "Postponement of On the Spot Registration for Admission Counselling Verification of Documents & allotment of Seat for admission in M.Tech (ME) for 2026-27_dated-08.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609082143559355.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-08T13:27:56.583Z"
       }
     ]
   },
@@ -6868,9 +6869,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T13:52:25.105Z",
+    "lastUpdatedDate": "2026-09-15T06:37:29.110Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "79f44bc63cdbfd3f",
+        "title": "Eligibility Criteria for admission to BDS Course - the requirement of 50% marks in Physics, Chemistry and Biology/Biotechnology taken together in the qualifying examination",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/259/Upload1",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T06:37:29.110Z"
+      },
       {
         "id": "472316f9ca9b6857",
         "title": "Second Phase Centralised Allotment Published",
@@ -7059,16 +7070,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-20T16:51:42.209Z"
-      },
-      {
-        "id": "ea0a91a2c0db69d9",
-        "title": "KERALA MEDICAL COURSES- Candidates Can Rectify Defects In NRI Documents",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/215/Upload1",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-08-20T16:51:42.209Z"
       }
     ]
@@ -7288,9 +7289,19 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T19:10:13.195Z",
+    "lastUpdatedDate": "2026-09-15T06:35:39.413Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "70b0540a5f162b24",
+        "title": "Merit list of candidates for Management Quota(Round 2)",
+        "link": "https://manipurmc.mn.gov.in/media/1789446382_Merit%20list%20of%20candidates%20for%20Management%20Quota.pdf",
+        "date": "14/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T06:35:39.413Z"
+      },
       {
         "id": "46d9775b95dc7971",
         "title": "Notification of merit list of applied candidates for Round 2 Manipur Medical eCounselling",
@@ -7300,6 +7311,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-14T19:10:13.195Z"
+      },
+      {
+        "id": "d7dacbcab5faccd6",
+        "title": "Merit list of candidates for State Government Quota(Round 2)",
+        "link": "https://manipurmc.mn.gov.in/media/1789446324_Merit%20list%20of%20candidates%20for%20State%20Government%20Quota.pdf",
+        "date": "14/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T06:35:39.413Z"
       },
       {
         "id": "2ee6a7aed1155634",
@@ -7469,26 +7490,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-13T08:40:06.798Z"
-      },
-      {
-        "id": "f49946772b6889c3",
-        "title": "NEET UG Notification 2026",
-        "link": "https://manipurmc.mn.gov.in/media/1786605354_NEET%20UG%20Notification%202026.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-13T08:40:06.798Z"
-      },
-      {
-        "id": "d5410226124cd891",
-        "title": "Notification regarding documents to be submitted for Manipur Medical eCounselling 2026",
-        "link": "https://manipurmc.mn.gov.in/media/1786605320_Notification%20regarding%20documents%20to%20be%20submitted%20for%20Manipur%20Medical%20eCounselling%202026.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-08-13T08:40:06.798Z"
       }
     ]
