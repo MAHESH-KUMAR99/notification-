@@ -1412,7 +1412,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T12:32:55.092Z",
+    "lastUpdatedDate": "2026-09-15T17:33:53.795Z",
     "pinned": false,
     "notices": [
       {
@@ -1424,6 +1424,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-15T12:32:55.092Z"
+      },
+      {
+        "id": "90bc06998d599c47",
+        "title": "GQ92.5 - Provisional List of Candidates allotted for MBBS/BDS (Government Quota) Course Session :2026 - 2027 on - 15.09.2026",
+        "link": "https://tnmedicalselection.net/news/15092026073114.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T17:33:53.795Z"
       },
       {
         "id": "000e5b8a69437ba2",
@@ -1604,16 +1614,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-27T21:06:10.496Z"
-      },
-      {
-        "id": "3aa24966bf4b2871",
-        "title": "GQ - PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE SESSION :2026 - 2027 ON - 27.08.2026",
-        "link": "https://tnmedicalselection.net/news/27082026021010.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-27T11:01:43.285Z"
       }
     ]
   },
@@ -2050,9 +2050,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-13T14:51:51.079Z",
+    "lastUpdatedDate": "2026-09-15T17:34:01.374Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5be2eb7faa7cdd6d",
+        "title": "15-09-2026: MBBS CQ 2026-27 Notification for Web Options for Phase II Counselling MBBS CQ 2026-27 - List of Candidates availed FREE EXIT after Phase-I Counselling MBBS CQ 2026-27 - List of Not Reported candidates after Phase-I MBBS-MQ-2026-27-Revised Schedule for uploading the documents for NRI Category Seats",
+        "link": "https://drntr.uhsap.in/index/notification/20260915194741213.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T17:34:01.374Z"
+      },
       {
         "id": "b4638c150c0c109b",
         "title": "13-09-2026: Corrigendum to the Notification dt:13-9-2026 MBBS-BDS -2026-27 - Mgt. Quota - NRI Category Notification",
@@ -2242,16 +2252,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-28T18:23:12.929Z"
-      },
-      {
-        "id": "66c26c9334b162f8",
-        "title": "27-08-2026: MBBS & BDS (CQ)_2026_27_ SCOUTS & GUIDES _PROVISIONAL LIST OF ELIGIBLE CANDIDATES, NOT ELIGIBLE & ABSENTEES CANDIDATES",
-        "link": "https://drntr.uhsap.in/index/notification/20260827175528690.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-27T21:06:18.608Z"
       }
     ]
   },
@@ -2666,9 +2666,129 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T13:50:29.365Z",
+    "lastUpdatedDate": "2026-09-15T17:38:02.693Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "UGMAC:6bba52ca9bb8fb14",
+        "title": "Notice for Extension of Date for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/07 Dated 15.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_07.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T17:38:02.693Z"
+      },
+      {
+        "id": "UGMAC:af23be755aa3f529",
+        "title": "Notice for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/06 Dated 11.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_06.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-11T17:54:29.331Z"
+      },
+      {
+        "id": "UGMAC:b9bc9ff4ce8b4834",
+        "title": "Details for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/05 Dated 11.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_05.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-12T11:12:34.496Z"
+      },
+      {
+        "id": "UGMAC:912a8b9b7ff7a37a",
+        "title": "Details for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 11.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_05.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-11T17:54:29.331Z"
+      },
+      {
+        "id": "UGMAC:6ee4f4eb4f25c3b2",
+        "title": "Notice for Refund of Security Money of Candidates for UGMAC-2024 & UGMAC-2025 (Adv. No. BCECEB(BCECEB)-2026/03 Dated 08.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_03.pdf",
+        "date": "08/09/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-08T13:29:26.044Z"
+      },
+      {
+        "id": "UGMAC:5aaf2acb2c37d0cb",
+        "title": "Notice for Extension in Date for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/04 Dated 31.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_04.pdf",
+        "date": "31/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-31T08:26:32.750Z"
+      },
+      {
+        "id": "UGMAC:d777a670358ff99f",
+        "title": "Notice for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/03 Dated 25.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_03.pdf",
+        "date": "25/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-25T12:59:27.963Z"
+      },
+      {
+        "id": "UGMAC:60fb67ead7e4cacd",
+        "title": "Notice for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/02 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_02.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-07T10:08:01.116Z"
+      },
+      {
+        "id": "UGMAC:e62c695adb249de3",
+        "title": "Details for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 07.08.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_01.pdf",
+        "date": "07/08/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-07T10:08:01.116Z"
+      },
+      {
+        "id": "UGMAC:11ee47ceaf3415d9",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
+        "date": "28/06/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "UGMAC:434d52739f09976d",
+        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
+        "date": "02/04/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 1,
+        "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "Latest Updates:6bba52ca9bb8fb14",
+        "title": "Notice for Extension of Date for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/07 Dated 15.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_07.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T17:38:02.409Z"
+      },
       {
         "id": "Latest Updates:edee09caf191fbd3",
         "title": "Revised Schedule of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/03 Dated 14.09.2026)",
@@ -2858,116 +2978,6 @@
         "source": "Latest Updates",
         "batchIndex": 4,
         "detectedAt": "2026-08-29T08:51:00.010Z"
-      },
-      {
-        "id": "Latest Updates:87a7aab24b5f9aad",
-        "title": "Detail Notice for online MOP-UP Round-2 Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/14 Dated 29.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_14.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 5,
-        "detectedAt": "2026-08-29T08:51:00.010Z"
-      },
-      {
-        "id": "UGMAC:af23be755aa3f529",
-        "title": "Notice for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/06 Dated 11.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_06.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T17:54:29.331Z"
-      },
-      {
-        "id": "UGMAC:b9bc9ff4ce8b4834",
-        "title": "Details for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/05 Dated 11.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_05.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-12T11:12:34.496Z"
-      },
-      {
-        "id": "UGMAC:912a8b9b7ff7a37a",
-        "title": "Details for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 11.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_05.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-11T17:54:29.331Z"
-      },
-      {
-        "id": "UGMAC:6ee4f4eb4f25c3b2",
-        "title": "Notice for Refund of Security Money of Candidates for UGMAC-2024 & UGMAC-2025 (Adv. No. BCECEB(BCECEB)-2026/03 Dated 08.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_03.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-08T13:29:26.044Z"
-      },
-      {
-        "id": "UGMAC:5aaf2acb2c37d0cb",
-        "title": "Notice for Extension in Date for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/04 Dated 31.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_04.pdf",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-31T08:26:32.750Z"
-      },
-      {
-        "id": "UGMAC:d777a670358ff99f",
-        "title": "Notice for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/03 Dated 25.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_03.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T12:59:27.963Z"
-      },
-      {
-        "id": "UGMAC:60fb67ead7e4cacd",
-        "title": "Notice for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/02 Dated 07.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_02.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-07T10:08:01.116Z"
-      },
-      {
-        "id": "UGMAC:e62c695adb249de3",
-        "title": "Details for filling online application form and choice filling for UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 07.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_01.pdf",
-        "date": "07/08/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-07T10:08:01.116Z"
-      },
-      {
-        "id": "UGMAC:11ee47ceaf3415d9",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/02 Dated 28.06.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_02.pdf",
-        "date": "28/06/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
-      },
-      {
-        "id": "UGMAC:434d52739f09976d",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
-        "date": "02/04/2026",
-        "sortTs": null,
-        "source": "UGMAC",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
       }
     ]
   },
@@ -3071,9 +3081,21 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-12T22:02:26.575Z",
+    "lastUpdatedDate": "2026-09-15T17:33:46.035Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "128fa8a75ca30efb",
+        "title": "Advt. No. 82 dated-15.09.2026 बी०एड०/एम०एड०/ बी०पी०एड० पाठ्यक्रमों (B.Ed./M.Ed/B.P.Ed. Course) के शैक्षणिक सत्र 2026-28 में नामांकन की अनुशंसा हेतु चतुर्थ (अंतिम) ऑनलाईन साक्षात्कार से संबंधित महत्वपूर्ण सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/785.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 82 dated-15.09.2026 Important information related to the fourth (final) online interview for the recommendation of nomination for B.Ed./M.Ed/B.P.Ed. Course in the academic session 2026-28.",
+        "titleLang": "hi",
+        "detectedAt": "2026-09-15T17:33:46.035Z"
+      },
       {
         "id": "0af85f8f9e2eec33",
         "title": "Advt. No. 81 dated-12.09.2026 Important Notice regarding correction in State Merit List Based on NEET (UG)-2026 Result",
@@ -3269,18 +3291,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-21T12:55:06.046Z"
-      },
-      {
-        "id": "2efa356621aba342",
-        "title": "Advt. No. 63 dated-20.08.2026 अभियंत्रण प्रवेश प्रतियोगिता परीक्षा (पाश्चिक प्रवेश)-2026 के परीक्षाफल आधारित नामांकन हेतु आयोजित द्वितीय एवं तृतीय चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/766.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "titleEn": "Advt. No. 63 dated-20.08.2026 Information related to the organization of second and third round online interview for the result based nomination of Engineering Entrance Competitive Examination (Western Entrance)-2026.",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-21T12:55:06.046Z"
       }
     ]
   },
@@ -3415,9 +3425,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T12:37:10.817Z",
+    "lastUpdatedDate": "2026-09-15T17:38:25.296Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:4c299bfe10bd9697",
+        "title": "ROUND 3 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/17N_o29pHi8RxxijtTcQJWJOjKTDx-tgR/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T17:38:25.296Z"
+      },
       {
         "id": "OVERALL:51b84f30afcf8486",
         "title": "NOTICE : B.TECH. LATERAL ENTRY STRAY COUNSELLING SCHEDULE",
@@ -3429,6 +3449,16 @@
         "detectedAt": "2026-09-15T12:37:10.817Z"
       },
       {
+        "id": "OVERALL:3515564a3448e3e4",
+        "title": "NOTICE : ROUND 3 DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1lm4Zp693ZEEDJLnB-zMggo6RgIwZ9AGY/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T17:38:25.296Z"
+      },
+      {
         "id": "OVERALL:12cd7f8041aa1f21",
         "title": "B.TECH LATERAL ENTRY VACANCIES AFTER MOPUP ROUND",
         "link": "https://drive.google.com/file/d/15W33VUoxmXL05Z1uBIVUn9Dr0DTWx1Ph/view?usp=sharing",
@@ -3437,6 +3467,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "OVERALL:7afa371ce0b67265",
+        "title": "NOTICE : STRAY COUNSELLING SCHEDULE FOR B.ARCH. AT SMVEC, PUDUCHERRY",
+        "link": "https://drive.google.com/file/d/1syAYRD2XNGZL2VZ2J7UJP7ebLc3BHAUN/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-15T17:38:25.296Z"
       },
       {
         "id": "OVERALL:48c56968466b2627",
@@ -3459,6 +3499,26 @@
         "detectedAt": "2026-09-15T12:37:10.817Z"
       },
       {
+        "id": "UG NON-NEET:4c299bfe10bd9697",
+        "title": "ROUND 3 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/17N_o29pHi8RxxijtTcQJWJOjKTDx-tgR/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 247,
+        "detectedAt": "2026-09-15T17:38:25.296Z"
+      },
+      {
+        "id": "UG NON-NEET:3515564a3448e3e4",
+        "title": "NOTICE : ROUND 3 DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1lm4Zp693ZEEDJLnB-zMggo6RgIwZ9AGY/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 248,
+        "detectedAt": "2026-09-15T17:38:25.296Z"
+      },
+      {
         "id": "UG NEET:3cd241cd20f7f6f4",
         "title": "SVDC - BDS - REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/1AWNOUQuDWzLhyYjbFBYrdCpbQsMsC0EZ/view?usp=sharing",
@@ -3467,6 +3527,16 @@
         "source": "Direct from Website",
         "batchIndex": 328,
         "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "B.ARCH.:7afa371ce0b67265",
+        "title": "NOTICE : STRAY COUNSELLING SCHEDULE FOR B.ARCH. AT SMVEC, PUDUCHERRY",
+        "link": "https://drive.google.com/file/d/1syAYRD2XNGZL2VZ2J7UJP7ebLc3BHAUN/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 405,
+        "detectedAt": "2026-09-15T17:38:25.296Z"
       },
       {
         "id": "B.TECH. LATERAL ENTRY:51b84f30afcf8486",
@@ -3557,66 +3627,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-13T10:35:51.486Z"
-      },
-      {
-        "id": "UG NEET:3cb1324185fe838f",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1j0-fW3lP-Mps0mHEY9fXNcBd0MNdOP9I/view?usp=sharing",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 319,
-        "detectedAt": "2026-09-13T10:35:51.486Z"
-      },
-      {
-        "id": "UG NEET:70e74aad76615377",
-        "title": "ROUND 2 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1fFxGO86-9cZW77UzpSAIhutPikcR3DKl/view?usp=sharing",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 320,
-        "detectedAt": "2026-09-13T14:55:51.156Z"
-      },
-      {
-        "id": "OVERALL:9bfea07a8954e157",
-        "title": "ROUND 2 DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1zOCsoUbFr75YluV6bneg_K37MZnFIcC4/view?usp=sharing",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-12T14:23:04.557Z"
-      },
-      {
-        "id": "OVERALL:6dc4245d43db6173",
-        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/15v8z_ek-uO9WrGP_SLDUy_apoqj6fFd_/view?usp=sharing",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-12T14:23:04.557Z"
-      },
-      {
-        "id": "UG NEET:9bfea07a8954e157",
-        "title": "ROUND 2 DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1zOCsoUbFr75YluV6bneg_K37MZnFIcC4/view?usp=sharing",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 318,
-        "detectedAt": "2026-09-12T14:23:04.557Z"
-      },
-      {
-        "id": "UG NEET:6dc4245d43db6173",
-        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/15v8z_ek-uO9WrGP_SLDUy_apoqj6fFd_/view?usp=sharing",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 319,
-        "detectedAt": "2026-09-12T14:23:04.557Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6869,7 +6879,7 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T12:37:10.368Z",
+    "lastUpdatedDate": "2026-09-15T17:38:24.867Z",
     "pinned": false,
     "notices": [
       {
@@ -6891,6 +6901,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-15T06:37:29.110Z"
+      },
+      {
+        "id": "ab84aadb4a0a6b9d",
+        "title": "Provisional List Of Stray Vacancy Allotment To Pharmacy Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/261/Upload1",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T17:38:24.867Z"
       },
       {
         "id": "472316f9ca9b6857",
@@ -7061,16 +7081,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-24T07:46:22.272Z"
-      },
-      {
-        "id": "c645bd86ec0f20b8",
-        "title": "Seat Matrix for MBBS Courses in Palakkad Institute of Medical Sciences, Walayar",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/217/Upload1",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T06:04:23.389Z"
       }
     ]
   },
