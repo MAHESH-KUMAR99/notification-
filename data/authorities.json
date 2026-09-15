@@ -1412,9 +1412,39 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-12T14:18:40.263Z",
+    "lastUpdatedDate": "2026-09-15T12:32:55.092Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4734692994a3168f",
+        "title": "7.5% - Provisional List of Candidates allotted for MBBS/BDS (Government 7.5 Reservation Quota) Course Session :2026 - 2027 on - 15.09.2026",
+        "link": "https://tnmedicalselection.net/news/15092026034058.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T12:32:55.092Z"
+      },
+      {
+        "id": "000e5b8a69437ba2",
+        "title": "GQ92.5 - Provisional List of Candidates allotted for MBBS/BDS (Government Quota) Course Session :2026 - 2027 on - 15.09.2026",
+        "link": "https://stgaccbarathi.blob.core.windows.net/docs/2026/UG_R2_GQ_ALLOTTED_LIST_15_09_2026_WEB.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T12:32:55.092Z"
+      },
+      {
+        "id": "51450be4f34bf33a",
+        "title": "MQ - Provisional List of Candidates allotted for MBBS/BDS (Management Quota) Course Session :2026 - 2027 on - 15.09.2026",
+        "link": "https://stgaccbarathi.blob.core.windows.net/docs/2026/UG_R2_MQ_ALLOTTED_LIST_15_09_2026_WEB.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-15T12:32:55.092Z"
+      },
       {
         "id": "02faa150534c4a6b",
         "title": "Resignation portal for Tamil Nadu 2026-2027 MBBS & BDS Courses",
@@ -1584,36 +1614,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-27T11:01:43.285Z"
-      },
-      {
-        "id": "78582cdeb6897057",
-        "title": "MQ - PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE SESSION :2026 - 2027 ON - 27.08.2026",
-        "link": "https://tnmedicalselection.net/news/27082026020858.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-27T11:01:43.285Z"
-      },
-      {
-        "id": "0c09539cac3406a6",
-        "title": "TENTATIVE ROUND-1 VACANCY FOR MBBS/BDS DEGREE COURSE 2026-2027 - AFTER SPECIAL CATEGORY ALLOTMENT",
-        "link": "https://tnmedicalselection.net/news/27082026013447.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-08-27T11:01:43.285Z"
-      },
-      {
-        "id": "75d94228afbb62ea",
-        "title": "ADDENDUM TO THE PROVISIONAL RANK LIST FOR MBBS/BDS 2026 - 2027 SESSION (GOVERNMENT QUOTA)",
-        "link": "https://tnmedicalselection.net/news/25082026013739.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T08:48:51.468Z"
       }
     ]
   },
@@ -2262,9 +2262,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T13:46:12.859Z",
+    "lastUpdatedDate": "2026-09-15T12:32:23.102Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a6b99d651e679e6e",
+        "title": "Provisional Allocation of MBBS/BDS seats after consideration of Objections [2nd Round]",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Final%20Allocation%20of%20Seats%20-%202nd%20Round%20counselling%2015.09.26.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T12:32:23.102Z"
+      },
       {
         "id": "2817e371233c1139",
         "title": "SURRENDER OF MBBS/BDS SEAT OF ROUND-1 CANDIDATES – NEET-UG COUNSELLING 2026",
@@ -2454,16 +2464,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-09-07T17:43:30.546Z"
-      },
-      {
-        "id": "b6c8b852054eda9a",
-        "title": "Public notice regarding sports category candidates",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Public%20Notice%20Sports.pdf",
-        "date": "05/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-05T11:58:09.134Z"
       }
     ]
   },
@@ -3415,9 +3415,89 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T19:11:58.664Z",
+    "lastUpdatedDate": "2026-09-15T12:37:10.817Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:51b84f30afcf8486",
+        "title": "NOTICE : B.TECH. LATERAL ENTRY STRAY COUNSELLING SCHEDULE",
+        "link": "https://drive.google.com/file/d/16F0JpPGd89-tCKcRekp9rZCRq98HPgEJ/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "OVERALL:12cd7f8041aa1f21",
+        "title": "B.TECH LATERAL ENTRY VACANCIES AFTER MOPUP ROUND",
+        "link": "https://drive.google.com/file/d/15W33VUoxmXL05Z1uBIVUn9Dr0DTWx1Ph/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "OVERALL:48c56968466b2627",
+        "title": "ADMITTED LIST FOR B.TECH. LATERAL ENTRY - MOPUP ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1d5UfEhE6uuvLEtFUqATMpG-NUVeIr-MB/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "OVERALL:3cd241cd20f7f6f4",
+        "title": "SVDC - BDS - REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1AWNOUQuDWzLhyYjbFBYrdCpbQsMsC0EZ/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "UG NEET:3cd241cd20f7f6f4",
+        "title": "SVDC - BDS - REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1AWNOUQuDWzLhyYjbFBYrdCpbQsMsC0EZ/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 328,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:51b84f30afcf8486",
+        "title": "NOTICE : B.TECH. LATERAL ENTRY STRAY COUNSELLING SCHEDULE",
+        "link": "https://drive.google.com/file/d/16F0JpPGd89-tCKcRekp9rZCRq98HPgEJ/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 415,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:12cd7f8041aa1f21",
+        "title": "B.TECH LATERAL ENTRY VACANCIES AFTER MOPUP ROUND",
+        "link": "https://drive.google.com/file/d/15W33VUoxmXL05Z1uBIVUn9Dr0DTWx1Ph/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 416,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
+      {
+        "id": "B.TECH. LATERAL ENTRY:48c56968466b2627",
+        "title": "ADMITTED LIST FOR B.TECH. LATERAL ENTRY - MOPUP ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1d5UfEhE6uuvLEtFUqATMpG-NUVeIr-MB/view?usp=sharing",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 417,
+        "detectedAt": "2026-09-15T12:37:10.817Z"
+      },
       {
         "id": "OVERALL:d633e9f887b4bc5b",
         "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 3 - (2026 - 2027)",
@@ -3537,86 +3617,6 @@
         "source": "Direct from Website",
         "batchIndex": 319,
         "detectedAt": "2026-09-12T14:23:04.557Z"
-      },
-      {
-        "id": "OVERALL:69651514dbade06e",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 ALLOTMENT (MBBS/BDS/BAMS/BVSC.& AH [NATIONAL SS & NRI]) (ADMITTED IN ROUND 1 / REGISTERED IN ROUND 2)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/round_2_eligible_list.html",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T20:47:39.643Z"
-      },
-      {
-        "id": "OVERALL:0d7d62a5844ac1e0",
-        "title": "NOTICE : VERIFICATION OF DATA OF CANDIDATES WHO APPLIED FRESH FOR UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1aLQo9sEQJ--nHXroiRhpiwO32BGMWi3o/view?usp=sharing",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T14:20:01.650Z"
-      },
-      {
-        "id": "OVERALL:c3ff54aec794736c",
-        "title": "NOTICE : CORRIGENDUM FOR THE EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1776bXZ3TJAIvwxPVSWnf5X_SQvsMcDwK/view?usp=sharing",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T10:01:21.649Z"
-      },
-      {
-        "id": "OVERALL:3a3aefa6cf41ea7e",
-        "title": "LAST DATE FOR PAYMENT OF REGISTRATION FEE FOR UG NEET ROUND 2 HAS BEEN EXTENDED UPTO 11/09/2026, 3.00 P.M.",
-        "link": "https://centacpuducherry.in/#",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T05:10:36.041Z"
-      },
-      {
-        "id": "OVERALL:74359440043b8c24",
-        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/16lOH8DrmAEWYUm-rZ2Pf7hWFjQxrfJDs/view?usp=sharing",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-11T20:47:39.643Z"
-      },
-      {
-        "id": "UG NON-NEET:0d7d62a5844ac1e0",
-        "title": "NOTICE : VERIFICATION OF DATA OF CANDIDATES WHO APPLIED FRESH FOR UG NON-NEET PROFESSIONAL COURSES / UG ARTS, SCIENCE, COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1aLQo9sEQJ--nHXroiRhpiwO32BGMWi3o/view?usp=sharing",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 232,
-        "detectedAt": "2026-09-11T14:20:01.650Z"
-      },
-      {
-        "id": "UG NEET:3a3aefa6cf41ea7e",
-        "title": "LAST DATE FOR PAYMENT OF REGISTRATION FEE FOR UG NEET ROUND 2 HAS BEEN EXTENDED UPTO 11/09/2026, 3.00 P.M.",
-        "link": "https://centacpuducherry.in/#",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 311,
-        "detectedAt": "2026-09-11T05:10:36.041Z"
-      },
-      {
-        "id": "UG NEET:c3ff54aec794736c",
-        "title": "NOTICE : CORRIGENDUM FOR THE EXTENSION OF LAST DATE FOR ROUND 2 PAYMENT OF REGISTRATION FEE / WITHDRAWAL OF ROUND 1 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1776bXZ3TJAIvwxPVSWnf5X_SQvsMcDwK/view?usp=sharing",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 312,
-        "detectedAt": "2026-09-11T10:01:21.649Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5603,9 +5603,29 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-11T14:20:03.823Z",
+    "lastUpdatedDate": "2026-09-15T12:37:12.710Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:01ddb9963c7cd088",
+        "title": "Notice regarding Seat allocation and Revised seat vacancy for 2nd round MBBS/BDS Counselling 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/Notice-regarding-Revised-Seat-Vacancy-for-MBBS-BDS-2nd-round-Counselling-2026-merged.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T12:37:12.710Z"
+      },
+      {
+        "id": "MBBS/BDS Counselling:a8098505fddc6c5a",
+        "title": "Revised Provisional Seat Allocation of MBBS/BDS 2nd Round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/Revised-Provisional-seat-allocation-of-MBBS-BDS-2nd-Round-COunselling-2026-merged.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T12:37:12.710Z"
+      },
       {
         "id": "MBBS/BDS Counselling:25402e43f1a13206",
         "title": "Provisional Seat Allocation of MBBS/BDS 2nd Round Counselling 2026",
@@ -5785,26 +5805,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 1,
         "detectedAt": "2026-08-13T10:16:41.429Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:904da5ed4ae64e03",
-        "title": "List of eligible candidates regarding refund and forfeit of token amount of counselling 2025-26",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/06/LIst-of-refund-and-forfiet-candidates-2025.pdf",
-        "date": "06/06/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:cc90236ed1d7afa8",
-        "title": "Seat allocation list for BDS 4th Stray round counselling 2025-26",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2025/12/BDS-4th-Stray-round-allocation.pdf",
-        "date": "26/12/2025",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 1,
-        "detectedAt": "2026-07-28T10:21:46.740Z"
       }
     ]
   },
@@ -6445,9 +6445,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T06:35:02.154Z",
+    "lastUpdatedDate": "2026-09-15T12:35:18.010Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4880375814d3d0ec",
+        "title": "PROVISIONAL LIST OF ALLOTTED CANDIDATES IN ROUND 02 ONLINE COUNSELLING OF MBBS (CODE 103) 2026-27_dated-15.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151604629451.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T12:35:18.010Z"
+      },
       {
         "id": "0c7681fd4358a5e7",
         "title": "ROUND 02 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR THE PROG. MBBS (CODE-103) & B.Sc (H) NURSING (CODE-115) FOR A.S:2026-27_dated-14.09.2026",
@@ -6457,6 +6467,36 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-15T06:35:02.154Z"
+      },
+      {
+        "id": "219fe65af61255c2",
+        "title": "Schedule for Offline Counselling for BA (Eng), BA (Eco), Integrated BA/BBA LLB, LLM and B.Com Prog. A.S.2026-27_dated-15.09.2026.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260915272206838.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-15T12:35:18.010Z"
+      },
+      {
+        "id": "50ca30247e346f21",
+        "title": "TENTATIVE VACANT SEATS FOR INTEGRATED LLB (CODE-121) FOR THE A.S.2026-27 AS ON 15.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151674812190.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-15T12:35:18.010Z"
+      },
+      {
+        "id": "0ebedab949899d3e",
+        "title": "ROUND 01 BHMS (Code 154) FOR NEET UG 2026 QUALIFIED CANDIDATES SCORE CARD FOLLOWED BY FILLING OF CHOICES/ PREFERENCES A.S:2026-27_dated-15.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609152078752573.pdf",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-15T12:35:18.010Z"
       },
       {
         "id": "c867e691821df2e5",
@@ -6607,46 +6647,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-09T11:50:24.004Z"
-      },
-      {
-        "id": "bd114429f10dc9dc",
-        "title": "SCHEDULE OF 1st OFFLINE COUNSELLING MOT(Neurology) (Code-108) A.S:2026-27_dated-09.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609091489823886.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-09T11:50:24.004Z"
-      },
-      {
-        "id": "874abeb49ac04f8d",
-        "title": "PHYSICAL REPORTING IN Paramedical (B.PT/ B.OT/ BASLP/ BPO/ BMLS) (Code-119/124) and B.Ed (SE) (Code-159)_dated-09.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609091883494623.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-09T11:50:24.004Z"
-      },
-      {
-        "id": "befb89e0fd136d68",
-        "title": "PROVISIONAL LIST OF CANDIDATES REPORTED AT THEIR ALLOTTED COLLEGE IN MBBS PROG. AFTER ROUND 01 COUNSELLING CONDUCTED BY GGSIP UNIVERSITY FOR THE A.S:2026-27_dated-08.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609081734220639.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-08T13:27:56.583Z"
-      },
-      {
-        "id": "46839e3b30a2bb04",
-        "title": "SCHEDULE OF EXTENDED OPEN HOUSE OF OFFLINE COUNSELLING FOR ADMISSION IN B.ARCH. PROG. (CODE-100) AND DISPLAY OF REVISED RANK/MERIT LIST_dated-08.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609082061267982.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-08T08:48:02.579Z"
       }
     ]
   },
@@ -6869,9 +6869,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T06:37:29.110Z",
+    "lastUpdatedDate": "2026-09-15T12:37:10.368Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9dfffa69926dd532",
+        "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES -Provisional Category List Published (Konkani Linguistic Minority)",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/262/Upload1",
+        "date": "15/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-15T12:37:10.368Z"
+      },
       {
         "id": "79f44bc63cdbfd3f",
         "title": "Eligibility Criteria for admission to BDS Course - the requirement of 50% marks in Physics, Chemistry and Biology/Biotechnology taken together in the qualifying examination",
@@ -7061,16 +7071,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-21T06:04:23.389Z"
-      },
-      {
-        "id": "b3d5843118fd7085",
-        "title": "ADMISSION TO MBBS/BDS COURSES- First Phase State Counselling Rescheduled Facility For Option Registration Available For 15% AIQ Seats In Private Dental Colleges And For PIMS, Palakkad",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/216/Upload1",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-20T16:51:42.209Z"
       }
     ]
   },
