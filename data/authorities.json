@@ -2050,9 +2050,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T09:26:41.223Z",
+    "lastUpdatedDate": "2026-09-16T14:18:59.484Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4f80bc7fc418f1cd",
+        "title": "16-09-2026: MBBS MQ 2026-27 Phase-I College wise Allotments BDS- CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I MBBS_2026_CQ_UNFILLED VACANCIES FOR PHASE-II",
+        "link": "https://drntr.uhsap.in/index/notification/20260916185044870.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T14:18:59.484Z"
+      },
       {
         "id": "edb7f49660fa6f3c",
         "title": "16-09-2026: MBBS_2026_CQ_UNFILLED VACANCIES FOR PHASE-II MBBS_2026_27-CQ_Seat Matrix FOR PHASE-II",
@@ -2242,16 +2252,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-01T12:27:42.822Z"
-      },
-      {
-        "id": "ee43d4496ada17e6",
-        "title": "29-08-2026: MBBS & BDS CQ 2026-27 - Final merit list MBBS & BDS-CQ 2026-27 PRIORITY WISE FINAL LIST OF ELIGIBLE & NOT ELIGIBLE CANDIDATES UNDER CAP CATEGORY AFTER EXAMINATION OF GRIEVANCES MBBS - 2026-27 CQ -ADDENDUM TO ELIGIBILITY LIST UNDER PwBD CATEGORY MBBS-SVU-SEAT MATRIX-2026-27 MBBS-SWI-SEAT MATRIX-2026-27 MBBS-AU-SEAT MATRIX-2026-27 MBBS-MINORITY COLLEGES SEAT MATRIX-2026-27 1st Phase MBBS CQ- 2026-27- Notification for Web Options MBBS-CQ-2026-27-INSTRUCTIONS ON PROCEDURE OF COUNSELLING",
-        "link": "https://drntr.uhsap.in/index/notification/20260829192829277.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-29T14:16:35.061Z"
       }
     ]
   },
@@ -5217,7 +5217,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T13:52:13.550Z",
+    "lastUpdatedDate": "2026-09-16T14:23:22.130Z",
     "pinned": false,
     "notices": [
       {
@@ -6261,9 +6261,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-08-27T11:05:58.755Z",
+    "lastUpdatedDate": "2026-09-16T14:23:18.103Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "dd206a4355f6b86d",
+        "title": "Bulletin of Information for (BAMS/BUMS/BHMS) Admissions 2026-2027",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1789553067361-FINAL_BOI_OF_UG_COURSE_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-09-16T14:23:18.103Z"
+      },
+      {
+        "id": "8204feeb288b1ed5",
+        "title": "Admission Notice for BHMS for the Academic Session 2026-2027",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1789553220016-ADMISSION_NOTICE_UG_BHMS_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 11,
+        "detectedAt": "2026-09-16T14:23:18.103Z"
+      },
       {
         "id": "7e871db12edd4e97",
         "title": "Certificate_from_the_Principal_of_the_school last attended",
@@ -6436,15 +6456,6 @@
         "sortTs": null,
         "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:50.385Z"
-      },
-      {
-        "id": "ca4681ddf1f210c7",
-        "title": "Performa of Certificate from the Principal of the school",
-        "link": "https://fmsc.du.ac.in/upload/Performa%20of%20Certificate%20from%20the%20Principal%20of%20the%20school.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 5,
-        "detectedAt": "2026-07-08T09:36:50.385Z"
       }
     ]
   },
@@ -6455,9 +6466,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T12:35:18.010Z",
+    "lastUpdatedDate": "2026-09-16T14:21:12.066Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "91fea0121088d321",
+        "title": "FILLING UP OF VACANCIES VIS-A-VIS SCHEDULE OF ACTIVITES IN PURSUANCE TO ORDER DATED 14.09.2026 OF DIRECTOR, DHE GOVT. OF NCT OF DELHI, TO BE FOLLOWED BY AFFILIATED INSTITUTE/COLLEGES: 2026-27_dated-16",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260916767577703.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T14:21:12.066Z"
+      },
+      {
+        "id": "337ea18e9f266de5",
+        "title": "REVISED VACANT SEAT STATUS FOR B.COM (CODE-146)_dated-16.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260916801239901.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-16T14:21:12.066Z"
+      },
+      {
+        "id": "95d02ddf7dc888b4",
+        "title": "RANK/MERIT LIST OF THROUGH CET 2026 FOR B.COM PRG. (CODE-146) 2026-27_dated-16.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609161826528064.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-16T14:21:12.066Z"
+      },
+      {
+        "id": "e309b96bb4c894cb",
+        "title": "RANK/MERIT LIST OF THROUGH CUET 2026 FOR B.COM PRG. (CODE-146) 2026-27_dated-16.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260916418673451.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-16T14:21:12.066Z"
+      },
       {
         "id": "4880375814d3d0ec",
         "title": "PROVISIONAL LIST OF ALLOTTED CANDIDATES IN ROUND 02 ONLINE COUNSELLING OF MBBS (CODE 103) 2026-27_dated-15.09.2026",
@@ -6617,46 +6668,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-10T13:29:17.536Z"
-      },
-      {
-        "id": "bbb4cb52755ec284",
-        "title": "SCHEDULE OF 1st ROUND OF OFFLINE COUNSELLING/ ADMISSION FOR THE PROG. (L.E B.PHARM) (CODE-138) FOR ADMISSION THROUGH THE MERIT FOR A.S:2026-27_dated-10.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260910657714979.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-10T13:29:17.536Z"
-      },
-      {
-        "id": "1dfa2f1e2e8ddb37",
-        "title": "Writ Petition No. W.P.(C) 11920/2026 titled ” Justice For All Vs Hon’ble Lieutenant Governor of NCT of Delhi And Ors in the Hon’ble High Court of Delhi – Regarding._dated-10.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260910350068.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-10T13:29:17.536Z"
-      },
-      {
-        "id": "7f425c750ec6fcec",
-        "title": "Obtaining of ‘Consent’ from the ‘Registered and Not Admitted’ candidates to participate in Offline Counselling in consonance with the University’s Notification No. 237/2026_dated-09.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609091996296214.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-09T11:50:24.004Z"
-      },
-      {
-        "id": "73768207e8bc4ed5",
-        "title": "Guidelines for abtaining Eligibility Certificate by Persons with Benchmark Disabilities (PwBD) candidates for admission to MBBS Course- UG Counselling 2026_dated-09.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609092055342947.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-09T11:50:24.004Z"
       }
     ]
   },
