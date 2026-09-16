@@ -2050,9 +2050,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T17:34:01.374Z",
+    "lastUpdatedDate": "2026-09-16T09:26:41.223Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "edb7f49660fa6f3c",
+        "title": "16-09-2026: MBBS_2026_CQ_UNFILLED VACANCIES FOR PHASE-II MBBS_2026_27-CQ_Seat Matrix FOR PHASE-II",
+        "link": "https://drntr.uhsap.in/index/notification/20260916143642417.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T09:26:41.223Z"
+      },
       {
         "id": "5be2eb7faa7cdd6d",
         "title": "15-09-2026: MBBS CQ 2026-27 Notification for Web Options for Phase II Counselling MBBS CQ 2026-27 - List of Candidates availed FREE EXIT after Phase-I Counselling MBBS CQ 2026-27 - List of Not Reported candidates after Phase-I MBBS-MQ-2026-27-Revised Schedule for uploading the documents for NRI Category Seats",
@@ -2242,16 +2252,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-29T14:16:35.061Z"
-      },
-      {
-        "id": "0e01e5b55bc2fa70",
-        "title": "28-08-2026: PG (Dental) CQ 2026-27 - Provisional Merit list PG (Dental) CQ 2026-27 - Not Eligible list PG (Dental) CQ 2026-27 - Fee paid but documents not uploaded list",
-        "link": "https://drntr.uhsap.in/index/notification/20260828162424320.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-28T18:23:12.929Z"
       }
     ]
   },
@@ -2262,9 +2262,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T12:32:23.102Z",
+    "lastUpdatedDate": "2026-09-16T09:26:34.535Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "342e58349ad6652a",
+        "title": "Public notice Debar candidate during 2nd round counselling Selection list of 04 candidates",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Notice%204%20debar%20candidates%2016.09.2026.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-16T09:26:34.535Z"
+      },
       {
         "id": "a6b99d651e679e6e",
         "title": "Provisional Allocation of MBBS/BDS seats after consideration of Objections [2nd Round]",
@@ -2453,16 +2463,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-09-07T17:43:30.546Z"
-      },
-      {
-        "id": "2ac7e421ebde2446",
-        "title": "Tentative Vacancy position for the MBBS/BDS Courses for the session 2026 for 2nd round Note: The vacancy position displayed is tentative and subject to change. Candidates are advised to exercise their choices for all colleges, categories and quotas, as additional vacancies may arise during the counselling process due to shifting/upgradation of candidates or other consequential changes in seat availability. MBBS BDS",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndVacancy/Tentative%20vacany%20poistion%20of%20MBS%20of%201st%20round%20of%20counseling.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-09-07T17:43:30.546Z"
       }
     ]
@@ -3425,9 +3425,89 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T17:38:25.296Z",
+    "lastUpdatedDate": "2026-09-16T09:31:12.436Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:887b8f519394bddf",
+        "title": "ROUND 3 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1tbBxQbTkdBNhWwnUIONGin8OL0nvzbgj/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "OVERALL:be38848618091b10",
+        "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/17nW6k7gp51Xe5WLwK_Vy06hcz0De-pQJ/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "OVERALL:c78e6f7ded555aec",
+        "title": "B.N.Y.S COURSE - FINAL MERIT LIST - 2026-2027 BASED ON H.SC. SCORE",
+        "link": "https://drive.google.com/file/d/1HAVZkqS6Amm2k5fZVYyi_5JwvvGwJjyE/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "OVERALL:566680fe8b515e56",
+        "title": "UG NEET - BSMS/BUMS/BHMS COURSES - FINAL MERIT LIST - 2026-2027",
+        "link": "https://drive.google.com/file/d/1FxTWYIWhj4cK_dmGcSUZgvbkQTFd8YXP/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "UG NON-NEET:887b8f519394bddf",
+        "title": "ROUND 3 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1tbBxQbTkdBNhWwnUIONGin8OL0nvzbgj/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 251,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "UG NON-NEET:be38848618091b10",
+        "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/17nW6k7gp51Xe5WLwK_Vy06hcz0De-pQJ/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 252,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "UG NON-NEET:c78e6f7ded555aec",
+        "title": "B.N.Y.S COURSE - FINAL MERIT LIST - 2026-2027 BASED ON H.SC. SCORE",
+        "link": "https://drive.google.com/file/d/1HAVZkqS6Amm2k5fZVYyi_5JwvvGwJjyE/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 253,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "UG NEET:566680fe8b515e56",
+        "title": "UG NEET - BSMS/BUMS/BHMS COURSES - FINAL MERIT LIST - 2026-2027",
+        "link": "https://drive.google.com/file/d/1FxTWYIWhj4cK_dmGcSUZgvbkQTFd8YXP/view?usp=sharing",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 340,
+        "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
       {
         "id": "OVERALL:4c299bfe10bd9697",
         "title": "ROUND 3 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
@@ -3547,86 +3627,6 @@
         "source": "Direct from Website",
         "batchIndex": 415,
         "detectedAt": "2026-09-15T12:37:10.817Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:12cd7f8041aa1f21",
-        "title": "B.TECH LATERAL ENTRY VACANCIES AFTER MOPUP ROUND",
-        "link": "https://drive.google.com/file/d/15W33VUoxmXL05Z1uBIVUn9Dr0DTWx1Ph/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 416,
-        "detectedAt": "2026-09-15T12:37:10.817Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:48c56968466b2627",
-        "title": "ADMITTED LIST FOR B.TECH. LATERAL ENTRY - MOPUP ROUND - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1d5UfEhE6uuvLEtFUqATMpG-NUVeIr-MB/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 417,
-        "detectedAt": "2026-09-15T12:37:10.817Z"
-      },
-      {
-        "id": "OVERALL:d633e9f887b4bc5b",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 3 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_3_eligible_list.html",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-14T19:11:58.664Z"
-      },
-      {
-        "id": "OVERALL:ae6d6b5cbe174f95",
-        "title": "NOTICE : ROUND 3 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1wXF8FdEyH6PtdNgjlqLq8QRDFJYVNs3W/view?usp=sharing",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-14T19:11:58.664Z"
-      },
-      {
-        "id": "UG NON-NEET:d633e9f887b4bc5b",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 3 - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_3_eligible_list.html",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 240,
-        "detectedAt": "2026-09-14T19:11:58.664Z"
-      },
-      {
-        "id": "UG NON-NEET:ae6d6b5cbe174f95",
-        "title": "NOTICE : ROUND 3 ELIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1wXF8FdEyH6PtdNgjlqLq8QRDFJYVNs3W/view?usp=sharing",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 241,
-        "detectedAt": "2026-09-14T19:11:58.664Z"
-      },
-      {
-        "id": "OVERALL:70e74aad76615377",
-        "title": "ROUND 2 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / B.V.SC.& A.H. [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1fFxGO86-9cZW77UzpSAIhutPikcR3DKl/view?usp=sharing",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-13T14:55:51.156Z"
-      },
-      {
-        "id": "OVERALL:3cb1324185fe838f",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1j0-fW3lP-Mps0mHEY9fXNcBd0MNdOP9I/view?usp=sharing",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-13T10:35:51.486Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5613,9 +5613,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T12:37:12.710Z",
+    "lastUpdatedDate": "2026-09-16T09:31:14.480Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:70a4da5217a8ec73",
+        "title": "Final Seat Allocation of MBBS/BDS 2nd round Counselling 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/Final-Seat-Allocation-of-MBBS-BDS-2nd-Round-Counselling-2026-merged.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T09:31:14.480Z"
+      },
       {
         "id": "MBBS/BDS Counselling:01ddb9963c7cd088",
         "title": "Notice regarding Seat allocation and Revised seat vacancy for 2nd round MBBS/BDS Counselling 2026-27",
@@ -5804,16 +5814,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
-        "detectedAt": "2026-08-13T10:16:41.429Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:a8c2673abe578101",
-        "title": "Notice for counselling and admission for MBBD BDS course for academic session 2026-27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Notice-for-counselling-and-admission-for-MBBD-BDS-course-for-academic-session-2026-27.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 1,
         "detectedAt": "2026-08-13T10:16:41.429Z"
       }
     ]
