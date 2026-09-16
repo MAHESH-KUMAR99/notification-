@@ -2050,9 +2050,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T14:18:59.484Z",
+    "lastUpdatedDate": "2026-09-16T18:20:16.997Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5c459f6555d49076",
+        "title": "16-09-2026: B.Sc. (Nursing) 4 YDC 2026-27 - Date Extension Notification for online application MBBS MQ 2026-27 Phase-I College wise Allotments BDS- CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I MBBS_2026_CQ_UNFILLED VACANCIES FOR PHASE-II",
+        "link": "https://drntr.uhsap.in/index/notification/20260916201455187.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T18:20:16.997Z"
+      },
       {
         "id": "4f80bc7fc418f1cd",
         "title": "16-09-2026: MBBS MQ 2026-27 Phase-I College wise Allotments BDS- CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I MBBS_2026_CQ_UNFILLED VACANCIES FOR PHASE-II",
@@ -2242,16 +2252,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-01T16:53:11.175Z"
-      },
-      {
-        "id": "6c16ee2fc9ce315b",
-        "title": "01-09-2026: MBBS-BDS-CQ-2026-27-Addendum to Final Merit list displayed on 29-08-2026 MBBS-BDS-CQ-2026-27-GRIEVANCE REPORT UNDER SCOUTS & GUIDES CATEGORY MBBS& BDS _CQ_2026-27 Priority wise _ FINAL Eligible LIST under Scouts Guides Category",
-        "link": "https://drntr.uhsap.in/index/notification/20260901173030470.pdf",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-01T12:27:42.822Z"
       }
     ]
   },
@@ -3425,9 +3425,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T09:31:12.436Z",
+    "lastUpdatedDate": "2026-09-16T18:24:25.035Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:56b7d5583cfe89cc",
+        "title": "NOTICE : ROUND 2 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1DiuLVm5koq2A-UEDmQ4JbHTrP3D4RzVa/view?usp=drivesdk",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T18:24:25.035Z"
+      },
       {
         "id": "OVERALL:887b8f519394bddf",
         "title": "ROUND 3 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
@@ -3439,6 +3449,16 @@
         "detectedAt": "2026-09-16T09:31:12.436Z"
       },
       {
+        "id": "OVERALL:c8c105c8b1c01400",
+        "title": "PG DENTAL (M.D.S.) COURSES - VACANCIES AFTER ROUND 1",
+        "link": "https://drive.google.com/file/d/18f7A3mShs-2-Y0wS_gnbzk6fK01CP7G_/view?usp=drivesdk",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-16T18:24:25.035Z"
+      },
+      {
         "id": "OVERALL:be38848618091b10",
         "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
         "link": "https://drive.google.com/file/d/17nW6k7gp51Xe5WLwK_Vy06hcz0De-pQJ/view?usp=sharing",
@@ -3447,6 +3467,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "OVERALL:2b986e5eaaae3f8d",
+        "title": "PG DENTAL ADMITTED LIST - FIRST ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1l6RTEALGpBh94V55mSeL5726WUMgsOFi/view?usp=drivesdk",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-16T18:24:25.035Z"
       },
       {
         "id": "OVERALL:c78e6f7ded555aec",
@@ -3467,6 +3497,36 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-09-16T09:31:12.436Z"
+      },
+      {
+        "id": "PG DENTAL:56b7d5583cfe89cc",
+        "title": "NOTICE : ROUND 2 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1DiuLVm5koq2A-UEDmQ4JbHTrP3D4RzVa/view?usp=drivesdk",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 236,
+        "detectedAt": "2026-09-16T18:24:25.035Z"
+      },
+      {
+        "id": "PG DENTAL:c8c105c8b1c01400",
+        "title": "PG DENTAL (M.D.S.) COURSES - VACANCIES AFTER ROUND 1",
+        "link": "https://drive.google.com/file/d/18f7A3mShs-2-Y0wS_gnbzk6fK01CP7G_/view?usp=drivesdk",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 237,
+        "detectedAt": "2026-09-16T18:24:25.035Z"
+      },
+      {
+        "id": "PG DENTAL:2b986e5eaaae3f8d",
+        "title": "PG DENTAL ADMITTED LIST - FIRST ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1l6RTEALGpBh94V55mSeL5726WUMgsOFi/view?usp=drivesdk",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 238,
+        "detectedAt": "2026-09-16T18:24:25.035Z"
       },
       {
         "id": "UG NON-NEET:887b8f519394bddf",
@@ -3566,66 +3626,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-09-15T12:37:10.817Z"
-      },
-      {
-        "id": "OVERALL:3cd241cd20f7f6f4",
-        "title": "SVDC - BDS - REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1AWNOUQuDWzLhyYjbFBYrdCpbQsMsC0EZ/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-15T12:37:10.817Z"
-      },
-      {
-        "id": "UG NON-NEET:4c299bfe10bd9697",
-        "title": "ROUND 3 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/17N_o29pHi8RxxijtTcQJWJOjKTDx-tgR/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 247,
-        "detectedAt": "2026-09-15T17:38:25.296Z"
-      },
-      {
-        "id": "UG NON-NEET:3515564a3448e3e4",
-        "title": "NOTICE : ROUND 3 DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1lm4Zp693ZEEDJLnB-zMggo6RgIwZ9AGY/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 248,
-        "detectedAt": "2026-09-15T17:38:25.296Z"
-      },
-      {
-        "id": "UG NEET:3cd241cd20f7f6f4",
-        "title": "SVDC - BDS - REDUCED FEES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1AWNOUQuDWzLhyYjbFBYrdCpbQsMsC0EZ/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 328,
-        "detectedAt": "2026-09-15T12:37:10.817Z"
-      },
-      {
-        "id": "B.ARCH.:7afa371ce0b67265",
-        "title": "NOTICE : STRAY COUNSELLING SCHEDULE FOR B.ARCH. AT SMVEC, PUDUCHERRY",
-        "link": "https://drive.google.com/file/d/1syAYRD2XNGZL2VZ2J7UJP7ebLc3BHAUN/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 405,
-        "detectedAt": "2026-09-15T17:38:25.296Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:51b84f30afcf8486",
-        "title": "NOTICE : B.TECH. LATERAL ENTRY STRAY COUNSELLING SCHEDULE",
-        "link": "https://drive.google.com/file/d/16F0JpPGd89-tCKcRekp9rZCRq98HPgEJ/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 415,
         "detectedAt": "2026-09-15T12:37:10.817Z"
       },
       {
@@ -4489,7 +4489,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T13:47:34.314Z",
+    "lastUpdatedDate": "2026-09-16T18:21:25.396Z",
     "pinned": false,
     "notices": [
       {
@@ -6890,9 +6890,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T17:38:24.867Z",
+    "lastUpdatedDate": "2026-09-16T18:24:24.548Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bc3b20ada6afea4c",
+        "title": "Stray Vacancy Allotment To Pharmacy Course Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/263/Upload1",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T18:24:24.548Z"
+      },
       {
         "id": "9dfffa69926dd532",
         "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES -Provisional Category List Published (Konkani Linguistic Minority)",
@@ -7082,16 +7092,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-24T13:07:24.545Z"
-      },
-      {
-        "id": "f16def72fb007765",
-        "title": "Admission to BDS Course in Self-Financing Dental Colleges – Implementation of 15% All India Quota (AIQ) from the Academic Year 2026-27",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/226/Upload1",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T07:46:22.272Z"
       }
     ]
   },
@@ -7310,9 +7310,39 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T06:35:39.413Z",
+    "lastUpdatedDate": "2026-09-16T18:22:36.498Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a34239ee1c7a8afe",
+        "title": "Notification of list of allotted candidates in State Government and Management Quota seats for 2nd round of Manipur Medical e-Counselling 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1789575884_Notification%20of%20list%20of%20allotted%20candidates%20in%20State%20Government%20and%20Management%20Quota%20seats%20for%202nd%20round%20of%20Manipur%20Medical%20e-Counselling%202026.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-16T18:22:36.498Z"
+      },
+      {
+        "id": "469f383f60de796e",
+        "title": "List of candidates allotted in State Government Quota seats for 2nd round of Manipur Medical e-Counselling 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1789575838_List%20of%20candidates%20allotted%20in%20State%20Government%20Quota%20seats%20for%202nd%20round%20of%20Manipur%20Medical%20e-Counselling%202026.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-16T18:22:36.498Z"
+      },
+      {
+        "id": "e40a98420ddf8a86",
+        "title": "List of the candidates allotted in Management Quota for 2nd Round of Manipur Medical e-Counselling 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1789575791_List%20of%20the%20candidates%20allotted%20in%20Management%20Quota%20for%202nd%20Round%20of%20Manipur%20Medical%20e-Counselling%202026.pdf",
+        "date": "16/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-16T18:22:36.498Z"
+      },
       {
         "id": "70b0540a5f162b24",
         "title": "Merit list of candidates for Management Quota(Round 2)",
@@ -7482,36 +7512,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-08-24T13:03:18.809Z"
-      },
-      {
-        "id": "a7f6931031700512",
-        "title": "Notification of the merit lists of the 1st round of Manipur Medical e-Counselling 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1787574236_Notification%20of%20the%20merit%20lists%20of%20the%201st%20round%20of%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-24T13:03:18.809Z"
-      },
-      {
-        "id": "da5bc82909de13f6",
-        "title": "Revised schedule for Round 1 Counselling",
-        "link": "https://manipurmc.mn.gov.in/media/1787311848_newschedule.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T11:36:31.444Z"
-      },
-      {
-        "id": "fdbdbd6efc090807",
-        "title": "Annerxure B- Seat Matrix round 1 Neet ug- 2026",
-        "link": "https://manipurmc.mn.gov.in/media/1786605200_Annerxure%20B-%20Seat%20Matrix%20round%201%20Neet%20ug-%202026.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T08:40:06.798Z"
       }
     ]
   },
