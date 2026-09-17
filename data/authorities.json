@@ -802,9 +802,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T05:12:18.182Z",
+    "lastUpdatedDate": "2026-09-17T10:20:45.021Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-123",
+        "title": "RESULT OF RECRUIMENT FOR JUNIOR RESEARCH FELLOW JRF FOR AFMRC PROJECT NO 5763 2025 EFFECT OF ENVIRONMENTAL CONDITIONS ON PHYSICAL STABILITY AND CHEMICAL POTENCY OF THE DRUG FORMULATION.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "16/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T10:20:45.021Z"
+      },
       {
         "id": "afmc-pune-122",
         "title": "RESERVE LIST OF CANDIDATES FOR MBBS ADMISSION AT AFMC PUNE THROUGH NEET UG-2026.",
@@ -971,14 +980,6 @@
         "date": "30/06/2026",
         "batchIndex": 2,
         "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-98",
-        "title": "SHORTLIST CANDIDATE FOR INTERVIEW ON TEMPORARY POSITION, YMF NODE RECRUITMENT, JUN 2026 dt 01 JUN 2026 .",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "18/06/2026",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
   },
@@ -989,7 +990,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T06:32:10.542Z",
+    "lastUpdatedDate": "2026-09-17T10:18:08.290Z",
     "pinned": false,
     "notices": [
       {
@@ -1031,6 +1032,16 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-14T13:46:04.204Z"
+      },
+      {
+        "id": "23a8aad1455a2a6e",
+        "title": "Last Rank",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R2/last_merit_mopwise_r2_0330.pdf?v=1",
+        "date": "14/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-17T10:18:08.290Z"
       },
       {
         "id": "7753e415dd7d286c",
@@ -1191,16 +1202,6 @@
         "titleEn": "It is hereby informed by the Admission Committee that the deadline for choice filling for the second round of MBBS/BDS courses is dt. Extended to 10:00 AM on 12/09/2026. All the candidates are requested to take special note of this matter. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 10:00 AM on 12/09/2026. All candidates are advised to take special note of the above.]",
         "titleLang": "gu",
         "detectedAt": "2026-09-11T09:56:52.176Z"
-      },
-      {
-        "id": "3a614d15eba6a75b",
-        "title": "Undergraduate (MBBS) Course Seat Matrix for the Academic Year 2026–27 as Provided by the National Medical Commission (NMC), New Delhi, on 10.09.2026",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/SeatMatrixPublicNotice_on_1_9_26_Merged.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T05:06:19.319Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2051,9 +2052,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T18:20:16.997Z",
+    "lastUpdatedDate": "2026-09-17T10:18:21.468Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9e03d7d1d2d95c26",
+        "title": "17-09-2026: BDS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-I UG AYUSH Courses MQ Detailed Notification for Online Application 2026-27 UG AYUSH Courses AIQ Detailed Notification for Online Application 2026-27 UG AYUSH Courses AIQ & MQ Prospectus 2026-27 GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES FOR ADMISSION TO THE POST GRADUATE MEDICAL COURSE-2026 BDS-CQ 2026-27 - List of Phase-I_MRC Candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20260917152748567.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T10:18:21.468Z"
+      },
       {
         "id": "5c459f6555d49076",
         "title": "16-09-2026: B.Sc. (Nursing) 4 YDC 2026-27 - Date Extension Notification for online application MBBS MQ 2026-27 Phase-I College wise Allotments BDS- CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I MBBS_2026_CQ_UNFILLED VACANCIES FOR PHASE-II",
@@ -2243,16 +2254,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-02T09:28:41.094Z"
-      },
-      {
-        "id": "38df032155b0be49",
-        "title": "01-09-2026: MBBS & BDS MQ 2026-27 Detailed Notification for Online Application MBBS-BDS-CQ-2026-27-REVISED PRIORITY WISE FINAL LIST OF ELIGIBLE & NOT ELIGIBLE CANDIDATES UNDER CAP CATEGORY AFTER EXAMINATION OF GRIEVANCES MBBS-BDS-CQ-2026-27-Addendum to Final Merit list displayed on 29-08-2026 MBBS-BDS-CQ-2026-27-GRIEVANCE REPORT UNDER SCOUTS & GUIDES CATEGORY MBBS& BDS _CQ_2026-27 Priority wise _ FINAL Eligible LIST under Scouts Guides Category",
-        "link": "https://drntr.uhsap.in/index/notification/20260901205809253.pdf",
-        "date": "01/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-01T16:53:11.175Z"
       }
     ]
   },
@@ -6262,9 +6263,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T05:13:36.915Z",
+    "lastUpdatedDate": "2026-09-17T10:22:01.418Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b3d11937efb383f4",
+        "title": "Online Registration Link for UG (BHMS) Admissions 2026-2027",
+        "link": "https://faumadmission.uod.ac.in/",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T10:22:01.418Z"
+      },
+      {
+        "id": "cf2d38ae9ec7c010",
+        "title": "Surety Bond Medical (2026)",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1787801007394-SURETY_BOND-2026_260826_100008.PDF",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-17T10:22:01.418Z"
+      },
       {
         "id": "4f2326d6761df1d9",
         "title": "ANNEXURES OF BOI UG BAMS/BUMS/BHMS 2026 - SURETY BOND, PRINCIPAL CERTIFICATE, PwBD, ECC,EWS CERTIFICATE, OBC CERTIFICATE, SC ST CERTIFICATE ETC.",
@@ -6439,24 +6460,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:50.385Z"
-      },
-      {
-        "id": "939580f431f3af21",
-        "title": "PRESCRIBED FORMAT OF EDUCATIONAL CONCESSION CERTIFICATE (ECC) for CW Category under (85% Delhi Quota) to various UG courses - 2026-2027- Annexure - K",
-        "link": "https://fmsc.du.ac.in/upload/ECC.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:36:50.385Z"
-      },
-      {
-        "id": "7e3d601556835560",
-        "title": "Surety Bond 2026-2027",
-        "link": "https://fmsc.du.ac.in/upload/SURETY%20BOND-2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:36:50.385Z"
       }
     ]
@@ -7312,9 +7315,19 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T18:22:36.498Z",
+    "lastUpdatedDate": "2026-09-17T10:20:28.302Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f2342032552e4324",
+        "title": "Notification for Round 2 Counselling for Nursing, Pharmacy and Allied and Healthcare courses 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1789640160_Round%202%20Counselling%20Notification.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T10:20:28.302Z"
+      },
       {
         "id": "a34239ee1c7a8afe",
         "title": "Notification of list of allotted candidates in State Government and Management Quota seats for 2nd round of Manipur Medical e-Counselling 2026",
@@ -7503,16 +7516,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-08-24T13:03:18.809Z"
-      },
-      {
-        "id": "631151264fe8410f",
-        "title": "Merit lists of the Management quota for 1st round of Manipur Medical e-Counselling 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1787574417_Merit%20lists%20of%20the%20Management%20quota%20for%201st%20round%20of%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-08-24T13:03:18.809Z"
       }
     ]
