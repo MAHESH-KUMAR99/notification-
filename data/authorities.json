@@ -2668,9 +2668,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T17:38:02.693Z",
+    "lastUpdatedDate": "2026-09-17T15:16:46.699Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "UGMAC:f09ff50664246a14",
+        "title": "Notice for Extension of Date for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/08 Dated 17.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_08.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T15:16:46.699Z"
+      },
       {
         "id": "UGMAC:6bba52ca9bb8fb14",
         "title": "Notice for Extension of Date for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/07 Dated 15.09.2026)",
@@ -2780,6 +2790,26 @@
         "source": "UGMAC",
         "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "Latest Updates:f09ff50664246a14",
+        "title": "Notice for Extension of Date for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/08 Dated 17.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_08.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T15:16:46.430Z"
+      },
+      {
+        "id": "Latest Updates:3f2693949a87494f",
+        "title": "Notice for offline Spot Round-2 Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/13 Dated 17.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_13.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-17T15:16:46.430Z"
       },
       {
         "id": "Latest Updates:6bba52ca9bb8fb14",
@@ -2959,26 +2989,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 2,
-        "detectedAt": "2026-08-29T08:51:00.010Z"
-      },
-      {
-        "id": "Latest Updates:1436aa04a7e6e391",
-        "title": "Detail Notice for online MOP-UP Round Counselling of DECE[LE]-2026 (Adv. No. BCECEB(DECE[LE])-2026/07 Dated 29.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DLE26_07.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 3,
-        "detectedAt": "2026-08-29T08:51:00.010Z"
-      },
-      {
-        "id": "Latest Updates:bb719877b9aac1de",
-        "title": "Important Notice for online MOP-UP Round-2 Counselling of DCECE[PE]-2026(Adv. No. BCECEB(DCECE)-2026/15 Dated 29.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_DCECE26_15.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 4,
         "detectedAt": "2026-08-29T08:51:00.010Z"
       }
     ]
@@ -4491,7 +4501,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T18:21:25.396Z",
+    "lastUpdatedDate": "2026-09-17T15:14:14.370Z",
     "pinned": false,
     "notices": [
       {
@@ -4723,9 +4733,29 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-08T13:29:38.341Z",
+    "lastUpdatedDate": "2026-09-17T15:17:00.000Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:a74cbe6a607ab5d4",
+        "title": "INFORMATION & INSTRUCTIONS FOR COUNSELLING & ADMISSION TO BAMS / BHMS COURSES, 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609171379291928.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T15:17:00.000Z"
+      },
+      {
+        "id": "OJEE:37447f81e8e35cf6",
+        "title": "TENTATIVE SCHEDULE FOR COUNSELLING AND ADMISSION FOR BHMS/BAMS COURSES (2026-27)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609171730519.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-17T15:17:00.000Z"
+      },
       {
         "id": "OJEE:7e4f9aefcbcb304d",
         "title": "TENTATIVE Web-BASED COUNSELLING SCHEDULE FOR B.Pharm, M.Pharm, LE Pharmacy COURSE FOR THE SESSION 2026-27",
@@ -4905,26 +4935,6 @@
         "source": "OJEE",
         "batchIndex": 2,
         "detectedAt": "2026-07-17T12:45:02.404Z"
-      },
-      {
-        "id": "OJEE:c4cd184bc62a8d3b",
-        "title": "NOTICE FOR WORKING PROFESSIONALS",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607101541931856.pdf",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-10T12:29:25.757Z"
-      },
-      {
-        "id": "OJEE:a0c7972e3aacafcb",
-        "title": "CBT Schedule for 2nd/Special OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260710417903752.pdf",
-        "date": "10/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-10T09:44:06.951Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -5219,7 +5229,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T14:23:22.130Z",
+    "lastUpdatedDate": "2026-09-17T15:16:57.799Z",
     "pinned": false,
     "notices": [
       {
@@ -5838,9 +5848,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-14T19:11:44.129Z",
+    "lastUpdatedDate": "2026-09-17T15:16:55.943Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "631be225d869b0d8",
+        "title": "Speaking order (PwD category)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/speaking_order_pwd_category_2.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T15:16:55.943Z"
+      },
       {
         "id": "3396723895bfb527",
         "title": "RIPANS allotment letter 2026 (Admission)",
@@ -5891,6 +5911,16 @@
         "detectedAt": "2026-07-08T11:32:47.059Z"
       },
       {
+        "id": "06f803649b4ec23d",
+        "title": "Admission Notice into MBBS course (PwD)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_into_mbbs_course_pwd_0.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-17T15:16:55.943Z"
+      },
+      {
         "id": "b8d314930ff712e9",
         "title": "Educational Notice (For PwD category candidates)",
         "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_for_pwd_category_candidates.pdf",
@@ -5899,6 +5929,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-08T08:49:46.009Z"
+      },
+      {
+        "id": "147c2d47cc8df723",
+        "title": "1st_M.Sc (N)_Counseling_Notice_2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/1st_m.sc_n_counseling_notice_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-17T15:16:55.943Z"
       },
       {
         "id": "bd2158022fd402c2",
@@ -6008,36 +6048,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 12,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "da3f863f11e11ce3",
-        "title": "UG Counselling Scrutiny Form (Doc. Verification)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/ug_counselling_scrutiny_form_doc._verification.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 13,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "7f638c3b0c448aaf",
-        "title": "Educational Notice (TGL candidates)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_tgl_candidates.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 14,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "3af9201118fe08e0",
-        "title": "Notice (Inclusion of name in Assam State Merit List_NEET-UG-2026)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_inclusion_of_name_in_assam_state_merit_list_neet-ug-2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 15,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
@@ -6471,9 +6481,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T14:21:12.066Z",
+    "lastUpdatedDate": "2026-09-17T15:15:18.849Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4953d6bbc2465ac6",
+        "title": "BBA REFUND ORDER NO. 3923 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609171761565691.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T15:15:18.849Z"
+      },
+      {
+        "id": "cffcc119dfa1c222",
+        "title": "BCOM(H) REFUND ORDER NO. 3934 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609171307395396.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-17T15:15:18.849Z"
+      },
       {
         "id": "91fea0121088d321",
         "title": "FILLING UP OF VACANCIES VIS-A-VIS SCHEDULE OF ACTIVITES IN PURSUANCE TO ORDER DATED 14.09.2026 OF DIRECTOR, DHE GOVT. OF NCT OF DELHI, TO BE FOLLOWED BY AFFILIATED INSTITUTE/COLLEGES: 2026-27_dated-16",
@@ -6653,26 +6683,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-09-13T05:16:34.948Z"
-      },
-      {
-        "id": "676b36254be1f8b4",
-        "title": "CUET MERIT LIST FOR B.PHARM PRG. CODE-133 FOR THE A.S:2026-27_dated-10.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609101240802272.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-10T13:29:17.536Z"
-      },
-      {
-        "id": "1595cbc63357215b",
-        "title": "EXTENDED OPEN HOUSE OFFLINE COUNSELLING / ADMISSION FOR THE PROG. B.PHARM (CODE-133) THROUGH THE CET FOLLOWED BY MERIT OF CUET ONLY A.S:2026-27_dated-10.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260910801860137.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-10T13:29:17.536Z"
       }
     ]
   },
@@ -6683,9 +6693,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-12T11:09:01.574Z",
+    "lastUpdatedDate": "2026-09-17T15:12:58.676Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "367869921c7a39fc",
+        "title": "Schedule dated 17-09-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/202609171369981926.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-17T15:12:58.676Z"
+      },
       {
         "id": "e395a025c58a57d2",
         "title": "Provisional List of Candidates For Round 2",
@@ -6875,16 +6895,6 @@
         "source": "Direct from Website",
         "batchIndex": 7,
         "detectedAt": "2026-09-03T16:05:54.901Z"
-      },
-      {
-        "id": "ca1c432b18b921f2",
-        "title": "PwD verification order dated 10-08-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/20260810940749634.pdf",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-10T13:16:56.306Z"
       }
     ]
   },
@@ -6895,9 +6905,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T18:24:24.548Z",
+    "lastUpdatedDate": "2026-09-17T15:17:09.423Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "eee60f0923a412a0",
+        "title": "First Phase Allotment To Ayurveda/Homoeo/Siddha/Unani/Medical Allied Courses-2026 Option Registration Facility Made Available",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/264/Upload1",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T15:17:09.423Z"
+      },
       {
         "id": "bc3b20ada6afea4c",
         "title": "Stray Vacancy Allotment To Pharmacy Course Published",
@@ -7087,16 +7107,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-25T07:01:22.881Z"
-      },
-      {
-        "id": "7eeae538a1b3ed5b",
-        "title": "KERALA MEDICAL COURSES CANDIDATES CAN RECTIFY DEFECTS IN NRI DOCUMENTS DATE EXTENDED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/227/Upload1",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T13:07:24.545Z"
       }
     ]
   },
