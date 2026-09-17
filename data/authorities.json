@@ -802,9 +802,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T06:35:51.904Z",
+    "lastUpdatedDate": "2026-09-17T05:12:18.182Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-122",
+        "title": "RESERVE LIST OF CANDIDATES FOR MBBS ADMISSION AT AFMC PUNE THROUGH NEET UG-2026.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "16/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-17T05:12:18.182Z"
+      },
       {
         "id": "afmc-pune-121",
         "title": "RESERVE LIST OF CANDIDATES FOR MBBS ADMISSION AT AFMC PUNE THROUGH NEET UG-2026.",
@@ -969,14 +978,6 @@
         "link": "https://afmc.nic.in/letestnews",
         "date": "18/06/2026",
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-97",
-        "title": "SHORTLIST CANDIDATE FOR INTERVIEW ON TEMPORARY POSITION, ADV NO ,ABIVIC ,RECRUITMENT ,MAY 2026 dt 29 MAY 2026.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "18/06/2026",
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
@@ -6261,9 +6262,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T14:23:18.103Z",
+    "lastUpdatedDate": "2026-09-17T05:13:36.915Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4f2326d6761df1d9",
+        "title": "ANNEXURES OF BOI UG BAMS/BUMS/BHMS 2026 - SURETY BOND, PRINCIPAL CERTIFICATE, PwBD, ECC,EWS CERTIFICATE, OBC CERTIFICATE, SC ST CERTIFICATE ETC.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1789621570850-ANNEXURES_OF_BOI_-_SURETY_BOND__PRINCIPAL_CERTIFICATE__PwBD__ECC_EWS_CERTIFICATE__OBC_CERTIFICATE__SC_ST_CERTIFICATE_ETC..pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-17T05:13:36.915Z"
+      },
       {
         "id": "dd206a4355f6b86d",
         "title": "Bulletin of Information for (BAMS/BUMS/BHMS) Admissions 2026-2027",
@@ -6446,15 +6457,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 3,
-        "detectedAt": "2026-07-08T09:36:50.385Z"
-      },
-      {
-        "id": "a292d3770f673b27",
-        "title": "EWS Format Appendix V",
-        "link": "https://fmsc.du.ac.in/upload/EWS%20Format%20-%20Appendix%20V.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 4,
         "detectedAt": "2026-07-08T09:36:50.385Z"
       }
     ]
