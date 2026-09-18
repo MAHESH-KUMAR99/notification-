@@ -1415,9 +1415,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T21:01:50.258Z",
+    "lastUpdatedDate": "2026-09-18T10:51:36.538Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f971af6a662a7457",
+        "title": "Extension of Joining Date and Reporting Time for Round-2 Counselling of MBBS/BDS Course 2026 - 2027 Session",
+        "link": "https://tnmedicalselection.net/news/17092026225809.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-18T10:51:36.538Z"
+      },
       {
         "id": "4734692994a3168f",
         "title": "7.5% - Provisional List of Candidates allotted for MBBS/BDS (Government 7.5 Reservation Quota) Course Session :2026 - 2027 on - 15.09.2026",
@@ -1607,16 +1617,6 @@
         "source": "Direct from Website",
         "batchIndex": 28,
         "detectedAt": "2026-08-31T16:19:05.715Z"
-      },
-      {
-        "id": "3e5e249dd3803ba2",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR IRT WARDS QUOTA FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/31082026010231.pdf",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 28,
-        "detectedAt": "2026-08-31T08:22:54.329Z"
       }
     ]
   },
@@ -3094,9 +3094,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-15T17:33:46.035Z",
+    "lastUpdatedDate": "2026-09-18T10:51:26.729Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5f8eb8febf5ef9c9",
+        "title": "Advt. No. 83 dated-17.09.2026 Important Notice regarding date extension for correction in State Merit List Based on NEET (UG)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/786.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-18T10:51:26.729Z"
+      },
       {
         "id": "128fa8a75ca30efb",
         "title": "Advt. No. 82 dated-15.09.2026 बी०एड०/एम०एड०/ बी०पी०एड० पाठ्यक्रमों (B.Ed./M.Ed/B.P.Ed. Course) के शैक्षणिक सत्र 2026-28 में नामांकन की अनुशंसा हेतु चतुर्थ (अंतिम) ऑनलाईन साक्षात्कार से संबंधित महत्वपूर्ण सूचना",
@@ -3293,16 +3303,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-08-21T12:55:06.046Z"
-      },
-      {
-        "id": "59e45d463f397033",
-        "title": "Advt. No. 64 dated-20.08.2026 Notice regarding 1st Round of Online Counselling for MDS All India & NRI Quota Seats of Vananchal Dental College & Hospital, Farathiya, Garhwa on the basis of NEET MDS-2026 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/767.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-08-21T12:55:06.046Z"
       }
     ]
@@ -5849,9 +5849,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T15:16:55.943Z",
+    "lastUpdatedDate": "2026-09-18T10:56:10.930Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "57afb7395c15e19f",
+        "title": "M. Sc. Counselling Form",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/m._sc._counselling_form-1_1.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-18T10:56:10.930Z"
+      },
       {
         "id": "631be225d869b0d8",
         "title": "Speaking order (PwD category)",
@@ -6039,16 +6049,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 11,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "21452769127ee8a1",
-        "title": "Notice & Assam State NEET-MDS-2026 Merit List",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_assam_state_neet-mds-2026_merit_list.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 12,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
@@ -6482,9 +6482,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T15:15:18.849Z",
+    "lastUpdatedDate": "2026-09-18T10:54:05.395Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2042acf076966678",
+        "title": "BA(ECO) (CODE-197) REFUND ORDER NO.3925 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918382731903.pdf",
+        "date": "18/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-18T10:54:05.395Z"
+      },
+      {
+        "id": "072cd7a4e82449f0",
+        "title": "BCA (CODE-114) REFUND ORDER NO.3935 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609181505900947.pdf",
+        "date": "18/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-18T10:54:05.395Z"
+      },
+      {
+        "id": "36b799d04bd7e49c",
+        "title": "Appointment of Nodal Officer in pursuance of Order dated 14.09.2026 of DHE, Govt of NCT of delhi regarding Filling up of vacant seats remaining after completion of admission process by GGSIP Universit",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918796216499.pdf",
+        "date": "18/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-18T10:54:05.395Z"
+      },
+      {
+        "id": "735e843ce0d1d884",
+        "title": "ONLINE REFUND LIST OF B.TECH (CODE 131) PROG. FOR THE A.S: 2026-27 REFUND ORDER NO. 3931 _dated 16.09.2026.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918285725524.pdf",
+        "date": "18/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-18T10:54:05.395Z"
+      },
       {
         "id": "4953d6bbc2465ac6",
         "title": "BBA REFUND ORDER NO. 3923 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
@@ -6643,46 +6683,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-09-13T05:16:34.948Z"
-      },
-      {
-        "id": "d6667c2c0ff7a04c",
-        "title": "RANK/MERIT LIST OF BBA (CODE-125) THROUGH CUET 2026_dated-13.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260913833504594.pdf",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-13T14:53:53.530Z"
-      },
-      {
-        "id": "928a76d6996d8a9b",
-        "title": "Vacant Seats for BCA (CET CODE-114)._0001",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260913612821059.pdf",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-13T05:16:34.948Z"
-      },
-      {
-        "id": "2256267d1910c095",
-        "title": "RANK/MERIT LIST OF BBA (CODE-125) THROUGH CET 2026_dated-13.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609131649179593.pdf",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-13T14:53:53.530Z"
-      },
-      {
-        "id": "d20c325d9fe280f9",
-        "title": "Vacant Seats for MBA (CET CODE-101)._0001",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609131605798467.pdf",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-09-13T05:16:34.948Z"
       }
     ]
@@ -6906,9 +6906,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T15:17:09.423Z",
+    "lastUpdatedDate": "2026-09-18T10:56:25.196Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d2bd67a4b0500680",
+        "title": "FINAL CATEGORY LIST PUBLISHED (KONKANI LINGUISTIC MINORITY)",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/266/Upload1",
+        "date": "18/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-18T10:56:25.196Z"
+      },
       {
         "id": "eee60f0923a412a0",
         "title": "First Phase Allotment To Ayurveda/Homoeo/Siddha/Unani/Medical Allied Courses-2026 Option Registration Facility Made Available",
@@ -7098,16 +7108,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-27T21:11:32.086Z"
-      },
-      {
-        "id": "680e5652e8e1d5ec",
-        "title": "ADMISSION TO MBBS/ BDS COURSES – 2026 FIRST PHASE PROVISIONAL ALLOTMENT PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/228/Upload1",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T07:01:22.881Z"
       }
     ]
   },
@@ -7326,9 +7326,19 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T10:20:28.302Z",
+    "lastUpdatedDate": "2026-09-18T10:54:12.060Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "19142ccbbe6c44c2",
+        "title": "Seat matrix for Round 2 Nursing, Pharmacy & Allied and Healthcare courses 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1789719252_Seat%20matrix%20for%20Round%202%20Nursing,%20Pharmacy%20&%20Allied%20and%20Healthcare%20courses%202026.pdf",
+        "date": "18/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-18T10:54:12.060Z"
+      },
       {
         "id": "f2342032552e4324",
         "title": "Notification for Round 2 Counselling for Nursing, Pharmacy and Allied and Healthcare courses 2026-27",
@@ -7517,16 +7527,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-08-24T13:03:18.809Z"
-      },
-      {
-        "id": "fe2d1f5365989963",
-        "title": "Merit lists of the NRI quota for 1st round of Manipur Medical ecounselling 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1787574496_Merit%20lists%20of%20the%20NRI%20quota%20for%201st%20round%20of%20Manipur%20Medical%20ecounselling%202026-27.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-08-24T13:03:18.809Z"
       }
     ]
