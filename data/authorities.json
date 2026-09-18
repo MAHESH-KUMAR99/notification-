@@ -1627,58 +1627,18 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-11T17:54:34.321Z",
+    "lastUpdatedDate": "2026-09-18T18:14:27.195Z",
     "pinned": false,
     "notices": [
       {
-        "id": "Allotment List:91b7f893df29af53",
-        "title": "Second Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_ALLOTMENT_RESULT_2026_DME_UG_SR_REPORT%201_43.pdf",
-        "date": "11/09/2026",
+        "id": "Latest Instructions:5b2d8cd2f00c060f",
+        "title": "Notice Regarding Extension of last date of Admission, Resignation, Upgradation link NEET UG 2026 Date -18.09.2026",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Extension%20notice%20second%20round%20admission%20date_44.pdf",
+        "date": "18/09/2026",
         "sortTs": null,
-        "source": "Allotment List",
+        "source": "Latest Instructions",
         "batchIndex": 0,
-        "detectedAt": "2026-09-11T14:19:41.251Z"
-      },
-      {
-        "id": "Allotment List:758045b2f2510ae5",
-        "title": "Revised Second Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20Second%20Round%20Allotment%20Opening%20Closing%202026_DME_UG_SR_REPORT_42.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Allotment List",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-11T17:54:34.321Z"
-      },
-      {
-        "id": "Allotment List:e77be08ea25f8c63",
-        "title": "Second Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_OPENING_CLOSING_2026_DME_UG_SR_REPORT_42.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Allotment List",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-11T14:19:41.251Z"
-      },
-      {
-        "id": "Allotment List:a78f594a5849e81c",
-        "title": "First Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 24.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_DME_UG_ALLOTMENT_REPORT_FR_31.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Allotment List",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T14:02:16.172Z"
-      },
-      {
-        "id": "Allotment List:f73017a77fec3eb6",
-        "title": "First Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 21.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_%20Opening%20closing_30.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Allotment List",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-24T14:02:16.172Z"
+        "detectedAt": "2026-09-18T18:14:27.195Z"
       },
       {
         "id": "Latest Instructions:91b7f893df29af53",
@@ -1871,14 +1831,54 @@
         "detectedAt": "2026-08-15T07:37:58.772Z"
       },
       {
-        "id": "Latest Instructions:651df4a5c57fb62e",
-        "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
-        "date": "15/08/2026",
+        "id": "Allotment List:91b7f893df29af53",
+        "title": "Second Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_ALLOTMENT_RESULT_2026_DME_UG_SR_REPORT%201_43.pdf",
+        "date": "11/09/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "Allotment List",
         "batchIndex": 0,
-        "detectedAt": "2026-08-15T03:46:35.713Z"
+        "detectedAt": "2026-09-11T14:19:41.251Z"
+      },
+      {
+        "id": "Allotment List:758045b2f2510ae5",
+        "title": "Revised Second Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20Second%20Round%20Allotment%20Opening%20Closing%202026_DME_UG_SR_REPORT_42.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Allotment List",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-11T17:54:34.321Z"
+      },
+      {
+        "id": "Allotment List:e77be08ea25f8c63",
+        "title": "Second Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_OPENING_CLOSING_2026_DME_UG_SR_REPORT_42.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Allotment List",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-11T14:19:41.251Z"
+      },
+      {
+        "id": "Allotment List:a78f594a5849e81c",
+        "title": "First Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 24.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_DME_UG_ALLOTMENT_REPORT_FR_31.pdf",
+        "date": "24/08/2026",
+        "sortTs": null,
+        "source": "Allotment List",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-24T14:02:16.172Z"
+      },
+      {
+        "id": "Allotment List:f73017a77fec3eb6",
+        "title": "First Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 21.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%202026_%20Opening%20closing_30.pdf",
+        "date": "21/08/2026",
+        "sortTs": null,
+        "source": "Allotment List",
+        "batchIndex": 1,
+        "detectedAt": "2026-08-24T14:02:16.172Z"
       },
       {
         "id": "State Merit:4368d5cc9a7cf948",
