@@ -802,9 +802,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T10:20:45.021Z",
+    "lastUpdatedDate": "2026-09-18T05:42:35.575Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-124",
+        "title": "RESULT OF RECRUIMENT FOR JUNIOR RESEARCH FELLOW JRF FOR AFMRC PROJECT NO 5763 2025 EFFECT OF ENVIRONMENTAL CONDITIONS ON PHYSICAL STABILITY AND CHEMICAL POTENCY OF THE DRUG FORMULATION.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "17/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-18T05:42:35.575Z"
+      },
       {
         "id": "afmc-pune-123",
         "title": "RESULT OF RECRUIMENT FOR JUNIOR RESEARCH FELLOW JRF FOR AFMRC PROJECT NO 5763 2025 EFFECT OF ENVIRONMENTAL CONDITIONS ON PHYSICAL STABILITY AND CHEMICAL POTENCY OF THE DRUG FORMULATION.",
@@ -971,14 +980,6 @@
         "link": "https://afmc.nic.in/letestnews",
         "date": "02/07/2026",
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-103",
-        "title": "RESULT NOTIFICATION FOR RECRUITMENT TO THE POST FIELD INVESTIGATOR AT HTARRC, AFMC PUNE - 2026.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "30/06/2026",
-        "batchIndex": 2,
         "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
@@ -6693,9 +6694,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T15:12:58.676Z",
+    "lastUpdatedDate": "2026-09-18T05:39:56.494Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7822656d04b57518",
+        "title": "Schedule Dated 17-09-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/202609171369981926.pdf",
+        "date": "17/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-18T05:39:56.494Z"
+      },
       {
         "id": "367869921c7a39fc",
         "title": "Schedule dated 17-09-2026",
@@ -6885,16 +6896,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-11T17:29:28.847Z"
-      },
-      {
-        "id": "1b4351e2c8f0f072",
-        "title": "Round 1 Counselling Schedule",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/20260811338855569.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-09-03T16:05:54.901Z"
       }
     ]
   },
