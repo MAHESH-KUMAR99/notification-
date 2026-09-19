@@ -2669,9 +2669,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T14:54:57.169Z",
+    "lastUpdatedDate": "2026-09-19T08:44:56.193Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:012baca3d55ac9db",
+        "title": "Notice for Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/04 Dated 18.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_04.pdf",
+        "date": "18/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-19T08:44:56.193Z"
+      },
       {
         "id": "Latest Updates:e451add456b2f4b7",
         "title": "Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026(Adv. No. BCECEB[UGMAC(Ayush)]-2026/02 Dated 18.09.2026)",
@@ -2861,16 +2871,6 @@
         "source": "Latest Updates",
         "batchIndex": 1,
         "detectedAt": "2026-08-30T08:08:55.406Z"
-      },
-      {
-        "id": "Latest Updates:190d2dce8cbccd5d",
-        "title": "Important Notice for online MOP-UP Round Counselling of BCECE[LE] [ENGINEERING)-2026 (Adv. No. BCECEB(BCECE[LE])-2026/12 Dated 29.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BLE26_12.pdf",
-        "date": "29/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-29T08:51:00.010Z"
       },
       {
         "id": "UGMAC:f09ff50664246a14",
@@ -5230,7 +5230,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T15:16:57.799Z",
+    "lastUpdatedDate": "2026-09-19T08:45:11.394Z",
     "pinned": false,
     "notices": [
       {
@@ -5626,9 +5626,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T09:31:14.480Z",
+    "lastUpdatedDate": "2026-09-19T08:45:25.646Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:fcac9a354c35b577",
+        "title": "Schedule for MBBS/BDS 3rd Round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/MBBS-bds-3rd-round-schedule.pdf",
+        "date": "19/09/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-19T08:45:25.646Z"
+      },
       {
         "id": "MBBS/BDS Counselling:70a4da5217a8ec73",
         "title": "Final Seat Allocation of MBBS/BDS 2nd round Counselling 2026-27",
@@ -5818,16 +5828,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-08-13T12:18:01.332Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:131bbe6a02f173a6",
-        "title": "Prospectus for MBBS/BDS Counselling 2026-27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Final-Prospectus-for-MBBS-BDS-counselling-2026-final.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T10:16:41.429Z"
       }
     ]
   },
