@@ -3432,9 +3432,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T14:55:46.902Z",
+    "lastUpdatedDate": "2026-09-19T18:50:28.200Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:b3addb9c9e800a24",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/13peEmsCN2Cvw8_-FkZ0nnXL02BRMnEFt/view?usp=sharing",
+        "date": "19/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-19T18:50:28.200Z"
+      },
+      {
+        "id": "OVERALL:729dd8ca4df66f09",
+        "title": "NOTICE : UG NON-NEET PROFESSIONAL COUNSELLING FOR SPECIAL RESERVATION SEATS IN B.SC. AGRICULTURE - WARD OF FARMERS & AGRICULTURE - VOCATIONAL STREAM",
+        "link": "https://drive.google.com/file/d/11eu7Z8qjatbASXrKhHQeXlqaTY3jPt16/view?usp=sharing",
+        "date": "19/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-19T18:50:28.200Z"
+      },
+      {
+        "id": "UG NON-NEET:b3addb9c9e800a24",
+        "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/13peEmsCN2Cvw8_-FkZ0nnXL02BRMnEFt/view?usp=sharing",
+        "date": "19/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 261,
+        "detectedAt": "2026-09-19T18:50:28.200Z"
+      },
+      {
+        "id": "UG NON-NEET:729dd8ca4df66f09",
+        "title": "NOTICE : UG NON-NEET PROFESSIONAL COUNSELLING FOR SPECIAL RESERVATION SEATS IN B.SC. AGRICULTURE - WARD OF FARMERS & AGRICULTURE - VOCATIONAL STREAM",
+        "link": "https://drive.google.com/file/d/11eu7Z8qjatbASXrKhHQeXlqaTY3jPt16/view?usp=sharing",
+        "date": "19/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 262,
+        "detectedAt": "2026-09-19T18:50:28.200Z"
+      },
       {
         "id": "OVERALL:eca965c50611b393",
         "title": "PHASE - III - COUNSELLING SCHEDULE FOR PAJANCOA, KARAIKAL - B.SC. AGRICULTURE & B.SC. HORTICULTURE - ONLY FOR OTHER STATE SELF- SUPPORTING SEATS",
@@ -3594,46 +3634,6 @@
         "source": "Direct from Website",
         "batchIndex": 252,
         "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "UG NON-NEET:c78e6f7ded555aec",
-        "title": "B.N.Y.S COURSE - FINAL MERIT LIST - 2026-2027 BASED ON H.SC. SCORE",
-        "link": "https://drive.google.com/file/d/1HAVZkqS6Amm2k5fZVYyi_5JwvvGwJjyE/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 253,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "UG NEET:566680fe8b515e56",
-        "title": "UG NEET - BSMS/BUMS/BHMS COURSES - FINAL MERIT LIST - 2026-2027",
-        "link": "https://drive.google.com/file/d/1FxTWYIWhj4cK_dmGcSUZgvbkQTFd8YXP/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 340,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "OVERALL:4c299bfe10bd9697",
-        "title": "ROUND 3 DRAFT ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/17N_o29pHi8RxxijtTcQJWJOjKTDx-tgR/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T17:38:25.296Z"
-      },
-      {
-        "id": "OVERALL:51b84f30afcf8486",
-        "title": "NOTICE : B.TECH. LATERAL ENTRY STRAY COUNSELLING SCHEDULE",
-        "link": "https://drive.google.com/file/d/16F0JpPGd89-tCKcRekp9rZCRq98HPgEJ/view?usp=sharing",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T12:37:10.817Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5843,9 +5843,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T10:56:10.930Z",
+    "lastUpdatedDate": "2026-09-19T18:50:14.008Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "05a0833d1433fb85",
+        "title": "Admission Notice & Select list (B. Sc Nursing_1st round__2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_select_list_b._sc_nursing_1st_round_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-19T18:50:14.008Z"
+      },
       {
         "id": "57afb7395c15e19f",
         "title": "M. Sc. Counselling Form",
@@ -6033,16 +6043,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 10,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "f9b017fe1c557cae",
-        "title": "NEET-UG_Round1_counseling_extension_Notice",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/ug26_rd1_extension_notice.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 11,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
