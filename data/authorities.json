@@ -1409,9 +1409,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T10:51:36.538Z",
+    "lastUpdatedDate": "2026-09-21T13:46:36.925Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "49a0358125565bf2",
+        "title": "MQ - Provisional List of Candidates allotted for MBBS/BDS (Management Quota) Course Session :2026 - 2027 on - 15.09.2026",
+        "link": "https://tnmedicalselection.net/news/21092026020744.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-21T13:46:36.925Z"
+      },
       {
         "id": "f971af6a662a7457",
         "title": "Extension of Joining Date and Reporting Time for Round-2 Counselling of MBBS/BDS Course 2026 - 2027 Session",
@@ -1601,16 +1611,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-06T15:41:08.709Z"
-      },
-      {
-        "id": "e3382f0bb3005f7f",
-        "title": "PROVISIONAL LIST OF CANDIDATES ELIGIBLE FOR IRT WARDS QUOTA FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/31082026021855.pdf",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 28,
-        "detectedAt": "2026-08-31T16:19:05.715Z"
       }
     ]
   },
@@ -2047,9 +2047,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T06:55:49.565Z",
+    "lastUpdatedDate": "2026-09-21T13:46:44.389Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4768a8285a770ffc",
+        "title": "21-09-2026: MDS MQ Detailed Notification 2026-27 MDS MQ PROSPECTUS 2026-27 MDS MQ User manual 2026-27 MDS MQ SEAT MATRIX - 2026-27 Post Basic (Nursing) 2 YDC 2026-27 - Reopening of Portal-Link for online application MBBS CQ 2026-27 - List of Phase-II_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
+        "link": "https://drntr.uhsap.in/index/notification/20260921172643957.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T13:46:44.389Z"
+      },
       {
         "id": "0adc3754184088e3",
         "title": "21-09-2026: MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
@@ -2239,16 +2249,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-02T17:45:41.399Z"
-      },
-      {
-        "id": "76c2701695116512",
-        "title": "02-09-2026: MDS CQ 2026-27 - Phase-I Weboptions Notification PG (Dental) CQ 2026-27 - Provisional Final Merit list of Candidates PG (Dental) CQ 2026-27 - Not Eligible list of Candidates MDS CQ 2026-27 - AU SEAT MATRIX MDS CQ 2026-27 - AU NET GROUP MDS CQ 2026-27 - SVU SEAT MATRIX MDS CQ 2026-27 - SVU NET GROUP MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I",
-        "link": "https://drntr.uhsap.in/index/notification/20260902150000590.pdf",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-02T13:50:10.543Z"
       }
     ]
   },
@@ -3088,9 +3088,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T14:50:59.874Z",
+    "lastUpdatedDate": "2026-09-21T13:46:25.124Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0424a17c00cdded3",
+        "title": "Advt. No. 87 dated-21.09.2026 Important Notice regarding correction in State Merit List Based on NEET (UG)- 2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/790.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T13:46:25.124Z"
+      },
       {
         "id": "7dbdd9acc3af8d8d",
         "title": "Advt. No. 86 dated-18.09.2026 Notice regarding 2nd Round of Online Counselling for MDS All India & NRI Quota Seats of Vananchal Dental College & Hospital, Farathiya, Garhwa on the basis of NEET MDS-2026 Result",
@@ -3288,16 +3298,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-24T12:58:49.033Z"
-      },
-      {
-        "id": "f44f9b9f4dfec772",
-        "title": "Letter No. 1004 Important Advisory to Candidates Regarding Choice of Awadh Dental College & Hospital, Jamshedpur",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/771.pdf",
-        "date": null,
-        "sortTs": 1787443200000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-25T08:48:21.510Z"
       }
     ]
   },
@@ -4496,7 +4496,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T06:56:57.720Z",
+    "lastUpdatedDate": "2026-09-21T13:47:53.261Z",
     "pinned": false,
     "notices": [
       {
@@ -4728,9 +4728,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T13:03:44.672Z",
+    "lastUpdatedDate": "2026-09-21T13:53:36.561Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:c478961b83706097",
+        "title": "REVISED TENTATIVE Web-BASED COUNSELLING SCHEDULE FOR B.Pharm, M.Pharm, LE Pharmacy COURSE FOR THE SESSION 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/20260921165984876.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 7,
+        "detectedAt": "2026-09-21T13:53:36.561Z"
+      },
       {
         "id": "OJEE:9283d2507d09b533",
         "title": "Notice For Physically Challenged (PC)/PwBD Candidates wish to take part in the State Quota BAMS/BHMS counselling and Admission Process.",
@@ -4920,16 +4930,6 @@
         "source": "OJEE",
         "batchIndex": 4,
         "detectedAt": "2026-07-27T12:34:09.464Z"
-      },
-      {
-        "id": "OJEE:6906657b61a9920b",
-        "title": "Notice for extension of last date for payment of part admission fees for B.Tech/B.Arch/B.Plan/Int.MSc (2nd Round)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607201663395720.pdf",
-        "date": "20/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-20T11:24:42.976Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -5224,7 +5224,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T08:45:11.394Z",
+    "lastUpdatedDate": "2026-09-21T13:53:34.559Z",
     "pinned": false,
     "notices": [
       {
@@ -6477,9 +6477,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T13:01:35.607Z",
+    "lastUpdatedDate": "2026-09-21T13:49:12.511Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5ef497e0f7b25c32",
+        "title": "SCHEDULE FOR SPOT ROUND FOR PARAMEDICAL (B.PT/B.OT/BPO/BASLP/B.MLS) (CODE-124) and B.Ed (SE) (CODE-159) OF ONLINE COUNSELLING AND PHYSICAL REPORTING FOR THE A.S:2026-27_dated-21.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260921180410193.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T13:49:12.511Z"
+      },
       {
         "id": "8ca6ef147867d325",
         "title": "Filling of Vacancies in various courses in pursuant to orders of DHE, NCT dated 14.09.2026 A.S:2026-27_dated-19.09.2026",
@@ -6668,16 +6678,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-09-15T12:35:18.010Z"
-      },
-      {
-        "id": "0ebedab949899d3e",
-        "title": "ROUND 01 BHMS (Code 154) FOR NEET UG 2026 QUALIFIED CANDIDATES SCORE CARD FOLLOWED BY FILLING OF CHOICES/ PREFERENCES A.S:2026-27_dated-15.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609152078752573.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-09-15T12:35:18.010Z"
       }
     ]
