@@ -1621,9 +1621,79 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T18:14:27.195Z",
+    "lastUpdatedDate": "2026-09-21T19:13:20.635Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Counselling Schedule:2886ad996a6411a3",
+        "title": "Time schedule for MOP UP Round MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-21.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/MOP%20UP%20Round%20time%20schedule%20UG%202026_46.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T19:13:20.635Z"
+      },
+      {
+        "id": "Counselling Schedule:fd3c3d02074c40ec",
+        "title": "Tentative Time Schedule for Second round of Counselling MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-03.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20Schedule%20-%20Second%20Round_35.pdf",
+        "date": "03/09/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-03T19:27:04.896Z"
+      },
+      {
+        "id": "Counselling Schedule:060995c400296bdf",
+        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
+        "date": "20/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-20T13:06:06.712Z"
+      },
+      {
+        "id": "Counselling Schedule:cdc71e56ef143c41",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-04T13:08:57.645Z"
+      },
+      {
+        "id": "Counselling Schedule:dadb06cb5e49ddb2",
+        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Counselling Schedule",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-03T16:33:00.795Z"
+      },
+      {
+        "id": "Latest Instructions:2886ad996a6411a3",
+        "title": "Time schedule for MOP UP Round MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-21.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/MOP%20UP%20Round%20time%20schedule%20UG%202026_46.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T19:13:20.114Z"
+      },
+      {
+        "id": "Latest Instructions:57984cdc71e5dfc6",
+        "title": "Regarding Extension of Resignation (Second Round) MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-21.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Notice%20regarding%20Extension%20of%20Resignation_45.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-21T19:13:20.114Z"
+      },
       {
         "id": "Latest Instructions:5b2d8cd2f00c060f",
         "title": "Notice Regarding Extension of last date of Admission, Resignation, Upgradation link NEET UG 2026 Date -18.09.2026",
@@ -1805,26 +1875,6 @@
         "detectedAt": "2026-08-20T07:47:40.682Z"
       },
       {
-        "id": "Latest Instructions:94f686120373bea5",
-        "title": "Notice regarding NMC Addendum and Appellate Boards (PwBD) -18.08.2026",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/PWD%20CENTERS%20LIST_26.pdf",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-18T12:56:52.782Z"
-      },
-      {
-        "id": "Latest Instructions:467cf353eb7148cb",
-        "title": "Fee Details of Government & Private Medical/Dental Colleges of M.P. STATE COMBINED NEET U.G. Counselling (MBBS/BDS) 2026 (Dated 15/08/2026)",
-        "link": "https://dme.mponline.gov.in/Portal/Services/DMEMP/College/RptSubjectFeeDetailsUG.aspx",
-        "date": "15/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-15T07:37:58.772Z"
-      },
-      {
         "id": "Allotment List:91b7f893df29af53",
         "title": "Second Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_ALLOTMENT_RESULT_2026_DME_UG_SR_REPORT%201_43.pdf",
@@ -1955,46 +2005,6 @@
         "detectedAt": "2026-08-11T14:00:05.915Z"
       },
       {
-        "id": "Counselling Schedule:fd3c3d02074c40ec",
-        "title": "Tentative Time Schedule for Second round of Counselling MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated-03.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20Schedule%20-%20Second%20Round_35.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T19:27:04.896Z"
-      },
-      {
-        "id": "Counselling Schedule:060995c400296bdf",
-        "title": "Revised Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 20.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20time%20schedule%20First%20round%202026_29.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-20T13:06:06.712Z"
-      },
-      {
-        "id": "Counselling Schedule:cdc71e56ef143c41",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-04T13:08:57.645Z"
-      },
-      {
-        "id": "Counselling Schedule:dadb06cb5e49ddb2",
-        "title": "Time Schedule for First Round of Counselling MP State Combined Counselling NEET UG 2026-27 (Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Time%20schedule%202026_3.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Counselling Schedule",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T16:33:00.795Z"
-      },
-      {
         "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
         "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
         "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
@@ -2047,9 +2057,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T13:46:44.389Z",
+    "lastUpdatedDate": "2026-09-21T19:09:35.833Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b4d0df4aff2faaab",
+        "title": "21-09-2026: MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-II MBBS CQ 2026-27 - List of Phase-II_MRC Candidates MDS MQ Detailed Notification 2026-27 MDS MQ PROSPECTUS 2026-27 MDS MQ User manual 2026-27 MDS MQ SEAT MATRIX - 2026-27 Post Basic (Nursing) 2 YDC 2026-27 - Reopening of Portal-Link for online application MBBS CQ 2026-27 - List of Phase-II_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
+        "link": "https://drntr.uhsap.in/index/notification/20260921202721048.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T19:09:35.833Z"
+      },
       {
         "id": "4768a8285a770ffc",
         "title": "21-09-2026: MDS MQ Detailed Notification 2026-27 MDS MQ PROSPECTUS 2026-27 MDS MQ User manual 2026-27 MDS MQ SEAT MATRIX - 2026-27 Post Basic (Nursing) 2 YDC 2026-27 - Reopening of Portal-Link for online application MBBS CQ 2026-27 - List of Phase-II_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
@@ -2239,16 +2259,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-03T16:05:57.184Z"
-      },
-      {
-        "id": "d73c432d3dbabfc8",
-        "title": "02-09-2026: MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-I MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MDS CQ 2026-27 - Phase-I Weboptions Notification PG (Dental) CQ 2026-27 - Provisional Final Merit list of Candidates PG (Dental) CQ 2026-27 - Not Eligible list of Candidates MDS CQ 2026-27 - AU SEAT MATRIX MDS CQ 2026-27 - AU NET GROUP MDS CQ 2026-27 - SVU SEAT MATRIX MDS CQ 2026-27 - SVU NET GROUP MBBS CQ 2026-27 - List of Phase-I_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I",
-        "link": "https://drntr.uhsap.in/index/notification/20260902210229750.pdf",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-02T17:45:41.399Z"
       }
     ]
   },
@@ -2259,9 +2269,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-16T09:26:34.535Z",
+    "lastUpdatedDate": "2026-09-21T19:09:26.860Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2ea3163c229c567d",
+        "title": "Provisional allotment of Result under NEET-UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Allotment%20of%20Seat%20under%20J&K%20Migrants%20category%2021-09-2026.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T19:09:26.860Z"
+      },
       {
         "id": "342e58349ad6652a",
         "title": "Public notice Debar candidate during 2nd round counselling Selection list of 04 candidates",
@@ -2451,16 +2471,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-07T12:00:02.179Z"
-      },
-      {
-        "id": "df27ceacf7f22c73",
-        "title": "PUBLIC NOTICE It is hereby notified for information of all concerned that the deadline for submission of willingness has been extended up to 12:00 midnight on 07.09.2026. Click here to submit willingness for 2nd Round Click here to view willingness list",
-        "link": "https://admission.bfuhsonline.ac.in/pmet26onlineD/main.aspx",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-07T17:43:30.546Z"
       }
     ]
   },
@@ -4496,7 +4506,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T13:47:53.261Z",
+    "lastUpdatedDate": "2026-09-21T19:10:45.225Z",
     "pinned": false,
     "notices": [
       {
