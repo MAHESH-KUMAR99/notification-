@@ -2047,9 +2047,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T12:59:31.679Z",
+    "lastUpdatedDate": "2026-09-21T06:55:49.565Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0adc3754184088e3",
+        "title": "21-09-2026: MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
+        "link": "https://drntr.uhsap.in/index/notification/20260921113112360.pdf",
+        "date": "21/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-21T06:55:49.565Z"
+      },
       {
         "id": "5680992658e6a804",
         "title": "19-09-2026: MDS CQ 2026-27 - Phase-II Web Options Notification",
@@ -2239,16 +2249,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-02T13:50:10.543Z"
-      },
-      {
-        "id": "492455058e97c0d9",
-        "title": "02-09-2026: MBBS CQ 2025-26 - List of Phase-I_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-I",
-        "link": "https://drntr.uhsap.in/index/notification/20260902115021467.pdf",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-02T09:28:41.094Z"
       }
     ]
   },
@@ -4496,7 +4496,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T13:00:41.054Z",
+    "lastUpdatedDate": "2026-09-21T06:56:57.720Z",
     "pinned": false,
     "notices": [
       {
@@ -6268,9 +6268,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-17T10:22:01.418Z",
+    "lastUpdatedDate": "2026-09-21T07:00:00.905Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "69b9b862deb8fd46",
+        "title": "SURETY BOND - BHMS/BAMS/BUMS 2026",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1789963514929-SURETY_BOND-2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-21T07:00:00.905Z"
+      },
       {
         "id": "b3d11937efb383f4",
         "title": "Online Registration Link for UG (BHMS) Admissions 2026-2027",
@@ -6456,15 +6466,6 @@
         "date": null,
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:50.385Z"
-      },
-      {
-        "id": "d33e5a16b21b91ed",
-        "title": "Information Bulletin for Under Graduate (MBBSBDS) Admission 2026-27",
-        "link": "https://fmsc.du.ac.in/upload/fmsc_BOI_2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:50.385Z"
       }
     ]
