@@ -802,9 +802,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T05:42:35.575Z",
+    "lastUpdatedDate": "2026-09-22T12:31:48.543Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-125",
+        "title": "RESERVE LIST OF CANDIDATES FOR MBBS ADMISSION AT AFMC PUNE THROUGH NEET UG-2026.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "21/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-22T12:31:48.543Z"
+      },
       {
         "id": "afmc-pune-124",
         "title": "RESULT OF RECRUIMENT FOR JUNIOR RESEARCH FELLOW JRF FOR AFMRC PROJECT NO 5763 2025 EFFECT OF ENVIRONMENTAL CONDITIONS ON PHYSICAL STABILITY AND CHEMICAL POTENCY OF THE DRUG FORMULATION.",
@@ -972,14 +981,6 @@
         "link": "https://afmc.nic.in/letestnews",
         "date": "02/07/2026",
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:45.770Z"
-      },
-      {
-        "id": "afmc-pune-104",
-        "title": "RESULT OF RECRUIMENT OF JUNIOR RESEARCH FELLOW JRF FOR AFMRC PROJECT NO 5763 2025 EFFECT OF ENVIRONMENTAL CONDITIONS ON PHYSICAL STABILITY AND CHEMICAL POTENCY OF THE DRUG FORMULATION.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "02/07/2026",
-        "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:45.770Z"
       }
     ]
@@ -2057,9 +2058,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T19:09:35.833Z",
+    "lastUpdatedDate": "2026-09-22T12:29:28.045Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e2217fdb7a70cd6a",
+        "title": "22-09-2026: MBBS-BDS-CQ- 2026-27-Notice to Sports & Games candidates to attend Physical Skill Test on 25-09-2026 at Nagarjuna University, Guntur",
+        "link": "https://drntr.uhsap.in/index/notification/20260922123606163.pdf",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-22T12:29:28.045Z"
+      },
       {
         "id": "b4d0df4aff2faaab",
         "title": "21-09-2026: MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-II MBBS CQ 2026-27 - List of Phase-II_MRC Candidates MDS MQ Detailed Notification 2026-27 MDS MQ PROSPECTUS 2026-27 MDS MQ User manual 2026-27 MDS MQ SEAT MATRIX - 2026-27 Post Basic (Nursing) 2 YDC 2026-27 - Reopening of Portal-Link for online application MBBS CQ 2026-27 - List of Phase-II_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
@@ -2249,16 +2260,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-05T15:03:31.585Z"
-      },
-      {
-        "id": "da67fa97256128d1",
-        "title": "03-09-2026: Post Basic (Nursing) 2 YD Course Prospectus 2026-27 Post Basic (Nursing) 2 YD Course Online application Notification 2026-27",
-        "link": "https://drntr.uhsap.in/index/notification/20260903202617160.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T16:05:57.184Z"
       }
     ]
   },
@@ -3442,9 +3443,89 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T18:50:28.200Z",
+    "lastUpdatedDate": "2026-09-22T12:33:49.712Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:27c253c1d4289cd8",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 PG DENTAL COUNSELLING (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/second_round_eligible_list.html",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
+      {
+        "id": "OVERALL:4e6056e28a5f8670",
+        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1U2tQhBPHmLuO3SbmcjFi3at7wNyev4hL/view?usp=sharing",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
+      {
+        "id": "OVERALL:4757dd158ab7a2e6",
+        "title": "LIST OF VACANCIES IN UG NEET - MBBS / BDS / BAMS / BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 2",
+        "link": "https://drive.google.com/file/d/1fVALpk5pVD3NpxHmMCQmDCmkwU3hFQs7/view?usp=sharing",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
+      {
+        "id": "OVERALL:f9cb50c5b38d4a4f",
+        "title": "UG NEET ADMITTED LIST - SECOND ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1GBFmPzpRpx-mhpMs1IWksQ_JzYSykicp/view?usp=sharing",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
+      {
+        "id": "PG DENTAL:27c253c1d4289cd8",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 PG DENTAL COUNSELLING (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/second_round_eligible_list.html",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 244,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
+      {
+        "id": "PG DENTAL:4e6056e28a5f8670",
+        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1U2tQhBPHmLuO3SbmcjFi3at7wNyev4hL/view?usp=sharing",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 245,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
+      {
+        "id": "UG NEET:4757dd158ab7a2e6",
+        "title": "LIST OF VACANCIES IN UG NEET - MBBS / BDS / BAMS / BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 2",
+        "link": "https://drive.google.com/file/d/1fVALpk5pVD3NpxHmMCQmDCmkwU3hFQs7/view?usp=sharing",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 359,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
+      {
+        "id": "UG NEET:f9cb50c5b38d4a4f",
+        "title": "UG NEET ADMITTED LIST - SECOND ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1GBFmPzpRpx-mhpMs1IWksQ_JzYSykicp/view?usp=sharing",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 360,
+        "detectedAt": "2026-09-22T12:33:49.712Z"
+      },
       {
         "id": "OVERALL:b3addb9c9e800a24",
         "title": "NOTICE : SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
@@ -3563,86 +3644,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "OVERALL:2b986e5eaaae3f8d",
-        "title": "PG DENTAL ADMITTED LIST - FIRST ROUND - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1l6RTEALGpBh94V55mSeL5726WUMgsOFi/view?usp=drivesdk",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-16T18:24:25.035Z"
-      },
-      {
-        "id": "OVERALL:c78e6f7ded555aec",
-        "title": "B.N.Y.S COURSE - FINAL MERIT LIST - 2026-2027 BASED ON H.SC. SCORE",
-        "link": "https://drive.google.com/file/d/1HAVZkqS6Amm2k5fZVYyi_5JwvvGwJjyE/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "OVERALL:566680fe8b515e56",
-        "title": "UG NEET - BSMS/BUMS/BHMS COURSES - FINAL MERIT LIST - 2026-2027",
-        "link": "https://drive.google.com/file/d/1FxTWYIWhj4cK_dmGcSUZgvbkQTFd8YXP/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "PG DENTAL:56b7d5583cfe89cc",
-        "title": "NOTICE : ROUND 2 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1DiuLVm5koq2A-UEDmQ4JbHTrP3D4RzVa/view?usp=drivesdk",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 236,
-        "detectedAt": "2026-09-16T18:24:25.035Z"
-      },
-      {
-        "id": "PG DENTAL:c8c105c8b1c01400",
-        "title": "PG DENTAL (M.D.S.) COURSES - VACANCIES AFTER ROUND 1",
-        "link": "https://drive.google.com/file/d/18f7A3mShs-2-Y0wS_gnbzk6fK01CP7G_/view?usp=drivesdk",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 237,
-        "detectedAt": "2026-09-16T18:24:25.035Z"
-      },
-      {
-        "id": "PG DENTAL:2b986e5eaaae3f8d",
-        "title": "PG DENTAL ADMITTED LIST - FIRST ROUND - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1l6RTEALGpBh94V55mSeL5726WUMgsOFi/view?usp=drivesdk",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 238,
-        "detectedAt": "2026-09-16T18:24:25.035Z"
-      },
-      {
-        "id": "UG NON-NEET:887b8f519394bddf",
-        "title": "ROUND 3 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1tbBxQbTkdBNhWwnUIONGin8OL0nvzbgj/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 251,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "UG NON-NEET:be38848618091b10",
-        "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/17nW6k7gp51Xe5WLwK_Vy06hcz0De-pQJ/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 252,
         "detectedAt": "2026-09-16T09:31:12.436Z"
       },
       {
@@ -5234,7 +5235,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T13:53:34.559Z",
+    "lastUpdatedDate": "2026-09-22T12:33:38.373Z",
     "pinned": false,
     "notices": [
       {
@@ -5630,9 +5631,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T08:45:25.646Z",
+    "lastUpdatedDate": "2026-09-22T12:33:55.378Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:3d5b8d8a81c550be",
+        "title": "Click here for Apply for (Fresh Registration) online Application for MBBS/BDS 3rd Round NEET UG Counselling 2026-27",
+        "link": "https://erpamruhp.in/applicantLoginEntReg.htm?EntrReg=EntrReg&link=ed256f5f8182120c10f6f332f1f312ed",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-22T12:33:55.378Z"
+      },
       {
         "id": "MBBS/BDS Counselling:fcac9a354c35b577",
         "title": "Schedule for MBBS/BDS 3rd Round Counselling 2026",
@@ -5822,16 +5833,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 1,
         "detectedAt": "2026-08-14T11:53:35.321Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:7e5c13a79df84b29",
-        "title": "Click here for Apply for online Application for MBBS/BDS 1st Round of Counselling 2026-27",
-        "link": "https://erpamruhp.in/applicantLoginEntReg.htm?EntrReg=EntrReg&link=ed256f5f8182120c10f6f332f1f312ed",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T12:18:01.332Z"
       }
     ]
   },
@@ -6487,9 +6488,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-22T06:47:39.285Z",
+    "lastUpdatedDate": "2026-09-22T12:31:28.930Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "84ac9f28f7464c05",
+        "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Libera Arts (CODE-451) FOR A.S:2026-27_dated-22.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609221328302137.pdf",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-22T12:31:28.930Z"
+      },
       {
         "id": "bdaeb629c880288a",
         "title": "ROUND 01 BHMS (CODE-154) FOR NEET UG 2026 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-22.09.2026",
@@ -6679,16 +6690,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-15T06:35:02.154Z"
-      },
-      {
-        "id": "219fe65af61255c2",
-        "title": "Schedule for Offline Counselling for BA (Eng), BA (Eco), Integrated BA/BBA LLB, LLM and B.Com Prog. A.S.2026-27_dated-15.09.2026.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260915272206838.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-15T12:35:18.010Z"
       }
     ]
   },
