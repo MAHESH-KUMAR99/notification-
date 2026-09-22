@@ -6487,9 +6487,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T13:49:12.511Z",
+    "lastUpdatedDate": "2026-09-22T06:47:39.285Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bdaeb629c880288a",
+        "title": "ROUND 01 BHMS (CODE-154) FOR NEET UG 2026 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-22.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609221717722597.pdf",
+        "date": "22/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-22T06:47:39.285Z"
+      },
       {
         "id": "5ef497e0f7b25c32",
         "title": "SCHEDULE FOR SPOT ROUND FOR PARAMEDICAL (B.PT/B.OT/BPO/BASLP/B.MLS) (CODE-124) and B.Ed (SE) (CODE-159) OF ONLINE COUNSELLING AND PHYSICAL REPORTING FOR THE A.S:2026-27_dated-21.09.2026",
@@ -6678,16 +6688,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-09-15T12:35:18.010Z"
-      },
-      {
-        "id": "50ca30247e346f21",
-        "title": "TENTATIVE VACANT SEATS FOR INTEGRATED LLB (CODE-121) FOR THE A.S.2026-27 AS ON 15.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151674812190.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-09-15T12:35:18.010Z"
       }
     ]
