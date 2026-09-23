@@ -2058,9 +2058,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-22T12:29:28.045Z",
+    "lastUpdatedDate": "2026-09-23T07:33:47.265Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d41444132436ef85",
+        "title": "23-09-2026: BDS-CQ- 2026-27 - Notification for Free Exit after Phase - I",
+        "link": "https://drntr.uhsap.in/index/notification/20260923105222640.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-23T07:33:47.265Z"
+      },
       {
         "id": "e2217fdb7a70cd6a",
         "title": "22-09-2026: MBBS-BDS-CQ- 2026-27-Notice to Sports & Games candidates to attend Physical Skill Test on 25-09-2026 at Nagarjuna University, Guntur",
@@ -2250,16 +2260,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-07T12:00:46.698Z"
-      },
-      {
-        "id": "5cb326bec60e1d34",
-        "title": "05-09-2026: MDS CQ 2026-27 - Phase-I College wise Provisional Allotments list MDS CQ 2026-27 - Phase-I MRC list",
-        "link": "https://drntr.uhsap.in/index/notification/20260905183331650.pdf",
-        "date": "05/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-05T15:03:31.585Z"
       }
     ]
   },
