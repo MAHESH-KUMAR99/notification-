@@ -217,9 +217,39 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-12T11:08:40.205Z",
+    "lastUpdatedDate": "2026-09-23T13:28:23.739Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "fa1f570c2f160624",
+        "title": "NEWLY ADDED SEATS ROUND 3 (MBBS BDS) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609231568966558.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-23T13:28:23.739Z"
+      },
+      {
+        "id": "39d7499f364b33b1",
+        "title": "VIRTUAL VACANCY ROUND 3 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260923920397983.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-23T13:28:23.739Z"
+      },
+      {
+        "id": "0d748c27cee89e37",
+        "title": "CLEAR VACANCY ROUND 3 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260923895250028.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-23T13:28:23.739Z"
+      },
       {
         "id": "a18a3c8c2699c3e3",
         "title": "Final Result UG Round 2 Counselling 2026 dated 12.09.2026",
@@ -387,33 +417,6 @@
         "date": "27/05/2026",
         "sortTs": null,
         "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "71905f2e2b5b25d2",
-        "title": "Final Result of UG Counselling Round 5 for BDS / B.Sc Nursing 2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/01/202601031185987538.pdf",
-        "date": "03/01/2026",
-        "sortTs": null,
-        "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "ff186f7f10c24224",
-        "title": "Seat Matrix for NEET UG (BDS B.Sc Nursing) -2025 Round 5 Counselling",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/01/2026010176307210.pdf",
-        "date": "01/01/2026",
-        "sortTs": null,
-        "batchIndex": 2,
-        "detectedAt": "2026-07-08T09:35:42.565Z"
-      },
-      {
-        "id": "5ca9139d0f63899c",
-        "title": "Final Result for Special Stray Round of UG counselling 2025",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2025/12/202512231822103663.pdf",
-        "date": "23/12/2025",
-        "sortTs": null,
-        "batchIndex": 3,
         "detectedAt": "2026-07-08T09:35:42.565Z"
       }
     ]
@@ -992,9 +995,21 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T12:58:42.045Z",
+    "lastUpdatedDate": "2026-09-23T13:28:28.428Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "533ba151793e0b28",
+        "title": "આથી પ્રવેશ સમિતિ દ્વારા જાણ કરવામાં આવે છે કે UG MBBS/BDS કોર્સ માટેની બેઠક પર લીધેલ પ્રવેશ રદ (કૅન્સલેશન) કરવાની પ્રક્રિયા તા. 24/09/2026 ના રોજ સવારે 10:00 વાગ્યાથી તા. 26/09/2026 ના રોજ બપોરે 12:00 વાગ્યા સુધી ચાલુ રહેશે. જે ઉમેદવારો પોતાનો પ્રવેશ રદ કરવા માંગતા હોય, તેઓએ નિયત સમયગાળા દરમિયાન તેમના સંબંધિત Reported Help Center ખાતે રૂબરૂ હાજર રહી પ્રવેશ રદ કરવાની પ્રક્રિયા પૂર્ણ કરવાની રહેશે. It is hereby informed by the Admission Committee that the process for cancellation of admitted seats for UG MBBS/BDS courses, will remain open on 24/09/2026 from 10:00 AM to 26/09/2026 12:00 PM. Candidates who wish to cancel their admission are required to visit their respective reported Help Center and complete the admission cancellation process within the stipulated time.",
+        "link": null,
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "It is hereby informed by the Admission Committee that the cancellation of the admission taken for the seat for UG MBBS/BDS Course dt. 24/09/2026 from 10:00 am will continue on 26/09/2026 upto 12:00 PM. Candidates who want to cancel their admission, they have to attend their respective Reported Help Center in person during the prescribed period and complete the cancellation process. It is hereby informed by the Admission Committee that the process for cancellation of admitted seats for UG MBBS/BDS courses, will remain open on 24/09/2026 from 10:00 AM to 26/09/2026 12:00 PM. Candidates who wish to cancel their admission are required to visit their respective reported Help Center and complete the admission cancellation process within the stipulated time.",
+        "titleLang": "gu",
+        "detectedAt": "2026-09-23T13:28:28.428Z"
+      },
       {
         "id": "17a9c0dbad7aead1",
         "title": "Institute Wise Admitted Candidate List Upto Second Round",
@@ -1187,16 +1202,6 @@
         "batchIndex": 18,
         "titleEn": "It is hereby informed by the Admission Committee that the deadline for choice filling for the second round of MBBS/BDS courses is dt. Extended to 14/09/2026 at 1:00 PM. All the candidates are requested to take special note of this matter. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 1:00 PM on 14/09/2026. All candidates are advised to take special note of the above.]",
         "titleLang": "gu",
-        "detectedAt": "2026-09-14T13:46:04.204Z"
-      },
-      {
-        "id": "8b6916eb7526d8f0",
-        "title": "Round-01 Cancelled Seat List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/R1_CANCEL_CANDIDATE_LIST.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
         "detectedAt": "2026-09-14T13:46:04.204Z"
       },
       {
@@ -2058,9 +2063,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-23T07:33:47.265Z",
+    "lastUpdatedDate": "2026-09-23T13:29:33.566Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "011880966698137b",
+        "title": "23-09-2026: UG AYUSH Courses 2026-27 - CQ - List of Candidates whose document verification is pending UG AYUSH Courses 2026-27 - CQ - List of Candidates paid Registration Fee but not submitted Application UG AYUSH Courses 2026-27 - CQ - List of Not-Eligible Candidates UG AYUSH Courses 2026-27 - CQ - Provisional Merit Position of Applied Candidates MDS CQ 2026-27 - Phase-II MRC list MDS CQ 2026-27 - Phase-II College wise Provisional Allotments list BDS-CQ- 2026-27 - Notification for Free Exit after Phase - I",
+        "link": "https://drntr.uhsap.in/index/notification/20260923185157731.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-23T13:29:33.566Z"
+      },
       {
         "id": "d41444132436ef85",
         "title": "23-09-2026: BDS-CQ- 2026-27 - Notification for Free Exit after Phase - I",
@@ -2250,16 +2265,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-08T13:25:27.841Z"
-      },
-      {
-        "id": "bac4bf3cfbad99ca",
-        "title": "07-09-2026: MDS CQ 2026-27 - Phase-I College wise Final Allotments list",
-        "link": "https://drntr.uhsap.in/index/notification/20260907143623657.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-07T12:00:46.698Z"
       }
     ]
   },
@@ -2674,7 +2679,7 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T08:44:56.193Z",
+    "lastUpdatedDate": "2026-09-23T13:33:11.993Z",
     "pinned": false,
     "notices": [
       {
@@ -2756,6 +2761,16 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-09-12T14:22:35.366Z"
+      },
+      {
+        "id": "Latest Updates:4a6af48bc3278522",
+        "title": "Second Round Counselling Schedule of UGEAC[ARCHITECTURE]-2026(Adv. No. BCECEB(UGEAC)-2026/11 Dated 11.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_11.pdf",
+        "date": "11/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-23T13:33:11.993Z"
       },
       {
         "id": "Latest Updates:af23be755aa3f529",
@@ -2865,16 +2880,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 0,
-        "detectedAt": "2026-08-30T08:08:55.406Z"
-      },
-      {
-        "id": "Latest Updates:3ea35974b2451431",
-        "title": "Details for Filling up Online Application Form for Third Round of PGEAC-2026(M. Tech.) (Adv. No. BCECEB(PGEAC)-2026/08 Dated 30.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGEAC26_08.pdf",
-        "date": "30/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
         "detectedAt": "2026-08-30T08:08:55.406Z"
       },
       {
@@ -3443,9 +3448,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-22T12:33:49.712Z",
+    "lastUpdatedDate": "2026-09-23T13:33:33.777Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:721daaf62f651d6b",
+        "title": "SECOND ROUND DRAFT ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1A1FFJrAsJSuflD_elscacRkSXPjxBa4T/view?usp=sharing",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-23T13:33:33.777Z"
+      },
+      {
+        "id": "OVERALL:bda696b9cd1a4908",
+        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/15ZccFR18iZEpcEIAsf2CFeyGmSlR3KhE/view?usp=sharing",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-23T13:33:33.777Z"
+      },
+      {
+        "id": "PG DENTAL:721daaf62f651d6b",
+        "title": "SECOND ROUND DRAFT ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1A1FFJrAsJSuflD_elscacRkSXPjxBa4T/view?usp=sharing",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 246,
+        "detectedAt": "2026-09-23T13:33:33.777Z"
+      },
+      {
+        "id": "PG DENTAL:bda696b9cd1a4908",
+        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/15ZccFR18iZEpcEIAsf2CFeyGmSlR3KhE/view?usp=sharing",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 247,
+        "detectedAt": "2026-09-23T13:33:33.777Z"
+      },
       {
         "id": "OVERALL:27c253c1d4289cd8",
         "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 PG DENTAL COUNSELLING (2026 - 2027)",
@@ -3605,46 +3650,6 @@
         "source": "Direct from Website",
         "batchIndex": 349,
         "detectedAt": "2026-09-18T14:55:46.902Z"
-      },
-      {
-        "id": "OVERALL:56b7d5583cfe89cc",
-        "title": "NOTICE : ROUND 2 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1DiuLVm5koq2A-UEDmQ4JbHTrP3D4RzVa/view?usp=drivesdk",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-16T18:24:25.035Z"
-      },
-      {
-        "id": "OVERALL:887b8f519394bddf",
-        "title": "ROUND 3 PROVISIONAL ALLOTMENT LIST - UG NON-NEET PROFESSIONAL AND ARTS, SCIENCE AND COMMERCE COURSES (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1tbBxQbTkdBNhWwnUIONGin8OL0nvzbgj/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
-      },
-      {
-        "id": "OVERALL:c8c105c8b1c01400",
-        "title": "PG DENTAL (M.D.S.) COURSES - VACANCIES AFTER ROUND 1",
-        "link": "https://drive.google.com/file/d/18f7A3mShs-2-Y0wS_gnbzk6fK01CP7G_/view?usp=drivesdk",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-16T18:24:25.035Z"
-      },
-      {
-        "id": "OVERALL:be38848618091b10",
-        "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/17nW6k7gp51Xe5WLwK_Vy06hcz0De-pQJ/view?usp=sharing",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-16T09:31:12.436Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4507,7 +4512,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-22T17:15:56.602Z",
+    "lastUpdatedDate": "2026-09-23T13:30:43.204Z",
     "pinned": false,
     "notices": [
       {
@@ -6488,9 +6493,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-22T12:31:28.930Z",
+    "lastUpdatedDate": "2026-09-23T13:31:38.488Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f69d2ba55f191fec",
+        "title": "BBA (CODE-125) REFUND ORDER NO. 3937 DATED 21.09.2026 for the A.S:2026-27_dated-23.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609231504557472.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-23T13:31:38.488Z"
+      },
+      {
+        "id": "b51c214e4fe1ac15",
+        "title": "B.COM (H) (CODE-146) REFUND ORDER NO. 3938 DATED 21.09.2026 for the A.S:2026-27_dated-23.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260923406758111.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-23T13:31:38.488Z"
+      },
+      {
+        "id": "ead2cba9e6802c0d",
+        "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Libera Arts (CODE-451) FOR A.S:2026-27_dated-22.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609231943963960.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-23T13:31:38.488Z"
+      },
       {
         "id": "84ac9f28f7464c05",
         "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Libera Arts (CODE-451) FOR A.S:2026-27_dated-22.09.2026",
@@ -6660,36 +6695,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-16T14:21:12.066Z"
-      },
-      {
-        "id": "e309b96bb4c894cb",
-        "title": "RANK/MERIT LIST OF THROUGH CUET 2026 FOR B.COM PRG. (CODE-146) 2026-27_dated-16.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260916418673451.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-16T14:21:12.066Z"
-      },
-      {
-        "id": "4880375814d3d0ec",
-        "title": "PROVISIONAL LIST OF ALLOTTED CANDIDATES IN ROUND 02 ONLINE COUNSELLING OF MBBS (CODE 103) 2026-27_dated-15.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151604629451.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T12:35:18.010Z"
-      },
-      {
-        "id": "0c7681fd4358a5e7",
-        "title": "ROUND 02 SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR THE PROG. MBBS (CODE-103) & B.Sc (H) NURSING (CODE-115) FOR A.S:2026-27_dated-14.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609151350554664.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T06:35:02.154Z"
       }
     ]
   },
@@ -6912,9 +6917,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T10:56:25.196Z",
+    "lastUpdatedDate": "2026-09-23T13:33:33.399Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "cefb4b821b88a627",
+        "title": "Admission To Ayurveda/Homoeo/Siddha/Unani/ Medical Allied Courses- Provisional First Phase Allotment List Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/274/Upload1",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-23T13:33:33.399Z"
+      },
       {
         "id": "d2bd67a4b0500680",
         "title": "FINAL CATEGORY LIST PUBLISHED (KONKANI LINGUISTIC MINORITY)",
@@ -7104,16 +7119,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-02T13:55:19.007Z"
-      },
-      {
-        "id": "1b775c6ad59d5cd3",
-        "title": "ADMISSION TO MBBS/ BDS COURSES – 2026 FIRST PHASE ALLOTMENT PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/229/Upload1",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-27T21:11:32.086Z"
       }
     ]
   },
