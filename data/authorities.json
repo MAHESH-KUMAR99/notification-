@@ -2065,9 +2065,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:13:45.775Z",
+    "lastUpdatedDate": "2026-09-24T14:20:58.696Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ded522d6a857be1c",
+        "title": "24-09-2026: Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Pending due to Non-submission of Required Documents Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Fee paid but not submission list Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Provisional Eligible List of Service Candidates Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Provisional Eligible List of Non-Service Candidates MDS CQ 2026-27 - Phase-II College wise Final Allotments list MBBS- CQ 2026-27 PHASE-II NOTICE FOR EXTENSION OF TIME FOR JOINING MBBS-BDS-CQ- 2026-27-Rescheduled Notice to Sports & Games candidates to attend Physical Skill Test on 28-09-2026 at Nagarjuna University, Guntur",
+        "link": "https://drntr.uhsap.in/index/notification/20260924184019790.pdf",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-24T14:20:58.696Z"
+      },
       {
         "id": "6f1a46b8862b8291",
         "title": "24-09-2026: MBBS- CQ 2026-27 PHASE-II NOTICE FOR EXTENSION OF TIME FOR JOINING MBBS-BDS-CQ- 2026-27-Rescheduled Notice to Sports & Games candidates to attend Physical Skill Test on 28-09-2026 at Nagarjuna University, Guntur",
@@ -2257,16 +2267,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-09T11:48:22.474Z"
-      },
-      {
-        "id": "1d1a0f0321029833",
-        "title": "08-09-2026: UG AYUSH Courses 2026-27 - CQ - Detailed Notification - For Online Application UG AYUSH Courses 2026-27 - CQ Prospectus",
-        "link": "https://drntr.uhsap.in/index/notification/20260908181302803.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-09T06:30:49.475Z"
       }
     ]
   },
@@ -2681,9 +2681,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:17:34.519Z",
+    "lastUpdatedDate": "2026-09-24T14:24:30.600Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:8b5d731f059e0167",
+        "title": "Notice for Filling Online Application form for POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/02 Dated 24.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGPAC26_02.pdf",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-24T14:24:30.600Z"
+      },
+      {
+        "id": "Latest Updates:cf6d4d7b592bbe34",
+        "title": "Details for Filling Online Application form for POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/01 Dated 24.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGPAC26_01.pdf",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-24T14:24:30.600Z"
+      },
       {
         "id": "Latest Updates:538194563bba24d9",
         "title": "Second Round Counselling Schedule of UGEAC[ARCHITECTURE]-2026(Adv. No. BCECEB(UGEAC)-2026/11 Dated 23.09.2026)",
@@ -2863,26 +2883,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-09-08T13:29:25.709Z"
-      },
-      {
-        "id": "Latest Updates:d29d2e20dbc86acc",
-        "title": "Notice for offline Spot Round Counselling of ITICAT-2026 (Adv. No. BCECEB(ITICAT)-2026/12 Dated 03.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_ITICAT26_12.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T11:39:13.191Z"
-      },
-      {
-        "id": "Latest Updates:5aaf2acb2c37d0cb",
-        "title": "Notice for Extension in Date for First Round Document Verification of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/04 Dated 31.08.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_04.pdf",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-31T08:26:32.466Z"
       },
       {
         "id": "UGMAC:f09ff50664246a14",
@@ -3450,7 +3450,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:18:02.184Z",
+    "lastUpdatedDate": "2026-09-24T14:25:19.576Z",
     "pinned": false,
     "notices": [
       {
@@ -3494,6 +3494,16 @@
         "detectedAt": "2026-09-24T09:18:02.184Z"
       },
       {
+        "id": "OVERALL:c9d3f38bec22bd1d",
+        "title": "THIRD ROUND UG NON-NEET PROFESSIONAL ADMITTED LIST - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1_kpjw9UgZmairpnvt19m08HqvBX8pe5M/view?usp=sharing",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-09-24T14:25:19.576Z"
+      },
+      {
         "id": "OVERALL:2f439036fca41fff",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
         "link": "https://drive.google.com/file/d/1UjPmWcGrVSM6oOxazzavux8nUxHdgYpm/view?usp=sharing",
@@ -3502,6 +3512,16 @@
         "source": "Direct from Website",
         "batchIndex": 4,
         "detectedAt": "2026-09-24T09:18:02.184Z"
+      },
+      {
+        "id": "OVERALL:76aaee44b26134e9",
+        "title": "THIRD ROUND UG NON-NEET ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/14cBX2PidIraDNlLSOBTWsc02EImUkqAk/view?usp=sharing",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-09-24T14:25:19.576Z"
       },
       {
         "id": "OVERALL:f461ed891b7c5cfe",
@@ -3552,6 +3572,26 @@
         "source": "Direct from Website",
         "batchIndex": 280,
         "detectedAt": "2026-09-24T09:18:02.184Z"
+      },
+      {
+        "id": "UG NON-NEET:c9d3f38bec22bd1d",
+        "title": "THIRD ROUND UG NON-NEET PROFESSIONAL ADMITTED LIST - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1_kpjw9UgZmairpnvt19m08HqvBX8pe5M/view?usp=sharing",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 281,
+        "detectedAt": "2026-09-24T14:25:19.576Z"
+      },
+      {
+        "id": "UG NON-NEET:76aaee44b26134e9",
+        "title": "THIRD ROUND UG NON-NEET ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/14cBX2PidIraDNlLSOBTWsc02EImUkqAk/view?usp=sharing",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 282,
+        "detectedAt": "2026-09-24T14:25:19.576Z"
       },
       {
         "id": "UG NEET:32052b34d772cf52",
@@ -3612,46 +3652,6 @@
         "source": "Direct from Website",
         "batchIndex": 247,
         "detectedAt": "2026-09-23T13:33:33.777Z"
-      },
-      {
-        "id": "OVERALL:27c253c1d4289cd8",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 2 PG DENTAL COUNSELLING (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/second_round_eligible_list.html",
-        "date": "22/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-22T12:33:49.712Z"
-      },
-      {
-        "id": "OVERALL:4e6056e28a5f8670",
-        "title": "NOTICE : ROUND 2 ELIGIBLE CANDIDATES LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1U2tQhBPHmLuO3SbmcjFi3at7wNyev4hL/view?usp=sharing",
-        "date": "22/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-22T12:33:49.712Z"
-      },
-      {
-        "id": "OVERALL:4757dd158ab7a2e6",
-        "title": "LIST OF VACANCIES IN UG NEET - MBBS / BDS / BAMS / BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 2",
-        "link": "https://drive.google.com/file/d/1fVALpk5pVD3NpxHmMCQmDCmkwU3hFQs7/view?usp=sharing",
-        "date": "22/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-22T12:33:49.712Z"
-      },
-      {
-        "id": "OVERALL:f9cb50c5b38d4a4f",
-        "title": "UG NEET ADMITTED LIST - SECOND ROUND - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1GBFmPzpRpx-mhpMs1IWksQ_JzYSykicp/view?usp=sharing",
-        "date": "22/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-22T12:33:49.712Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
