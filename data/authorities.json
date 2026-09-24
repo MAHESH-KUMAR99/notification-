@@ -3450,9 +3450,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T14:25:19.576Z",
+    "lastUpdatedDate": "2026-09-24T18:40:56.165Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:dbb84ae45c195d0e",
+        "title": "NOTICE : ROUND 3 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & WITHDRAWAL OF ROUND 1/ROUND 2 ADMITTED SEAT FOR UG NEET-BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1Xqg3gE2pwdq3LIdlpZoO3T-Vu_mbXez2/view?usp=sharing",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-24T18:40:56.165Z"
+      },
       {
         "id": "OVERALL:60c9427a42599a05",
         "title": "SECOND ROUND PROVISIONAL ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
@@ -3464,6 +3474,16 @@
         "detectedAt": "2026-09-24T09:18:02.184Z"
       },
       {
+        "id": "OVERALL:6a33ce3d6e72808f",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR MOPUP ROUND - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_eligible_list.html",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-24T18:40:56.165Z"
+      },
+      {
         "id": "OVERALL:1a2776c41bce3f64",
         "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
         "link": "https://drive.google.com/file/d/1xMaNn3vyVy1mCYGfps7oVhzx51Q9VtgK/view?usp=sharing",
@@ -3472,6 +3492,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-24T09:18:02.184Z"
+      },
+      {
+        "id": "OVERALL:1a5b80d5bdd4d65a",
+        "title": "NOTICE : MOP UP ROUND EIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1KlTRf_IbwonuYuF8xlfQO5kWuBYN-lLW/view?usp=sharing",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-24T18:40:56.165Z"
       },
       {
         "id": "OVERALL:32052b34d772cf52",
@@ -3534,6 +3564,16 @@
         "detectedAt": "2026-09-24T09:18:02.184Z"
       },
       {
+        "id": "OVERALL:bcd2c0f55f91e28b",
+        "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER ROUND 3",
+        "link": "https://drive.google.com/file/d/1nggbXFHEECRNmM-j2T9P7uTSJWoVd1lz/view?usp=sharing",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-09-24T18:40:56.165Z"
+      },
+      {
         "id": "PG DENTAL:60c9427a42599a05",
         "title": "SECOND ROUND PROVISIONAL ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
         "link": "https://drive.google.com/file/d/16ZbS7_fz3iAzhbOZyzceSsUBLoC-aKpU/view?usp=sharing",
@@ -3594,64 +3634,24 @@
         "detectedAt": "2026-09-24T14:25:19.576Z"
       },
       {
-        "id": "UG NEET:32052b34d772cf52",
-        "title": "REVISED LIST OF VACANCIES FOR B.D.S. - GQ IN MAHE INSTITUTE OF DENTAL SCIENCES",
-        "link": "https://drive.google.com/file/d/1RR5b71N2JcZcZJBLgre7P8eF-1nOhEoz/view?usp=sharing",
+        "id": "UG NON-NEET:6a33ce3d6e72808f",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR MOPUP ROUND - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_eligible_list.html",
         "date": "24/09/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 373,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
+        "batchIndex": 285,
+        "detectedAt": "2026-09-24T18:40:56.165Z"
       },
       {
-        "id": "UG NEET:045213194fcbf153",
-        "title": "REVISED ADMITTED LIST FOR B.D.S. - GOVERNMENT QUOTA IN MAHE INSTITUTE OF DENTAL SCIENCES",
-        "link": "https://drive.google.com/file/d/15FqUjfcZ8c4cSupY-qxVUf9EdM_Kf069/view?usp=sharing",
+        "id": "UG NON-NEET:1a5b80d5bdd4d65a",
+        "title": "NOTICE : MOP UP ROUND EIGIBLE CANDIDATES MERIT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1KlTRf_IbwonuYuF8xlfQO5kWuBYN-lLW/view?usp=sharing",
         "date": "24/09/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 374,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
-      },
-      {
-        "id": "OVERALL:721daaf62f651d6b",
-        "title": "SECOND ROUND DRAFT ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1A1FFJrAsJSuflD_elscacRkSXPjxBa4T/view?usp=sharing",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-23T13:33:33.777Z"
-      },
-      {
-        "id": "OVERALL:bda696b9cd1a4908",
-        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/15ZccFR18iZEpcEIAsf2CFeyGmSlR3KhE/view?usp=sharing",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-23T13:33:33.777Z"
-      },
-      {
-        "id": "PG DENTAL:721daaf62f651d6b",
-        "title": "SECOND ROUND DRAFT ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1A1FFJrAsJSuflD_elscacRkSXPjxBa4T/view?usp=sharing",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 246,
-        "detectedAt": "2026-09-23T13:33:33.777Z"
-      },
-      {
-        "id": "PG DENTAL:bda696b9cd1a4908",
-        "title": "NOTICE : ROUND 2 DRAFT ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/15ZccFR18iZEpcEIAsf2CFeyGmSlR3KhE/view?usp=sharing",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 247,
-        "detectedAt": "2026-09-23T13:33:33.777Z"
+        "batchIndex": 286,
+        "detectedAt": "2026-09-24T18:40:56.165Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4514,9 +4514,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:14:56.073Z",
+    "lastUpdatedDate": "2026-09-24T18:37:52.955Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f875674fb6c4b760",
+        "title": "24 Sep. 2026: Pre-Bid Query Replies for ERP Solution RFP (Tender No. 198833).....More",
+        "link": "https://www.cgdme.in/notice.php?id=2221",
+        "date": null,
+        "sortTs": 1790640000000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-24T18:37:52.955Z"
+      },
       {
         "id": "4994336445bd1e4f",
         "title": "Provisional Eligibility List for Administrative Officer & Librarian in Newly Established Government Nursing & Physiotherapy Colleges | Claims & Objections Invited till 13 September 2026, up to 11:59 PM.....More",
@@ -4724,18 +4734,6 @@
         "titleEn": "Regarding recognition of private hospitals located within the state for the treatment of government servants of the state and their dependent members of their families. .....More",
         "titleLang": "hi",
         "detectedAt": "2026-08-10T13:18:13.876Z"
-      },
-      {
-        "id": "9ab1c3e640b9e31b",
-        "title": ": नीट यूजी प्रवेश वर्ष 2026 की राज्य स्तरीय काउंसिलिंग हेतु एनआरआई पात्रता संबंधी आवश्यक दस्तावेज प्रस्तुत करने की तिथि वृद्धि के संबंध में सूचना .....More",
-        "link": "https://www.cgdme.in/notice.php?id=2156",
-        "date": "09/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": ": Information regarding extension of date for submission of necessary documents related to NRI eligibility for state level counseling of NEET UG admission year 2026.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-09T11:35:06.128Z"
       }
     ]
   },
@@ -6919,9 +6917,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-23T13:33:33.399Z",
+    "lastUpdatedDate": "2026-09-24T18:40:55.547Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "161531ed16bd068c",
+        "title": "Admission to AYUSH/Veterinary/Fisheries/Forestry/Agriculture and Allied Courses - First Phase Allotment Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/275/Upload1",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-24T18:40:55.547Z"
+      },
       {
         "id": "cefb4b821b88a627",
         "title": "Admission To Ayurveda/Homoeo/Siddha/Unani/ Medical Allied Courses- Provisional First Phase Allotment List Published",
@@ -7111,16 +7119,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-03T16:10:51.754Z"
-      },
-      {
-        "id": "2f92f1de24e60564",
-        "title": "Provisional NRI Category List Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/235/Upload1",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-02T13:55:19.007Z"
       }
     ]
   },
