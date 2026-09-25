@@ -2277,9 +2277,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T19:09:26.860Z",
+    "lastUpdatedDate": "2026-09-25T05:58:41.415Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8753d3b3b48f062b",
+        "title": "Schedule for 3rd Round of MBBS/BDS online counselling under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/New%20Schedule%203rd%20Round-MBBS%20240926.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T05:58:41.415Z"
+      },
       {
         "id": "2ea3163c229c567d",
         "title": "Provisional allotment of Result under NEET-UG 2026",
@@ -2469,16 +2479,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-09-08T13:25:15.833Z"
-      },
-      {
-        "id": "66f4502d56d5e419",
-        "title": "Tentative Vacancy position for the MBBS/BDS Courses for the session 2026 for 2nd round MBBS BDS",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndVacancy/Tentative%20vacany%20poistion%20of%20MBS%20of%201st%20round%20of%20counseling.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-07T12:00:02.179Z"
       }
     ]
   },
@@ -7337,7 +7337,7 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-18T10:54:12.060Z",
+    "lastUpdatedDate": "2026-09-25T06:01:00.106Z",
     "pinned": false,
     "notices": [
       {
