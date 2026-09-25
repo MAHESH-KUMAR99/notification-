@@ -2061,9 +2061,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T11:42:11.660Z",
+    "lastUpdatedDate": "2026-09-25T16:53:37.567Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b46d95fff8309726",
+        "title": "25-09-2026: MBBS MQ -2026-27-LIST OF CANDIDATES FOR REUPLOADING OF DOCUMENTS VIDE NOTIFICATION DT.13-09-2026 MBBS MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES FOR CATEGORY -B1,B2 & NRI LAPSED vide notification dt.13-09-2026 MBBS MQ-2026-27-List of candidates those who paid fee but not submitted application MBBS MQ -2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES FOR NRI CATEGORY SEATS-vide notification dt13-09-2026 MBBS & BDS MQ 2026-27 LIST OF CANDIDATES FOUND IN THE EARLIER MERIT LIST (CAT-B1 & B2) AND NOW OPTED FOR NRI - NRI LAPSED SEATS - REUPLOAD OF PENDING DOCUMENTS MBBS & BDS MQ 2026-27- LIST OF CANDIDATES FOUND IN THE EARLIER MERIT LIST (CAT-B1 & B2) AND NOW OPTED FOR NRI -NRI LAPSED SEATS PG (Dental) Admissions 2026-27 - Notification on Free Exit for Phase-I allotted candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20260925185706877.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T16:53:37.567Z"
+      },
       {
         "id": "963592060915de00",
         "title": "25-09-2026: PG (Dental) Admissions 2026-27 - Notification on Free Exit for Phase-I allotted candidates",
@@ -2253,16 +2263,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-11T09:57:05.729Z"
-      },
-      {
-        "id": "54a0cea9fbb88f00",
-        "title": "10-09-2026: MBBS-CQ- 2026-27 - Notification for Free Exit after Phase - I MBBS CQ 2026-27 - List of Not Reported candidates after Phase-I",
-        "link": "https://drntr.uhsap.in/index/notification/20260910180255757.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-10T13:27:14.609Z"
       }
     ]
   },
@@ -2273,9 +2273,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T05:58:41.415Z",
+    "lastUpdatedDate": "2026-09-25T16:53:29.111Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9decf85f868fff22",
+        "title": "Revised Schedule 3rd Round-MBBS/BDS under NEET UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Revised%20Schedule%203rd%20Round-MBBS.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T16:53:29.111Z"
+      },
       {
         "id": "8753d3b3b48f062b",
         "title": "Schedule for 3rd Round of MBBS/BDS online counselling under NEET UG 2026",
@@ -2464,16 +2474,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-09-08T13:25:15.833Z"
-      },
-      {
-        "id": "ddf84d9d95f028bb",
-        "title": "Provisional Merit List of NRI candidates",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndMerit/NRI2.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
         "detectedAt": "2026-09-08T13:25:15.833Z"
       }
     ]
@@ -4740,9 +4740,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T13:53:36.561Z",
+    "lastUpdatedDate": "2026-09-25T16:58:16.134Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:b4b9f3643c0f1fb6",
+        "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (1st ROUND COUNSELLING)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609251550713638.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T16:58:16.134Z"
+      },
       {
         "id": "OJEE:c478961b83706097",
         "title": "REVISED TENTATIVE Web-BASED COUNSELLING SCHEDULE FOR B.Pharm, M.Pharm, LE Pharmacy COURSE FOR THE SESSION 2026-27",
@@ -4931,16 +4941,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 3,
-        "detectedAt": "2026-07-27T12:34:09.464Z"
-      },
-      {
-        "id": "OJEE:dd3e9df027722586",
-        "title": "REGISTRATION NOTICE FOR 2nd/SPECIAL OJEE 2026 RANK HOLDERS FOR BTECH, Lateral Entry to BTECH, MBA and MCA COURSES IN THE COUNSELLING PROCESS",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607231296228251.pdf",
-        "date": "23/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 4,
         "detectedAt": "2026-07-27T12:34:09.464Z"
       },
       {
@@ -6489,9 +6489,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T11:44:12.917Z",
+    "lastUpdatedDate": "2026-09-25T16:56:03.390Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "66efa4e8a5cbd7be",
+        "title": "BA(ECO)_CODE-197 REFUND ORDER NO. 3944 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609252141779798.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T16:56:03.390Z"
+      },
       {
         "id": "8ace6cc38655bef1",
         "title": "ONLINE REFUND LIST OF B.TECH (CODE 131) PROG. FOR THE A.S:2026-27 REFUND ORDER NO. 3949_dated-25.09.2026",
@@ -6501,6 +6511,36 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-25T11:44:12.917Z"
+      },
+      {
+        "id": "5c7888bbc7f899e8",
+        "title": "MBA_CODE-101 REFUND ORDER NO. 3943 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260925745661064.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-25T16:56:03.390Z"
+      },
+      {
+        "id": "a505e5067a939999",
+        "title": "B.Ed CODE-122 REFUND ORDER NO. 3946 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260925207689475.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-25T16:56:03.390Z"
+      },
+      {
+        "id": "2f83b2c2f10698ca",
+        "title": "MCA CODE-105 REFUND ORDER NO. 3948 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609251428431340.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-25T16:56:03.390Z"
       },
       {
         "id": "c89fb825731449bc",
@@ -6651,46 +6691,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-18T14:53:30.522Z"
-      },
-      {
-        "id": "36b799d04bd7e49c",
-        "title": "Appointment of Nodal Officer in pursuance of Order dated 14.09.2026 of DHE, Govt of NCT of delhi regarding Filling up of vacant seats remaining after completion of admission process by GGSIP Universit",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918796216499.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-18T10:54:05.395Z"
-      },
-      {
-        "id": "88b6192b519180a7",
-        "title": "BA(JMC) (CODE-126) REFUND ORDER NO.3927, Diary No. 3926 DATED 10.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918698163260.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-18T14:53:30.522Z"
-      },
-      {
-        "id": "735e843ce0d1d884",
-        "title": "ONLINE REFUND LIST OF B.TECH (CODE 131) PROG. FOR THE A.S: 2026-27 REFUND ORDER NO. 3931 _dated 16.09.2026.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918285725524.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-18T10:54:05.395Z"
-      },
-      {
-        "id": "4953d6bbc2465ac6",
-        "title": "BBA REFUND ORDER NO. 3923 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609171761565691.pdf",
-        "date": "17/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-17T15:15:18.849Z"
       }
     ]
   },
@@ -6913,9 +6913,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T18:40:55.547Z",
+    "lastUpdatedDate": "2026-09-25T16:58:25.167Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4f1bcbbc2f282652",
+        "title": "SECOND ROUND ONLINE VACANCY FILLING ALLOTMENT TO B.PHARM COURSE - ONLINE OPTIONS INVITED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/277/Upload1",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T16:58:25.167Z"
+      },
       {
         "id": "161531ed16bd068c",
         "title": "Admission to AYUSH/Veterinary/Fisheries/Forestry/Agriculture and Allied Courses - First Phase Allotment Published",
@@ -7105,16 +7115,6 @@
         "source": "Direct from Website",
         "batchIndex": 4,
         "detectedAt": "2026-09-11T10:01:21.205Z"
-      },
-      {
-        "id": "4b944f02a0bb948c",
-        "title": "MBBS/BDS - FINAL NRI CATEGORY LIST PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/240/Upload1",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T16:10:51.754Z"
       }
     ]
   },
