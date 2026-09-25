@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:12:30.699Z",
+    "lastUpdatedDate": "2026-09-25T11:41:54.575Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "18589b6df992bb10",
+        "title": "VIRTUAL VACANCY ROUND 3 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260925310985535.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-25T11:41:54.575Z"
+      },
+      {
+        "id": "1e8d0ddac9182ccf",
+        "title": "CLEAR VACANCY ROUND 3 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609251768661500.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-25T11:41:54.575Z"
+      },
       {
         "id": "8736471fe19366c1",
         "title": "NEWLY ADDED SEATS ROUND 3 (MBBS BDS) – UG COUNSELLING 2026",
@@ -399,26 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-20T15:06:21.972Z"
-      },
-      {
-        "id": "9b64db2a2b20f84b",
-        "title": "NOTICE FOR PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608201553515092.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-20T15:06:21.972Z"
-      },
-      {
-        "id": "2cccbc86fe4835a6",
-        "title": "Revised Schedule for Round 1 dated 13.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608131187512522.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T10:10:58.984Z"
       }
     ]
   },
@@ -997,9 +997,49 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-23T13:28:28.428Z",
+    "lastUpdatedDate": "2026-09-25T11:41:58.169Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "60662e0558b9976f",
+        "title": "Advertisement for First/Second Round Admission Cancellation, 3rd Round Online Registration",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/Adv.%20-%20PIN%20dist.%20&%20Online%20Reg.%20-%20UG%20Round-03%20%20[2026-27].pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T11:41:58.169Z"
+      },
+      {
+        "id": "ad6bc5cd3ed4172e",
+        "title": "Procedure For Admission Cancellation",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/Admission_Cancellation_-_Procedure--.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-25T11:41:58.169Z"
+      },
+      {
+        "id": "34f5b9197375e2ea",
+        "title": "Instructions for Online Application and Registration",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Instructions%20for%20Online%20Application%20and%20Registartion-%20[2025-26].pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-25T11:41:58.169Z"
+      },
+      {
+        "id": "4752c26b8756478d",
+        "title": "Procedure for Online Registration",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/REG/Procedure%20for%20online%20registration%20[2026-27].pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-25T11:41:58.169Z"
+      },
       {
         "id": "533ba151793e0b28",
         "title": "આથી પ્રવેશ સમિતિ દ્વારા જાણ કરવામાં આવે છે કે UG MBBS/BDS કોર્સ માટેની બેઠક પર લીધેલ પ્રવેશ રદ (કૅન્સલેશન) કરવાની પ્રક્રિયા તા. 24/09/2026 ના રોજ સવારે 10:00 વાગ્યાથી તા. 26/09/2026 ના રોજ બપોરે 12:00 વાગ્યા સુધી ચાલુ રહેશે. જે ઉમેદવારો પોતાનો પ્રવેશ રદ કરવા માંગતા હોય, તેઓએ નિયત સમયગાળા દરમિયાન તેમના સંબંધિત Reported Help Center ખાતે રૂબરૂ હાજર રહી પ્રવેશ રદ કરવાની પ્રક્રિયા પૂર્ણ કરવાની રહેશે. It is hereby informed by the Admission Committee that the process for cancellation of admitted seats for UG MBBS/BDS courses, will remain open on 24/09/2026 from 10:00 AM to 26/09/2026 12:00 PM. Candidates who wish to cancel their admission are required to visit their respective reported Help Center and complete the admission cancellation process within the stipulated time.",
@@ -1160,50 +1200,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 13,
-        "detectedAt": "2026-09-14T13:46:04.204Z"
-      },
-      {
-        "id": "af9a9cfbe7d5d0a5",
-        "title": "AIQ and State Schedule Round 2_3_4_ on date14.09.2026",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/202609141373493448.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 15,
-        "detectedAt": "2026-09-14T13:46:04.204Z"
-      },
-      {
-        "id": "2eea6f73ba53b907",
-        "title": "આથી પ્રવેશ સમિતિ દ્વારા જાણ કરવામાં આવે છે કે MBBS/BDS અભ્યાસક્રમોના બીજા રાઉન્ડ માટેની ચોઇસ ફિલિંગની સમયમર્યાદા તા. 14/09/2026ના બપોરે 1:00 વાગ્યા સુધી લંબાવવામાં આવેલ છે. તમામ ઉમેદવારોએ આ બાબતની ખાસ નોંધ લેવા વિનંતી છે. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 1:00 PM on 14/09/2026. All candidates are advised to take special note of the above.]",
-        "link": null,
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 16,
-        "titleEn": "It is hereby informed by the Admission Committee that the deadline for choice filling for the second round of MBBS/BDS courses is dt. Extended to 14/09/2026 at 1:00 PM. All the candidates are requested to take special note of this matter. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 1:00 PM on 14/09/2026. All candidates are advised to take special note of the above.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-09-14T13:46:04.204Z"
-      },
-      {
-        "id": "8b6916eb7526d8f0",
-        "title": "Round-01 Cancelled Seat List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/R1_CANCEL_CANDIDATE_LIST.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 17,
-        "detectedAt": "2026-09-14T13:46:04.204Z"
-      },
-      {
-        "id": "2eea6f73ba53b907",
-        "title": "આથી પ્રવેશ સમિતિ દ્વારા જાણ કરવામાં આવે છે કે MBBS/BDS અભ્યાસક્રમોના બીજા રાઉન્ડ માટેની ચોઇસ ફિલિંગની સમયમર્યાદા તા. 14/09/2026ના બપોરે 1:00 વાગ્યા સુધી લંબાવવામાં આવેલ છે. તમામ ઉમેદવારોએ આ બાબતની ખાસ નોંધ લેવા વિનંતી છે. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 1:00 PM on 14/09/2026. All candidates are advised to take special note of the above.]",
-        "link": null,
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 18,
-        "titleEn": "It is hereby informed by the Admission Committee that the deadline for choice filling for the second round of MBBS/BDS courses is dt. Extended to 14/09/2026 at 1:00 PM. All the candidates are requested to take special note of this matter. [It is hereby informed by the Admission Committee that the choice filling period for the Second Round of MBBS/BDS admissions has been extended up to 1:00 PM on 14/09/2026. All candidates are advised to take special note of the above.]",
-        "titleLang": "gu",
         "detectedAt": "2026-09-14T13:46:04.204Z"
       },
       {
@@ -1417,9 +1413,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T13:46:36.925Z",
+    "lastUpdatedDate": "2026-09-25T11:42:09.951Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7c9e2033415ec851",
+        "title": "KIND ATTENTION TO THE SELF-FINANCING MEDICAL AND DENTAL AND STATE PRIVATE UNIVERSITIES COLLEGES FOR MBBS/BDS DEGREE COURSES 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/25092026022933.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T11:42:09.951Z"
+      },
       {
         "id": "49a0358125565bf2",
         "title": "MQ - Provisional List of Candidates allotted for MBBS/BDS (Management Quota) Course Session :2026 - 2027 on - 15.09.2026",
@@ -1609,16 +1615,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-07T05:51:36.046Z"
-      },
-      {
-        "id": "4612e0f61e8ed016",
-        "title": "92.5% - TENTATIVE ROUND-II COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSES 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/06092026073135.pdf",
-        "date": "06/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-06T15:41:08.709Z"
       }
     ]
   },
@@ -2065,9 +2061,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T14:20:58.696Z",
+    "lastUpdatedDate": "2026-09-25T11:42:11.660Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "963592060915de00",
+        "title": "25-09-2026: PG (Dental) Admissions 2026-27 - Notification on Free Exit for Phase-I allotted candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20260925130251913.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T11:42:11.660Z"
+      },
       {
         "id": "ded522d6a857be1c",
         "title": "24-09-2026: Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Pending due to Non-submission of Required Documents Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Fee paid but not submission list Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Provisional Eligible List of Service Candidates Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Provisional Eligible List of Non-Service Candidates MDS CQ 2026-27 - Phase-II College wise Final Allotments list MBBS- CQ 2026-27 PHASE-II NOTICE FOR EXTENSION OF TIME FOR JOINING MBBS-BDS-CQ- 2026-27-Rescheduled Notice to Sports & Games candidates to attend Physical Skill Test on 28-09-2026 at Nagarjuna University, Guntur",
@@ -2257,16 +2263,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-10T13:27:14.609Z"
-      },
-      {
-        "id": "5e05076f4cc7f8e6",
-        "title": "09-09-2026: B.Sc.(Nursing) 4 YD Course 2026-27 - NOTIFICATION for Online Application Form B.Sc.(Nursing) 4 YD Course 2026-27 - PROSPECTUS",
-        "link": "https://drntr.uhsap.in/index/notification/20260909153830487.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-09T11:48:22.474Z"
       }
     ]
   },
@@ -3106,9 +3102,19 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T13:46:25.124Z",
+    "lastUpdatedDate": "2026-09-25T11:42:04.389Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "fa36c5cbd3206d6e",
+        "title": "Advt. No. 88 dated-25.09.2026 Advisory and Guidelines regarding Residential/Category/Income & Assets/PwD/ In-service certificate for upcoming online Application form Submission for State Merit List on the basis of NEET (PG)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/791.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T11:42:04.389Z"
+      },
       {
         "id": "0424a17c00cdded3",
         "title": "Advt. No. 87 dated-21.09.2026 Important Notice regarding correction in State Merit List Based on NEET (UG)- 2026 Result",
@@ -3306,16 +3312,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-25T08:48:21.510Z"
-      },
-      {
-        "id": "1cf268a9f425a3ac",
-        "title": "Advt. No. 68 dated-23.08.2026 डिप्लोमा प्रवेश प्रतियोगिता परीक्षा (पाश्विक प्रवेश)-2026 के परीक्षाफल आधारित तृतीय एवं विशेष चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/770.pdf",
-        "date": "23/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T12:58:49.033Z"
       }
     ]
   },
@@ -6493,9 +6489,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:16:00.295Z",
+    "lastUpdatedDate": "2026-09-25T11:44:12.917Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8ace6cc38655bef1",
+        "title": "ONLINE REFUND LIST OF B.TECH (CODE 131) PROG. FOR THE A.S:2026-27 REFUND ORDER NO. 3949_dated-25.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260925668755135.pdf",
+        "date": "25/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-25T11:44:12.917Z"
+      },
       {
         "id": "c89fb825731449bc",
         "title": "BBA (CODE-125) REFUND ORDER NO. 3937 DATED 21.09.2026 for the A.S:2026-27_dated-23.09.2026",
@@ -6505,6 +6511,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-24T09:16:00.295Z"
+      },
+      {
+        "id": "69e3fd43e2632f00",
+        "title": "BBA (CODE-125) REFUND ORDER NO. 3937 DATED 21.09.2026 (SEAT CANCELLED BY ADMIN DURING ONLINE COUNSELLING) for the A.S:2026-27_dated-23.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/2026092488447507.pdf",
+        "date": "24/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-25T11:44:12.917Z"
       },
       {
         "id": "f69d2ba55f191fec",
@@ -6525,6 +6541,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-23T13:31:38.488Z"
+      },
+      {
+        "id": "5d963a97e7d3ea61",
+        "title": "B.COM (H) (CODE-146) REFUND ORDER NO. 3938 DATED 21.09.2026 (SEAT CANCELLED BY ADMIN DURING ONLINE COUNSELLING) for the A.S:2026-27_dated-23.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260923406758111.pdf",
+        "date": "23/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-25T11:44:12.917Z"
       },
       {
         "id": "ead2cba9e6802c0d",
@@ -6665,36 +6691,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-17T15:15:18.849Z"
-      },
-      {
-        "id": "cffcc119dfa1c222",
-        "title": "BCOM(H) REFUND ORDER NO. 3934 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES for the Academic Session 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609171307395396.pdf",
-        "date": "17/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-17T15:15:18.849Z"
-      },
-      {
-        "id": "91fea0121088d321",
-        "title": "FILLING UP OF VACANCIES VIS-A-VIS SCHEDULE OF ACTIVITES IN PURSUANCE TO ORDER DATED 14.09.2026 OF DIRECTOR, DHE GOVT. OF NCT OF DELHI, TO BE FOLLOWED BY AFFILIATED INSTITUTE/COLLEGES: 2026-27_dated-16",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260916767577703.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-16T14:21:12.066Z"
-      },
-      {
-        "id": "337ea18e9f266de5",
-        "title": "REVISED VACANT SEAT STATUS FOR B.COM (CODE-146)_dated-16.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260916801239901.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-16T14:21:12.066Z"
       }
     ]
   },
