@@ -806,9 +806,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:16:20.927Z",
+    "lastUpdatedDate": "2026-09-26T07:20:41.645Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-127",
+        "title": "RESULTS OF RECRUITMENT OF PROJECT NURSE III AT MRU CORE AFMC, PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "25/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T07:20:41.645Z"
+      },
       {
         "id": "afmc-pune-126",
         "title": "RECRUITMENT OF RESEARCH STAFF FOR ICMR MULTISITE STUDY , PrECISE TRIAL.",
@@ -979,14 +988,6 @@
         "source": "Direct from Website",
         "batchIndex": 6,
         "detectedAt": "2026-08-27T11:04:15.339Z"
-      },
-      {
-        "id": "afmc-pune-106",
-        "title": "INTERVIEW FOR THE POST OF STAFF NURSE AT ART PLUS CENTRE, AFMC PUNE.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "10/07/2026",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-15T11:45:47.504Z"
       }
     ]
   },
