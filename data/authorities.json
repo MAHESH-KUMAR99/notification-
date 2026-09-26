@@ -806,9 +806,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-26T07:20:41.645Z",
+    "lastUpdatedDate": "2026-09-26T12:25:28.864Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-128",
+        "title": "LIST OF ELIGIBLE CANDIDATES FOR THE POST OF JUNIOR RESEARCH FELLOW AT DEPT OF DENTAL SURGERY AND OHS AFMC,PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "25/09/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T12:25:28.864Z"
+      },
       {
         "id": "afmc-pune-127",
         "title": "RESULTS OF RECRUITMENT OF PROJECT NURSE III AT MRU CORE AFMC, PUNE.",
@@ -978,15 +987,6 @@
         "date": "19/07/2026",
         "source": "Direct from Website",
         "batchIndex": 5,
-        "detectedAt": "2026-08-27T11:04:15.339Z"
-      },
-      {
-        "id": "afmc-pune-108",
-        "title": "RECRUITMENT OF JRF FOR AFMRC PROJECT 5763 2025, DEPT OF PHARMACY, AFMC PUNE.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "16/07/2026",
-        "source": "Direct from Website",
-        "batchIndex": 6,
         "detectedAt": "2026-08-27T11:04:15.339Z"
       }
     ]
@@ -2062,9 +2062,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T16:53:37.567Z",
+    "lastUpdatedDate": "2026-09-26T12:22:52.436Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0936813fd524aa72",
+        "title": "26-09-2026: UG AYUSH Courses 2026-27 - CQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - Notification for Physical Verification of Original Certificates of NCC Candidates Notice regarding Debarred candidates for A.P State counselling for the AY 2026-27 MBBS-2026-27-NOTICE TO CANDIDATES APPLIED UNDER (NRI -OR -NRI _LAPSED CATEGORY ) MANAGEMENT QUOTA",
+        "link": "https://drntr.uhsap.in/index/notification/20260926171423133.pdf",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T12:22:52.436Z"
+      },
       {
         "id": "b46d95fff8309726",
         "title": "25-09-2026: MBBS MQ -2026-27-LIST OF CANDIDATES FOR REUPLOADING OF DOCUMENTS VIDE NOTIFICATION DT.13-09-2026 MBBS MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES FOR CATEGORY -B1,B2 & NRI LAPSED vide notification dt.13-09-2026 MBBS MQ-2026-27-List of candidates those who paid fee but not submitted application MBBS MQ -2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES FOR NRI CATEGORY SEATS-vide notification dt13-09-2026 MBBS & BDS MQ 2026-27 LIST OF CANDIDATES FOUND IN THE EARLIER MERIT LIST (CAT-B1 & B2) AND NOW OPTED FOR NRI - NRI LAPSED SEATS - REUPLOAD OF PENDING DOCUMENTS MBBS & BDS MQ 2026-27- LIST OF CANDIDATES FOUND IN THE EARLIER MERIT LIST (CAT-B1 & B2) AND NOW OPTED FOR NRI -NRI LAPSED SEATS PG (Dental) Admissions 2026-27 - Notification on Free Exit for Phase-I allotted candidates",
@@ -2254,16 +2264,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-11T14:15:06.075Z"
-      },
-      {
-        "id": "ecec81ff8f744622",
-        "title": "11-09-2026: MBBS & BDS MQ 2026-27 Provisional Merit Position of the applied candidates MBBS & BDS MQ 2026-27 List of candidates paid Registration Fee but not submitted applications & to reupload the documents",
-        "link": "https://drntr.uhsap.in/index/notification/20260911131436148.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T09:57:05.729Z"
       }
     ]
   },
@@ -2678,9 +2678,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T14:24:30.600Z",
+    "lastUpdatedDate": "2026-09-26T12:26:39.419Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:3fc089435a89ac1d",
+        "title": "Extension in Date for Online Application and Choice Filling for UGMAC[AYUSH]-2026(Adv. No. BCECEB[UGMAC(Ayush)]-2026/03 Dated 26.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_03.pdf",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T12:26:39.419Z"
+      },
       {
         "id": "Latest Updates:8b5d731f059e0167",
         "title": "Notice for Filling Online Application form for POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/02 Dated 24.09.2026)",
@@ -2870,16 +2880,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-09-09T11:52:03.269Z"
-      },
-      {
-        "id": "Latest Updates:6ee4f4eb4f25c3b2",
-        "title": "Notice for Refund of Security Money of Candidates for UGMAC-2024 & UGMAC-2025 (Adv. No. BCECEB(BCECEB)-2026/03 Dated 08.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_03.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-08T13:29:25.709Z"
       },
       {
         "id": "UGMAC:f09ff50664246a14",
@@ -3447,9 +3447,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T23:30:54.371Z",
+    "lastUpdatedDate": "2026-09-26T12:27:04.154Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:565aed1f3b03c23f",
+        "title": "MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1O8kDp_dH4ZJGhLfrDM_Q_cx57TIoiiJ5/view?usp=sharing",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T12:27:04.154Z"
+      },
+      {
+        "id": "OVERALL:07d60f6e0f2c5809",
+        "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1t1LDCrz461TEQZgR6FhH-G16EHWUHKMx/view?usp=sharing",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-26T12:27:04.154Z"
+      },
+      {
+        "id": "UG NON-NEET:565aed1f3b03c23f",
+        "title": "MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1O8kDp_dH4ZJGhLfrDM_Q_cx57TIoiiJ5/view?usp=sharing",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 289,
+        "detectedAt": "2026-09-26T12:27:04.154Z"
+      },
+      {
+        "id": "UG NON-NEET:07d60f6e0f2c5809",
+        "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1t1LDCrz461TEQZgR6FhH-G16EHWUHKMx/view?usp=sharing",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 290,
+        "detectedAt": "2026-09-26T12:27:04.154Z"
+      },
       {
         "id": "OVERALL:6873207215cb330a",
         "title": "MOP UP ROUND DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3609,46 +3649,6 @@
         "source": "Direct from Website",
         "batchIndex": 7,
         "detectedAt": "2026-09-24T18:40:56.165Z"
-      },
-      {
-        "id": "PG DENTAL:60c9427a42599a05",
-        "title": "SECOND ROUND PROVISIONAL ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/16ZbS7_fz3iAzhbOZyzceSsUBLoC-aKpU/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 252,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
-      },
-      {
-        "id": "PG DENTAL:1a2776c41bce3f64",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1xMaNn3vyVy1mCYGfps7oVhzx51Q9VtgK/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 253,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
-      },
-      {
-        "id": "UG NON-NEET:2f439036fca41fff",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1UjPmWcGrVSM6oOxazzavux8nUxHdgYpm/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 279,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
-      },
-      {
-        "id": "UG NON-NEET:f461ed891b7c5cfe",
-        "title": "UG NON-NEET : SEAT MATRIX FOR THE NEW COURSE B.TECH (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) IN PUDUCHERRY TECHNOLOGICAL UNIVERSITY",
-        "link": "https://drive.google.com/file/d/1gdSRWPwKK3LEikozRC2Q7r5YYriILmWX/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 280,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4511,7 +4511,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T20:21:24.557Z",
+    "lastUpdatedDate": "2026-09-26T12:24:02.189Z",
     "pinned": false,
     "notices": [
       {
@@ -4741,9 +4741,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T16:58:16.134Z",
+    "lastUpdatedDate": "2026-09-26T12:26:53.266Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:d8b3e177ba3cea53",
+        "title": "1ST ROUND PROVISIONAL ALLOTMENT FOR BAMS/BHMS COURSE AMONG ALL ELIGIBLE REGISTERED CANDIDATES.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609261006748985.pdf",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T12:26:53.266Z"
+      },
       {
         "id": "OJEE:b4b9f3643c0f1fb6",
         "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (1st ROUND COUNSELLING)",
@@ -4932,16 +4942,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 2,
-        "detectedAt": "2026-07-27T12:34:09.464Z"
-      },
-      {
-        "id": "OJEE:afd41dff4940fa29",
-        "title": "Notice for All Candidates Who Have Participated in the OJEE Web-Based Counselling",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/20260724534861962.pdf",
-        "date": "24/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 3,
         "detectedAt": "2026-07-27T12:34:09.464Z"
       },
       {
@@ -5856,9 +5856,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-19T18:50:14.008Z",
+    "lastUpdatedDate": "2026-09-26T12:26:49.460Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e2e12f96601e3e5d",
+        "title": "Educational Notice (3rd round MBBS/BDS counselling, session 2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_3rd_round_mbbs-bds_counselling_session_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T12:26:49.460Z"
+      },
       {
         "id": "05a0833d1433fb85",
         "title": "Admission Notice & Select list (B. Sc Nursing_1st round__2026)",
@@ -6046,16 +6056,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 9,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "437dd937cf08aacb",
-        "title": "Educational Notice-Counseling for admission into MDS Courses, Session, 2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice-counseling_for_admission_into_mds_courses_session_2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 10,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
