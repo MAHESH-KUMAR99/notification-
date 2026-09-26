@@ -2062,9 +2062,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-26T12:22:52.436Z",
+    "lastUpdatedDate": "2026-09-26T16:38:06.957Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1212b8ec76bdb2d4",
+        "title": "26-09-2026: PG (Dental) MQ 2026-27 - Fee paid but Documents Not Uploaded List PG (Dental) MQ 2026-27 - Not Eligible List PG (Dental) MQ 2026-27 - Provisional Merit List UG AYUSH Courses 2026-27 - CQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - Notification for Physical Verification of Original Certificates of NCC Candidates Notice regarding Debarred candidates for A.P State counselling for the AY 2026-27 MBBS-2026-27-NOTICE TO CANDIDATES APPLIED UNDER (NRI -OR -NRI _LAPSED CATEGORY ) MANAGEMENT QUOTA",
+        "link": "https://drntr.uhsap.in/index/notification/20260926194613094.pdf",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T16:38:06.957Z"
+      },
       {
         "id": "0936813fd524aa72",
         "title": "26-09-2026: UG AYUSH Courses 2026-27 - CQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - Notification for Physical Verification of Original Certificates of NCC Candidates Notice regarding Debarred candidates for A.P State counselling for the AY 2026-27 MBBS-2026-27-NOTICE TO CANDIDATES APPLIED UNDER (NRI -OR -NRI _LAPSED CATEGORY ) MANAGEMENT QUOTA",
@@ -2254,16 +2264,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-13T10:31:24.420Z"
-      },
-      {
-        "id": "abe6728f0d3687ed",
-        "title": "11-09-2026: MBBS-CQ- 2026-27- Notificaiton for Extension of Free Exit after Phase-I BDS _CQ_2026-27_ Notification for web options for 1st Phase Counseling BDS-CQ-AU-2026-27- SEAT MATRIX BDS-CQ- AU-2026-27-Minority BDS-CQ-SVU-2026-27- SEAT MATRIX MBBS-BDS-CQ-2026-27-Addendum to Final Merit list displayed on 29-08-2026 & 01-09-2026 MBBS & BDS MQ 2026-27 PROVISIONAL FINAL MERIT LIST MBBS & BDS MQ_2026-27- Information on Counselling Procedure MBBS - MQ 2026-27_1st Phase Web Options Notfication PG (Dental) CQ 2026-27 - List of Not Reported Candidates after Phase-I Counselling MBBS & BDS MQ 2026-27 Provisional Merit Position of the applied candidates MBBS & BDS MQ 2026-27 List of candidates paid Registration Fee but not submitted applications & to reupload the documents",
-        "link": "https://drntr.uhsap.in/index/notification/20260911191321023.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T14:15:06.075Z"
       }
     ]
   },
