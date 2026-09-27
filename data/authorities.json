@@ -3447,9 +3447,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-26T12:27:04.154Z",
+    "lastUpdatedDate": "2026-09-27T17:41:43.774Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:c98061d6e1da4930",
+        "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1CjW2egdPSh5FwT44Z2ZOTO4gUgaXwkiC/view?usp=drivesdk",
+        "date": "27/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-27T17:41:43.774Z"
+      },
+      {
+        "id": "UG NON-NEET:c98061d6e1da4930",
+        "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1CjW2egdPSh5FwT44Z2ZOTO4gUgaXwkiC/view?usp=drivesdk",
+        "date": "27/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 290,
+        "detectedAt": "2026-09-27T17:41:43.774Z"
+      },
       {
         "id": "OVERALL:565aed1f3b03c23f",
         "title": "MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3629,26 +3649,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-09-24T14:25:19.576Z"
-      },
-      {
-        "id": "OVERALL:f461ed891b7c5cfe",
-        "title": "UG NON-NEET : SEAT MATRIX FOR THE NEW COURSE B.TECH (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) IN PUDUCHERRY TECHNOLOGICAL UNIVERSITY",
-        "link": "https://drive.google.com/file/d/1gdSRWPwKK3LEikozRC2Q7r5YYriILmWX/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
-      },
-      {
-        "id": "OVERALL:bcd2c0f55f91e28b",
-        "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER ROUND 3",
-        "link": "https://drive.google.com/file/d/1nggbXFHEECRNmM-j2T9P7uTSJWoVd1lz/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-09-24T18:40:56.165Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
