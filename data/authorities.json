@@ -2062,9 +2062,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-26T16:38:06.957Z",
+    "lastUpdatedDate": "2026-09-27T12:56:13.921Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "505235c514ff83a3",
+        "title": "27-09-2026: MBBS- 2026-27-MQ -NRI_1st Phase Web Options Notfication MBBS -MQ -2026-27-LIST OF NOT ELIGIBLE CANDIATES FOR NRI CATEGORY SEATS -AFTER VERIFICATION OF UPLOADED DOCUMENTS MBBS- MQ-2026-27-PROVISIONAL FINAL MERIT POSITION OF APPLIED CANDIDATES ELIGIBLE FOR NRI CATEGORY SEATS -AFTER VERIFICATION OF UPLOADED DOCUMENTS MBBS- MQ-2026-27-LIST OF CANDIDATES APPLIED FOR NRI CATEGORY SEATS - REUPLOAD OF PENDING DOCUMENTS",
+        "link": "https://drntr.uhsap.in/index/notification/20260927161220603.pdf",
+        "date": "27/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-27T12:56:13.921Z"
+      },
       {
         "id": "1212b8ec76bdb2d4",
         "title": "26-09-2026: PG (Dental) MQ 2026-27 - Fee paid but Documents Not Uploaded List PG (Dental) MQ 2026-27 - Not Eligible List PG (Dental) MQ 2026-27 - Provisional Merit List UG AYUSH Courses 2026-27 - CQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - Notification for Physical Verification of Original Certificates of NCC Candidates Notice regarding Debarred candidates for A.P State counselling for the AY 2026-27 MBBS-2026-27-NOTICE TO CANDIDATES APPLIED UNDER (NRI -OR -NRI _LAPSED CATEGORY ) MANAGEMENT QUOTA",
@@ -2254,16 +2264,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-13T14:51:51.079Z"
-      },
-      {
-        "id": "7521565d45608b58",
-        "title": "13-09-2026: MBBS-BDS -2026-27 - Mgt. Quota - NRI Category Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20260913140536897.pdf",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-13T10:31:24.420Z"
       }
     ]
   },
@@ -4511,9 +4511,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-26T12:24:02.189Z",
+    "lastUpdatedDate": "2026-09-27T12:57:22.497Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c61f05d1500804f7",
+        "title": "27 Sep. 2026: Government College of Nursing, Kurud-Dhamtari – Shortlisted Candidates for Document Verification & Skill Test for Assistant Grade-III (UR Category) | 29/09/2026 | Pt. J.N.M. Medical College, Raipur.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2224",
+        "date": "29/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-27T12:57:22.497Z"
+      },
       {
         "id": "f875674fb6c4b760",
         "title": "24 Sep. 2026: Pre-Bid Query Replies for ERP Solution RFP (Tender No. 198833).....More",
@@ -4719,18 +4729,6 @@
         "titleEn": ": MBBS of Shri Rawatpura Sarkar Institute of Medical Sciences and Research, Nava Raipur for the state level counseling of NEET UG admission year 2026. Information regarding increase in seats.....More",
         "titleLang": "hi",
         "detectedAt": "2026-08-12T11:52:11.528Z"
-      },
-      {
-        "id": "f0335468da3010b9",
-        "title": "प्रदेश के शासकीय सेवकों एवं उनके परिवार के आश्रित सदस्यों के उपचार हेतु राज्यांतर्गत स्थित निजी चिकित्सालयों की मान्यता बाबत।.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2157",
-        "date": "10/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Regarding recognition of private hospitals located within the state for the treatment of government servants of the state and their dependent members of their families. .....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-10T13:18:13.876Z"
       }
     ]
   },
