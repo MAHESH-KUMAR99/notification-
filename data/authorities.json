@@ -2062,9 +2062,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-27T12:56:13.921Z",
+    "lastUpdatedDate": "2026-09-28T19:26:40.862Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ac07b3bdfb82c59b",
+        "title": "28-09-2026: MBBS_MQ_2026-27-Phase_1_Category -C _NRI- College Wise Allotments PG (Dental) MQ 2026-27 - Provisional Final Merit list BNYS Course 2026-27 - CQ - Notification for Online Application BNYS Course 2026-27 - CQ Prospectus",
+        "link": "https://drntr.uhsap.in/index/notification/20260928191434047.pdf",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-28T19:26:40.862Z"
+      },
       {
         "id": "505235c514ff83a3",
         "title": "27-09-2026: MBBS- 2026-27-MQ -NRI_1st Phase Web Options Notfication MBBS -MQ -2026-27-LIST OF NOT ELIGIBLE CANDIATES FOR NRI CATEGORY SEATS -AFTER VERIFICATION OF UPLOADED DOCUMENTS MBBS- MQ-2026-27-PROVISIONAL FINAL MERIT POSITION OF APPLIED CANDIDATES ELIGIBLE FOR NRI CATEGORY SEATS -AFTER VERIFICATION OF UPLOADED DOCUMENTS MBBS- MQ-2026-27-LIST OF CANDIDATES APPLIED FOR NRI CATEGORY SEATS - REUPLOAD OF PENDING DOCUMENTS",
@@ -2254,16 +2264,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-15T17:34:01.374Z"
-      },
-      {
-        "id": "b4638c150c0c109b",
-        "title": "13-09-2026: Corrigendum to the Notification dt:13-9-2026 MBBS-BDS -2026-27 - Mgt. Quota - NRI Category Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20260913185954573.pdf",
-        "date": "13/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-13T14:51:51.079Z"
       }
     ]
   },
@@ -2274,9 +2274,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-28T11:32:57.835Z",
+    "lastUpdatedDate": "2026-09-28T19:26:34.244Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "5e4b1062fa3094d5",
+        "title": "Tentative Vacancy position after 2nd Round of Counselling MBBS BDS",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Revised%20Seat%20Matrix%20after%202nd%20round%20MBBS%20date%2028092026.pdf",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-28T19:26:34.244Z"
+      },
       {
         "id": "32bc09ba1ab2e0b5",
         "title": "Click here to apply online Click here to submit willingness for 3rd Round Click here to view willingness list",
@@ -2466,16 +2476,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-08T13:25:15.833Z"
-      },
-      {
-        "id": "a3c4c5af2ee9c7de",
-        "title": "Christian Minority Eligible candidates list Christian Minority Not eligible candidates list",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndMerit/ELIGIBLE_Christian%20Minority_Round%202_MBBS_BDS_2026_8%20Sep%202026.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-08T08:45:11.788Z"
       }
     ]
   },
@@ -5235,7 +5235,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-22T12:33:38.373Z",
+    "lastUpdatedDate": "2026-09-28T19:31:08.355Z",
     "pinned": false,
     "notices": [
       {
