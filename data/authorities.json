@@ -1414,9 +1414,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-28T04:33:56.736Z",
+    "lastUpdatedDate": "2026-09-28T11:33:34.927Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "05e31d95e24b8d72",
+        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/28092026031412.pdf",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-28T11:33:34.927Z"
+      },
       {
         "id": "21f804eef7b6eb3d",
         "title": "7.5% - TENTATIVE ROUND 3 COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSES (7.5% SEAT RESERVATION FOR TAMIL NADU GOVERNMENT SCHOOL STUDENTS ONLY) 2026 - 2027 SESSION",
@@ -1428,6 +1438,16 @@
         "detectedAt": "2026-09-28T04:33:56.736Z"
       },
       {
+        "id": "6edee7c172ddd95d",
+        "title": "RESIGNATION PORTAL LINK FOR ROUND 2 JOINED CANDIDATES OF MBBS/BDS (GOVERNMENT / MANAGEMENT (INCLUDING MINORITY) / NRI QUOTA) COURSE 2026 - 2027 SESSION",
+        "link": "https://counug.tnmedicalonline.co.in/discugmedgq",
+        "date": null,
+        "sortTs": 1790467200000,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-28T11:33:34.927Z"
+      },
+      {
         "id": "86ecd3957424032e",
         "title": "92.5% - TENTATIVE ROUND 3 COUNSELLING SCHEDULE FOR ADMISSION TO MBBS/BDS COURSE (GOVERNMENT AND MANAGEMENT QUOTA (INCL. NRI AND MINORITY)) 2026 - 2027 SESSION",
         "link": "https://tnmedicalselection.net/news/27092026204814.pdf",
@@ -1436,6 +1456,16 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-09-28T04:33:56.736Z"
+      },
+      {
+        "id": "d823dd0d250b7c18",
+        "title": "NOTIFICATION FOR RESIGNATION PORTAL FOR TAMIL NADU 2026-2027 MBBS & BDS COURSES",
+        "link": "https://tnmedicalselection.net/news/27092026223127.pdf",
+        "date": "27/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-09-28T11:33:34.927Z"
       },
       {
         "id": "7c9e2033415ec851",
@@ -1586,36 +1616,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-09-09T11:48:20.149Z"
-      },
-      {
-        "id": "158e5e55ef7c95f2",
-        "title": "92.5% - TENTATIVE ROUND - 2 VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 AS ON 10-09-2026",
-        "link": "https://tnmedicalselection.net/news/09092026232302.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-09-10T08:50:00.687Z"
-      },
-      {
-        "id": "0bbcb9dd13582058",
-        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/09092026042958.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-09-09T11:48:20.149Z"
-      },
-      {
-        "id": "0a523ab2eeb8790b",
-        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/08092026061740.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-08T13:25:25.941Z"
       }
     ]
   },
@@ -2274,9 +2274,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T16:53:29.111Z",
+    "lastUpdatedDate": "2026-09-28T11:32:57.835Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "32bc09ba1ab2e0b5",
+        "title": "Click here to apply online Click here to submit willingness for 3rd Round Click here to view willingness list",
+        "link": "https://admission.bfuhsonline.ac.in/pmet26onlineD/main.aspx",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-28T11:32:57.835Z"
+      },
       {
         "id": "9decf85f868fff22",
         "title": "Revised Schedule 3rd Round-MBBS/BDS under NEET UG 2026",
@@ -2466,16 +2476,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-08T08:45:11.788Z"
-      },
-      {
-        "id": "491194cdf24926ce",
-        "title": "The candidature of the following candidates, who were earlier debarred, has been restored for consideration against the 85% Punjab State Quota seats under NEET-UG, 2026 Counseling List of Candidates Debarred from 85% Punjab State Quota Seats [List 3]",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Restore_2.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-08T13:25:15.833Z"
       }
     ]
   },
@@ -6279,9 +6279,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-21T07:00:00.905Z",
+    "lastUpdatedDate": "2026-09-28T11:37:27.994Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d257f4c2a5b58e44",
+        "title": "Tentative list of Candidate applied for UG (BHMS) course under 85% Delhi Quota for the session 2026-27",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1790580351250-PDF.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-28T11:37:27.994Z"
+      },
       {
         "id": "69b9b862deb8fd46",
         "title": "SURETY BOND - BHMS/BAMS/BUMS 2026",
@@ -6469,15 +6479,6 @@
         "sortTs": null,
         "batchIndex": 1,
         "detectedAt": "2026-07-22T13:02:11.109Z"
-      },
-      {
-        "id": "384048631f0ad8e0",
-        "title": "Notice-for-seeking-admission-under-CW-category-Delhi-Academic-Session-2026-27",
-        "link": "https://fmsc.du.ac.in/upload/Notice_1_CW.pdf",
-        "date": null,
-        "sortTs": null,
-        "batchIndex": 0,
-        "detectedAt": "2026-07-08T09:36:50.385Z"
       }
     ]
   },
@@ -6488,9 +6489,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T16:56:03.390Z",
+    "lastUpdatedDate": "2026-09-28T11:35:47.245Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d7453442faddce0f",
+        "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING L.E BS(PACKAGING TECHNOLOGY) (CODE-171) FOLLOWED BY OPEN HOUSE A.S:2026-27_dated-28.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609281838988585.pdf",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-28T11:35:47.245Z"
+      },
+      {
+        "id": "b8a425b71a8822f9",
+        "title": "CODE-196 (Postgraduate Ayurveda Courses) and CODE-700 (PG Homeopathy) Commencement of Submission of Online Application Forms A.S:2026-27_dated-28.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260928359117101.pdf",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-28T11:35:47.245Z"
+      },
+      {
+        "id": "aa6f9c4baeb726e3",
+        "title": "BCA_CODE-114 REFUND ORDER NO. 3950 VIDE DIARY NO. 3949 (SEAT CANCELLED) A.S:2026-27_dated-28.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609281056758348.pdf",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-28T11:35:47.245Z"
+      },
       {
         "id": "66efa4e8a5cbd7be",
         "title": "BA(ECO)_CODE-197 REFUND ORDER NO. 3944 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
@@ -6660,36 +6691,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-18T10:54:05.395Z"
-      },
-      {
-        "id": "ed146ff18d3883b9",
-        "title": "BA(ENG) (CODE-184) REFUND ORDER NO.3929, Diary No. 3928 DATED 10.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609181883356329.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-18T14:53:30.522Z"
-      },
-      {
-        "id": "072cd7a4e82449f0",
-        "title": "BCA (CODE-114) REFUND ORDER NO.3935 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609181505900947.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-18T10:54:05.395Z"
-      },
-      {
-        "id": "89eab0f437655628",
-        "title": "B.Ed (CODE-122) REFUND ORDER NO.3926, Diary No. 3925 DATED 10.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609181701646723.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-18T14:53:30.522Z"
       }
     ]
   },
@@ -6912,9 +6913,31 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-25T16:58:25.167Z",
+    "lastUpdatedDate": "2026-09-28T11:37:47.996Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "948f3346175cd6f1",
+        "title": "Fresh Option Registration For Third Phase Allotment To MBBS/BDS Courses - 2026",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/282/Upload1",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-28T11:37:47.996Z"
+      },
+      {
+        "id": "b165bcd2ec915ae3",
+        "title": "ഫാർമസി കോഴ്സിലേക്കുള്ള പ്രവേശനം – 2026 – രണ്ടാംഘട്ട കേന്ദ്രീകൃത അലോട്ട്മെന്റിൽ പുതിയതായി ഉൾപ്പെടുത്തിയ കോളേജുകൾ – സംബന്ധിച്ച്.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/280/Upload1",
+        "date": "28/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "Admission to Pharmacy Course – 2026 – Regarding Newly Inducted Colleges in Second Phase Centralized Allotment –",
+        "titleLang": "ml",
+        "detectedAt": "2026-09-28T11:37:47.996Z"
+      },
       {
         "id": "4f1bcbbc2f282652",
         "title": "SECOND ROUND ONLINE VACANCY FILLING ALLOTMENT TO B.PHARM COURSE - ONLINE OPTIONS INVITED",
@@ -7094,26 +7117,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-05T12:03:24.215Z"
-      },
-      {
-        "id": "ead02ed3af2eae3e",
-        "title": "Seat Matrix of MBBS Course for the Azeezia College of Medical Sciences & Research, Meeyyannoor,Dr.Mooppen's Medical College and Hospital, Wayanad, and MES Medical College, Perinthalmanna",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/246/Upload1",
-        "date": "05/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-07T12:06:32.867Z"
-      },
-      {
-        "id": "89dd4c39b98e2666",
-        "title": "Newly added MBBS seats in Azeezia College of Medical Sciences & Research, Meeyyannoor, Dr.Mooppen's Medical College and Hospital, Wayanad, and MES Medical College, Perinthalmanna",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/246/Upload1",
-        "date": "05/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-09-11T10:01:21.205Z"
       }
     ]
   },
