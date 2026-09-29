@@ -2062,9 +2062,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-29T11:30:57.792Z",
+    "lastUpdatedDate": "2026-09-29T16:59:42.328Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ca483cca08dc4779",
+        "title": "29-09-2026: MBBS-BDS-2026-27-MQ-NOTICE to candidates ( B1_B2 ) to opt for NRI or NRI Lapsed Category MDS MQ 2026-27 - List of Candidates Eligible for S3 (Institutional Quota) seats MBBS-2026-27-CQ-Notification for Free Exit after Phase - II MBBS-2026-27-MQ-Notification for Free Exit after Phase - I BDS-2026-27-CQ- Notification for Free Exit after Phase - I MDS MQ 2026-27 - Phase-I Web Options Notification MBBS-2026-27-MQ-Notice to NRI Category candidates whose status is pending for reupload of Documents",
+        "link": "https://drntr.uhsap.in/index/notification/20260929213824440.pdf",
+        "date": "29/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-29T16:59:42.328Z"
+      },
       {
         "id": "4bfb21345f81cf25",
         "title": "29-09-2026: MDS MQ 2026-27 - List of Candidates Eligible for S3 (Institutional Quota) seats MDS MQ 2026-27 - Phase-I Web Options Notification MBBS-2026-27-MQ-Notice to NRI Category candidates whose status is pending for reupload of Documents",
@@ -2254,16 +2264,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-16T14:18:59.484Z"
-      },
-      {
-        "id": "edb7f49660fa6f3c",
-        "title": "16-09-2026: MBBS_2026_CQ_UNFILLED VACANCIES FOR PHASE-II MBBS_2026_27-CQ_Seat Matrix FOR PHASE-II",
-        "link": "https://drntr.uhsap.in/index/notification/20260916143642417.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-16T09:26:41.223Z"
       }
     ]
   },
