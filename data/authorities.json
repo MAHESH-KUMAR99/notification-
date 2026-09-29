@@ -1414,9 +1414,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-28T11:33:34.927Z",
+    "lastUpdatedDate": "2026-09-29T11:30:55.306Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e215c7716002f21b",
+        "title": "TENTATIVE VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 IN (92.5% RESERVATION) AS ON 29-09-2026",
+        "link": "https://tnmedicalselection.net/news/29092026031352.pdf",
+        "date": "29/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-29T11:30:55.306Z"
+      },
       {
         "id": "05e31d95e24b8d72",
         "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
@@ -1606,16 +1616,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-09-10T08:50:00.687Z"
-      },
-      {
-        "id": "d7d735625fda1382",
-        "title": "92.5% - TENTATIVE ROUND - 2 VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 AS ON 09-09-2026",
-        "link": "https://tnmedicalselection.net/news/09092026031141.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-09T11:48:20.149Z"
       }
     ]
   },
@@ -2062,9 +2062,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-28T19:26:40.862Z",
+    "lastUpdatedDate": "2026-09-29T11:30:57.792Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4bfb21345f81cf25",
+        "title": "29-09-2026: MDS MQ 2026-27 - List of Candidates Eligible for S3 (Institutional Quota) seats MDS MQ 2026-27 - Phase-I Web Options Notification MBBS-2026-27-MQ-Notice to NRI Category candidates whose status is pending for reupload of Documents",
+        "link": "https://drntr.uhsap.in/index/notification/20260929162253350.pdf",
+        "date": "29/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-29T11:30:57.792Z"
+      },
       {
         "id": "ac07b3bdfb82c59b",
         "title": "28-09-2026: MBBS_MQ_2026-27-Phase_1_Category -C _NRI- College Wise Allotments PG (Dental) MQ 2026-27 - Provisional Final Merit list BNYS Course 2026-27 - CQ - Notification for Online Application BNYS Course 2026-27 - CQ Prospectus",
@@ -2254,16 +2264,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-16T09:26:41.223Z"
-      },
-      {
-        "id": "5be2eb7faa7cdd6d",
-        "title": "15-09-2026: MBBS CQ 2026-27 Notification for Web Options for Phase II Counselling MBBS CQ 2026-27 - List of Candidates availed FREE EXIT after Phase-I Counselling MBBS CQ 2026-27 - List of Not Reported candidates after Phase-I MBBS-MQ-2026-27-Revised Schedule for uploading the documents for NRI Category Seats",
-        "link": "https://drntr.uhsap.in/index/notification/20260915194741213.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T17:34:01.374Z"
       }
     ]
   },
@@ -5235,7 +5235,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-28T19:31:08.355Z",
+    "lastUpdatedDate": "2026-09-29T11:34:40.148Z",
     "pinned": false,
     "notices": [
       {
@@ -5854,9 +5854,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-26T12:26:49.460Z",
+    "lastUpdatedDate": "2026-09-29T11:34:38.286Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e4d8da26d8d48970",
+        "title": "Educational Notice (1st_round_counselling_B. Pharm_2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_1st_round_counselling_b._pharm_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-29T11:34:38.286Z"
+      },
       {
         "id": "e2e12f96601e3e5d",
         "title": "Educational Notice (3rd round MBBS/BDS counselling, session 2026)",
@@ -6044,16 +6054,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 8,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "31466f20a0259cae",
-        "title": "Reschedule of MDS 1st Counselling-2026 Notice",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/reschedule_of_mds_1st_counselling-2026_notice.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 9,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
@@ -6489,9 +6489,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-28T11:35:47.245Z",
+    "lastUpdatedDate": "2026-09-29T11:32:58.764Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ab5f30476cdff0a7",
+        "title": "LLM (Code-112) Refund Order No.3918 Dated: 14.09.2026 for the A.S: 2026-27_dated-29.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609291007315110.pdf",
+        "date": "29/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-29T11:32:58.764Z"
+      },
+      {
+        "id": "ed5808d5f9425b93",
+        "title": "BA LLB/BBA LLB (Code-121) Refund Order No.3919 Dated: 14.09.2026 for the A.S: 2026-27_dated-29.09.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609291811121223.pdf",
+        "date": "29/09/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-29T11:32:58.764Z"
+      },
       {
         "id": "d7453442faddce0f",
         "title": "SCHEDULE OF 2nd OFFLINE COUNSELLING L.E BS(PACKAGING TECHNOLOGY) (CODE-171) FOLLOWED BY OPEN HOUSE A.S:2026-27_dated-28.09.2026",
@@ -6671,26 +6691,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-19T13:01:35.607Z"
-      },
-      {
-        "id": "b1eccd95ed369756",
-        "title": "MCA (CODE-105) REFUND ORDER NO.3928, Diary No. 3927 DATED 10.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609182028557272.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-18T14:53:30.522Z"
-      },
-      {
-        "id": "2042acf076966678",
-        "title": "BA(ECO) (CODE-197) REFUND ORDER NO.3925 DATED 16.09.2026 i.r.o WITHDRAWAL CANDIDATES FOR THE A.S: 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260918382731903.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-18T10:54:05.395Z"
       }
     ]
   },
