@@ -1628,9 +1628,19 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-24T09:17:40.371Z",
+    "lastUpdatedDate": "2026-10-01T15:19:25.981Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Instructions:2aa8b4321070c871",
+        "title": "Student advisory for MOP UP round, M.P. State combined counselling- NEET UG 2026 (MBBS/BDS Course) Dated-01.10.2026",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Advisroy%20for%20MOP%20UP%20Round_48.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:19:25.981Z"
+      },
       {
         "id": "Latest Instructions:7f4b650d20e33327",
         "title": "Notice Regarding Reopening of Willingness for Upgradation link MP STATE COMBINED COUNSELLING NEET UG 2026-27 (24.09.2026)",
@@ -1820,16 +1830,6 @@
         "source": "Latest Instructions",
         "batchIndex": 1,
         "detectedAt": "2026-08-20T13:06:06.179Z"
-      },
-      {
-        "id": "Latest Instructions:456277a88646f56c",
-        "title": "NOTICE REGARDING POSTPONEMENT OF SCHEDULED ALLOTMENT OF FIRST ROUND OF COUNSELLING MP STATE COMBINED COUNSELLING NEET UG 2026-27 (Dated 20.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Postponement%20Notice%20first%20round_28.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-20T07:47:40.682Z"
       },
       {
         "id": "Counselling Schedule:2886ad996a6411a3",
@@ -2064,9 +2064,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-01T07:44:26.851Z",
+    "lastUpdatedDate": "2026-10-01T15:15:50.518Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "08f21b5af7faf91c",
+        "title": "01-10-2026: Post Basic Nursing 2 YDC 2026-27 - Phase-I Web Option Notification Post Basic Nursing 2 YDC 2026-27 - Final Merit list of Service candidates Post Basic Nursing 2 YDC 2026-27 - Seat Matrix - SVU Area Post Basic Nursing 2 YDC 2026-27 - Final Merit list of Non-Service candidates Post Basic Nursing 2 YDC 2026-27 - Seat Matrix - AU Area MDS MQ 2026-27 - Phase-I College Wise Allotments List UG AYUSH Courses 2026-27 - CQ - Phase-I Web Options Notification UG AYUSH COURSES 2026-27 - BHMS - AU SEAT MATRIX UG AYUSH COURSES 2026-27 - BHMS - SVU SEAT MATRIX UG AYUSH COURSES 2026-27 - BUMS - SEAT MATRIX UG AYUSH COURSES 2026-27 - BAMS - AU SEAT MATRIX UG AYUSH COURSES 2026-27 - BAMS - SVU SEAT MATRIX B.Sc. (Nursing) 4 YDC 2026-27 - MQ Notification for online application UG AYUSH Courses 2026-27 - Notice for Examination of Persons with Disability (PwD) Candidates MBBS-2026-27-MQ-Extension of Free Exit - Notification MBBS-BDS-2026-27-CQ- Extension of Free Exit - Notification MBBS & BDS CQ -2026-27 - Notice & Tentative Priority List under Sports & Games Category PG (Dental) CQ 2026-27 - List of Not Reported & Candidates who availed Free Exit after Phase-II Counselling",
+        "link": "https://drntr.uhsap.in/index/notification/20261001201831393.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:15:50.518Z"
+      },
       {
         "id": "975e1f265a27b853",
         "title": "01-10-2026: PG (Dental) CQ 2026-27 - List of Not Reported & Candidates who availed Free Exit after Phase-II Counselling",
@@ -2256,16 +2266,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-19T12:59:31.679Z"
-      },
-      {
-        "id": "9e03d7d1d2d95c26",
-        "title": "17-09-2026: BDS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-I UG AYUSH Courses MQ Detailed Notification for Online Application 2026-27 UG AYUSH Courses AIQ Detailed Notification for Online Application 2026-27 UG AYUSH Courses AIQ & MQ Prospectus 2026-27 GUIDELINES ON ASSESSMENT OF PERSONS WITH BENCHMARK DISABILITIES FOR ADMISSION TO THE POST GRADUATE MEDICAL COURSE-2026 BDS-CQ 2026-27 - List of Phase-I_MRC Candidates",
-        "link": "https://drntr.uhsap.in/index/notification/20260917152748567.pdf",
-        "date": "17/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-17T10:18:21.468Z"
       }
     ]
   },
@@ -2276,9 +2276,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-28T19:26:34.244Z",
+    "lastUpdatedDate": "2026-10-01T15:15:10.414Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ff8f09afd2d3e0f5",
+        "title": "Partially revised schedule for 3rd Round of UG Medical/Dental Online Punjab State Counselling under NEET-UG-2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Revised%20Schedule%203rd%20Round-MBBS%2001-10-26.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:15:10.414Z"
+      },
       {
         "id": "5e4b1062fa3094d5",
         "title": "Tentative Vacancy position after 2nd Round of Counselling MBBS BDS",
@@ -2468,16 +2478,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-08T08:45:11.788Z"
-      },
-      {
-        "id": "7c4a303945d5603c",
-        "title": "Public Notice Regarding cancellation of MBBS seat under Defence Category",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Public%20Notice%20regarding%20cancellation%20of%20provisional%20seat%20under%20Defence%20Category.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-08T13:25:15.833Z"
       }
     ]
   },
@@ -3471,9 +3471,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-27T17:41:43.774Z",
+    "lastUpdatedDate": "2026-10-01T15:19:45.108Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:af2d703290f1814f",
+        "title": "PG DENTAL ADMITTED LIST - SECOND ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1ixIdXRTqkvfXKmm-u3cuDLJ2gx1c7cbT/view?usp=sharing",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:19:45.108Z"
+      },
+      {
+        "id": "PG DENTAL:af2d703290f1814f",
+        "title": "PG DENTAL ADMITTED LIST - SECOND ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1ixIdXRTqkvfXKmm-u3cuDLJ2gx1c7cbT/view?usp=sharing",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 264,
+        "detectedAt": "2026-10-01T15:19:45.108Z"
+      },
       {
         "id": "OVERALL:c98061d6e1da4930",
         "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3652,26 +3672,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 4,
-        "detectedAt": "2026-09-24T14:25:19.576Z"
-      },
-      {
-        "id": "OVERALL:2f439036fca41fff",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1UjPmWcGrVSM6oOxazzavux8nUxHdgYpm/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
-      },
-      {
-        "id": "OVERALL:76aaee44b26134e9",
-        "title": "THIRD ROUND UG NON-NEET ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/14cBX2PidIraDNlLSOBTWsc02EImUkqAk/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
         "detectedAt": "2026-09-24T14:25:19.576Z"
       },
       {
@@ -4535,7 +4535,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T12:57:04.292Z",
+    "lastUpdatedDate": "2026-10-01T15:17:00.113Z",
     "pinned": false,
     "notices": [
       {
@@ -4763,9 +4763,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T13:00:05.353Z",
+    "lastUpdatedDate": "2026-10-01T15:19:35.654Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:0522feb6df7116b1",
+        "title": "NOTICE FOR FINAL ROUND SEAT ALLOTMENT OF B. PHARM, M. PHARM & LE. PHARMACY (2026–27)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610011553690788.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:19:35.654Z"
+      },
       {
         "id": "OJEE:bf6b6fbde6a157df",
         "title": "NOTICE FOR SHIFTING OF DATE FOR FINAL ROUND ALLOTMENT OF B. PHARM/ M. PHARM & LATERAL ENTRY TO B. PHARM PROGRAMMES",
@@ -4954,16 +4964,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 0,
-        "detectedAt": "2026-07-27T12:34:09.464Z"
-      },
-      {
-        "id": "OJEE:adcc8171c0223670",
-        "title": "Revised Schedule of Round 3 and Final Activity of M.TECH/M.ARCH/ M.PLAN/ MBA/MCA/MSc. Comp Sc./ MBA (Working Professional) web-based Counselling, OJEE 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/07/202607271294717159.pdf",
-        "date": "27/07/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 1,
         "detectedAt": "2026-07-27T12:34:09.464Z"
       },
       {
@@ -5259,7 +5259,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T13:00:03.210Z",
+    "lastUpdatedDate": "2026-10-01T15:19:33.618Z",
     "pinned": false,
     "notices": [
       {
@@ -5655,9 +5655,29 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T06:30:29.237Z",
+    "lastUpdatedDate": "2026-10-01T15:19:47.100Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:8abad7aeb7bfc459",
+        "title": "Provisional Seat Vacancy for MBBS BDS 3rd Round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Provisional-Seat-Vacancy-for-MBBS-BDS-3rd-round-Counselling-2026-fnl.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:19:47.100Z"
+      },
+      {
+        "id": "MBBS/BDS Counselling:96f64635ab5e1b25",
+        "title": "Final Merit List MBBS/BDS 3rd round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Final-Merit-List-MBBS-BDS-3rd-round-Counselling-2026-merged.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-01T15:19:47.100Z"
+      },
       {
         "id": "MBBS/BDS Counselling:176b1b385d05ea06",
         "title": "Provisional Merit list of MBBS/BDS 3rd Round Counselling 2026",
@@ -5837,26 +5857,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T14:42:59.591Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:f5875610efe629a7",
-        "title": "Notice regarding Updating of Wards of Ex-Servicemen/Wives of Defence Personnel/EWS Category Certificates/Priority of by eligible candidates and Extension of Last Date for Submission of 1st Round Online Applications for MBBS/BDS Counselling 2026-27 up to 18.08.2026 till 05:00 PM",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Merged-date-extend-notice-and-correction-notice.pdf",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-17T10:11:07.601Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:23880ba083374cec",
-        "title": "Notice regarding MBBS/BDS Application forms 2026-27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Notice-regarding-MBBS-BDS-Application-form-2026.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T11:53:35.321Z"
       }
     ]
   },
@@ -6514,9 +6514,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T12:58:08.574Z",
+    "lastUpdatedDate": "2026-10-01T15:17:52.423Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f8c0a0c79ff8fc56",
+        "title": "ROUND 01 BAMS (CODE-153) FOR NEET UG 2026 A.S:2026-27_dated-01.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610011736723427.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:17:52.423Z"
+      },
+      {
+        "id": "3b651e6abe104e67",
+        "title": "ROUND 02 BHMS (CODE-154) FOR NEET 2026 A.S:2026-27_dated-01.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610011491461209.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-01T15:17:52.423Z"
+      },
+      {
+        "id": "c6f5b45b495fd90e",
+        "title": "ROUND 03 B.Sc (H) NURSING (CODE-115) (NEET UG 2026) A.S: 2026-27_dated-01.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610011862961166.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-01T15:17:52.423Z"
+      },
+      {
+        "id": "ec7b1cc327cd874b",
+        "title": "ROUND 03 MBBS (CODE-103) (NEET UG 2026) A.S: 2026-27_dated-01.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610011709222350.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-01T15:17:52.423Z"
+      },
       {
         "id": "64874e3ff1226b53",
         "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Liberal Arts (CET CODE-451) A.S:2026-27_dated-30.09.2026",
@@ -6676,46 +6716,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-25T11:44:12.917Z"
-      },
-      {
-        "id": "f69d2ba55f191fec",
-        "title": "BBA (CODE-125) REFUND ORDER NO. 3937 DATED 21.09.2026 for the A.S:2026-27_dated-23.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609231504557472.pdf",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-23T13:31:38.488Z"
-      },
-      {
-        "id": "b51c214e4fe1ac15",
-        "title": "B.COM (H) (CODE-146) REFUND ORDER NO. 3938 DATED 21.09.2026 for the A.S:2026-27_dated-23.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260923406758111.pdf",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-23T13:31:38.488Z"
-      },
-      {
-        "id": "5d963a97e7d3ea61",
-        "title": "B.COM (H) (CODE-146) REFUND ORDER NO. 3938 DATED 21.09.2026 (SEAT CANCELLED BY ADMIN DURING ONLINE COUNSELLING) for the A.S:2026-27_dated-23.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260923406758111.pdf",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-25T11:44:12.917Z"
-      },
-      {
-        "id": "ead2cba9e6802c0d",
-        "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Libera Arts (CODE-451) FOR A.S:2026-27_dated-22.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/202609231943963960.pdf",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-23T13:31:38.488Z"
       }
     ]
   },
@@ -6938,9 +6938,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T13:00:15.450Z",
+    "lastUpdatedDate": "2026-10-01T15:19:44.672Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "622d52c05bc0283f",
+        "title": "PROVISIONAL LIST OF SECOND STRAY VACANCY ALLOTMENT TO PHARMACY COURSE PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/289/Upload1",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-01T15:19:44.672Z"
+      },
       {
         "id": "4ccb71e476a57bad",
         "title": "Seat Matrix - Mount Zion Medical College Hospital",
@@ -7131,16 +7141,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-09-07T12:06:32.867Z"
-      },
-      {
-        "id": "ae02c4e52fe6a739",
-        "title": "Seat Matrix of BDS course in Azeezia College of Dental Sciences & Research, Meeyyannoor,Kollam",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/248/Upload1",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-09-07T12:06:32.867Z"
       }
     ]
