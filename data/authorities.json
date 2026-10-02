@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T18:19:19.167Z",
+    "lastUpdatedDate": "2026-10-02T06:01:39.543Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "d9cd8dd0a53ca29d",
+        "title": "Final Allotment result for UG Round 3 Counselling.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610011801857474.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-02T06:01:39.543Z"
+      },
       {
         "id": "56fa260b8ad8d3f2",
         "title": "Notice for Provisional Result for Round 3 of UG Counselling 2026",
@@ -409,16 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-24T06:04:30.092Z"
-      },
-      {
-        "id": "db678fd423a6c0e3",
-        "title": "REVISED PROVISIONAL RESULT FOR UG COUNSELLING ROUND 1 21.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608211253894987.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T14:38:47.195Z"
       }
     ]
   },
