@@ -2064,9 +2064,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-01T20:27:23.011Z",
+    "lastUpdatedDate": "2026-10-02T13:02:38.062Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e6c12f0f239d6632",
+        "title": "02-10-2026: MBBS-BDS-2026-27-MQ- Weboptions Notificaiton for Phase-II counseling MBBS -BDS-2026-27-MQ-List of not eligible candidates who applied for NRI category seats only in response to notificaiton 13-09-2026 (not eligible for B1_B2) after verification of uploaded documents MBBS&BDS-2026-27-MQ-PROVISIONAL FINAL MERIT POSITION OF B1_B2_NRI APPLIED CANDIDATES - AFTER VERIFICATION OF UPLOADED CERTIFICATES MBBS-2026-27- MQ -LIST OF NOT REPORTED CANDIDATES (B1_B2) AFTER PHASE-I COUNSELLING MBBS-2026-27_MQ-LIST OF NOT REPORTED CANDIDATES (Category-C (NRI)) AFTER PHASE-I COUNSELLING",
+        "link": "https://drntr.uhsap.in/index/notification/20261002160915550.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-02T13:02:38.062Z"
+      },
       {
         "id": "6e4c4139c754764f",
         "title": "01-10-2026: MBBS & BDS CQ 2026-27 - NOTICE FOR GRIEVANCES ON Provisional Merit List Under NCC Category MBBS-2026-27-CQ-NCC- Verification report dt.01-10-2026 Post Basic Nursing 2 YDC 2026-27 - Phase-I Web Option Notification Post Basic Nursing 2 YDC 2026-27 - Final Merit list of Service candidates Post Basic Nursing 2 YDC 2026-27 - Seat Matrix - SVU Area Post Basic Nursing 2 YDC 2026-27 - Final Merit list of Non-Service candidates Post Basic Nursing 2 YDC 2026-27 - Seat Matrix - AU Area MDS MQ 2026-27 - Phase-I College Wise Allotments List UG AYUSH Courses 2026-27 - CQ - Phase-I Web Options Notification UG AYUSH COURSES 2026-27 - BHMS - AU SEAT MATRIX UG AYUSH COURSES 2026-27 - BHMS - SVU SEAT MATRIX UG AYUSH COURSES 2026-27 - BUMS - SEAT MATRIX UG AYUSH COURSES 2026-27 - BAMS - AU SEAT MATRIX UG AYUSH COURSES 2026-27 - BAMS - SVU SEAT MATRIX B.Sc. (Nursing) 4 YDC 2026-27 - MQ Notification for online application UG AYUSH Courses 2026-27 - Notice for Examination of Persons with Disability (PwD) Candidates MBBS-2026-27-MQ-Extension of Free Exit - Notification MBBS-BDS-2026-27-CQ- Extension of Free Exit - Notification MBBS & BDS CQ -2026-27 - Notice & Tentative Priority List under Sports & Games Category PG (Dental) CQ 2026-27 - List of Not Reported & Candidates who availed Free Exit after Phase-II Counselling",
@@ -2256,16 +2266,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-21T13:46:44.389Z"
-      },
-      {
-        "id": "0adc3754184088e3",
-        "title": "21-09-2026: MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
-        "link": "https://drntr.uhsap.in/index/notification/20260921113112360.pdf",
-        "date": "21/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-21T06:55:49.565Z"
       }
     ]
   },
@@ -2276,9 +2276,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-01T15:15:10.414Z",
+    "lastUpdatedDate": "2026-10-02T13:01:52.946Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2061032f10688afa",
+        "title": "Important Public notice regarding 3rd Round Schedule",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/PublicNotice021026.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-02T13:01:52.946Z"
+      },
       {
         "id": "ff8f09afd2d3e0f5",
         "title": "Partially revised schedule for 3rd Round of UG Medical/Dental Online Punjab State Counselling under NEET-UG-2026",
@@ -2468,16 +2478,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-08T13:25:15.833Z"
-      },
-      {
-        "id": "e5c2e9fc9df0d6ee",
-        "title": "Provisional Merit List of candidates who give their willingness for 2nd round of online counselling",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndMerit/Provisional%20Merit%20List%20Round-2.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-08T08:45:11.788Z"
       }
     ]
   },
@@ -2680,9 +2680,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T18:24:39.646Z",
+    "lastUpdatedDate": "2026-10-02T13:06:55.185Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "UGMAC:a35b15ab4cca6366",
+        "title": "Corrigendum for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/11 Dated 02.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_11.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-02T13:06:55.185Z"
+      },
       {
         "id": "UGMAC:6f4416ecbdfccfd3",
         "title": "Notice for filling online application form and choice filling for Round-3 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/10 Dated 30.09.2026)",
@@ -2822,6 +2832,36 @@
         "source": "UGMAC",
         "batchIndex": 1,
         "detectedAt": "2026-07-08T09:36:47.664Z"
+      },
+      {
+        "id": "Latest Updates:ac91eeb6925246db",
+        "title": "Important Notice for of Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/05 Dated 02.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_05.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-02T13:06:54.935Z"
+      },
+      {
+        "id": "Latest Updates:c4a9e264f4023939",
+        "title": "Details of Registration-cum-Choice Filling for Admission in Round-3 of Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/04 Dated 02.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_04.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-02T13:06:54.935Z"
+      },
+      {
+        "id": "Latest Updates:a35b15ab4cca6366",
+        "title": "Corrigendum for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/11 Dated 02.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_11.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-02T13:06:54.935Z"
       },
       {
         "id": "Latest Updates:6f4416ecbdfccfd3",
@@ -2991,36 +3031,6 @@
         "sortTs": null,
         "source": "Latest Updates",
         "batchIndex": 0,
-        "detectedAt": "2026-09-11T10:00:32.389Z"
-      },
-      {
-        "id": "Latest Updates:b9bc9ff4ce8b4834",
-        "title": "Details for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/05 Dated 11.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_05.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-12T11:12:34.228Z"
-      },
-      {
-        "id": "Latest Updates:912a8b9b7ff7a37a",
-        "title": "Details for filling online application form and choice filling for Round-2 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/01 Dated 11.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_05.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-11T17:54:29.078Z"
-      },
-      {
-        "id": "Latest Updates:cd2b65d485208737",
-        "title": "Details for filling Online Application Form for Round-2 Counselling of Under Graduate Engineering Admission Counselling [UGEAC-2026]Bachelor of Architecture Course in Govt Engineering Colleges of Bihar on the basis of JEE(MAIN)-2026 and NATA (Adv. No. BCECEB(UGEAC)-2026/09 Dated 11.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_09.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
         "detectedAt": "2026-09-11T10:00:32.389Z"
       }
     ]
@@ -4535,7 +4545,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-01T15:17:00.113Z",
+    "lastUpdatedDate": "2026-10-02T13:03:47.927Z",
     "pinned": false,
     "notices": [
       {
