@@ -2064,9 +2064,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-02T13:02:38.062Z",
+    "lastUpdatedDate": "2026-10-03T07:49:03.542Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "44cc429dadd402db",
+        "title": "03-10-2026: MBBS-2026-27-CQ-FREE EXIT Extension notification MBBS-MQ-2026-27-FREE EXIT extension of date",
+        "link": "https://drntr.uhsap.in/index/notification/20261003113001281.pdf",
+        "date": "03/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-03T07:49:03.542Z"
+      },
       {
         "id": "e6c12f0f239d6632",
         "title": "02-10-2026: MBBS-BDS-2026-27-MQ- Weboptions Notificaiton for Phase-II counseling MBBS -BDS-2026-27-MQ-List of not eligible candidates who applied for NRI category seats only in response to notificaiton 13-09-2026 (not eligible for B1_B2) after verification of uploaded documents MBBS&BDS-2026-27-MQ-PROVISIONAL FINAL MERIT POSITION OF B1_B2_NRI APPLIED CANDIDATES - AFTER VERIFICATION OF UPLOADED CERTIFICATES MBBS-2026-27- MQ -LIST OF NOT REPORTED CANDIDATES (B1_B2) AFTER PHASE-I COUNSELLING MBBS-2026-27_MQ-LIST OF NOT REPORTED CANDIDATES (Category-C (NRI)) AFTER PHASE-I COUNSELLING",
@@ -2256,16 +2266,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-21T19:09:35.833Z"
-      },
-      {
-        "id": "4768a8285a770ffc",
-        "title": "21-09-2026: MDS MQ Detailed Notification 2026-27 MDS MQ PROSPECTUS 2026-27 MDS MQ User manual 2026-27 MDS MQ SEAT MATRIX - 2026-27 Post Basic (Nursing) 2 YDC 2026-27 - Reopening of Portal-Link for online application MBBS CQ 2026-27 - List of Phase-II_MRC Candidates MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-II",
-        "link": "https://drntr.uhsap.in/index/notification/20260921172643957.pdf",
-        "date": "21/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-21T13:46:44.389Z"
       }
     ]
   },
