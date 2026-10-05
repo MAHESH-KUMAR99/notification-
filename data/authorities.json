@@ -998,9 +998,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-01T07:43:36.737Z",
+    "lastUpdatedDate": "2026-10-05T07:32:21.202Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "491e3893c2921f9c",
+        "title": "List of candidates whose Refundable Security Deposit is forfeited and removed from the Merit list due to Cancel Admission in Round-02",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R2/R2_CANCEL_CANDIDATE_LIST_0510.pdf",
+        "date": "05/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-05T07:32:21.202Z"
+      },
       {
         "id": "848c9ab2ed665374",
         "title": "આથી પ્રવેશ સમિતિ દ્વારા જાણ કરવામાં આવે છે કે UG MBBS/BDS કોર્સમાં લીધેલ પ્રવેશ રદ (Cancellation) કરવાની પ્રક્રિયા તા. 03/10/2026ના રોજ બપોરે 12:00 વાગ્યા સુધી લંબાવવામાં આવે છે. જે ઉમેદવારો પોતાનો પ્રવેશ રદ કરવા ઇચ્છતા હોય, તેઓએ નિયત સમયમર્યાદામાં તેમના સંબંધિત Reported Help Center ખાતે રૂબરૂ હાજર રહી પ્રવેશ રદ કરવાની પ્રક્રિયા પૂર્ણ કરવાની રહેશે. [The Admission Committee hereby informs that the admission cancellation process for candidates admitted to UG MBBS/BDS courses has been extended up to 12:00 Noon on 03/10/2026. Candidates who wish to cancel their admission are required to personally visit their respective Reported Help Center within the stipulated time and complete the admission cancellation process.]",
@@ -1194,16 +1204,6 @@
         "source": "Direct from Website",
         "batchIndex": 8,
         "detectedAt": "2026-09-15T06:32:10.542Z"
-      },
-      {
-        "id": "9ae6cb6ed7c9179b",
-        "title": "Process of Online Admission",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Steps%20for%20Admission%20Confirmation.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-09-14T13:46:04.204Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2104,9 +2104,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-03T13:10:38.330Z",
+    "lastUpdatedDate": "2026-10-05T07:33:12.077Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4c4daa9c2b4684c4",
+        "title": "05-10-2026: MBBS-MQ-2026-27-List of Candidates availed FREE EXIT after Phase-I",
+        "link": "https://drntr.uhsap.in/index/notification/20261005114310130.pdf",
+        "date": "05/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-05T07:33:12.077Z"
+      },
       {
         "id": "6f199e7809ae3076",
         "title": "03-10-2026: B.Sc.(N) 4 YDC & PB (N) 2 YDC 2026-27 - Notification for Examination of Persons with Disability (PwD) Candidates PG (Dental) MQ Admissions 2026-27-Notification for Online Submission of S2 & S3 documents for upgradation with a late fee MBBS-2026-27-CQ-FREE EXIT Extension notification MBBS-MQ-2026-27-FREE EXIT extension of date",
@@ -2296,16 +2306,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-23T07:33:47.265Z"
-      },
-      {
-        "id": "e2217fdb7a70cd6a",
-        "title": "22-09-2026: MBBS-BDS-CQ- 2026-27-Notice to Sports & Games candidates to attend Physical Skill Test on 25-09-2026 at Nagarjuna University, Guntur",
-        "link": "https://drntr.uhsap.in/index/notification/20260922123606163.pdf",
-        "date": "22/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-22T12:29:28.045Z"
       }
     ]
   },
@@ -7643,9 +7643,19 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-09T11:50:38.713Z",
+    "lastUpdatedDate": "2026-10-05T07:35:29.829Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c3d3df5321885065",
+        "title": "State-Technical-Scholarship-welfare-based-scheme",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/10/State-Technical-Scholarship-welfare-based-scheme.pdf",
+        "date": "01/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-05T07:35:29.829Z"
+      },
       {
         "id": "31d5ffad601b99b0",
         "title": "State nominated Medical candidates through NEET 2026",
@@ -7834,16 +7844,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-08-01T09:36:08.489Z"
-      },
-      {
-        "id": "98cc866ba158b03f",
-        "title": "MERIT LIST NON-NEET UG 2026 Qualified and Rejected",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/MERIT-LIST-NON-NEET-UG-2026-Both-Qualified-Rejected.pdf",
-        "date": "01/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-08-01T09:36:08.489Z"
       }
     ]
