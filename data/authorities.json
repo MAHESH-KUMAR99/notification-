@@ -3543,9 +3543,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-05T17:01:37.887Z",
+    "lastUpdatedDate": "2026-10-05T23:11:40.608Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:19f0222273f37bcf",
+        "title": "MOPUP ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1jsuTofVW0VBqM6Zyl6o_nOWYFe0EiWDs/view?usp=sharing",
+        "date": "05/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-05T23:11:40.608Z"
+      },
       {
         "id": "OVERALL:a9dd9987ba3abf3d",
         "title": "EXTENSION OF LAST DATE FOR ROUND 3 REGISTRATION / WITHDRAWAL OF ROUND 1 / ROUND 2 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
@@ -3557,6 +3567,16 @@
         "detectedAt": "2026-10-05T17:01:37.887Z"
       },
       {
+        "id": "OVERALL:2bb0b8061526f326",
+        "title": "ROUND 2 - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1Re1QVmQ--2Kt6BJGWSyCkrlF1fePDazU/view?usp=sharing",
+        "date": "05/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-05T23:11:40.608Z"
+      },
+      {
         "id": "OVERALL:24cf8ad51d9188fa",
         "title": "REVISED LIST OF VACANCIES IN UG NEET COURSES AFTER ROUND 2",
         "link": "https://drive.google.com/file/d/1DrabqrUyGhCO05fQH7fruMEOx4B6kQOW/view?usp=sharing",
@@ -3565,6 +3585,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-05T17:01:37.887Z"
+      },
+      {
+        "id": "UG NON-NEET:19f0222273f37bcf",
+        "title": "MOPUP ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1jsuTofVW0VBqM6Zyl6o_nOWYFe0EiWDs/view?usp=sharing",
+        "date": "05/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 296,
+        "detectedAt": "2026-10-05T23:11:40.608Z"
       },
       {
         "id": "UG NEET:a9dd9987ba3abf3d",
@@ -3585,6 +3615,16 @@
         "source": "Direct from Website",
         "batchIndex": 399,
         "detectedAt": "2026-10-05T17:01:37.887Z"
+      },
+      {
+        "id": "UG NEET:2bb0b8061526f326",
+        "title": "ROUND 2 - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1Re1QVmQ--2Kt6BJGWSyCkrlF1fePDazU/view?usp=sharing",
+        "date": "05/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 401,
+        "detectedAt": "2026-10-05T23:11:40.608Z"
       },
       {
         "id": "OVERALL:af2d703290f1814f",
@@ -3705,46 +3745,6 @@
         "source": "Direct from Website",
         "batchIndex": 288,
         "detectedAt": "2026-09-25T23:30:54.371Z"
-      },
-      {
-        "id": "OVERALL:dbb84ae45c195d0e",
-        "title": "NOTICE : ROUND 3 REGISTRATION, SUBMISSION OF COURSE PREFERENCES & WITHDRAWAL OF ROUND 1/ROUND 2 ADMITTED SEAT FOR UG NEET-BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1Xqg3gE2pwdq3LIdlpZoO3T-Vu_mbXez2/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T18:40:56.165Z"
-      },
-      {
-        "id": "OVERALL:60c9427a42599a05",
-        "title": "SECOND ROUND PROVISIONAL ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/16ZbS7_fz3iAzhbOZyzceSsUBLoC-aKpU/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
-      },
-      {
-        "id": "OVERALL:6a33ce3d6e72808f",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR MOPUP ROUND - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_eligible_list.html",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-24T18:40:56.165Z"
-      },
-      {
-        "id": "OVERALL:1a2776c41bce3f64",
-        "title": "NOTICE : ROUND 2 PROVISIONAL ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1xMaNn3vyVy1mCYGfps7oVhzx51Q9VtgK/view?usp=sharing",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-24T09:18:02.184Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
