@@ -998,9 +998,119 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T10:40:37.181Z",
+    "lastUpdatedDate": "2026-10-06T17:05:07.920Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f389cf8324ad7fb8",
+        "title": "General Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_gen_1.1.pdf?V=2",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "9a071a97252fb0a5",
+        "title": "SC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_sc_1.1.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "650efd6e2b40761b",
+        "title": "ST Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_st_1.1.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "e0afe8343488fbbc",
+        "title": "SEBC Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_se_1.1.pdf?V=2",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "038586a38b64db96",
+        "title": "EWS Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_ew_1.1.pdf?V=2",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "c8ad5b2acd4c0208",
+        "title": "Open Category PWD Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_op_pwd.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "2b07082218dc364a",
+        "title": "SC Category PWD Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_sc_pwd.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "3b38961c98c64c03",
+        "title": "ST Category PWD Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_st_pwd.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "ca7366d068dbee41",
+        "title": "SEBC Category PWD Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_se_pwd.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "ebcd6c35e97de674",
+        "title": "EWS Category PWD Merit List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_ew_pwd.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
+      {
+        "id": "47ef98dbecd8e55a",
+        "title": "PWD Report",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/PWD%20Report%20R3.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-10-06T17:05:07.920Z"
+      },
       {
         "id": "9a190055eb469e52",
         "title": "Advertisement for 3rd Round Online Choice Filling",
@@ -1091,118 +1201,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 10,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "04f070b967a36ae5",
-        "title": "ST Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_st.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 11,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "bd9a01db7c26254c",
-        "title": "SEBC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_se.pdf?V=2",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 12,
-        "detectedAt": "2026-10-06T10:40:37.181Z"
-      },
-      {
-        "id": "b6e69b297609721c",
-        "title": "SEBC Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_se.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 12,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "480aa50fd81324f8",
-        "title": "EWS Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_ew.pdf?V=2",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 13,
-        "detectedAt": "2026-10-06T10:40:37.181Z"
-      },
-      {
-        "id": "987062e5d05136d3",
-        "title": "EWS Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_r3_ew.pdf?V=1",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 13,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "87b6ce7d1d9d3c0a",
-        "title": "NRI Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/merit_nri_r3.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 14,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "d52a85d069b8c491",
-        "title": "NRI Report",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/Report%20for%20website%20-%20Round%203.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 15,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "b495732b5660c65b",
-        "title": "NHL Local Quota Candidate List (As Per the College List)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/LOCAL%20QUOTA%20LIST%20NHL.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 16,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "c14dbd016e31ff5a",
-        "title": "SMC Local Quota Candidate List (As Per the College List)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/LOCAL%20QUOTA%20LIST%20SMC.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 17,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "b48c2cbda6168196",
-        "title": "Not Eligible Candidate List with Reasons",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/r3/DQ%20LIST%20R3.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 18,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "89dbb0b388ae7b52",
-        "title": "તમામ વિદ્યાર્થીઓ અને વાલીઓને ખાસ સૂચના આપવામાં આવે છે કે ત્રીજા રાઉન્ડ માટે ચોઈસ ફિલિંગ કરતા પહેલાં કેટેગરી મુજબ ઉપલબ્ધ તમામ કોલેજોની બેઠકો (જેમ કે GQ, MQ, NRI વગેરે), સંબંધિત અભ્યાસક્રમની ટ્યુશન ફી તથા અન્ય લાગુ પડતી ફીની વિગતો કાળજીપૂર્વક તપાસી લેવી. વધુમાં, વિદ્યાર્થીઓ અને વાલીઓએ ચોઈસ આપતા પહેલાં પોતાની નાણાકીય ક્ષમતા તથા લાગુ પડતી ફીની સંપૂર્ણ વ્યવસ્થા અંગે અગાઉથી ખાતરી કરી લેવી. જરૂરી હોય તો ઉપલબ્ધ સ્કોલરશિપ યોજનાઓ, એજ્યુકેશન લોન અથવા અન્ય માન્ય નાણાકીય વિકલ્પો અંગે અગાઉથી જરૂરી માહિતી મેળવી લેવી. ખાસ કરીને, જે બેઠક માટે લાગુ પડતી ફી ભરવા માટે પૂરતી નાણાકીય વ્યવસ્થા ઉપલબ્ધ ન હોય, તેવી બેઠકની ચોઈસ આપવાનું ટાળવું. કારણ કે, બેઠક ફાળવાયા બાદ જરૂરી ફીની વ્યવસ્થા ન થઈ શકે અને તેના પરિણામે પ્રવેશ કન્ફર્મ કરવામાં ન આવે તો, લાગુ પડતા નિયમો અનુસાર રૂ. ૧૦,૦૦૦/-ની રિફંડેબલ સિક્યુરિટી ડિપોઝિટ જપ્ત થઈ શકે છે. MBBS/BDS પ્રવેશના રાઉન્ડ-૩માં સીટ ફાળવવામાં આવેલ હોય અને ઉમેદવાર નિર્ધારિત સમયમર્યાદામાં ફાળવેલ સંસ્થામાં રિપોર્ટિંગ ન કરે, તો તેની રિફંડેબલ સિક્યોરિટી ડિપોઝિટ જપ્ત કરવામાં આવશે અને તે ઉમેદવાર MBBS/BDS પ્રવેશના રાઉન્ડ-૪માં ભાગ લેવા માટે પાત્ર રહેશે નહીં. આથી, તમામ વિદ્યાર્થીઓ અને વાલીઓને સલાહ આપવામાં આવે છે કે પોતાની નાણાકીય ક્ષમતા, ફીની ઉપલબ્ધતા તથા જરૂરી નાણાકીય સહાયના વિકલ્પો અંગે સંપૂર્ણ ખાતરી કર્યા બાદ જ ચોઈસ ફિલિંગ કાળજીપૂર્વક અને જવાબદારીપૂર્વક કરવામાં આવે. આવી તકેદારી રાખવાથી સિક્યુરિટી ડિપોઝિટ જપ્ત થવાની શક્યતા ટાળી શકાશે તેમજ અન્ય ઉમેદવારોને લાયકાત મુજબ સીટ ફાળવી શકાય તેથી મહત્વપૂર્ણ MBBS/BDS બેઠકો બિનજરૂરી રીતે બ્લોક થતી અથવા ખાલી રહેતી અટકાવી શકાશે. [All students and parents are hereby specifically advised to carefully check the available seats in all colleges under the respective categories (such as GQ, MQ, NRI, etc.), along with the tuition fees and other applicable fee details for the respective courses, before filling choices for the Third Round. Further, students and parents are advised to assess their financial capacity and ensure in advance that the applicable fees can be arranged for the seat they intend to opt for. If required, they should obtain necessary information in advance regarding available scholarship schemes, education loans, or other permissible financial assistance options. In particular, students should avoid opting for a seat for which they do not have adequate financial arrangements to pay the applicable fees. If a seat is allotted and the required fees cannot be arranged, resulting in non-confirmation of admission, the refundable security deposit of ₹10,000/- may be forfeited as per the applicable rules. Candidates who are allotted a seat in Round 3 of MBBS/BDS counselling but do not report to the allotted institute within the prescribed time limit shall have their refundable security deposit forfeited and shall not be eligible to participate in Round 4 of MBBS/BDS counselling. Therefore, all students and parents are advised to fill their choices carefully and responsibly, only after ensuring their financial capacity, availability of funds, and possible financial assistance options. Such caution will help avoid the possibility of forfeiture of the security deposit and also prevent valuable MBBS/BDS seats from being unnecessarily blocked or remaining vacant, thereby ensuring that such seats can be allotted to other eligible candidates as per their merit and eligibility.]",
-        "link": null,
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
-        "titleEn": "All students and parents are specially advised to carefully check the details of all available college seats category wise (like GQ, MQ, NRI etc.), tuition fee of the respective course and other applicable fees before filling the choice for the third round. Further, students and parents should ensure their financial capability and full arrangement of applicable fees in advance before giving choice. Obtain necessary information in advance about available scholarship schemes, education loans or other approved financial options, if necessary. In particular, avoid offering a choice of seat for which sufficient financial arrangements are not available to pay the applicable fee. Because, if the necessary fee cannot be arranged after allotment of the seat and consequently the admission is not confirmed, as per the applicable rules Rs. 10,000/- refundable security deposit may be forfeited. If a seat is allotted in Round-3 of MBBS/BDS Admission and the candidate does not report to the allotted Institute within the stipulated time frame, his/her refundable security deposit will be forfeited and the candidate will not be eligible to participate in Round-4 of MBBS/BDS Admission. Hence, all students and parents are advised to fill the choice carefully and responsibly only after fully ascertaining their financial capability, availability of fees and required financial assistance options. Such vigilance will avoid the possibility of forfeiture of security deposit and allotment of seats to other candidates as per merit thereby preventing unnecessary blocking or lying vacant of important MBBS/BDS seats. [All students and parents are hereby specifically advised to carefully check the available seats in all colleges under the respective categories (such as GQ, MQ, NRI, etc.), along with the tuition fees and other applicable fee details for the respective courses, before filling choices for the Third Round. Further, students and parents are advised to assess their financial capacity and ensure in advance that the applicable fees can be arranged for the seat they intend to opt for. If required, they should obtain necessary information in advance regarding available scholarship schemes, education loans, or other permissible financial assistance options. In particular, students should avoid opting for a seat for which they do not have adequate financial arrangements to pay the applicable fees. If a seat is allotted and the required fees cannot be arranged, resulting in non-confirmation of admission, the refundable security deposit of ₹10,000/- may be forfeited as per the applicable rules. Candidates who are allotted a seat in Round 3 of MBBS/BDS counseling but do not report to the allotted institute within the prescribed time limit shall have their refundable security deposit forfeited and shall not be eligible to participate in Round 4 of MBBS/BDS counseling. Therefore, all students and parents are advised to fill their choices carefully and responsibly, only after ensuring their financial capacity, availability of funds, and possible financial assistance options. Such caution will help avoid the possibility of forfeiture of the security deposit and also prevent valuable MBBS/BDS seats from being unnecessarily blocked or remaining vacant, thereby ensuring that such seats can be allotted to other eligible candidates as per their merit and eligibility.]",
-        "titleLang": "gu",
         "detectedAt": "2026-10-05T16:57:26.594Z"
       },
       {
@@ -1416,9 +1414,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T12:55:51.856Z",
+    "lastUpdatedDate": "2026-10-06T17:05:25.340Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "41c8b0616b85ed31",
+        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/06102026041516.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-06T17:05:25.340Z"
+      },
       {
         "id": "fa965fee8f058e59",
         "title": "TENTATIVE VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 IN (7.5% RESERVATION) AS ON 30-09-2026",
@@ -1608,16 +1616,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-09T16:14:19.059Z"
-      },
-      {
-        "id": "fffda8d71d22bc85",
-        "title": "7.5% - TENTATIVE ROUND - 2 VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 AS ON 09-09-2026",
-        "link": "https://tnmedicalselection.net/news/09092026031544.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-09T11:48:20.149Z"
       }
     ]
   },
@@ -2104,9 +2102,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T10:40:54.989Z",
+    "lastUpdatedDate": "2026-10-06T17:05:31.526Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "62d02067a86130c0",
+        "title": "06-10-2026: B.Sc.(Nursing) 4 YDC 2026-27 - Pending due to Non-Submissions of Relevant Documentss B.Sc.(Nursing) 4 YDC 2026-27 - Provisional Merit position of Applied Candidates B.Sc.(Nursing) 4 YDC 2026-27 - Registration Fee Paid But Not Submitted Application B.Sc.(Nursing) 4 YDC 2026-27 - Management Quota - Date Extension Notification for Online Application M.Sc_N_ Notification 2026-27 M.Sc _Nursing_ Prospectus - 2026-27 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-I Web Options Notification UG AYUSH Courses 2026-27 - MQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - AIQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - CQ - Phase-I College Wise Allotments PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-I Counselling MDS MQ 2026-27 - Phase-II Web Options Notification PG (Dental) MQ Admissions 2026-27 - Corrigendum to MQ Provisional Final Merit list BDS _CQ_2026-27_ Notification for web options for Phase-II Counseling",
+        "link": "https://drntr.uhsap.in/index/notification/20261006200104094.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-06T17:05:31.526Z"
+      },
       {
         "id": "86af61f03f84f5d1",
         "title": "06-10-2026: BDS _CQ_2026-27_ Notification for web options for Phase-II Counseling",
@@ -2288,24 +2296,14 @@
         "detectedAt": "2026-09-25T11:42:11.660Z"
       },
       {
-        "id": "ded522d6a857be1c",
-        "title": "24-09-2026: Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Pending due to Non-submission of Required Documents Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Fee paid but not submission list Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Provisional Eligible List of Service Candidates Post Basic B.Sc. (Nursing) 2 YD Course 2026-27 - Provisional Eligible List of Non-Service Candidates MDS CQ 2026-27 - Phase-II College wise Final Allotments list MBBS- CQ 2026-27 PHASE-II NOTICE FOR EXTENSION OF TIME FOR JOINING MBBS-BDS-CQ- 2026-27-Rescheduled Notice to Sports & Games candidates to attend Physical Skill Test on 28-09-2026 at Nagarjuna University, Guntur",
-        "link": "https://drntr.uhsap.in/index/notification/20260924184019790.pdf",
-        "date": "24/09/2026",
+        "id": "ed1fb02df1f621a6",
+        "title": "25-09-2026: MBBS MQ -2026-27-LIST OF CANDIDATES FOR REUPLOADING OF DOCUMENTS VIDE NOTIFICATION DT.13-09-2026 MBBS MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES FOR CATEGORY -B1,B2 & NRI LAPSED vide notification dt.13-09-2026 MBBS MQ-2026-27-List of candidates those who paid fee but not submitted application MBBS MQ -2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES FOR NRI CATEGORY SEATS-vide notification dt13-09-2026 MBBS & BDS MQ 2026-27 LIST OF CANDIDATES FOUND IN THE EARLIER MERIT LIST (CAT-B1 & B2) AND NOW OPTED FOR NRI - NRI LAPSED SEATS - REUPLOAD OF PENDING DOCUMENTS",
+        "link": "https://drntr.uhsap.in/index/notification/20260925185706877.pdf",
+        "date": "25/09/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T14:20:58.696Z"
-      },
-      {
-        "id": "6f1a46b8862b8291",
-        "title": "24-09-2026: MBBS- CQ 2026-27 PHASE-II NOTICE FOR EXTENSION OF TIME FOR JOINING MBBS-BDS-CQ- 2026-27-Rescheduled Notice to Sports & Games candidates to attend Physical Skill Test on 28-09-2026 at Nagarjuna University, Guntur",
-        "link": "https://drntr.uhsap.in/index/notification/20260924133727680.pdf",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T09:13:45.775Z"
+        "batchIndex": 10,
+        "detectedAt": "2026-10-06T17:05:31.526Z"
       }
     ]
   },
@@ -3195,9 +3193,89 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T12:55:42.971Z",
+    "lastUpdatedDate": "2026-10-06T17:05:20.054Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e676810ae47deb02",
+        "title": "Advt. No. 96 dated-06.10.2026 बी०एड०/एम०एड०/ बी०पी०एड० पाठ्यक्रमों (B.Ed./M.Ed/B.P.Ed. Course) के शैक्षणिक सत्र 2026-28 में नामांकन की अनुशंसा हेतु विशेष चक्र ऑनलाईन साक्षात्कार से संबंधित महत्वपूर्ण सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/800.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 96 dated-06.10.2026 Important information related to special round online interview for recommendation of nomination for B.Ed./M.Ed/B.P.Ed. Course in the academic session 2026-28.",
+        "titleLang": "hi",
+        "detectedAt": "2026-10-06T17:05:20.054Z"
+      },
+      {
+        "id": "f9466d264f03d166",
+        "title": "Advt. No. 95 dated-06.10.2026 बी.एससी. नर्सिंग (पोस्ट बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के चतुर्थ (अंतिम) चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/799.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "Advt. No. 95 dated-06.10.2026 B.Sc. Important information related to the fourth (final) cycle online interview of Nursing (Post Basic) Entrance Competitive Examination-2026.",
+        "titleLang": "hi",
+        "detectedAt": "2026-10-06T17:05:20.054Z"
+      },
+      {
+        "id": "f2d17b38af007e15",
+        "title": "Advt. No. 94 dated-06.10.2026 बी.एससी. नर्सिंग (बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के चतुर्थ (अंतिम) चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/798.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "titleEn": "Advt. No. 94 dated-06.10.2026 B.Sc. Important information related to the fourth (final) cycle online interview of Nursing (Basic) Entrance Competitive Examination-2026",
+        "titleLang": "hi",
+        "detectedAt": "2026-10-06T17:05:20.054Z"
+      },
+      {
+        "id": "f89967600c7f80f6",
+        "title": "Advt. No. 93 dated-06.10.2026 जी०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2020 के तृतीय (अंतिम) चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/797.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "titleEn": "Advt. No. 93 dated-06.10.2026 Important information related to the third (final) cycle online interview of GNM Entrance Competitive Examination-2020",
+        "titleLang": "hi",
+        "detectedAt": "2026-10-06T17:05:20.054Z"
+      },
+      {
+        "id": "fdebff3f640e5b52",
+        "title": "Advt. No. 92 dated-06.10.2026 ए०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के तृतीय (अंतिम) चक्र ऑनलाईन साक्षात्कार से संबंधित सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/796.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "titleEn": "Advt. No. 92 dated-06.10.2026 Information related to the third (final) cycle online interview of ANM Entrance Competitive Examination-2026.",
+        "titleLang": "hi",
+        "detectedAt": "2026-10-06T17:05:20.054Z"
+      },
+      {
+        "id": "349d83a801adaab3",
+        "title": "Advt. No. 91 dated-06.10.2026 Notice regarding 3rd Round of Online Counselling for MDS All India & NRI Quota Seats of Vananchal Dental College & Hospital, Farathiya, Garhwa on the basis of NEET MDS-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/794.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-10-06T17:05:20.054Z"
+      },
+      {
+        "id": "bce46144ed43512f",
+        "title": "Advt. No. 90 dated-06.10.2026 Notice regarding 3rd Round of Online Counselling for Post-Graduate Dental State Quota seats on the basis of NEET (MDS)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/793.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-10-06T17:05:20.054Z"
+      },
       {
         "id": "adbf998b3bce0201",
         "title": "Advt. No. 89 dated-30.09.2026 Commercial Pilot s License Training with Multi Engine Rating प्रवेश प्रतियोगिता परीक्षा-2026 के उत्तीण अभ्यर्थियों के Psychometric Test/ Pilot Aptitude Test के परीक्षाफल से संबंधित आवश्यक सूचना",
@@ -3335,78 +3413,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-02T09:28:33.662Z"
-      },
-      {
-        "id": "f6e110ad668b9b1e",
-        "title": "Advt. No. 74 dated-31.08.2026 Indicative information regarding Revised Schedule for 2nd (Second) Round of online counselling for admission to B.D.S. course",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/779.pdf",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-01T12:27:32.126Z"
-      },
-      {
-        "id": "a8a47ba522083f96",
-        "title": "Advt. No. 76 dated-31.08.2026 Important information regarding Revised Schedule for 2nd (Second) Round of online counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. Courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/778.pdf",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-31T16:18:57.780Z"
-      },
-      {
-        "id": "edc14772dfe8dc32",
-        "title": "Advt. No. 75 dated-31.08.2026 Indicative information regarding Revised Schedule for 2nd (Second) Round of online counselling for admission to M.B.B.S. course",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/777.pdf",
-        "date": "31/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-31T16:18:57.780Z"
-      },
-      {
-        "id": "7482256619f69bd9",
-        "title": "Advt. No. 72 dated-25.08.2026 बी.एससी. नर्सिंग (पोस्ट बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम, द्वितीय एवं तृतीय ऑनलाईन साक्षात्कारों से संबंधित सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/776.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-28T18:22:31.594Z"
-      },
-      {
-        "id": "7ae77b8e8aef2c7b",
-        "title": "Advt. No. 72 dated-25.08.2026 बी.एससी. नर्सिंग (पोस्ट बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथा प्रथम, द्वितीय एवं तृतीय ऑनलाईन साक्षात्कारों से संबंधित सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/774.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-26T08:09:41.881Z"
-      },
-      {
-        "id": "7737370e920553c9",
-        "title": "Advt. No. 70 dated-25.08.2026 झारखण्ड संयुक्त प्रवेश प्रतियोगिता परीक्षा (कृषि एवं अन्य समवर्गी पाठ्‌यक्रमों के लिए) -2026 के परीक्षाफल के आधार पर प्रथम, द्वितीय एवं तृतीय चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित आवश्यक सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/773.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Advt. No. 70 dated-25.08.2026 Necessary information related to the organization of first, second and third round online interview on the basis of the result of Jharkhand Joint Entrance Competitive Examination (for Agriculture and other allied courses)-2026.",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-25T11:31:50.622Z"
-      },
-      {
-        "id": "c6d5a589093bada6",
-        "title": "Advt. No. 71 dated-25.08.2026 बी.एससी. नर्सिंग (बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के परीक्षाफल प्रकाशन (Result Publication) तथ्था प्रथम, द्वितीय एवं तृतीय ऑनलाईन साक्षात्कारों से संबंधित आवश्यक सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/775.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-28T18:22:31.594Z"
       }
     ]
   },
@@ -3541,9 +3547,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T10:45:24.152Z",
+    "lastUpdatedDate": "2026-10-06T17:10:41.860Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:b8bd1de9b35e5937",
+        "title": "MOPUP ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/16juKuplJU_OVvXQPAPAbWj27a4_ICiB-/view?usp=sharing",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-06T17:10:41.860Z"
+      },
+      {
+        "id": "UG NON-NEET:b8bd1de9b35e5937",
+        "title": "MOPUP ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/16juKuplJU_OVvXQPAPAbWj27a4_ICiB-/view?usp=sharing",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 297,
+        "detectedAt": "2026-10-06T17:10:41.860Z"
+      },
       {
         "id": "OVERALL:19f0222273f37bcf",
         "title": "MOPUP ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET-BASED COURSES 2026-2027",
@@ -3723,26 +3749,6 @@
         "source": "Direct from Website",
         "batchIndex": 290,
         "detectedAt": "2026-09-26T12:27:04.154Z"
-      },
-      {
-        "id": "OVERALL:6873207215cb330a",
-        "title": "MOP UP ROUND DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/13-yuUezlkcZR5qiXqpvPFhlOrnsVP5Nd/view?usp=sharing",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-25T23:30:54.371Z"
-      },
-      {
-        "id": "OVERALL:3d3d6550096b9fba",
-        "title": "NOTICE : MOP UP ROUND DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1o5Y9nESCykgBDqVr0R26eze5LW-8dlPD/view?usp=sharing",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-25T23:30:54.371Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4605,7 +4611,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T03:16:33.262Z",
+    "lastUpdatedDate": "2026-10-06T17:06:41.809Z",
     "pinned": false,
     "notices": [
       {
@@ -5329,7 +5335,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-01T15:19:33.618Z",
+    "lastUpdatedDate": "2026-10-06T17:10:29.881Z",
     "pinned": false,
     "notices": [
       {
@@ -5725,9 +5731,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T10:45:28.172Z",
+    "lastUpdatedDate": "2026-10-06T17:10:44.157Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:265d10731e73a89a",
+        "title": "Notice for Extension of last Date for Choice Filling of MBBS/BDS 3rd Round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/notice-for-extend-choice-filling-for-3rd-round-counselling.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-06T17:10:44.157Z"
+      },
       {
         "id": "MBBS/BDS Counselling:df8b64b76b3c297c",
         "title": "Revised Final Merit List of MBBS/BDS 3rd Round Counselling 2026",
@@ -5917,16 +5933,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-08-21T13:54:53.036Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:54c1dcaed48fe673",
-        "title": "Revised Schedule for MBBS/BDS 1st Round Counselling 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Revised-Schedule-for-MBBS-BDS-1round-counselling.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-20T10:40:03.730Z"
       }
     ]
   },
@@ -5948,9 +5954,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-05T17:01:22.713Z",
+    "lastUpdatedDate": "2026-10-06T17:10:27.848Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b7a936e4238b0333",
+        "title": "Educational Notice (revised seat matrix)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_revised_seat_matrix.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-06T17:10:27.848Z"
+      },
       {
         "id": "4f2c4add3bae4491",
         "title": "Educational Notice (3rd round counselling_extension)",
@@ -6061,6 +6077,16 @@
         "detectedAt": "2026-07-08T11:32:47.059Z"
       },
       {
+        "id": "bd10b3eb0cf7f49e",
+        "title": "PROVISIONAL MERIT LIST FOR ASSAM STATE QUOTA SEATS (NEET-PG, 2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/provisional_merit_list_for_assam_state_quota_seats_neet-pg_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-06T17:10:27.848Z"
+      },
+      {
         "id": "c2c87431ab454d5e",
         "title": "Educational Notice-3rd Counseling-MDS Courses, 2026",
         "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/3rd_counseling-mds_courses_2026.pdf",
@@ -6128,26 +6154,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 4,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "7ef9aac0aa322b08",
-        "title": "Educational Notice (Admission into various courses at RIPANS)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_admission_into_various_courses_at_ripans.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "b3829e00977ec896",
-        "title": "Educational Notice (FMG Compulsory Rotating Medical Internship",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_fmg_compulsory_rotating_medical_internship.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 6,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
@@ -6585,9 +6591,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-05T16:59:43.195Z",
+    "lastUpdatedDate": "2026-10-06T17:08:01.552Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7419df253251df98",
+        "title": "ROUND 03 B.Sc(H) NURSING (CODE-115) (NEET UG 2026) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-06.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610061403684552.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-06T17:08:01.552Z"
+      },
+      {
+        "id": "db1822703493a974",
+        "title": "ROUND 03 MBBS (CODE-103) (NEET UG 2026) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-06.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610061140829616.pdf",
+        "date": "06/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-06T17:08:01.552Z"
+      },
       {
         "id": "db5d0853ae930722",
         "title": "SEATS IN BA (LIBERAL ARTS) COUNSELLING ARE FILLED_dated-05.10.2026",
@@ -6766,26 +6792,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-09-25T16:56:03.390Z"
-      },
-      {
-        "id": "8ace6cc38655bef1",
-        "title": "ONLINE REFUND LIST OF B.TECH (CODE 131) PROG. FOR THE A.S:2026-27 REFUND ORDER NO. 3949_dated-25.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260925668755135.pdf",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-25T11:44:12.917Z"
-      },
-      {
-        "id": "5c7888bbc7f899e8",
-        "title": "MBA_CODE-101 REFUND ORDER NO. 3943 (SEAT CANCELLED) DATED 24.09.2026 A.S:2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/20260925745661064.pdf",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-09-25T16:56:03.390Z"
       }
     ]
