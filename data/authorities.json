@@ -3549,9 +3549,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-08T14:53:56.428Z",
+    "lastUpdatedDate": "2026-10-08T20:40:37.111Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:3729446901556de1",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 3 ALLOTMENT (MBBS/BDS/BAMS/BVSC.& AH [NATIONAL SS & NRI]) (ADMITTED IN ROUND 2 / REGISTERED IN ROUND 3)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/round_3_eligible_list.html",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
       {
         "id": "OVERALL:a970be0742f570ae",
         "title": "ADDITIONAL SEAT MATRIX FOR UG NON-NEET B.SC. NURSING",
@@ -3563,6 +3573,46 @@
         "detectedAt": "2026-10-08T14:53:56.428Z"
       },
       {
+        "id": "OVERALL:79f79d0a2c17024a",
+        "title": "NOTICE : ROUND 3 ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1FCSw9zMZTz1viyFxwuI3IRhYE3kemgwZ/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
+        "id": "OVERALL:9755bdd442cb59c0",
+        "title": "UPDATED FINAL MERIT LIST FOR UG NEET MSP ELIGIBLE CANDIDATES 2026-2027",
+        "link": "https://drive.google.com/file/d/1_J6rEfQrKo5N0mHStelJs2kKapxgA-s-/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
+        "id": "OVERALL:d44ea9ec38d7b451",
+        "title": "ADDENDUM TO THE MERIT LIST AS PER COURT ORDER FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/14GhEUw7s7kkl7vYCafvQ8axIBClkeQNf/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
+        "id": "OVERALL:f98f0bcd87ca2c9e",
+        "title": "REVISED LIST OF VACANCIES IN UG NEET - MBBS / BDS / BAMS / BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 2",
+        "link": "https://drive.google.com/file/d/186kN2jE4i06ifwa5c8jQLZxi8Q9k57bE/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
         "id": "UG NON-NEET:a970be0742f570ae",
         "title": "ADDITIONAL SEAT MATRIX FOR UG NON-NEET B.SC. NURSING",
         "link": "https://drive.google.com/file/d/1yH0FrZoc62cGhG00baB2t8_knu6LYoPm/view?usp=sharing",
@@ -3571,6 +3621,56 @@
         "source": "Direct from Website",
         "batchIndex": 298,
         "detectedAt": "2026-10-08T14:53:56.428Z"
+      },
+      {
+        "id": "UG NEET:3729446901556de1",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 3 ALLOTMENT (MBBS/BDS/BAMS/BVSC.& AH [NATIONAL SS & NRI]) (ADMITTED IN ROUND 2 / REGISTERED IN ROUND 3)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/round_3_eligible_list.html",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 410,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
+        "id": "UG NEET:79f79d0a2c17024a",
+        "title": "NOTICE : ROUND 3 ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1FCSw9zMZTz1viyFxwuI3IRhYE3kemgwZ/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 411,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
+        "id": "UG NEET:9755bdd442cb59c0",
+        "title": "UPDATED FINAL MERIT LIST FOR UG NEET MSP ELIGIBLE CANDIDATES 2026-2027",
+        "link": "https://drive.google.com/file/d/1_J6rEfQrKo5N0mHStelJs2kKapxgA-s-/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 412,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
+        "id": "UG NEET:d44ea9ec38d7b451",
+        "title": "ADDENDUM TO THE MERIT LIST AS PER COURT ORDER FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/14GhEUw7s7kkl7vYCafvQ8axIBClkeQNf/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 413,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
+      },
+      {
+        "id": "UG NEET:f98f0bcd87ca2c9e",
+        "title": "REVISED LIST OF VACANCIES IN UG NEET - MBBS / BDS / BAMS / BVSC&AH (NATIONAL SS & NRI) COURSES AFTER ROUND 2",
+        "link": "https://drive.google.com/file/d/186kN2jE4i06ifwa5c8jQLZxi8Q9k57bE/view?usp=drivesdk",
+        "date": "08/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 414,
+        "detectedAt": "2026-10-08T20:40:37.111Z"
       },
       {
         "id": "OVERALL:b8bd1de9b35e5937",
@@ -3651,106 +3751,6 @@
         "source": "Direct from Website",
         "batchIndex": 296,
         "detectedAt": "2026-10-05T23:11:40.608Z"
-      },
-      {
-        "id": "UG NEET:a9dd9987ba3abf3d",
-        "title": "EXTENSION OF LAST DATE FOR ROUND 3 REGISTRATION / WITHDRAWAL OF ROUND 1 / ROUND 2 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1HU8Oni6afLHSeOA-qbctyAQSny2KaQMh/view?usp=sharing",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 398,
-        "detectedAt": "2026-10-05T17:01:37.887Z"
-      },
-      {
-        "id": "UG NEET:24cf8ad51d9188fa",
-        "title": "REVISED LIST OF VACANCIES IN UG NEET COURSES AFTER ROUND 2",
-        "link": "https://drive.google.com/file/d/1DrabqrUyGhCO05fQH7fruMEOx4B6kQOW/view?usp=sharing",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 399,
-        "detectedAt": "2026-10-05T17:01:37.887Z"
-      },
-      {
-        "id": "UG NEET:2bb0b8061526f326",
-        "title": "ROUND 2 - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1Re1QVmQ--2Kt6BJGWSyCkrlF1fePDazU/view?usp=sharing",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 401,
-        "detectedAt": "2026-10-05T23:11:40.608Z"
-      },
-      {
-        "id": "UG NEET:a86f66bda7676f7d",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR ROUND 3 REGISTRATION / WITHDRAWAL OF ROUND 1 / ROUND 2 ADMITTED SEAT FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1HU8Oni6afLHSeOA-qbctyAQSny2KaQMh/view?usp=sharing",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 402,
-        "detectedAt": "2026-10-06T10:45:24.152Z"
-      },
-      {
-        "id": "OVERALL:af2d703290f1814f",
-        "title": "PG DENTAL ADMITTED LIST - SECOND ROUND - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1ixIdXRTqkvfXKmm-u3cuDLJ2gx1c7cbT/view?usp=sharing",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-01T15:19:45.108Z"
-      },
-      {
-        "id": "PG DENTAL:af2d703290f1814f",
-        "title": "PG DENTAL ADMITTED LIST - SECOND ROUND - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1ixIdXRTqkvfXKmm-u3cuDLJ2gx1c7cbT/view?usp=sharing",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 264,
-        "detectedAt": "2026-10-01T15:19:45.108Z"
-      },
-      {
-        "id": "OVERALL:c98061d6e1da4930",
-        "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1CjW2egdPSh5FwT44Z2ZOTO4gUgaXwkiC/view?usp=drivesdk",
-        "date": "27/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-27T17:41:43.774Z"
-      },
-      {
-        "id": "UG NON-NEET:c98061d6e1da4930",
-        "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1CjW2egdPSh5FwT44Z2ZOTO4gUgaXwkiC/view?usp=drivesdk",
-        "date": "27/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 290,
-        "detectedAt": "2026-09-27T17:41:43.774Z"
-      },
-      {
-        "id": "OVERALL:565aed1f3b03c23f",
-        "title": "MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1O8kDp_dH4ZJGhLfrDM_Q_cx57TIoiiJ5/view?usp=sharing",
-        "date": "26/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-26T12:27:04.154Z"
-      },
-      {
-        "id": "OVERALL:07d60f6e0f2c5809",
-        "title": "NOTICE : MOP UP ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1t1LDCrz461TEQZgR6FhH-G16EHWUHKMx/view?usp=sharing",
-        "date": "26/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-26T12:27:04.154Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4613,7 +4613,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T17:06:41.809Z",
+    "lastUpdatedDate": "2026-10-08T20:35:58.231Z",
     "pinned": false,
     "notices": [
       {
