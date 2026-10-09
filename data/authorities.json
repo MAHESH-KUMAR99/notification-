@@ -2104,9 +2104,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-09T15:06:31.222Z",
+    "lastUpdatedDate": "2026-10-09T20:15:59.299Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "915b4b109ce1c028",
+        "title": "09-10-2026: BDS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-II MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category BDS - MQ 2026-27_1st Phase Web Options Notfication UG AYUSH Courses 2026-27 - Provisional Priority List Under CAP Category MDS MQ 2026-27 - Phase-II College Wise Allotments List",
+        "link": "https://drntr.uhsap.in/index/notification/20261009225151100.pdf",
+        "date": "09/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-09T20:15:59.299Z"
+      },
       {
         "id": "141ad7655ffaec88",
         "title": "09-10-2026: MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category BDS - MQ 2026-27_1st Phase Web Options Notfication UG AYUSH Courses 2026-27 - Provisional Priority List Under CAP Category MDS MQ 2026-27 - Phase-II College Wise Allotments List",
@@ -2296,16 +2306,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-28T19:26:40.862Z"
-      },
-      {
-        "id": "505235c514ff83a3",
-        "title": "27-09-2026: MBBS- 2026-27-MQ -NRI_1st Phase Web Options Notfication MBBS -MQ -2026-27-LIST OF NOT ELIGIBLE CANDIATES FOR NRI CATEGORY SEATS -AFTER VERIFICATION OF UPLOADED DOCUMENTS MBBS- MQ-2026-27-PROVISIONAL FINAL MERIT POSITION OF APPLIED CANDIDATES ELIGIBLE FOR NRI CATEGORY SEATS -AFTER VERIFICATION OF UPLOADED DOCUMENTS MBBS- MQ-2026-27-LIST OF CANDIDATES APPLIED FOR NRI CATEGORY SEATS - REUPLOAD OF PENDING DOCUMENTS",
-        "link": "https://drntr.uhsap.in/index/notification/20260927161220603.pdf",
-        "date": "27/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-27T12:56:13.921Z"
       }
     ]
   },
