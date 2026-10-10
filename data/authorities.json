@@ -4631,7 +4631,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T17:44:05.164Z",
+    "lastUpdatedDate": "2026-10-10T21:23:18.306Z",
     "pinned": false,
     "notices": [
       {
@@ -6823,9 +6823,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-03T17:32:05.671Z",
+    "lastUpdatedDate": "2026-10-10T21:22:07.114Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bb16e51b8eae8950",
+        "title": "Urgent notice dated 10-10-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/10/202610101972994285.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-10T21:22:07.114Z"
+      },
       {
         "id": "7227b46a800ab2f3",
         "title": "Revised Provisional List of Candidates For Round 3",
@@ -7015,16 +7025,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-19T07:41:50.267Z"
-      },
-      {
-        "id": "d61d0d0f7ef3a80d",
-        "title": "PwD notice dated 14-08-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608141714107187.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T11:48:31.230Z"
       }
     ]
   },
