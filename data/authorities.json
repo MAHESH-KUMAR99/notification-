@@ -998,9 +998,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T06:15:14.791Z",
+    "lastUpdatedDate": "2026-10-10T12:55:25.072Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c69d5c32a68306d1",
+        "title": "Advertisement for 3rd Round of Online Allotment & Reporting",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/Adv.%20-%203rd%20Round%20-%20UG%20[2026-27]%20-%20Allotment%20&%20Reporting.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
       {
         "id": "0ac24f734815cc22",
         "title": "List of the candidates removed from MBBS BDS merit list due to admitted in All India Quota upto 3rd round. (list provided by the MCC, New Delhi)",
@@ -1012,6 +1022,16 @@
         "detectedAt": "2026-10-10T06:15:14.791Z"
       },
       {
+        "id": "9fdd3d188a4caa51",
+        "title": "Rank Wise Result",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/merit_wiseadm_r3_1225.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
+      {
         "id": "cb214d4dd32b5c78",
         "title": "Round-02 Cancelled Seats (10/10/2026)",
         "link": "https://medadmgujarat.ncode.in/web/UG2026/R2/R2_CANCEL_CANDIDATE_LIST_1010.pdf",
@@ -1020,6 +1040,76 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-10T06:15:14.791Z"
+      },
+      {
+        "id": "327b24c4a43a8df9",
+        "title": "Institute Wise Result",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/instwiseadm_r3_1225.pdf?v=1",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
+      {
+        "id": "d5face070ad04e6e",
+        "title": "Last Rank (Including All Previous Round)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/last_merit_mopwise_r3_1225.pdf?v=1",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
+      {
+        "id": "2af997127bf0949e",
+        "title": "List of Students required to report at the Help-center",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/Required_Reporting_R3.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
+      {
+        "id": "5eb1173c32a82ab1",
+        "title": "List of Students required to pay the tuition fees online or at designated branch of HDFC Bank",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/R3_FEES_DATA.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
+      {
+        "id": "0a968493b961a600",
+        "title": "ST Convert Seat To General Category",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/ST_CONVERT.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
+      {
+        "id": "400aee02007b45a4",
+        "title": "Procedure for Admission Confirmation - Round 3",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/Procedure%20for%20Admission%20Confirmation%20for%20Round%203_2026.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
+      },
+      {
+        "id": "62c3f8dcda6d114b",
+        "title": "Notice for weeding out of candidates 2026",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/Notice%20for%20weeding%20out%20of%20candidates%202026.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 95,
+        "detectedAt": "2026-10-10T12:55:25.072Z"
       },
       {
         "id": "40994ed3d79afae8",
@@ -1112,96 +1202,6 @@
         "source": "Direct from Website",
         "batchIndex": 6,
         "detectedAt": "2026-10-06T17:05:07.920Z"
-      },
-      {
-        "id": "3b38961c98c64c03",
-        "title": "ST Category PWD Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_st_pwd.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-10-06T17:05:07.920Z"
-      },
-      {
-        "id": "ca7366d068dbee41",
-        "title": "SEBC Category PWD Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_se_pwd.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-10-06T17:05:07.920Z"
-      },
-      {
-        "id": "ebcd6c35e97de674",
-        "title": "EWS Category PWD Merit List",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/merit_r3_ew_pwd.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-10-06T17:05:07.920Z"
-      },
-      {
-        "id": "47ef98dbecd8e55a",
-        "title": "PWD Report",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/MERIT/R3/PWD%20Report%20R3.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-10-06T17:05:07.920Z"
-      },
-      {
-        "id": "9a190055eb469e52",
-        "title": "Advertisement for 3rd Round Online Choice Filling",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/Adv.%20-%203rd%20Round%20-%20UG%20[2026-27%20]-%20Choice%20Filing.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "491e3893c2921f9c",
-        "title": "List of candidates whose Refundable Security Deposit is forfeited and removed from the Merit list due to Cancel Admission in Round-02",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R2/R2_CANCEL_CANDIDATE_LIST_0510.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-05T07:32:21.202Z"
-      },
-      {
-        "id": "ebe1d88afb1476ed",
-        "title": "Round-02 Non-Reported Seats",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R2/NR%20CANDIDATE%20LIST.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "ca4691d56c3b795b",
-        "title": "Round-02 Cancelled Seats",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R2/R2_CANCEL_CANDIDATE_LIST_0510.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
-      },
-      {
-        "id": "366d8850df5ae42f",
-        "title": "Information Bulletin of All India Quota issued from MCC, New Delhi",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R1/Information%20Bulletin%20of%20All%20India%20Quota%20issued%20from%20MCC,%20New%20Delhi.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-10-05T16:57:26.594Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2102,9 +2102,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-09T20:15:59.299Z",
+    "lastUpdatedDate": "2026-10-10T12:55:39.320Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "22531f5f543b2771",
+        "title": "10-10-2026: MBBS-2026-27-CQ- College wise Final allotments under NCC Category MBBS_2026-27_CQ_NCC_MRC_List MBBS-2026-27-CQ-Provisinal NCC Category College wise allotments",
+        "link": "https://drntr.uhsap.in/index/notification/20261010163514610.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-10T12:55:39.320Z"
+      },
       {
         "id": "915b4b109ce1c028",
         "title": "09-10-2026: BDS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-II MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category BDS - MQ 2026-27_1st Phase Web Options Notfication UG AYUSH Courses 2026-27 - Provisional Priority List Under CAP Category MDS MQ 2026-27 - Phase-II College Wise Allotments List",
@@ -2294,16 +2304,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-29T11:30:57.792Z"
-      },
-      {
-        "id": "ac07b3bdfb82c59b",
-        "title": "28-09-2026: MBBS_MQ_2026-27-Phase_1_Category -C _NRI- College Wise Allotments PG (Dental) MQ 2026-27 - Provisional Final Merit list BNYS Course 2026-27 - CQ - Notification for Online Application BNYS Course 2026-27 - CQ Prospectus",
-        "link": "https://drntr.uhsap.in/index/notification/20260928191434047.pdf",
-        "date": "28/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-28T19:26:40.862Z"
       }
     ]
   },
@@ -2314,9 +2314,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-07T15:20:58.802Z",
+    "lastUpdatedDate": "2026-10-10T12:55:32.417Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d0a2023883215445",
+        "title": "Weeding out of candidates who have joined seats allotted through Round 3 of All India Quota counselling conducted by MCC from the seat-processing exercise of 3rd Round of Punjab State counselling for MBBS/BDS courses for the session 2026–27 List of Candidates Debarred from 85% Punjab State Quota Seats",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/NOTICE%20for%20weeding%20out%20candidates.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-10T12:55:32.417Z"
+      },
       {
         "id": "b06fcc6b5652ffcd",
         "title": "MBBS/BDS Seat Matrix for 3rd round of online counseling MBBS BDS",
@@ -2506,16 +2516,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-10T13:26:32.881Z"
-      },
-      {
-        "id": "da23427d8a7a4197",
-        "title": "PROVISIONAL COMBINED MERIT LIST AFTER CONSIDERING OBJECTIONS OF CANDIDATES WHO HAVE APPLIED/GIVE WILLINGNESS FOR 2nd ROUND OF ONLINE COUNSELLING FOR ADMISSION TO MBBS/BDS COURSE UNDER NEET-UG 2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/2ndMerit/Provisional%20Merit%20List%20Round-2%20After%20Considering%20Objections.pdf",
-        "date": "09/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-09T16:14:15.231Z"
       }
     ]
   },
@@ -4611,7 +4611,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-09T07:52:41.323Z",
+    "lastUpdatedDate": "2026-10-10T12:56:47.641Z",
     "pinned": false,
     "notices": [
       {
@@ -4839,9 +4839,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-09T07:56:23.231Z",
+    "lastUpdatedDate": "2026-10-10T13:00:06.102Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:1e34ac69e761474e",
+        "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (2 nd ROUND COUNSELLING)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610101824980330.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-10T13:00:06.102Z"
+      },
       {
         "id": "OJEE:c8f0c2659527acc9",
         "title": "Vacancy Seat matrix of BAMS/BHMS after Round 1, OJEE-2026",
@@ -5031,16 +5041,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-08-06T15:01:54.191Z"
-      },
-      {
-        "id": "OJEE:a10c36f2abdaf5ab",
-        "title": "CIRCULAR FOR ALL PARTICIPATING UNIVERSITY/COLLEGE/INSTITUTES",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/202608021697727381.pdf",
-        "date": "02/08/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-03T10:52:16.091Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
