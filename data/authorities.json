@@ -4631,7 +4631,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T21:23:18.306Z",
+    "lastUpdatedDate": "2026-10-11T06:16:13.240Z",
     "pinned": false,
     "notices": [
       {
@@ -7035,9 +7035,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T17:47:32.308Z",
+    "lastUpdatedDate": "2026-10-11T06:20:18.748Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "664e6b0a00869ce6",
+        "title": "ADMISSION TO MBBS/ BDS COURSES THIRD PHASE ALLOTMENT LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/309/Upload1",
+        "date": "11/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-11T06:20:18.748Z"
+      },
       {
         "id": "726e4a804041bb12",
         "title": "Admission To Ayurveda/Homoeo/Siddha/Unani/ Medical Allied Courses(excluding Veterinary Courses)-2026 Second Phase Final Allotment Published",
@@ -7229,16 +7239,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-14T13:52:25.105Z"
-      },
-      {
-        "id": "b7249e698fed3a2a",
-        "title": "ADMISSION TO MBBS/BDS COURSES-2026 Second Phase Provisional Allotment Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/255/Upload1",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T14:20:01.285Z"
       }
     ]
   },
