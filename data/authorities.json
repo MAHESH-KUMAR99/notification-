@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-02T06:01:39.543Z",
+    "lastUpdatedDate": "2026-10-11T13:19:06.566Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "8e054b762fed18fb",
+        "title": "NOTICE FOR NOT REPORTED CANDIATES ROUND 3 UG 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610111791771012.pdf",
+        "date": "11/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-11T13:19:06.566Z"
+      },
+      {
+        "id": "d4ec185192d4a2f2",
+        "title": "ADMITTED/JOINED CANDIATES UPTO ROUND 3 UG COUNSELING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/20261011609899435.pdf",
+        "date": "11/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-11T13:19:06.566Z"
+      },
       {
         "id": "d9cd8dd0a53ca29d",
         "title": "Final Allotment result for UG Round 3 Counselling.",
@@ -399,26 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-24T09:52:10.165Z"
-      },
-      {
-        "id": "2f8f3c984fc7cf58",
-        "title": "Revised Provisional Result II for UG Counselling Round 1 dated 24.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260824777992744.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T06:04:30.092Z"
-      },
-      {
-        "id": "4098a8d26c589891",
-        "title": "Notice for Revised Provisional Result II for UG Counselling Round 1 dated 24.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/202608241333291566.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-24T06:04:30.092Z"
       }
     ]
   },
@@ -2334,9 +2334,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T17:42:45.276Z",
+    "lastUpdatedDate": "2026-10-11T13:19:19.347Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "48468e2a681940ee",
+        "title": "Final Result of Provisional Allotment of MBBS/BDS seats in 3rd round of counselling under NEET-UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/FinalAllotmentofSeats3rdRounddated11-11-26.pdf",
+        "date": "11/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-11T13:19:19.347Z"
+      },
       {
         "id": "a8d819db3fdfed7a",
         "title": "Provisional Allotment of Result of 3rd Round of Online Counselling MBBS/BDS course, Session 2026List of Candidates Debarred from 85% Punjab State Quota Seats",
@@ -2356,6 +2366,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-10T12:55:32.417Z"
+      },
+      {
+        "id": "a4b362fa299aec14",
+        "title": "Provisional Allotment of Result of 3rd Round of Online Counselling MBBS/BDS course, Session 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Provisional%20Allotment%20of%203rd%20Round%20Result%2010.10.26.pdf",
+        "date": "10/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-11T13:19:19.347Z"
       },
       {
         "id": "b06fcc6b5652ffcd",
@@ -2516,26 +2536,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-12T11:08:55.795Z"
-      },
-      {
-        "id": "2b8d770fd390bf7c",
-        "title": "Provisional allotment of MBBS/BDS seats under NEET-UG 2026 in 2nd online counselling",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Allocation%20of%20Seats%20-%202nd%20Round%20counselling%2012.09.26.pdf",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-12T14:18:30.695Z"
-      },
-      {
-        "id": "09834cc441aa3d99",
-        "title": "PUBLIC NOTICE It is hereby notified for information of all concerned that the deadline for submission of online Choices for MBBS/BDS for 2nd Round has been extended up to 12:00 midnight on 10.09.2026.",
-        "link": null,
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-10T13:26:32.881Z"
       }
     ]
   },
@@ -5355,7 +5355,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-09T15:11:35.277Z",
+    "lastUpdatedDate": "2026-10-11T13:23:41.812Z",
     "pinned": false,
     "notices": [
       {
