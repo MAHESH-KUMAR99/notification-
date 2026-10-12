@@ -1416,9 +1416,69 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-08T14:48:35.379Z",
+    "lastUpdatedDate": "2026-10-12T18:46:47.697Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6d488c1017fd010c",
+        "title": "92.5% - CLICK HERE TO DOWNLOAD ALLOTMENT ORDER FOR ROUND-3 ONLINE COUNSELLING OF MBBS / BDS COURSE FOR GOVERNMENT & MANAGEMENT QUOTA (INCL. NRI & MINORITY) 2026 - 2027 SESSION",
+        "link": "https://counug.tnmedicalonline.co.in/ugmedgq",
+        "date": null,
+        "sortTs": 1791763200000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-12T18:46:47.697Z"
+      },
+      {
+        "id": "68eb6859349b9531",
+        "title": "7.5% - PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS (GOVERNMENT 7.5% RESERVATION QUOTA) COURSE SESSION :2026 - 2027",
+        "link": "https://stgaccbarathi.blob.core.windows.net/docs/2026/12102026161503.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-12T18:46:47.697Z"
+      },
+      {
+        "id": "08e47c40d63bf461",
+        "title": "GQ92.5 - PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS (GOVERNMENT QUOTA) COURSE SESSION :2026 - 2027",
+        "link": "https://stgaccbarathi.blob.core.windows.net/docs/2026/12102026161502.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-12T18:46:47.697Z"
+      },
+      {
+        "id": "42043f56ad19f6a1",
+        "title": "MQ - PROVISIONAL LIST OF CANDIDATES ALLOTTED FOR MBBS/BDS (MANAGEMENT QUOTA) COURSE SESSION :2026 - 2027 ON - 12.10.2026",
+        "link": "https://stgaccbarathi.blob.core.windows.net/docs/2026/12102026161501.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-12T18:46:47.697Z"
+      },
+      {
+        "id": "2d2982544e6dd062",
+        "title": "KIND ATTENTION TO THE CANDIDATES FOR MBBS/BDS DEGREE COURSE 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12102026033659.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-10-12T18:46:47.697Z"
+      },
+      {
+        "id": "4f539b28b77bf62d",
+        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/12102026033253.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "detectedAt": "2026-10-12T18:46:47.697Z"
+      },
       {
         "id": "450521e2809d728d",
         "title": "KIND ATTENTION TO THE MBBS/BDS CANDIDATES-EXTENSION OF ROUND 3 SCHEDULE",
@@ -1558,66 +1618,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-18T10:51:36.538Z"
-      },
-      {
-        "id": "4734692994a3168f",
-        "title": "7.5% - Provisional List of Candidates allotted for MBBS/BDS (Government 7.5 Reservation Quota) Course Session :2026 - 2027 on - 15.09.2026",
-        "link": "https://tnmedicalselection.net/news/15092026034058.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T12:32:55.092Z"
-      },
-      {
-        "id": "91947c2c01243df0",
-        "title": "92.5% - CLICK HERE TO DOWNLOAD ALLOTMENT ORDER FOR ROUND-2 ONLINE COUNSELLING OF MBBS / BDS COURSE FOR GOVERNMENT & MANAGEMENT QUOTA (INCL. NRI & MINORITY) 2026 - 2027 SESSION",
-        "link": "https://counug.tnmedicalonline.co.in/ugmedgq",
-        "date": null,
-        "sortTs": 1789430400000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-15T21:01:50.258Z"
-      },
-      {
-        "id": "90bc06998d599c47",
-        "title": "GQ92.5 - Provisional List of Candidates allotted for MBBS/BDS (Government Quota) Course Session :2026 - 2027 on - 15.09.2026",
-        "link": "https://tnmedicalselection.net/news/15092026073114.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-15T17:33:53.795Z"
-      },
-      {
-        "id": "000e5b8a69437ba2",
-        "title": "GQ92.5 - Provisional List of Candidates allotted for MBBS/BDS (Government Quota) Course Session :2026 - 2027 on - 15.09.2026",
-        "link": "https://stgaccbarathi.blob.core.windows.net/docs/2026/UG_R2_GQ_ALLOTTED_LIST_15_09_2026_WEB.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-15T12:32:55.092Z"
-      },
-      {
-        "id": "51450be4f34bf33a",
-        "title": "MQ - Provisional List of Candidates allotted for MBBS/BDS (Management Quota) Course Session :2026 - 2027 on - 15.09.2026",
-        "link": "https://stgaccbarathi.blob.core.windows.net/docs/2026/UG_R2_MQ_ALLOTTED_LIST_15_09_2026_WEB.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-15T12:32:55.092Z"
-      },
-      {
-        "id": "02faa150534c4a6b",
-        "title": "Resignation portal for Tamil Nadu 2026-2027 MBBS & BDS Courses",
-        "link": "https://tnmedicalselection.net/news/12092026044458.pdf",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-12T14:18:40.263Z"
       }
     ]
   },
@@ -4633,7 +4633,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-11T06:16:13.240Z",
+    "lastUpdatedDate": "2026-10-12T18:48:02.228Z",
     "pinned": false,
     "notices": [
       {
@@ -5357,7 +5357,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-11T13:23:41.812Z",
+    "lastUpdatedDate": "2026-10-12T18:50:50.649Z",
     "pinned": false,
     "notices": [
       {
@@ -5753,9 +5753,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T17:10:44.157Z",
+    "lastUpdatedDate": "2026-10-12T18:51:03.943Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:1ac67f5204388b1a",
+        "title": "Revised Provisional Seat Vacancy for MBBS BDS 3rd round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Revised-Provisional-Seat-Vacancy-for-MBBS-BDS-3rd-round-Counselling-2026.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-12T18:51:03.943Z"
+      },
       {
         "id": "MBBS/BDS Counselling:265d10731e73a89a",
         "title": "Notice for Extension of last Date for Choice Filling of MBBS/BDS 3rd Round Counselling 2026",
@@ -5945,16 +5955,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-08-28T05:38:15.101Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:1cf8d1cfd51547b3",
-        "title": "Final Merit list of MBBS/BDS 1st round Counselling 2026-27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Final-Merit-list-of-MBBS-BDS-1st-round-Counselling-2026-merged-n.pdf",
-        "date": "21/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-21T13:54:53.036Z"
       }
     ]
   },
@@ -5976,9 +5976,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-06T17:10:27.848Z",
+    "lastUpdatedDate": "2026-10-12T18:50:48.852Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1a9f8d5cc4867e7c",
+        "title": "Admission Notice (after 3rd round online counselling, session 2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_after_3rd_round_online_counselling_session_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-12T18:50:48.852Z"
+      },
       {
         "id": "b7a936e4238b0333",
         "title": "Educational Notice (revised seat matrix)",
@@ -6099,6 +6109,16 @@
         "detectedAt": "2026-07-08T11:32:47.059Z"
       },
       {
+        "id": "e3f3886b8c5eabd4",
+        "title": "Notice for awarding addl. marks in NEET-PG-2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_for_awarding_addl._marks_in_neet-pg-2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-12T18:50:48.852Z"
+      },
+      {
         "id": "bd10b3eb0cf7f49e",
         "title": "PROVISIONAL MERIT LIST FOR ASSAM STATE QUOTA SEATS (NEET-PG, 2026)",
         "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/provisional_merit_list_for_assam_state_quota_seats_neet-pg_2026.pdf",
@@ -6156,26 +6176,6 @@
         "sortTs": 1781740800000,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "422a81d297e87559",
-        "title": "Educational Notice-1st round of B.Sc Nursing Counselling, Session, 2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice-1st_round_of_b._sc_nursing_counselling_session_2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "abdcea2e9f435a0f",
-        "title": "Admission Notice-Admission into 1st year MBBS-BDS Courses after completion of 1st round of online counselling, Session,2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice-admission_into_1st_year_mbbs-bds_courses_after_completion_of_1st_round_of_online_counselling_session2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 4,
         "detectedAt": "2026-09-08T08:49:46.009Z"
       }
     ]
@@ -6401,9 +6401,49 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-09T15:11:31.086Z",
+    "lastUpdatedDate": "2026-10-12T18:50:46.400Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "da6c43199093ff55",
+        "title": "Online Registration Link for UG (BAMS & BUMS) Admissions 2026-2027",
+        "link": "https://faumadmission.uod.ac.in/",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-12T18:50:46.400Z"
+      },
+      {
+        "id": "55e1ff90308a854c",
+        "title": "Counselling Schedule of BAMS & BUMS 2026.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1791800806426-Counselling_Schedule_of_BAMS___BUMS_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-12T18:50:46.400Z"
+      },
+      {
+        "id": "0894bb2cc27ec373",
+        "title": "Seat Matrix of UG Courses BUMS & BAMS 2026.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1791800780653-SEAT_MATRIX_OF_UG_COURSES_BUMS___BAMS_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-12T18:50:46.400Z"
+      },
+      {
+        "id": "f5a10b0a716b54b3",
+        "title": "Result of 2nd Round of Counselling for admission in UG (BHMS) 2026 under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1791800788613-RESULT_2nd_ROUND_OF_UG_BHMS_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-12T18:50:46.400Z"
+      },
       {
         "id": "48e2e5214be97778",
         "title": "Extention of reporting date for admission to UG (BHMS) course under 1st Round of Counselling for the academic session 2026-27.",
@@ -6563,46 +6603,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-08-09T13:57:51.268Z"
-      },
-      {
-        "id": "78f79d36e6d58771",
-        "title": "Eligibillity List of applicants, seeking concession under CW Category for admission to UG Medical Courses (MBBS/BDS/BAMS/BUMS/BHMS) 2026-2027 under 85% Delhi Quota.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1785839273962-Final_list_of_308_Candidates_pdf.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-04T10:47:34.546Z"
-      },
-      {
-        "id": "9ea674edad6cf30d",
-        "title": "1st Provisional List of CW Category applicants for UG Medical Admission 2026 under 85% DU Quota with assigning priority by KSB.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1785514796200-Updated_CW_lis_of_31.07.2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-07-31T17:09:54.100Z"
-      },
-      {
-        "id": "68e8e185abb92d23",
-        "title": "Updated List of applicants seeking concession under CW Category for UG Medical Admission 2026 under 85% DU Quota.",
-        "link": "https://drive.google.com/file/d/1l3U_zURq3MZYJ2l-58dkyENmT9g6Jxf7/view?usp=sharing",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-07-31T10:10:19.395Z"
-      },
-      {
-        "id": "9afc6a0a3a24ed3b",
-        "title": "Notice for uploading documents for verification for CW Quota Undergraduate Admissions",
-        "link": "https://drive.google.com/file/d/16qjUI9VlTnynzZ6NkXKrZRYKe7HNSp4z/view?usp=sharing",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-07-24T15:17:30.730Z"
       }
     ]
   },
@@ -6825,9 +6825,29 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T21:22:07.114Z",
+    "lastUpdatedDate": "2026-10-12T18:46:47.220Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bb753f1e1d923c04",
+        "title": "Urgent Notice Dated 12-10-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/10/20261012658725992.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-12T18:46:47.220Z"
+      },
+      {
+        "id": "21a7baee9548fdde",
+        "title": "Schedule Dated 12-10-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/10/202610121366335202.pdf",
+        "date": "12/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-10-12T18:46:47.220Z"
+      },
       {
         "id": "bb16e51b8eae8950",
         "title": "Urgent notice dated 10-10-2026",
@@ -7007,26 +7027,6 @@
         "source": "Direct from Website",
         "batchIndex": 6,
         "detectedAt": "2026-09-12T11:09:01.574Z"
-      },
-      {
-        "id": "278484107a0b2bc8",
-        "title": "Round 1 Revised Schedule Dated 20.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608202072716281.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-09-03T16:05:54.901Z"
-      },
-      {
-        "id": "b0475d7bcdc17cc9",
-        "title": "Provisional List of Candidates For Round 1",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608191175667871.pdf",
-        "date": "19/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-19T07:41:50.267Z"
       }
     ]
   },
