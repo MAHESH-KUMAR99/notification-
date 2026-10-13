@@ -5976,9 +5976,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-13T16:22:21.318Z",
+    "lastUpdatedDate": "2026-10-13T21:31:42.732Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a699d361127fe5ed",
+        "title": "Educational Notice (revised provisional list of select candidates for GDC, Silchar)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/educational_notice_revised_provisional_list_of_select_candidates_for_gdc_silchar.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-13T21:31:42.732Z"
+      },
       {
         "id": "65cd4276467659d5",
         "title": "Notice for change in category NEET-PG-2026",
@@ -6167,16 +6177,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-08T08:49:46.009Z"
-      },
-      {
-        "id": "147c2d47cc8df723",
-        "title": "1st_M.Sc (N)_Counseling_Notice_2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/1st_m.sc_n_counseling_notice_2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-17T15:16:55.943Z"
       }
     ]
   },
