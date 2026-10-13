@@ -2124,9 +2124,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T17:42:56.946Z",
+    "lastUpdatedDate": "2026-10-13T08:14:59.735Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0da0a4c94c55cd6f",
+        "title": "13-10-2026: PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-II Counselling BDS -MQ- 2026-27 - College wise Allotments-Phase-I",
+        "link": "https://drntr.uhsap.in/index/notification/20261013132254267.pdf",
+        "date": "13/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-13T08:14:59.735Z"
+      },
       {
         "id": "7f18372279496fce",
         "title": "10-10-2026: MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category MBBS-2026-27-CQ- College wise Final allotments under NCC Category MBBS_2026-27_CQ_NCC_MRC_List MBBS-2026-27-CQ-Provisinal NCC Category College wise allotments",
@@ -2316,16 +2326,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-01T07:44:26.851Z"
-      },
-      {
-        "id": "ffc5a437d2d5adb6",
-        "title": "30-09-2026: MBBS -BDS-2026-27- MQ- Notification for NEW REGISTRATIONS UNDER MANAGEMENT QUOTA",
-        "link": "https://drntr.uhsap.in/index/notification/20260930170740593.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-30T12:55:54.034Z"
       }
     ]
   },
@@ -5357,7 +5357,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-12T18:50:50.649Z",
+    "lastUpdatedDate": "2026-10-13T08:19:53.163Z",
     "pinned": false,
     "notices": [
       {
