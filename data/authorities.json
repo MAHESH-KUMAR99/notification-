@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-11T13:19:06.566Z",
+    "lastUpdatedDate": "2026-10-14T11:32:48.329Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "4a7650dc1e21c022",
+        "title": "CLEAR VACANCY STRAY VACANCY ROUND (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610141415545341.pdf",
+        "date": "14/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-14T11:32:48.329Z"
+      },
       {
         "id": "8e054b762fed18fb",
         "title": "NOTICE FOR NOT REPORTED CANDIATES ROUND 3 UG 2026",
@@ -409,16 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-03T16:05:27.183Z"
-      },
-      {
-        "id": "4acba36b1fcdc732",
-        "title": "Final Allotment Result for Round 1 of UG Counselling 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/08/20260824606525705.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T09:52:10.165Z"
       }
     ]
   },
@@ -2124,9 +2124,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-13T16:18:14.355Z",
+    "lastUpdatedDate": "2026-10-14T11:33:17.819Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d5e1b7ec3af1ce6a",
+        "title": "14-10-2026: PG (MEDICAL) CQ NOTIFICATION 2026-27 PG(Medical) CQ UserManual 2026-27 PG (MEDICAL) CQ PROSPECTUS 2026-27 MBBS CQ 2026-27 - List of Candidates availed FREE EXIT after Phase-II Counselling MBBS CQ 2026-27 - List of candidates Not Reported after Phase-II",
+        "link": "https://drntr.uhsap.in/index/notification/20261014153152180.pdf",
+        "date": "14/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-14T11:33:17.819Z"
+      },
       {
         "id": "ff61c570929829b1",
         "title": "13-10-2026: UG AYUSH Courses 2026-27 - CQ - List of Not Reported Candidates after Phase-I Counselling B.Sc.(Nursing) 4 YD Course - 2026-27 - CQ - Phase-I - Notification for exercising Web Options B.Sc.(N) 4 YDC 2026-27 - CQ - Provisional Final List of Not Eligible Candidates B.Sc.(Nursing) 4-YD Course -2026-27 - Provisional Final Eligible List of candidates B.Sc.(N) 4 YDC 2026-27 - CQ - Final list of Eligible & Not Eligible candidates under PwBD category UG AYUSH Courses 2026-27 - CQ - Phase-II Web Options Notification UG AYUSH COURSES 2026-27 - BHMS - AU PHASE-II NEWLY ADDED COLLEGE SEAT MATRIX UG AYUSH Courses 2026-27 - Addendum to Final Merit List dated 26.09.2026 UG AYUSH Courses 2026-27 - Final Priority List of CAP Category PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-II Counselling BDS -MQ- 2026-27 - College wise Allotments-Phase-I",
@@ -2316,16 +2326,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-01T20:27:23.011Z"
-      },
-      {
-        "id": "08f21b5af7faf91c",
-        "title": "01-10-2026: Post Basic Nursing 2 YDC 2026-27 - Phase-I Web Option Notification Post Basic Nursing 2 YDC 2026-27 - Final Merit list of Service candidates Post Basic Nursing 2 YDC 2026-27 - Seat Matrix - SVU Area Post Basic Nursing 2 YDC 2026-27 - Final Merit list of Non-Service candidates Post Basic Nursing 2 YDC 2026-27 - Seat Matrix - AU Area MDS MQ 2026-27 - Phase-I College Wise Allotments List UG AYUSH Courses 2026-27 - CQ - Phase-I Web Options Notification UG AYUSH COURSES 2026-27 - BHMS - AU SEAT MATRIX UG AYUSH COURSES 2026-27 - BHMS - SVU SEAT MATRIX UG AYUSH COURSES 2026-27 - BUMS - SEAT MATRIX UG AYUSH COURSES 2026-27 - BAMS - AU SEAT MATRIX UG AYUSH COURSES 2026-27 - BAMS - SVU SEAT MATRIX B.Sc. (Nursing) 4 YDC 2026-27 - MQ Notification for online application UG AYUSH Courses 2026-27 - Notice for Examination of Persons with Disability (PwD) Candidates MBBS-2026-27-MQ-Extension of Free Exit - Notification MBBS-BDS-2026-27-CQ- Extension of Free Exit - Notification MBBS & BDS CQ -2026-27 - Notice & Tentative Priority List under Sports & Games Category PG (Dental) CQ 2026-27 - List of Not Reported & Candidates who availed Free Exit after Phase-II Counselling",
-        "link": "https://drntr.uhsap.in/index/notification/20261001201831393.pdf",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-01T15:15:50.518Z"
       }
     ]
   },
@@ -5753,9 +5753,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-12T18:51:03.943Z",
+    "lastUpdatedDate": "2026-10-14T11:37:22.403Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:e608d9de246367ce",
+        "title": "Provisional Seat Allocation of MBBS/BDS 3rd round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Provisional-Seat-Allocation-of-MBBS-BDS-3rd-round-Counselling-2026-merged.pdf",
+        "date": "14/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-14T11:37:22.403Z"
+      },
       {
         "id": "MBBS/BDS Counselling:1ac67f5204388b1a",
         "title": "Revised Provisional Seat Vacancy for MBBS BDS 3rd round Counselling 2026",
@@ -5945,16 +5955,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-08-29T14:21:34.583Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:f9f104edf75686e5",
-        "title": "Provisional Seat Allocation of MBBS/BDS 1st Round Counselling NEET UG 2026-27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/08/Provisional-Seat-Allocation-of-MBBS-BDS-1st-round-Counselling-2026-merged-n.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-28T05:38:15.101Z"
       }
     ]
   },
