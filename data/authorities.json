@@ -7481,9 +7481,19 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-14T16:53:50.546Z",
+    "lastUpdatedDate": "2026-10-14T20:34:28.769Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "77757fb0f73958c4",
+        "title": "Annexure A Government Seat Merit list 2026 Round 3",
+        "link": "https://manipurmc.mn.gov.in/media/1791996987_AnnexureA_GovernmentSeat_merit_list2026%20R3.pdf",
+        "date": "14/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-14T20:34:28.769Z"
+      },
       {
         "id": "a2e60c14f8c603ea",
         "title": "Notification for Merit List of candidates",
@@ -7493,6 +7503,26 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-14T16:53:50.546Z"
+      },
+      {
+        "id": "e0982b2538e4f47d",
+        "title": "Annexure B Management Seat Merit list Round 3",
+        "link": "https://manipurmc.mn.gov.in/media/1791996888_AnnexureB_ManagementSeat_merit_list_R3.pdf",
+        "date": "14/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-14T20:34:28.769Z"
+      },
+      {
+        "id": "90ca1230637456c7",
+        "title": "Notification for Merit List of candidates Round 3",
+        "link": "https://manipurmc.mn.gov.in/media/1791996920_Notification_Merit_list_R3.pdf",
+        "date": "14/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-14T20:34:28.769Z"
       },
       {
         "id": "a293be73aa39e287",
@@ -7653,36 +7683,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-07T17:46:33.423Z"
-      },
-      {
-        "id": "a4e5e89db89f47f5",
-        "title": "2nd Round Manipur Medical e-Counselling 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1788678258_2nd%20Round%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
-        "date": "06/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-06T08:32:21.363Z"
-      },
-      {
-        "id": "f6cbf142c037666d",
-        "title": "Annexure A Allotment for State Government quota_001",
-        "link": "https://manipurmc.mn.gov.in/media/1787911927_Annexure%20A%20Allotment%20for%20State%20Government%20quota_001.pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-28T18:25:53.662Z"
-      },
-      {
-        "id": "c3c00899a3d3bdef",
-        "title": "Notification of Allotment(Round -1)",
-        "link": "https://manipurmc.mn.gov.in/media/1787912162_Notification%20of%20Allotment(Round%20-1).pdf",
-        "date": "28/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-28T18:25:53.662Z"
       }
     ]
   },
