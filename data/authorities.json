@@ -806,9 +806,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-09-30T06:28:50.075Z",
+    "lastUpdatedDate": "2026-10-15T14:22:18.675Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-130",
+        "title": "Result of recruitment for the post of SRF and Field Worker on Contractual Basis for AFMRC Project DNA barcoding of Aedes aegypti and other species of mosquitoes from different geographical regions of India to determine genetic diversity.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "14/10/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-15T14:22:18.675Z"
+      },
       {
         "id": "afmc-pune-129",
         "title": "RECRUITMENT OF RESEARCH STAFF FOR ICMR MULTISITE STUDY , PrECISE TRIAL.",
@@ -978,15 +987,6 @@
         "date": "13/08/2026",
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-08-27T11:04:15.339Z"
-      },
-      {
-        "id": "afmc-pune-110",
-        "title": "RECRUITMENT OF MANPOWER ON CONTRACTUAL BASIS FOR THE POST OF SRF AND FIELD WORKER FOR AFMRC PROJECT AT DEPT OF COMMUNITY MEDICINE, AFMC, PUNE.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "30/07/2026",
-        "source": "Direct from Website",
-        "batchIndex": 4,
         "detectedAt": "2026-08-27T11:04:15.339Z"
       }
     ]
@@ -2126,9 +2126,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T09:01:22.591Z",
+    "lastUpdatedDate": "2026-10-15T14:19:55.325Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9ad67004caaa0585",
+        "title": "15-10-2026: UG AYUSH Courses 2026-27 - CQ - Phase-II College Wise Allotments MBBS-2026-27-MQ-Notification for Free Exit after Phase - I or II BDS-2026-27-CQ-Notification for FREE EXIT after Phase - I OR II",
+        "link": "https://drntr.uhsap.in/index/notification/20261015190311937.pdf",
+        "date": "15/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-15T14:19:55.325Z"
+      },
       {
         "id": "63d8290167ee969f",
         "title": "15-10-2026: MBBS-2026-27-MQ-Notification for Free Exit after Phase - I or II BDS-2026-27-CQ-Notification for FREE EXIT after Phase - I OR II",
@@ -2318,16 +2328,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-03T13:10:38.330Z"
-      },
-      {
-        "id": "44cc429dadd402db",
-        "title": "03-10-2026: MBBS-2026-27-CQ-FREE EXIT Extension notification MBBS-MQ-2026-27-FREE EXIT extension of date",
-        "link": "https://drntr.uhsap.in/index/notification/20261003113001281.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-03T07:49:03.542Z"
       }
     ]
   },
@@ -2338,9 +2338,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T09:01:15.972Z",
+    "lastUpdatedDate": "2026-10-15T14:19:27.484Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4a79236004d827f9",
+        "title": "Stray Vacancy Round Schedule under NEET UG 2026 Vacancy Position of MBBS/BDS Course Session-2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Stray_Vacancy_Round_Schedule%20-15-10-2026.pdf",
+        "date": "15/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-15T14:19:27.484Z"
+      },
       {
         "id": "f28ca4485ffceda1",
         "title": "Stray Vacancy Round Schedule under NEET UG 2026",
@@ -2530,16 +2540,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-14T13:46:12.859Z"
-      },
-      {
-        "id": "ad63350ab792efad",
-        "title": "NDC ELIGIBILITY FOR BDS Candidates",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/NDC%20ELIGIBILITY%20FOR%20BDS.pdf",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-12T14:18:30.695Z"
       }
     ]
   },
@@ -5775,9 +5775,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T09:05:49.691Z",
+    "lastUpdatedDate": "2026-10-15T14:24:02.678Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:0f9d14c975bfeacf",
+        "title": "Re-revised Provisional Seat Vacancy for MBBS/BDS 3rd round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Re-Revised-Provisional-Seat-Vacancy-for-MBBS-BDS-3rd-round-Counselling-2026-nn.pdf",
+        "date": "15/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-15T14:24:02.678Z"
+      },
       {
         "id": "MBBS/BDS Counselling:4f51338207f53ee5",
         "title": "Final Seat Allocation of MBBS BDS 3rd round Counselling 2026",
@@ -5967,16 +5977,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-09-03T11:40:47.210Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:3d6bf659e48bc1dc",
-        "title": "Counselling Schedule for 2nd Round of MBBS/BDS Counselling 2026-2027",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/counselling-Schedule-for-2nd-round-of-MBBS.BDS_.pdf",
-        "date": "02/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-02T13:55:21.479Z"
       }
     ]
   },
@@ -7481,9 +7481,39 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-14T20:34:28.769Z",
+    "lastUpdatedDate": "2026-10-15T14:22:07.104Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a45965004fd173ef",
+        "title": "Candidates allotted in State Govt. quota seats in Round 3",
+        "link": "https://manipurmc.mn.gov.in/media/1792057950_Candidates%20allotted%20in%20State%20Govt.%20quota%20seats%20in%20Round%203.pdf",
+        "date": "15/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-15T14:22:07.104Z"
+      },
+      {
+        "id": "77a0698700f62eef",
+        "title": "Candidates allotted in Management Quota seats in Round 3",
+        "link": "https://manipurmc.mn.gov.in/media/1792057928_Candidates%20allotted%20in%20Management%20Quota%20seats%20in%20Round%203.pdf",
+        "date": "15/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-15T14:22:07.104Z"
+      },
+      {
+        "id": "38483bb48734fbd6",
+        "title": "Round 3 seat allotment notification",
+        "link": "https://manipurmc.mn.gov.in/media/1792057900_Round%203%20seat%20allotment%20notification%20.pdf",
+        "date": "15/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-15T14:22:07.104Z"
+      },
       {
         "id": "77757fb0f73958c4",
         "title": "Annexure A Government Seat Merit list 2026 Round 3",
@@ -7653,36 +7683,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-14T19:10:13.195Z"
-      },
-      {
-        "id": "e1bb01ca3da3f2ba",
-        "title": "Round 2 Vacant seats available at SAHS-MBBS 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1788847409_vacant_seatsSAHS_MBBS2026-27.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-08T08:48:07.107Z"
-      },
-      {
-        "id": "e6cf193d16602314",
-        "title": "Round 2 Technical Instructions",
-        "link": "https://manipurmc.mn.gov.in/media/1788784443_Round_2_Tech_Instructions.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-07T17:46:33.423Z"
-      },
-      {
-        "id": "fdc7adfba9a58a16",
-        "title": "Seat matrix and technical instructions for 2nd Round Manipur Medical e-Counselling 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1788784477_Seat%20matrix%20and%20technical%20instructions%20for%202nd%20Round%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-07T17:46:33.423Z"
       }
     ]
   },
