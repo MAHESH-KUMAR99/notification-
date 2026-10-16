@@ -2146,9 +2146,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-16T15:28:05.088Z",
+    "lastUpdatedDate": "2026-10-16T18:57:48.323Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f43d855131eadba6",
+        "title": "16-10-2026: MBBS-2026-27-MQ- Weboptions Notificaiton for Phase-III counseling BDS - MQ- 2026-27_ Phase-II Web Options Notfication MBBS-BDS-CQ-2026-27-Addendum to Provisional Final Merit list displayed on 10-10-2026 MDS MQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles MDS CQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-I Counselling UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-I Counselling MBBS-BDS-CQ- 2026-27-FINAL PRIORITY LIST UNDER SPORTS & GAMES DT.16-10-2026 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-II Web Options Notification",
+        "link": "https://drntr.uhsap.in/index/notification/20261016205833423.pdf",
+        "date": "16/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-16T18:57:48.323Z"
+      },
       {
         "id": "5c4e7d198d3e9273",
         "title": "16-10-2026: BDS - MQ- 2026-27_ Phase-II Web Options Notfication MBBS-BDS-CQ-2026-27-Addendum to Provisional Final Merit list displayed on 10-10-2026 MDS MQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles MDS CQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-I Counselling UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-I Counselling MBBS-BDS-CQ- 2026-27-FINAL PRIORITY LIST UNDER SPORTS & GAMES DT.16-10-2026 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-II Web Options Notification",
@@ -2338,16 +2348,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-10-08T14:48:37.963Z"
-      },
-      {
-        "id": "19abd703ae0a7ef2",
-        "title": "05-10-2026: MBBS-BDS-MQ-2026-27-Addendum to Final Merit list displayed on 02-10-2026 BDS CQ 2026-27 - List of Candidates availed FREE EXIT after Phase-I Counselling BDS-2026-27- CQ -LIST OF NOT REPORTED CANDIDATES AFTER PHASE-I COUNSELLING MBBS -MQ- 2026-27 Phase-II College wise Allotments UG AYUSH Courses 2026-27 - MQ - List of Candidates who Paid Registration Fee but not submitted Application UG AYUSH Courses 2026-27 - AIQ - Provisional Merit Position of Applied Candidates UG AYUSH Courses 2026-27 - MQ - Provisional Merit Position of Applied Candidates UG AYUSH Courses 2026-27 - AIQ - List of Candidates who Paid Registration Fee but not submitted Application MBBS-MQ-2026-27-List of Candidates availed FREE EXIT after Phase-I",
-        "link": "https://drntr.uhsap.in/index/notification/20261005195904500.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-05T16:57:40.685Z"
       }
     ]
   },
@@ -6020,9 +6020,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-16T15:32:45.509Z",
+    "lastUpdatedDate": "2026-10-16T19:02:19.151Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7c7104e122e3a074",
+        "title": "Notice 1st PG Counselling & Provisional Merit List of NEET-PG-2026.",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_1st_pg_counselling_provisional_merit_list_of_neet-pg-2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-16T19:02:19.151Z"
+      },
       {
         "id": "1b5c8baf738db82d",
         "title": "Educational Notice (Stray round MBBS-BDS counselling, session 2026)",
@@ -6211,16 +6221,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-05T17:01:22.713Z"
-      },
-      {
-        "id": "06f803649b4ec23d",
-        "title": "Admission Notice into MBBS course (PwD)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_into_mbbs_course_pwd_0.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-17T15:16:55.943Z"
       }
     ]
   },
