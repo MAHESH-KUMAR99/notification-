@@ -806,9 +806,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T14:22:18.675Z",
+    "lastUpdatedDate": "2026-10-16T05:39:51.071Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-131",
+        "title": "Result of recruitment for the post of SRF and Field Worker on Contractual Basis for AFMRC Project No 5769 ,2026.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "15/10/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-16T05:39:51.071Z"
+      },
       {
         "id": "afmc-pune-130",
         "title": "Result of recruitment for the post of SRF and Field Worker on Contractual Basis for AFMRC Project DNA barcoding of Aedes aegypti and other species of mosquitoes from different geographical regions of India to determine genetic diversity.",
@@ -978,15 +987,6 @@
         "date": "16/08/2026",
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-08-27T11:04:15.339Z"
-      },
-      {
-        "id": "afmc-pune-111",
-        "title": "LIST OF SHORTLISTED CANDIDATES FOR THE INTERVIEW FOR THE POST OF JRF FOR AFMRC PROJECT 5763 2025",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "13/08/2026",
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-08-27T11:04:15.339Z"
       }
     ]
