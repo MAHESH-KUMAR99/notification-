@@ -6657,9 +6657,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-13T16:20:15.860Z",
+    "lastUpdatedDate": "2026-10-16T22:01:25.085Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e51306f6689b4fd0",
+        "title": "SCHEDULE OF SPOT ROUND FOR PARAMEDICAL (B.OT/ B.PT/ BASLP/ BMLS/ BPO) OF OFFLINE COUNSELLING FOR THE ACADEMIC SESSION 2026-27 through CET 2026/ CUET 2026_dated-16.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610161147000502.pdf",
+        "date": "16/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-16T22:01:25.085Z"
+      },
+      {
+        "id": "01cdb8862acf811a",
+        "title": "CUET MERIT IN PARAMEDICAL (B.PT/ B.OT/ BASLP/ BMLS/ BPO) for Academic Session 2026-27_dated-16.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261016303675167.pdf",
+        "date": "16/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-16T22:01:25.085Z"
+      },
       {
         "id": "a3b642c8abb1756a",
         "title": "TENTATIVE VACANT SEATS FOR B.ED (SPECIAL EDUCATION) (CODE-159) FOR THE A.S: 2026-27_dated-13.10.2026",
@@ -6839,26 +6859,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-10-01T15:17:52.423Z"
-      },
-      {
-        "id": "ec7b1cc327cd874b",
-        "title": "ROUND 03 MBBS (CODE-103) (NEET UG 2026) A.S: 2026-27_dated-01.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610011709222350.pdf",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-01T15:17:52.423Z"
-      },
-      {
-        "id": "64874e3ff1226b53",
-        "title": "SCHEDULE OF SPECIAL ROUND OFFLINE COUNSELLING BA in Liberal Arts (CET CODE-451) A.S:2026-27_dated-30.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/09/2026093018928529.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-30T12:58:08.574Z"
       }
     ]
   },
