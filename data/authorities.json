@@ -2142,9 +2142,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-17T13:07:08.117Z",
+    "lastUpdatedDate": "2026-10-17T16:35:57.830Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e9a55bb43891e4f1",
+        "title": "17-10-2026: UG AYUSH 2026-27 - MQ - Phase-II College Wise Allotments UG AYUSH 2026-27 - AIQ - Phase-II College Wise Allotments PG (MEDICAL) MQ PROSPECTUS 2026-27 PG (MEDICAL) MQ NOTIFICATION 2026-27 Allied and Healthcare Courses 2026-27 - Prospectus Allied and Healthcare Courses 2026-27 - CQ - Detailed Notification for Online Applications Allied and Healthcare Courses 2026-27 - CQ - Notification for Online Applications for Private Universities MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-III BDS MQ 2026-27 - List of candidates Not Reported after Phase-I MBBS _BDS-2026-27 -NOTICE FOR EXTENSION OF FREE EXIT AFTER PHASE-I AND PHASE-II MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III",
+        "link": "https://drntr.uhsap.in/index/notification/20261017191259590.pdf",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-17T16:35:57.830Z"
+      },
       {
         "id": "8d2025d6b1c07212",
         "title": "17-10-2026: PG (MEDICAL) MQ PROSPECTUS 2026-27 PG (MEDICAL) MQ NOTIFICATION 2026-27 Allied and Healthcare Courses 2026-27 - Prospectus Allied and Healthcare Courses 2026-27 - CQ - Detailed Notification for Online Applications Allied and Healthcare Courses 2026-27 - CQ - Notification for Online Applications for Private Universities MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-III BDS MQ 2026-27 - List of candidates Not Reported after Phase-I MBBS _BDS-2026-27 -NOTICE FOR EXTENSION OF FREE EXIT AFTER PHASE-I AND PHASE-II MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III",
@@ -2334,16 +2344,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-08T14:48:37.963Z"
-      },
-      {
-        "id": "2060e4235ebcd1e9",
-        "title": "07-10-2026: Post Basic (Nursing) 2 YDC 2026-27 - Competent Authority Quota - Phase-I - College-wise Allotments",
-        "link": "https://drntr.uhsap.in/index/notification/20261007180239133.pdf",
-        "date": "07/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-07T15:21:07.751Z"
       }
     ]
   },
@@ -6016,9 +6016,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-16T19:02:19.151Z",
+    "lastUpdatedDate": "2026-10-17T16:40:06.450Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "400d3e547473face",
+        "title": "Notice (Inclusion in Assam State NEET-PG-2026 merit list)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_inclusion_in_assam_state_neet-pg-2026_merit_list.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-17T16:40:06.450Z"
+      },
       {
         "id": "7c7104e122e3a074",
         "title": "Notice 1st PG Counselling & Provisional Merit List of NEET-PG-2026.",
@@ -6207,16 +6217,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-06T17:10:27.848Z"
-      },
-      {
-        "id": "c2c87431ab454d5e",
-        "title": "Educational Notice-3rd Counseling-MDS Courses, 2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/3rd_counseling-mds_courses_2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-05T17:01:22.713Z"
       }
     ]
   },
@@ -6865,9 +6865,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-12T18:46:47.220Z",
+    "lastUpdatedDate": "2026-10-17T16:35:55.304Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1afcd39472c39635",
+        "title": "Provisional List of Candidates For Online Stray Round",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/10/202610171220113142.pdf",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-17T16:35:55.304Z"
+      },
       {
         "id": "bb753f1e1d923c04",
         "title": "Urgent Notice Dated 12-10-2026",
@@ -7057,16 +7067,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-08-20T10:34:55.216Z"
-      },
-      {
-        "id": "8e9115476d8f77d7",
-        "title": "Round 1 Revised Schedule Dated 20-08-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608202072716281.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-09-12T11:09:01.574Z"
       }
     ]
   },
@@ -7077,9 +7077,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-17T09:11:22.687Z",
+    "lastUpdatedDate": "2026-10-17T16:40:22.459Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "22ce12be8740fdfa",
+        "title": "Stray Vacancy Allotment To MBBS/BDS Courses Facility To Register New Options",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/335/Upload1",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-17T16:40:22.459Z"
+      },
       {
         "id": "b82067922cf8cc76",
         "title": "2026–27 അധ്യയന വർഷത്തെ ബി.ഫാം (B.Pharm) കോഴ്‌സിലേക്കുള്ള സ്പോട്ട് അലോട്ട്മെന്റ് – സംബന്ധിച്ച്",
@@ -7273,16 +7283,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-15T06:37:29.110Z"
-      },
-      {
-        "id": "ab84aadb4a0a6b9d",
-        "title": "Provisional List Of Stray Vacancy Allotment To Pharmacy Course Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/261/Upload1",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-15T17:38:24.867Z"
       }
     ]
   },
