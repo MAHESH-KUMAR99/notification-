@@ -2146,9 +2146,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-16T18:57:48.323Z",
+    "lastUpdatedDate": "2026-10-17T04:52:22.951Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f2329eb51f62438a",
+        "title": "17-10-2026: MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III",
+        "link": "https://drntr.uhsap.in/index/notification/20261017101206820.pdf",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-17T04:52:22.951Z"
+      },
       {
         "id": "f43d855131eadba6",
         "title": "16-10-2026: MBBS-2026-27-MQ- Weboptions Notificaiton for Phase-III counseling BDS - MQ- 2026-27_ Phase-II Web Options Notfication MBBS-BDS-CQ-2026-27-Addendum to Provisional Final Merit list displayed on 10-10-2026 MDS MQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles MDS CQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-I Counselling UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-I Counselling MBBS-BDS-CQ- 2026-27-FINAL PRIORITY LIST UNDER SPORTS & GAMES DT.16-10-2026 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-II Web Options Notification",
@@ -2338,16 +2348,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-06T10:40:54.989Z"
-      },
-      {
-        "id": "0fe17725eddf0048",
-        "title": "06-10-2026: B.Sc.(Nursing) 4 YDC 2026-27 - Pending due to Non-Submissions of Relevant Documentss B.Sc.(Nursing) 4 YDC 2026-27 - Provisional Merit position of Applied Candidates B.Sc.(Nursing) 4 YDC 2026-27 - Registration Fee Paid But Not Submitted Application B.Sc.(Nursing) 4 YDC 2026-27 - Management Quota - Date Extension Notification for Online Application M.Sc Nursing CQ Notification 2026-27 M.Sc Nursing Prospectus - 2026-27 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-I Web Options Notification UG AYUSH Courses 2026-27 - MQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - AIQ - Final Merit List of Applied Candidates UG AYUSH Courses 2026-27 - CQ - Phase-I College Wise Allotments PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-I Counselling MDS MQ 2026-27 - Phase-II Web Options Notification PG (Dental) MQ Admissions 2026-27 - Corrigendum to MQ Provisional Final Merit list BDS _CQ_2026-27_ Notification for web options for Phase-II Counseling",
-        "link": "https://drntr.uhsap.in/index/notification/20261006200104094.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-08T14:48:37.963Z"
       }
     ]
   },
