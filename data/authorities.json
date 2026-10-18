@@ -1434,9 +1434,59 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T09:01:20.447Z",
+    "lastUpdatedDate": "2026-10-18T08:42:38.965Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8860d3ba70dd024b",
+        "title": "92.5% - CLICK HERE FOR STRAY ROUND ONLINE COUNSELLING OF MBBS / BDS COURSE (GOVERNMENT / MANAGEMENT (INCLUDING MINORITY) / NRI QUOTA) 2026 - 2027 SESSION)",
+        "link": "https://counug.tnmedicalonline.co.in/ugmedgqstray/",
+        "date": null,
+        "sortTs": 1792195200000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-18T08:42:38.965Z"
+      },
+      {
+        "id": "dc4b41ca2e1bc1c2",
+        "title": "7.5% - TENTATIVE STRAY ROUND VACANCY POSITION FOR MBBS/BDS (GOVERNMENT QUOTA 7.5% RESERVATION) COURSE 2026-2027 SESSION ON 18-10-2026",
+        "link": "https://tnmedicalselection.net/news/17102026233951.pdf",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-18T08:42:38.965Z"
+      },
+      {
+        "id": "baf5d89f11c1952d",
+        "title": "92.5% - TENTATIVE STRAY ROUND VACANCY FOR MBBS/BDS DEGREE COURSE 2026-2027 AS ON 18-10-202",
+        "link": "https://tnmedicalselection.net/news/17102026232644.pdf",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-18T08:42:38.965Z"
+      },
+      {
+        "id": "b3f840eba5c629f8",
+        "title": "7.5% - TENTATIVE STRAY VACANCY ROUND COUNSELLING SCHEDULE FOR ADMISSION TO BDS DEGREE COURSES in Tamil Nadu Government Dental Colleges & Government Quota seats in Self Financing Dental Colleges 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/17102026232511.pdf",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-18T08:42:38.965Z"
+      },
+      {
+        "id": "f7a21310492d600f",
+        "title": "92.5% - TENTATIVE STRAY VACANCY ROUND COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSES in Tamil Nadu Government Medical & Dental Colleges, Government & Management Quota seats in Self Financing Medical Colleges & Dental Colleges, State Private Universities 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/17102026232125.pdf",
+        "date": "17/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-10-18T08:42:38.965Z"
+      },
       {
         "id": "7203e43bc9a6d053",
         "title": "KIND ATTENTION TO THE CANDIDATES FOR MBBS/BDS DEGREE COURSE 2026-2027 SESSION - EXTENSION OF ROUND 3",
@@ -1586,56 +1636,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-28T04:33:56.736Z"
-      },
-      {
-        "id": "6edee7c172ddd95d",
-        "title": "RESIGNATION PORTAL LINK FOR ROUND 2 JOINED CANDIDATES OF MBBS/BDS (GOVERNMENT / MANAGEMENT (INCLUDING MINORITY) / NRI QUOTA) COURSE 2026 - 2027 SESSION",
-        "link": "https://counug.tnmedicalonline.co.in/discugmedgq",
-        "date": null,
-        "sortTs": 1790467200000,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-28T11:33:34.927Z"
-      },
-      {
-        "id": "86ecd3957424032e",
-        "title": "92.5% - TENTATIVE ROUND 3 COUNSELLING SCHEDULE FOR ADMISSION TO MBBS/BDS COURSE (GOVERNMENT AND MANAGEMENT QUOTA (INCL. NRI AND MINORITY)) 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/27092026204814.pdf",
-        "date": "27/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-28T04:33:56.736Z"
-      },
-      {
-        "id": "d823dd0d250b7c18",
-        "title": "NOTIFICATION FOR RESIGNATION PORTAL FOR TAMIL NADU 2026-2027 MBBS & BDS COURSES",
-        "link": "https://tnmedicalselection.net/news/27092026223127.pdf",
-        "date": "27/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-09-28T11:33:34.927Z"
-      },
-      {
-        "id": "7c9e2033415ec851",
-        "title": "KIND ATTENTION TO THE SELF-FINANCING MEDICAL AND DENTAL AND STATE PRIVATE UNIVERSITIES COLLEGES FOR MBBS/BDS DEGREE COURSES 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/25092026022933.pdf",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-25T11:42:09.951Z"
-      },
-      {
-        "id": "49a0358125565bf2",
-        "title": "MQ - Provisional List of Candidates allotted for MBBS/BDS (Management Quota) Course Session :2026 - 2027 on - 15.09.2026",
-        "link": "https://tnmedicalselection.net/news/21092026020744.pdf",
-        "date": "21/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-21T13:46:36.925Z"
       }
     ]
   },
@@ -3609,9 +3609,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-17T13:12:06.607Z",
+    "lastUpdatedDate": "2026-10-18T08:47:26.569Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:66d47d8d8e6e6c9a",
+        "title": "REVISED LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
+        "link": "https://drive.google.com/file/d/1ZBckqWyRWoQR6GTPXdOAo0ZZOm1_RGVY/view?usp=drivesdk",
+        "date": "18/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-18T08:47:26.569Z"
+      },
+      {
+        "id": "UG NON-NEET:66d47d8d8e6e6c9a",
+        "title": "REVISED LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
+        "link": "https://drive.google.com/file/d/1ZBckqWyRWoQR6GTPXdOAo0ZZOm1_RGVY/view?usp=drivesdk",
+        "date": "18/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 325,
+        "detectedAt": "2026-10-18T08:47:26.569Z"
+      },
       {
         "id": "OVERALL:a1cd8b0e63cda3aa",
         "title": "LIST OF VACANCIES IN UG NEET COURSES AFTER ROUND 3",
@@ -3791,26 +3811,6 @@
         "source": "Direct from Website",
         "batchIndex": 321,
         "detectedAt": "2026-10-16T15:33:01.816Z"
-      },
-      {
-        "id": "OVERALL:de2fbc746c90497f",
-        "title": "ROUND 3 PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1YsZpbj7YGEv1rqj5ip1fITGTZMbMcIyk/view?usp=sharing",
-        "date": "12/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-12T08:56:08.286Z"
-      },
-      {
-        "id": "OVERALL:e73066130436eb9d",
-        "title": "NOTICE : ROUND 3 PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1j1Nt6273Reise2KRenGQlctGYaLyFJCj/view?usp=sharing",
-        "date": "12/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-12T08:56:08.286Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5397,7 +5397,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-13T16:22:23.175Z",
+    "lastUpdatedDate": "2026-10-18T08:47:13.273Z",
     "pinned": false,
     "notices": [
       {
