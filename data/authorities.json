@@ -2142,9 +2142,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-18T13:06:02.889Z",
+    "lastUpdatedDate": "2026-10-19T10:13:35.383Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "481655e15fd7280e",
+        "title": "19-10-2026: MBBS MQ 2026-27 PHASE III COLLEGE WISE ALLOTMENTS BDS CQ 2026-27 - List of Candidates Not Admitted, availed FREE EXIT after Phase-I, Phase - II Counselling.",
+        "link": "https://drntr.uhsap.in/index/notification/20261019133917093.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T10:13:35.383Z"
+      },
       {
         "id": "735620a4eb90d1fa",
         "title": "18-10-2026: BDS _CQ_2026-27_ Notification for web options for Phase-III Counseling BDS -MQ- 2026-27 - College wise Allotments-Phase-II Allied and Healthcare Courses 2026-27 - CQ - Notification for Online Applications for Private Universities",
@@ -2334,16 +2344,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-09T15:06:31.222Z"
-      },
-      {
-        "id": "8430c3f29c4c49eb",
-        "title": "09-10-2026: MDS MQ 2026-27 - Phase-II College Wise Allotments List",
-        "link": "https://drntr.uhsap.in/index/notification/20261009121132353.pdf",
-        "date": "09/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-09T07:51:30.329Z"
       }
     ]
   },
@@ -2354,9 +2354,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-16T11:00:54.797Z",
+    "lastUpdatedDate": "2026-10-19T10:13:20.583Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "172f2606fa0749df",
+        "title": "PROVISIONAL MERIT LIST OF CANDIDATES WHO HAVE APPLIED FOR STRAY VACANCY ROUND OF ONLINE COUNSELLING FOR ADMISSION TO MBBS/BDS COURSE UNDER NEET-UG 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/19-10-2026/Provisional%20MeritListStrayRound.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T10:13:20.583Z"
+      },
       {
         "id": "d50d1cbfaaab7171",
         "title": "Click here to apply online Click here to submit willingness for 4th Round Click here to view willingness list",
@@ -2546,16 +2556,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-16T09:26:34.535Z"
-      },
-      {
-        "id": "a6b99d651e679e6e",
-        "title": "Provisional Allocation of MBBS/BDS seats after consideration of Objections [2nd Round]",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Final%20Allocation%20of%20Seats%20-%202nd%20Round%20counselling%2015.09.26.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T12:32:23.102Z"
       }
     ]
   },
@@ -5803,9 +5803,29 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T14:24:02.678Z",
+    "lastUpdatedDate": "2026-10-19T10:18:53.221Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:3f9a18dddc77b3e6",
+        "title": "Click here for Apply for (Fresh Registration) online Application for MBBS/BDS Stray Round NEET UG Counselling 2026-27",
+        "link": "https://erpamruhp.in/applicantLoginEntReg.htm?EntrReg=EntrReg&link=ed256f5f8182120c10f6f332f1f312ed",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T10:18:53.221Z"
+      },
+      {
+        "id": "MBBS/BDS Counselling:87e3b81df6440dfb",
+        "title": "Schedule for MBBS/BDS Stray Round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Schedule-for-MBBS-BDS-Stray-round-Counselling-2026.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-19T10:18:53.221Z"
+      },
       {
         "id": "MBBS/BDS Counselling:0f9d14c975bfeacf",
         "title": "Re-revised Provisional Seat Vacancy for MBBS/BDS 3rd round Counselling 2026",
@@ -5985,26 +6005,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 1,
         "detectedAt": "2026-09-07T12:06:35.279Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:d42e7de009771e8b",
-        "title": "Click here for Fresh Registration for MBBS/BDS 2nd Round Counselling 2026 (Only for candidates who were unable to successfully submit their application form during the 1st Round of Counselling 2026.)",
-        "link": "https://erpamruhp.in/applicantLoginEntReg.htm?EntrReg=EntrReg&link=ed256f5f8182120c10f6f332f1f312ed",
-        "date": "05/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-05T08:18:39.605Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:63c87a931843972f",
-        "title": "Notice for extend the last date of admission to MBBS/BDS 1st Round of Counselling for the Academic Session 2026-27up to 04.09.2026.",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/MBBS-1st-round-admission-date-extend-notice.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T11:40:47.210Z"
       }
     ]
   },
