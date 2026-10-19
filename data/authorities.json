@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T09:01:02.397Z",
+    "lastUpdatedDate": "2026-10-19T17:06:08.229Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "5a310155c991e679",
+        "title": "Provisional Result for Stray Vacancy Round",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/2026101986676021.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T17:06:08.229Z"
+      },
       {
         "id": "4608656b0d790210",
         "title": "CLEAR VACANCY STRAY VACANCY ROUND (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
@@ -408,16 +418,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-09-03T16:05:27.183Z"
-      },
-      {
-        "id": "783363e0c339f04a",
-        "title": "CLEAR VACANCY ROUND 2 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260903254511963.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-09-03T16:05:27.183Z"
       }
     ]
@@ -1646,9 +1646,73 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-14T16:55:18.945Z",
+    "lastUpdatedDate": "2026-10-19T17:10:17.690Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Rule Book / Steps / User Manual:21869e1b8c8d32d9",
+        "title": "Time schedule for Stray Vacancy Round MP State Combined Counselling NEET UG 2026- (Dated-19.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_58.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T17:10:17.690Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
+        "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
+        "date": "15/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-15T03:46:37.522Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
+        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
+        "date": "05/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-05T06:35:55.015Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-04T13:08:58.454Z"
+      },
+      {
+        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
+        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
+        "date": "03/08/2026",
+        "sortTs": null,
+        "source": "Rule Book / Steps / User Manual",
+        "batchIndex": 0,
+        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
+        "titleLang": "hi",
+        "detectedAt": "2026-08-03T16:33:01.616Z"
+      },
+      {
+        "id": "Latest Instructions:21869e1b8c8d32d9",
+        "title": "Time schedule for Stray Vacancy Round MP State Combined Counselling NEET UG 2026- (Dated-19.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Time%20schedule%202026_58.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Latest Instructions",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T17:10:15.645Z"
+      },
       {
         "id": "Latest Instructions:f48e40a8140bc883",
         "title": "Notice For Extension Of Last Date Of Admission M.P. State combined counselling- NEET UG 2026 (MOP UP Round) (MBBS/BDS Course) (Dated-14.10.2026",
@@ -1837,16 +1901,6 @@
         "sortTs": null,
         "source": "Latest Instructions",
         "batchIndex": 2,
-        "detectedAt": "2026-09-07T17:47:59.720Z"
-      },
-      {
-        "id": "Latest Instructions:93b00271cc8a37ba",
-        "title": "List of Candidates Who Opted For Upgrade (Virtual Vacancy) in Second Round MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Candidate%20Upgaradtion%20list%20_2026-09-07_38.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Latest Instructions",
-        "batchIndex": 3,
         "detectedAt": "2026-09-07T17:47:59.720Z"
       },
       {
@@ -2088,50 +2142,6 @@
         "source": "Counselling Schedule",
         "batchIndex": 0,
         "detectedAt": "2026-08-03T16:33:00.795Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:651df4a5c57fb62e",
-        "title": "USER MANUAL OF FIRST ROUND CHOICE FILLING AND CHOICE LOCKING PROCESS - MP STATE NEET UG COUNSELLING 2026-27 (MBBS/BDS Course)(Date- 15.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20First%20Round%20Choice%20Filling%20Locking%20User%20Manual_24.pdf",
-        "date": "15/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-15T03:46:37.522Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:3d0398756edf4a0e",
-        "title": "USER MANUAL FOR PROFILE CREATION AND REGISTRATION PROCESS OF MP STATE COMBINED NEET UG COUNSELLING 2026-27 (MBBS/BDS Course) (DATE- 05.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DME%20NEET%20UG%202026%20Registration%20%20New%20User%20Manual%20large2%20(1)_9.pdf",
-        "date": "05/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-05T06:35:55.015Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:17d1850b86b542bf",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-04T13:08:58.454Z"
-      },
-      {
-        "id": "Rule Book / Steps / User Manual:6840a4793fa07648",
-        "title": "मध्‍य प्रदेश चिकित्‍सा शिक्षा प्रवेश नियम 2018 एवं संशोधन जून 2019, 05 अक्‍टूबर 2021, 26 जुलाई 2022, 10 मई 2023, 02 जुलाई 2024 तथा 3 सितम्‍बर 2025 ( Dated 03.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2025/Admission_Rule_and_all_Amendment%20(2)_2.pdf",
-        "date": "03/08/2026",
-        "sortTs": null,
-        "source": "Rule Book / Steps / User Manual",
-        "batchIndex": 0,
-        "titleEn": "Madhya Pradesh Medical Education Admission Rules 2018 and Amendments June 2019, 05 October 2021, 26 July 2022, 10 May 2023, 02 July 2024 and 3 September 2025 (Dated 03.08.2026)",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-03T16:33:01.616Z"
       }
     ]
   },
@@ -2142,9 +2152,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-19T10:13:35.383Z",
+    "lastUpdatedDate": "2026-10-19T17:06:28.551Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0b49882ade9844dd",
+        "title": "19-10-2026: MBBS_BDS - 2026-27 - Management Quota - Notification for Regisgtrations MBBS MQ 2026-27 PHASE III COLLEGE WISE ALLOTMENTS BDS CQ 2026-27 - List of Candidates Not Admitted, availed FREE EXIT after Phase-I, Phase - II Counselling.",
+        "link": "https://drntr.uhsap.in/index/notification/20261019203420853.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T17:06:28.551Z"
+      },
       {
         "id": "481655e15fd7280e",
         "title": "19-10-2026: MBBS MQ 2026-27 PHASE III COLLEGE WISE ALLOTMENTS BDS CQ 2026-27 - List of Candidates Not Admitted, availed FREE EXIT after Phase-I, Phase - II Counselling.",
@@ -2334,16 +2354,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-09T20:15:59.299Z"
-      },
-      {
-        "id": "141ad7655ffaec88",
-        "title": "09-10-2026: MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category BDS - MQ 2026-27_1st Phase Web Options Notfication UG AYUSH Courses 2026-27 - Provisional Priority List Under CAP Category MDS MQ 2026-27 - Phase-II College Wise Allotments List",
-        "link": "https://drntr.uhsap.in/index/notification/20261009200640330.pdf",
-        "date": "09/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-09T15:06:31.222Z"
       }
     ]
   },
@@ -3619,9 +3629,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-18T08:47:26.569Z",
+    "lastUpdatedDate": "2026-10-19T17:10:39.090Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:5ca0073a693fcb24",
+        "title": "NOTICE : SUBMISSION OF WILLINGNESS FOR B.D.S. & B.A.M.S. MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1K4SevDBZMfr6tlEWMUVojk4mW3ELmxKg/view?usp=drivesdk",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T17:10:39.090Z"
+      },
+      {
+        "id": "UG NEET:5ca0073a693fcb24",
+        "title": "NOTICE : SUBMISSION OF WILLINGNESS FOR B.D.S. & B.A.M.S. MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1K4SevDBZMfr6tlEWMUVojk4mW3ELmxKg/view?usp=drivesdk",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 439,
+        "detectedAt": "2026-10-19T17:10:39.090Z"
+      },
       {
         "id": "OVERALL:66d47d8d8e6e6c9a",
         "title": "REVISED LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
@@ -3800,26 +3830,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 319,
-        "detectedAt": "2026-10-16T15:33:01.816Z"
-      },
-      {
-        "id": "UG NON-NEET:b684600b45dc1362",
-        "title": "MOPUP ROUND UG NON-NEET PROFESSIONAL ADMITTED LIST - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1C01YdIfYo8axMNLQvFaXaE8h7xPh5NUV/view?usp=sharing",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 320,
-        "detectedAt": "2026-10-16T15:33:01.816Z"
-      },
-      {
-        "id": "UG NON-NEET:5655b1725922f24c",
-        "title": "MOPUP ROUND UG NON-NEET ARTS, SCIENCE AND COMMERCE ADMITTED LIST - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1-9U7JHDUrf4pgkH4-t0j1kqouJyeXva1/view?usp=sharing",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 321,
         "detectedAt": "2026-10-16T15:33:01.816Z"
       },
       {
