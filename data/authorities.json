@@ -2152,9 +2152,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-19T17:06:28.551Z",
+    "lastUpdatedDate": "2026-10-19T21:41:36.201Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "211cd2246dd4964b",
+        "title": "19-10-2026: MBBS_BDS - 2026-27 - Management Quota - Notification for Registrations MBBS MQ 2026-27 PHASE III COLLEGE WISE ALLOTMENTS BDS CQ 2026-27 - List of Candidates Not Admitted, availed FREE EXIT after Phase-I, Phase - II Counselling.",
+        "link": "https://drntr.uhsap.in/index/notification/20261019203420853.pdf",
+        "date": "19/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-19T21:41:36.201Z"
+      },
       {
         "id": "0b49882ade9844dd",
         "title": "19-10-2026: MBBS_BDS - 2026-27 - Management Quota - Notification for Regisgtrations MBBS MQ 2026-27 PHASE III COLLEGE WISE ALLOTMENTS BDS CQ 2026-27 - List of Candidates Not Admitted, availed FREE EXIT after Phase-I, Phase - II Counselling.",
@@ -2344,16 +2354,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-10T12:55:39.320Z"
-      },
-      {
-        "id": "915b4b109ce1c028",
-        "title": "09-10-2026: BDS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-II MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category BDS - MQ 2026-27_1st Phase Web Options Notfication UG AYUSH Courses 2026-27 - Provisional Priority List Under CAP Category MDS MQ 2026-27 - Phase-II College Wise Allotments List",
-        "link": "https://drntr.uhsap.in/index/notification/20261009225151100.pdf",
-        "date": "09/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-09T20:15:59.299Z"
       }
     ]
   },
