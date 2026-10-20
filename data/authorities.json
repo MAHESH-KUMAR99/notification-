@@ -998,9 +998,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-17T09:05:24.725Z",
+    "lastUpdatedDate": "2026-10-20T19:54:56.933Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6990f61a9b3f4414",
+        "title": "List of the candidates removed from MBBS BDS merit list due to Allotment in All India Quota Stray Vacancy round. (list provided by the MCC, New Delhi)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R4/AIQ_Alloted_r4.pdf",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-20T19:54:56.933Z"
+      },
       {
         "id": "bdbf667d5d49f329",
         "title": "Advertisement for Online Choice Filling for 4th Online (Stray Vacancy) Round",
@@ -1212,16 +1222,6 @@
         "source": "Direct from Website",
         "batchIndex": 19,
         "detectedAt": "2026-10-17T09:05:24.725Z"
-      },
-      {
-        "id": "08e40039bd5bcf7f",
-        "title": "Institute Wise Admitted Candidate List Upto Third Round",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R3/instwiseadm_upto_r3.pdf",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
-        "detectedAt": "2026-10-16T15:27:38.679Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2152,9 +2152,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-19T21:41:36.201Z",
+    "lastUpdatedDate": "2026-10-20T19:55:18.364Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0f9cb40052fb17ac",
+        "title": "20-10-2026: B.Sc. (Nursing) -2026-27 - CQ - Phase 1 - Collegewise Allotments",
+        "link": "https://drntr.uhsap.in/index/notification/20261020230121787.pdf",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-20T19:55:18.364Z"
+      },
       {
         "id": "211cd2246dd4964b",
         "title": "19-10-2026: MBBS_BDS - 2026-27 - Management Quota - Notification for Registrations MBBS MQ 2026-27 PHASE III COLLEGE WISE ALLOTMENTS BDS CQ 2026-27 - List of Candidates Not Admitted, availed FREE EXIT after Phase-I, Phase - II Counselling.",
@@ -2344,16 +2354,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-10T17:42:56.946Z"
-      },
-      {
-        "id": "22531f5f543b2771",
-        "title": "10-10-2026: MBBS-2026-27-CQ- College wise Final allotments under NCC Category MBBS_2026-27_CQ_NCC_MRC_List MBBS-2026-27-CQ-Provisinal NCC Category College wise allotments",
-        "link": "https://drntr.uhsap.in/index/notification/20261010163514610.pdf",
-        "date": "10/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-10T12:55:39.320Z"
       }
     ]
   },
@@ -3629,9 +3629,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-20T15:51:47.322Z",
+    "lastUpdatedDate": "2026-10-20T19:59:50.742Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:fc28fffb0bb0829d",
+        "title": "INFORMATION BROCHURE FOR ADMISSION TO POST GRADUATE MEDICAL (M.D./M.S.) COURSES",
+        "link": "https://drive.google.com/file/d/1R4u52A2hnX8sZAs4hrKSZZTPVHFE8YOC/view?usp=drivesdk",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-20T19:59:50.742Z"
+      },
       {
         "id": "OVERALL:7e410f34dc1c0a07",
         "title": "PRESS RELEASE ADMISSION NOTIFICATION TO PG MEDICAL (M.D. / M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3641,6 +3651,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-20T15:51:47.322Z"
+      },
+      {
+        "id": "OVERALL:bb2587f15d145ae0",
+        "title": "PRESS RELEASE ADMISSION NOTIFICATION TO PG MEDICAL (M.D. / M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1KeoTqrGa5FhbEuo-URJeg3GKJ-CTrZn-/view?usp=drivesdk",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-20T19:59:50.742Z"
       },
       {
         "id": "OVERALL:a3d634fb3c470df0",
@@ -3683,6 +3703,16 @@
         "detectedAt": "2026-10-20T15:51:47.322Z"
       },
       {
+        "id": "PG MEDICAL:fc28fffb0bb0829d",
+        "title": "INFORMATION BROCHURE FOR ADMISSION TO POST GRADUATE MEDICAL (M.D./M.S.) COURSES",
+        "link": "https://drive.google.com/file/d/1R4u52A2hnX8sZAs4hrKSZZTPVHFE8YOC/view?usp=drivesdk",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 298,
+        "detectedAt": "2026-10-20T19:59:50.742Z"
+      },
+      {
         "id": "PG MEDICAL:a3d634fb3c470df0",
         "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
         "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
@@ -3691,6 +3721,16 @@
         "source": "Direct from Website",
         "batchIndex": 298,
         "detectedAt": "2026-10-20T15:51:47.322Z"
+      },
+      {
+        "id": "PG MEDICAL:bb2587f15d145ae0",
+        "title": "PRESS RELEASE ADMISSION NOTIFICATION TO PG MEDICAL (M.D. / M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1KeoTqrGa5FhbEuo-URJeg3GKJ-CTrZn-/view?usp=drivesdk",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 299,
+        "detectedAt": "2026-10-20T19:59:50.742Z"
       },
       {
         "id": "PG MEDICAL:b63da8ba46a819cb",
@@ -3790,46 +3830,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 531,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "B.ARCH.:a3d634fb3c470df0",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 551,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "B.ARCH.:b63da8ba46a819cb",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 16 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/1VIkRaO7N-VCIH0FOfQwRBGWs4thXtZZz/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 552,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:a3d634fb3c470df0",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 569,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "B.TECH. LATERAL ENTRY:b63da8ba46a819cb",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 16 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/1VIkRaO7N-VCIH0FOfQwRBGWs4thXtZZz/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 570,
         "detectedAt": "2026-10-20T15:51:47.322Z"
       },
       {
