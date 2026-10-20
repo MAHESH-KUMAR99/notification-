@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-19T17:06:08.229Z",
+    "lastUpdatedDate": "2026-10-20T11:10:03.490Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "87dfd89c4e53a1f0",
+        "title": "Final Allotment Result for the UG Counselling Stray Vacancy Round",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/10/202610201457709919.pdf",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-20T11:10:03.490Z"
+      },
       {
         "id": "5a310155c991e679",
         "title": "Provisional Result for Stray Vacancy Round",
@@ -409,16 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-10T13:26:18.025Z"
-      },
-      {
-        "id": "fbc0a0bbb8dd0546",
-        "title": "NEWLY ADDED SEATS ROUND 2 (MBBS BDS) – UG COUNSELLING 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609032106684396.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T16:05:27.183Z"
       }
     ]
   },
