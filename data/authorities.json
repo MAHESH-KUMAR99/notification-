@@ -2364,9 +2364,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-19T10:13:20.583Z",
+    "lastUpdatedDate": "2026-10-20T05:54:01.066Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "48df01af9f66d127",
+        "title": "Click here to fill online choices for stray Round of online counselling for MBBS/BDS under NEET UG 2026",
+        "link": "https://bfuhs.smartpad.in/Registration/Default.aspx",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-20T05:54:01.066Z"
+      },
       {
         "id": "172f2606fa0749df",
         "title": "PROVISIONAL MERIT LIST OF CANDIDATES WHO HAVE APPLIED FOR STRAY VACANCY ROUND OF ONLINE COUNSELLING FOR ADMISSION TO MBBS/BDS COURSE UNDER NEET-UG 2026",
@@ -2556,16 +2566,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-21T19:09:26.860Z"
-      },
-      {
-        "id": "342e58349ad6652a",
-        "title": "Public notice Debar candidate during 2nd round counselling Selection list of 04 candidates",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Notice%204%20debar%20candidates%2016.09.2026.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-16T09:26:34.535Z"
       }
     ]
   },
@@ -7097,9 +7097,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-17T19:11:18.367Z",
+    "lastUpdatedDate": "2026-10-20T05:58:13.248Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "92096ed10992e4ae",
+        "title": "Seat Matrix for the 25 additional BDS seats at Sri Sankara Dental College, Varkala - G.O. Reg",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/343/Upload1",
+        "date": "20/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-20T05:58:13.248Z"
+      },
       {
         "id": "e2fb0ca1bbb3ffcf",
         "title": "KEAM 2026 MBBS/BDS - Tentative Vacancy Position",
@@ -7293,16 +7303,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-16T18:24:24.548Z"
-      },
-      {
-        "id": "9dfffa69926dd532",
-        "title": "ADMISSION TO MEDICAL AND MEDICAL ALLIED COURSES -Provisional Category List Published (Konkani Linguistic Minority)",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/262/Upload1",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T12:37:10.368Z"
       }
     ]
   },
