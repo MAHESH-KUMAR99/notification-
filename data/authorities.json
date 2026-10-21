@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-20T19:55:18.364Z",
+    "lastUpdatedDate": "2026-10-21T18:11:36.687Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "497f313b7131abeb",
+        "title": "21-10-2026: MBBS -2026-27 - CQ - Web Options Notification for Stray Round Counseling MBBS -2026-27-CQ- LIST OF CANDIDATES NOT REPORTED AFTER PHASE-III",
+        "link": "https://drntr.uhsap.in/index/notification/20261021224719093.pdf",
+        "date": "21/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-21T18:11:36.687Z"
+      },
       {
         "id": "0f9cb40052fb17ac",
         "title": "20-10-2026: B.Sc. (Nursing) -2026-27 - CQ - Phase 1 - Collegewise Allotments",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-13T08:14:59.735Z"
-      },
-      {
-        "id": "7f18372279496fce",
-        "title": "10-10-2026: MBBS-BDS-2026-27-Provisional Final Merit list of candidates applied under NRI Lapsed Category MBBS-2026-27-CQ- College wise Final allotments under NCC Category MBBS_2026-27_CQ_NCC_MRC_List MBBS-2026-27-CQ-Provisinal NCC Category College wise allotments",
-        "link": "https://drntr.uhsap.in/index/notification/20261010184007580.pdf",
-        "date": "10/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-10T17:42:56.946Z"
       }
     ]
   },
@@ -4705,7 +4705,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-20T15:48:46.888Z",
+    "lastUpdatedDate": "2026-10-21T18:12:48.513Z",
     "pinned": false,
     "notices": [
       {
@@ -7109,9 +7109,29 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-20T05:58:13.248Z",
+    "lastUpdatedDate": "2026-10-21T18:15:48.681Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "32ea34f81fb9a103",
+        "title": "List of Candidates Ineligible to Participate in State Quota Counselling,Having Been Admitted under the All India Quota (AIQ)",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/345/Upload1",
+        "date": "21/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-21T18:15:48.681Z"
+      },
+      {
+        "id": "b24288445c4bea81",
+        "title": "ADMISSION TO MBBS/BDS COURSES- PROVISIONAL STRAY VACANCY ALLOTMENT PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/344/Upload1",
+        "date": "21/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-21T18:15:48.681Z"
+      },
       {
         "id": "92096ed10992e4ae",
         "title": "Seat Matrix for the 25 additional BDS seats at Sri Sankara Dental College, Varkala - G.O. Reg",
@@ -7295,26 +7315,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-18T10:56:25.196Z"
-      },
-      {
-        "id": "eee60f0923a412a0",
-        "title": "First Phase Allotment To Ayurveda/Homoeo/Siddha/Unani/Medical Allied Courses-2026 Option Registration Facility Made Available",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/264/Upload1",
-        "date": "17/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-17T15:17:09.423Z"
-      },
-      {
-        "id": "bc3b20ada6afea4c",
-        "title": "Stray Vacancy Allotment To Pharmacy Course Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/263/Upload1",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-16T18:24:24.548Z"
       }
     ]
   },
