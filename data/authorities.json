@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T15:34:00.300Z",
+    "lastUpdatedDate": "2026-10-22T19:50:50.627Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3b89c0a9ded9b15d",
+        "title": "22-10-2026: MBBS - 2026-27 - MQ - List of candiates Not Reported _ Availed Free Exit after Phase III MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.19-10-2026 MBBS-MQ-2026-27- Notification for STRAY ROUND Web options BDS -CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III BDS-CQ 2026-27 - List of Phase-III_MRC Candidates MBBS_CQ-2026-27_College Wise Allotment under STRAY ROUND Counseling",
+        "link": "https://drntr.uhsap.in/index/notification/20261022221912717.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T19:50:50.627Z"
+      },
       {
         "id": "9e0b72c99ef53ee4",
         "title": "22-10-2026: MBBS- MQ-2026-27- LIST OF CANDIDATES NOT REPORTED AFTER PHASE-III MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.19-10-2026 MBBS-MQ-2026-27- Notification for STRAY ROUND Web options BDS -CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III BDS-CQ 2026-27 - List of Phase-III_MRC Candidates MBBS_CQ-2026-27_College Wise Allotment under STRAY ROUND Counseling",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-14T11:33:17.819Z"
-      },
-      {
-        "id": "ff61c570929829b1",
-        "title": "13-10-2026: UG AYUSH Courses 2026-27 - CQ - List of Not Reported Candidates after Phase-I Counselling B.Sc.(Nursing) 4 YD Course - 2026-27 - CQ - Phase-I - Notification for exercising Web Options B.Sc.(N) 4 YDC 2026-27 - CQ - Provisional Final List of Not Eligible Candidates B.Sc.(Nursing) 4-YD Course -2026-27 - Provisional Final Eligible List of candidates B.Sc.(N) 4 YDC 2026-27 - CQ - Final list of Eligible & Not Eligible candidates under PwBD category UG AYUSH Courses 2026-27 - CQ - Phase-II Web Options Notification UG AYUSH COURSES 2026-27 - BHMS - AU PHASE-II NEWLY ADDED COLLEGE SEAT MATRIX UG AYUSH Courses 2026-27 - Addendum to Final Merit List dated 26.09.2026 UG AYUSH Courses 2026-27 - Final Priority List of CAP Category PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-II Counselling BDS -MQ- 2026-27 - College wise Allotments-Phase-I",
-        "link": "https://drntr.uhsap.in/index/notification/20261013212518827.pdf",
-        "date": "13/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-13T16:18:14.355Z"
       }
     ]
   },
@@ -4705,7 +4705,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T15:35:10.188Z",
+    "lastUpdatedDate": "2026-10-22T19:52:00.968Z",
     "pinned": false,
     "notices": [
       {
@@ -6048,9 +6048,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-17T16:40:06.450Z",
+    "lastUpdatedDate": "2026-10-22T19:54:56.351Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "173c0ecec085b30e",
+        "title": "Admission Notice & Select list (after Stray round online counselling, session 2026)",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/admission_notice_select_list_after_stray_round_online_counselling_session_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T19:54:56.351Z"
+      },
       {
         "id": "400d3e547473face",
         "title": "Notice (Inclusion in Assam State NEET-PG-2026 merit list)",
@@ -6239,16 +6249,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-12T18:50:48.852Z"
-      },
-      {
-        "id": "bd10b3eb0cf7f49e",
-        "title": "PROVISIONAL MERIT LIST FOR ASSAM STATE QUOTA SEATS (NEET-PG, 2026)",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/provisional_merit_list_for_assam_state_quota_seats_neet-pg_2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-06T17:10:27.848Z"
       }
     ]
   },
@@ -7109,9 +7109,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T18:15:48.681Z",
+    "lastUpdatedDate": "2026-10-22T19:55:11.917Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7d95cb1265cdf8ba",
+        "title": "ADMISSION TO MBBS/BDS COURSES STRAY VACANCY ALLOTMENT PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/349/Upload1",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T19:55:11.917Z"
+      },
       {
         "id": "32ea34f81fb9a103",
         "title": "List of Candidates Ineligible to Participate in State Quota Counselling,Having Been Admitted under the All India Quota (AIQ)",
@@ -7305,16 +7315,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-23T13:33:33.399Z"
-      },
-      {
-        "id": "d2bd67a4b0500680",
-        "title": "FINAL CATEGORY LIST PUBLISHED (KONKANI LINGUISTIC MINORITY)",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/266/Upload1",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-18T10:56:25.196Z"
       }
     ]
   },
