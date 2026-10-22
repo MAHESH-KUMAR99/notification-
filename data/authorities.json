@@ -1426,7 +1426,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T10:29:43.773Z",
+    "lastUpdatedDate": "2026-10-22T15:33:57.882Z",
     "pinned": false,
     "notices": [
       {
@@ -1438,6 +1438,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-22T10:29:43.773Z"
+      },
+      {
+        "id": "fe4dd2b975f8699b",
+        "title": "92.5% - CLICK HERE TO DOWNLOAD ALLOTMENT ORDER FOR STRAY ROUND ONLINE COUNSELLING OF MBBS / BDS COURSE (GOVERNMENT / MANAGEMENT (INCLUDING MINORITY) / NRI QUOTA) 2026 - 2027 SESSION)",
+        "link": "https://counug.tnmedicalonline.co.in/ugmedgqstray/",
+        "date": null,
+        "sortTs": 1792627200000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T15:33:57.882Z"
       },
       {
         "id": "96a02c54b9fd448a",
@@ -1618,16 +1628,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-06T17:05:25.340Z"
-      },
-      {
-        "id": "fa965fee8f058e59",
-        "title": "TENTATIVE VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 IN (7.5% RESERVATION) AS ON 30-09-2026",
-        "link": "https://stgaccbarathi.blob.core.windows.net/docs/30092026113005.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-30T12:55:51.856Z"
       }
     ]
   },
@@ -1638,148 +1638,28 @@
     "category": "state",
     "officialLink": "https://dme.mponline.gov.in/Portal/Services/DMEMP/DMEUG/Profile/ProfileLoginHome.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T13:09:51.196Z",
+    "lastUpdatedDate": "2026-10-22T15:37:36.801Z",
     "pinned": false,
     "notices": [
       {
-        "id": "State Merit:a4ce1537ac5cd3e1",
-        "title": "List of Eligible Candidates for Stray Vacancy Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 21.10.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20List%20of%20Eligible%20Candidates%20for%20Stray%20Vacancy%20Round_1_60.pdf",
-        "date": "21/10/2026",
+        "id": "Latest Instructions:cc2d2a56739adae6",
+        "title": "Stray Vacancy Round Instructions (for College and Students) MP State Combined counselling NEET UG 2026-27 (Dated-22.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Stray%20vacancy%20instructions_64.pdf",
+        "date": "22/10/2026",
         "sortTs": null,
-        "source": "State Merit",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T13:09:51.196Z"
-      },
-      {
-        "id": "State Merit:bc6fd8d610b195bf",
-        "title": "List of Eligible Candidates for MOP UP Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 03.10.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20List%20of%20Eligible%20Candidates%20for%20MOP%20UP%20Round_50.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "State Merit",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-03T13:14:48.724Z"
-      },
-      {
-        "id": "State Merit:7b27c0e83df1b553",
-        "title": "Revised Merit list of MP State Registered Candidates After Fresh Registration Before MOP UP Round for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 03-10-2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Revised%20Merit%20list%20of%20MP%20State%20Registered%20Candidates%20for%20mopup%20round_49.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "State Merit",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-03T13:14:48.724Z"
-      },
-      {
-        "id": "State Merit:4368d5cc9a7cf948",
-        "title": "List of Eligible Candidates for Second Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20DMEUG_2026_Eligible_Candidate_List_SR_Round_40.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "State Merit",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-07T17:48:01.182Z"
-      },
-      {
-        "id": "State Merit:08d27b34af4c441d",
-        "title": "Revised Merit list of MP State Registered Candidates for MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date 07.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20COMMON_MERIT_LIST_UG_SR_2026_39.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "State Merit",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-07T17:48:01.182Z"
-      },
-      {
-        "id": "State Merit:93b00271cc8a37ba",
-        "title": "List of Candidates Who Opted For Upgrade (Virtual Vacancy) in Second Round MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Candidate%20Upgaradtion%20list%20_2026-09-07_38.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "State Merit",
+        "source": "Latest Instructions",
         "batchIndex": 2,
-        "detectedAt": "2026-09-07T17:48:01.182Z"
+        "detectedAt": "2026-10-22T15:37:36.801Z"
       },
       {
-        "id": "State Merit:78f68182eb0a2606",
-        "title": "List Of Candidates Who Did not Opt for Upgradation(Satisfied Candidate) MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Satisfied%20Candidate_37.pdf",
-        "date": "07/09/2026",
+        "id": "Latest Instructions:c8e41b2e06b9ed80",
+        "title": "Student Advisory for Stray Vacancy Round MP State Combined Counselling NEET UG 2026 (Dated 22.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Student%20Advisory%20for%20Stray%20Vacancy%20Round%20MP%20State%20Combined%20Counselling%20NEET%20UG%202026_63.pdf",
+        "date": "22/10/2026",
         "sortTs": null,
-        "source": "State Merit",
+        "source": "Latest Instructions",
         "batchIndex": 3,
-        "detectedAt": "2026-09-07T17:48:01.182Z"
-      },
-      {
-        "id": "State Merit:6199b704e08b629f",
-        "title": "Merit list of Registered Candidates for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 14.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_MERIT_LIST_UG_FR_2026_23.pdf",
-        "date": "14/08/2026",
-        "sortTs": null,
-        "source": "State Merit",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-14T10:38:01.992Z"
-      },
-      {
-        "id": "Seat Charts:dc792057026afd69",
-        "title": "Remaining vacancies in Government and Private Medical/Dental Colleges for Stray Vacancy Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 21.10.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Remaining%20vacancies%20in%20Government%20and%20Private%20stray%20round_59.pdf",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T13:09:50.681Z"
-      },
-      {
-        "id": "Seat Charts:6ea938ba32758545",
-        "title": "List of Candidates Who Have Opted for Upgrade (Virtual Vacancy) In Second Round of MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 03.10.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20opt%20for%20upgarde%20in%20mopup%20round_52.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-03T13:14:48.206Z"
-      },
-      {
-        "id": "Seat Charts:05573dec521ec6b2",
-        "title": "FINAL VACANCIES IN GOVERNMENT/ PRIVATE MBBS/BDS COURSE FOR MOP UP ROUND OF MP STATE NEET UG-2026 COUNSELLING (Date- 03-10-2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20FINAL%20VACANCIES%20IN%20Govt_Private%20MBBS_BDS%20COURSE%20FOR%20MOP%20UP%20ROUND_51.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-03T13:14:48.206Z"
-      },
-      {
-        "id": "Seat Charts:5c12d7c626444b91",
-        "title": "Category and Class wise vacancies in Government and Private Medical/Dental Colleges (MBBS/BDS Course) for Second Round- MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY%20VACANCIES%20IN%20GOVT_PRIVATE%20MBBS%20COURSE%20FOR%20SECOND%20ROUND%20OF%20COUNSELLING%20MP%20STATE%20NEET%20UG-2026_36.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-07T17:48:00.699Z"
-      },
-      {
-        "id": "Seat Charts:824bcd5e33e451df",
-        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 13.08.2026) (Final)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Final%20seat%20chart%2013_08_2026_22.pdf",
-        "date": "13/08/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-13T12:16:02.397Z"
-      },
-      {
-        "id": "Seat Charts:9e0f7e504a551737",
-        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
-        "date": "11/08/2026",
-        "sortTs": null,
-        "source": "Seat Charts",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-11T14:00:05.915Z"
+        "detectedAt": "2026-10-22T15:37:36.801Z"
       },
       {
         "id": "Latest Instructions:9ff855f19d73796e",
@@ -1962,24 +1842,144 @@
         "detectedAt": "2026-09-18T18:14:27.195Z"
       },
       {
-        "id": "Latest Instructions:91b7f893df29af53",
-        "title": "Second Round Allotment List (Provisional) - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_ALLOTMENT_RESULT_2026_DME_UG_SR_REPORT%201_43.pdf",
-        "date": "11/09/2026",
+        "id": "State Merit:a4ce1537ac5cd3e1",
+        "title": "List of Eligible Candidates for Stray Vacancy Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 21.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20List%20of%20Eligible%20Candidates%20for%20Stray%20Vacancy%20Round_1_60.pdf",
+        "date": "21/10/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "State Merit",
         "batchIndex": 0,
-        "detectedAt": "2026-09-11T17:54:31.723Z"
+        "detectedAt": "2026-10-21T13:09:51.196Z"
       },
       {
-        "id": "Latest Instructions:758045b2f2510ae5",
-        "title": "Revised Second Round Allotment Opening Closing - MP State Combined NEET UG Counselling 2026 (MBBS/BDS Course) (Date:- 11.09.2026)",
-        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Revised%20Second%20Round%20Allotment%20Opening%20Closing%202026_DME_UG_SR_REPORT_42.pdf",
-        "date": "11/09/2026",
+        "id": "State Merit:bc6fd8d610b195bf",
+        "title": "List of Eligible Candidates for MOP UP Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 03.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20List%20of%20Eligible%20Candidates%20for%20MOP%20UP%20Round_50.pdf",
+        "date": "03/10/2026",
         "sortTs": null,
-        "source": "Latest Instructions",
+        "source": "State Merit",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-03T13:14:48.724Z"
+      },
+      {
+        "id": "State Merit:7b27c0e83df1b553",
+        "title": "Revised Merit list of MP State Registered Candidates After Fresh Registration Before MOP UP Round for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 03-10-2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Revised%20Merit%20list%20of%20MP%20State%20Registered%20Candidates%20for%20mopup%20round_49.pdf",
+        "date": "03/10/2026",
+        "sortTs": null,
+        "source": "State Merit",
         "batchIndex": 1,
-        "detectedAt": "2026-09-11T17:54:31.723Z"
+        "detectedAt": "2026-10-03T13:14:48.724Z"
+      },
+      {
+        "id": "State Merit:4368d5cc9a7cf948",
+        "title": "List of Eligible Candidates for Second Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20DMEUG_2026_Eligible_Candidate_List_SR_Round_40.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "State Merit",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-07T17:48:01.182Z"
+      },
+      {
+        "id": "State Merit:08d27b34af4c441d",
+        "title": "Revised Merit list of MP State Registered Candidates for MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20COMMON_MERIT_LIST_UG_SR_2026_39.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "State Merit",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-07T17:48:01.182Z"
+      },
+      {
+        "id": "State Merit:93b00271cc8a37ba",
+        "title": "List of Candidates Who Opted For Upgrade (Virtual Vacancy) in Second Round MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Candidate%20Upgaradtion%20list%20_2026-09-07_38.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "State Merit",
+        "batchIndex": 2,
+        "detectedAt": "2026-09-07T17:48:01.182Z"
+      },
+      {
+        "id": "State Merit:78f68182eb0a2606",
+        "title": "List Of Candidates Who Did not Opt for Upgradation(Satisfied Candidate) MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Satisfied%20Candidate_37.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "State Merit",
+        "batchIndex": 3,
+        "detectedAt": "2026-09-07T17:48:01.182Z"
+      },
+      {
+        "id": "State Merit:6199b704e08b629f",
+        "title": "Merit list of Registered Candidates for MP State NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 14.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY_MERIT_LIST_UG_FR_2026_23.pdf",
+        "date": "14/08/2026",
+        "sortTs": null,
+        "source": "State Merit",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-14T10:38:01.992Z"
+      },
+      {
+        "id": "Seat Charts:dc792057026afd69",
+        "title": "Remaining vacancies in Government and Private Medical/Dental Colleges for Stray Vacancy Round - MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 21.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20Remaining%20vacancies%20in%20Government%20and%20Private%20stray%20round_59.pdf",
+        "date": "21/10/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-21T13:09:50.681Z"
+      },
+      {
+        "id": "Seat Charts:6ea938ba32758545",
+        "title": "List of Candidates Who Have Opted for Upgrade (Virtual Vacancy) In Second Round of MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 03.10.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20opt%20for%20upgarde%20in%20mopup%20round_52.pdf",
+        "date": "03/10/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-03T13:14:48.206Z"
+      },
+      {
+        "id": "Seat Charts:05573dec521ec6b2",
+        "title": "FINAL VACANCIES IN GOVERNMENT/ PRIVATE MBBS/BDS COURSE FOR MOP UP ROUND OF MP STATE NEET UG-2026 COUNSELLING (Date- 03-10-2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Display%20FINAL%20VACANCIES%20IN%20Govt_Private%20MBBS_BDS%20COURSE%20FOR%20MOP%20UP%20ROUND_51.pdf",
+        "date": "03/10/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-03T13:14:48.206Z"
+      },
+      {
+        "id": "Seat Charts:5c12d7c626444b91",
+        "title": "Category and Class wise vacancies in Government and Private Medical/Dental Colleges (MBBS/BDS Course) for Second Round- MP State Combined NEET UG Counselling (MBBS/BDS Course) - 2026 (Date- 07.09.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/DISPLAY%20VACANCIES%20IN%20GOVT_PRIVATE%20MBBS%20COURSE%20FOR%20SECOND%20ROUND%20OF%20COUNSELLING%20MP%20STATE%20NEET%20UG-2026_36.pdf",
+        "date": "07/09/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-07T17:48:00.699Z"
+      },
+      {
+        "id": "Seat Charts:824bcd5e33e451df",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 13.08.2026) (Final)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/Final%20seat%20chart%2013_08_2026_22.pdf",
+        "date": "13/08/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-13T12:16:02.397Z"
+      },
+      {
+        "id": "Seat Charts:9e0f7e504a551737",
+        "title": "Distribution of MBBS/BDS Seats in Government and Private Medical and Dental Colleges of Madhya Pradesh NEET UG 2026 1st Round (Date 11.08.2026)",
+        "link": "https://dme.mponline.gov.in/ql_dme/DMECounselling_Public/DMEUG/2026/seat%20chart%202026_20.pdf",
+        "date": "11/08/2026",
+        "sortTs": null,
+        "source": "Seat Charts",
+        "batchIndex": 0,
+        "detectedAt": "2026-08-11T14:00:05.915Z"
       },
       {
         "id": "Rule Book / Steps / User Manual:21869e1b8c8d32d9",
@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T18:11:36.687Z",
+    "lastUpdatedDate": "2026-10-22T15:34:00.300Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9e0b72c99ef53ee4",
+        "title": "22-10-2026: MBBS- MQ-2026-27- LIST OF CANDIDATES NOT REPORTED AFTER PHASE-III MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.19-10-2026 MBBS-MQ-2026-27- Notification for STRAY ROUND Web options BDS -CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III BDS-CQ 2026-27 - List of Phase-III_MRC Candidates MBBS_CQ-2026-27_College Wise Allotment under STRAY ROUND Counseling",
+        "link": "https://drntr.uhsap.in/index/notification/20261022203234848.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:34:00.300Z"
+      },
       {
         "id": "497f313b7131abeb",
         "title": "21-10-2026: MBBS -2026-27 - CQ - Web Options Notification for Stray Round Counseling MBBS -2026-27-CQ- LIST OF CANDIDATES NOT REPORTED AFTER PHASE-III",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-13T16:18:14.355Z"
-      },
-      {
-        "id": "0da0a4c94c55cd6f",
-        "title": "13-10-2026: PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-II Counselling BDS -MQ- 2026-27 - College wise Allotments-Phase-I",
-        "link": "https://drntr.uhsap.in/index/notification/20261013132254267.pdf",
-        "date": "13/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-13T08:14:59.735Z"
       }
     ]
   },
@@ -2780,9 +2780,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-18T13:10:09.277Z",
+    "lastUpdatedDate": "2026-10-22T15:37:34.396Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "UGMAC:83452738177639c4",
+        "title": "Notice for Extension in filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/16 Dated 22.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_16.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "UGMAC",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:37:34.396Z"
+      },
       {
         "id": "UGMAC:e132501e6992a94a",
         "title": "Notice for filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/15 Dated 18.10.2026)",
@@ -2974,14 +2984,24 @@
         "detectedAt": "2026-07-08T09:36:47.664Z"
       },
       {
-        "id": "UGMAC:434d52739f09976d",
-        "title": "Important Notice Regarding for Candidates of PGMAC/PGDAC/PGMAC[AYUSH]/UGMAC & UGMAC[AYUSH]-2026 (Adv. No. BCECEB-2026/01 Dated 02.04.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_BCECEB_26_01.pdf",
-        "date": "02/04/2026",
+        "id": "Latest Updates:6e24e3aef3e4a82b",
+        "title": "Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/05 Dated 22.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_05.pdf",
+        "date": "22/10/2026",
         "sortTs": null,
-        "source": "UGMAC",
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:37:34.144Z"
+      },
+      {
+        "id": "Latest Updates:83452738177639c4",
+        "title": "Notice for Extension in filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/16 Dated 22.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_16.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
         "batchIndex": 1,
-        "detectedAt": "2026-07-08T09:36:47.664Z"
+        "detectedAt": "2026-10-22T15:37:34.144Z"
       },
       {
         "id": "Latest Updates:e132501e6992a94a",
@@ -3162,26 +3182,6 @@
         "source": "Latest Updates",
         "batchIndex": 1,
         "detectedAt": "2026-09-24T14:24:30.600Z"
-      },
-      {
-        "id": "Latest Updates:538194563bba24d9",
-        "title": "Second Round Counselling Schedule of UGEAC[ARCHITECTURE]-2026(Adv. No. BCECEB(UGEAC)-2026/11 Dated 23.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGEAC26_11.pdf",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T09:17:34.519Z"
-      },
-      {
-        "id": "Latest Updates:012baca3d55ac9db",
-        "title": "Notice for Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/04 Dated 18.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_04.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-19T08:44:56.193Z"
       }
     ]
   },
@@ -3641,9 +3641,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T10:34:13.211Z",
+    "lastUpdatedDate": "2026-10-22T15:37:55.954Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7eddb173fa2ed72e",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR STRAY ROUND ALLOTMENT (MBBS/BDS/BAMS) (REGISTERED FOR STRAY ROUND)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/stray_round_eligible.html",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:37:55.954Z"
+      },
       {
         "id": "OVERALL:5fa8895312a703f3",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR STRAY ROUND REGISTRATION FOR UG NEET BASED MEDICAL COURSES",
@@ -3655,6 +3665,16 @@
         "detectedAt": "2026-10-22T10:34:13.211Z"
       },
       {
+        "id": "OVERALL:420819ba18f8987d",
+        "title": "NOTICE : STRAY ROUND ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1ai2TU2EzoL7UK6E-FqhnVMRWqPiz8EAR/view?usp=sharing",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T15:37:55.954Z"
+      },
+      {
         "id": "UG NEET:5fa8895312a703f3",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR STRAY ROUND REGISTRATION FOR UG NEET BASED MEDICAL COURSES",
         "link": "https://drive.google.com/file/d/1F5v1O3yCxPgyyJKGdnBA3yERKXZiq02f/view?usp=sharing",
@@ -3663,6 +3683,26 @@
         "source": "Direct from Website",
         "batchIndex": 457,
         "detectedAt": "2026-10-22T10:34:13.211Z"
+      },
+      {
+        "id": "UG NEET:7eddb173fa2ed72e",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR STRAY ROUND ALLOTMENT (MBBS/BDS/BAMS) (REGISTERED FOR STRAY ROUND)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/stray_round_eligible.html",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 459,
+        "detectedAt": "2026-10-22T15:37:55.954Z"
+      },
+      {
+        "id": "UG NEET:420819ba18f8987d",
+        "title": "NOTICE : STRAY ROUND ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1ai2TU2EzoL7UK6E-FqhnVMRWqPiz8EAR/view?usp=sharing",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 460,
+        "detectedAt": "2026-10-22T15:37:55.954Z"
       },
       {
         "id": "OVERALL:1a8b3ed55138fc63",
@@ -3803,46 +3843,6 @@
         "source": "Direct from Website",
         "batchIndex": 299,
         "detectedAt": "2026-10-20T19:59:50.742Z"
-      },
-      {
-        "id": "PG MEDICAL:b63da8ba46a819cb",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 16 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/1VIkRaO7N-VCIH0FOfQwRBGWs4thXtZZz/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 299,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "PG DENTAL:a3d634fb3c470df0",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 302,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "PG DENTAL:b63da8ba46a819cb",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 16 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/1VIkRaO7N-VCIH0FOfQwRBGWs4thXtZZz/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 303,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "UG NON-NEET:a3d634fb3c470df0",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 335,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4705,7 +4705,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T18:12:48.513Z",
+    "lastUpdatedDate": "2026-10-22T15:35:10.188Z",
     "pinned": false,
     "notices": [
       {
@@ -6473,9 +6473,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T13:09:53.279Z",
+    "lastUpdatedDate": "2026-10-22T15:37:40.223Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9ee060605ee13a31",
+        "title": "Provisional list of Candidate applied for UG (BUMS) course under 85% Delhi Quota for the session 2026-27.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1792669303792-BUMS_PROVISIONAL_LIST_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:37:40.223Z"
+      },
+      {
+        "id": "235ab3afc4947779",
+        "title": "Provisional list of Candidate applied for UG (BAMS) course under 85% Delhi Quota for the session 2026-27.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1792669290382-BAMS_PROVISIONAL_LIST_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T15:37:40.223Z"
+      },
       {
         "id": "7046c24eb35e4eff",
         "title": "Tentative list of Candidate applied for UG (BAMS) course under 85% Delhi Quota for the session 2026-27.",
@@ -6655,26 +6675,6 @@
         "source": "Direct from Website",
         "batchIndex": 11,
         "detectedAt": "2026-09-16T14:23:18.103Z"
-      },
-      {
-        "id": "7e871db12edd4e97",
-        "title": "Certificate_from_the_Principal_of_the_school last attended",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1787804042462-Performa_of_Certificate_from_the_Principal_of_the_school.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-27T11:05:58.755Z"
-      },
-      {
-        "id": "63b9cbadbd9ee82d",
-        "title": "Surety Bond (2026)",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1787801007394-SURETY_BOND-2026_260826_100008.PDF",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-27T11:05:58.755Z"
       }
     ]
   },
@@ -6685,9 +6685,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T10:31:59.893Z",
+    "lastUpdatedDate": "2026-10-22T15:36:04.719Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1ab654f259c41e08",
+        "title": "Closure of Counselling of Paramedical Courses(BPT/BPO/BASLP/BMLS/BOT) Code 124/119",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610221499237007.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:36:04.719Z"
+      },
       {
         "id": "c8d6da35cda1de12",
         "title": "PGMC (CODE-102)_ 2006-27 INVITING PHYSICAL APPLICATIONS FOR 04 SEATS OF MD (PAEDIATRICS) IN CHACHA NEHRU BAL CHIKITSALAYA UNDER GGSIPU STATE/ INSTITUTIONAL QUOTA_dated-22.10.2026",
@@ -6876,16 +6886,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-10-05T16:59:43.195Z"
-      },
-      {
-        "id": "64f4803d5a1f58f8",
-        "title": "SCHEDULE OF OFFLINE COUNSELLING PROG B.Ed (SPECIAL EDUCATION) (CODE-159) THROUGH CET/CUET/SET FOR THE A.S:2026-27_dated-05.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261005173859425.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-10-05T16:59:43.195Z"
       }
     ]
@@ -7533,9 +7533,39 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-15T14:22:07.104Z",
+    "lastUpdatedDate": "2026-10-22T15:36:13.109Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "839d598b0af9968a",
+        "title": "Stray Round UG Counselling Registration, Choice Filling/ Locking from 22-10-2026 to 23-10-2026 5:00 PM",
+        "link": null,
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 89,
+        "detectedAt": "2026-10-22T15:36:13.109Z"
+      },
+      {
+        "id": "8ad53516619513a1",
+        "title": "Seat Matrix Stray Round Manipur Medical e-Counselling 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1792666400_seatmatrix(strayround).pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:36:13.109Z"
+      },
+      {
+        "id": "70c794aa119f03c6",
+        "title": "Notification Stray Vacancy Round Manipur Medical e-Counselling 2026",
+        "link": "https://manipurmc.mn.gov.in/media/1792666270_Notification%20Stray%20Vacancy%20Round%20Manipur%20Medical%20e-Counselling%202026.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T15:36:13.109Z"
+      },
       {
         "id": "a45965004fd173ef",
         "title": "Candidates allotted in State Govt. quota seats in Round 3",
@@ -7704,36 +7734,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-09-14T19:10:13.195Z"
-      },
-      {
-        "id": "d7dacbcab5faccd6",
-        "title": "Merit list of candidates for State Government Quota(Round 2)",
-        "link": "https://manipurmc.mn.gov.in/media/1789446324_Merit%20list%20of%20candidates%20for%20State%20Government%20Quota.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-15T06:35:39.413Z"
-      },
-      {
-        "id": "2ee6a7aed1155634",
-        "title": "Merit list of candidates for State Government Quota",
-        "link": "https://manipurmc.mn.gov.in/media/1789395080_Merit%20list%20of%20candidates%20for%20State%20Government%20Quota.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-14T19:10:13.195Z"
-      },
-      {
-        "id": "7cab9986470ebcb0",
-        "title": "Merit list of candidates for Management Quota",
-        "link": "https://manipurmc.mn.gov.in/media/1789395042_Merit%20list%20of%20candidates%20for%20Management%20Quota.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-09-14T19:10:13.195Z"
       }
     ]
