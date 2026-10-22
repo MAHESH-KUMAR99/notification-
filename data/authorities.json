@@ -1426,9 +1426,39 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-18T08:42:38.965Z",
+    "lastUpdatedDate": "2026-10-22T10:29:43.773Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3671c53c74114ea1",
+        "title": "GQ7.5 - Provisional List of Candidates allotted for MBBS/BDS (7.5% Reservation Government School Students) Course Session :2026 - 2027 on - 22.10.2026",
+        "link": "https://tnmedicalselection.net/news/22102026010006.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T10:29:43.773Z"
+      },
+      {
+        "id": "96a02c54b9fd448a",
+        "title": "GQ92.5 - Provisional List of Candidates allotted for MBBS/BDS (Government Quota) Course Session :2026 - 2027 on - 22.10.2026",
+        "link": "https://tnmedicalselection.net/news/22102026005452.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T10:29:43.773Z"
+      },
+      {
+        "id": "cb3a3e9062d6c30e",
+        "title": "MQ - Provisional List of Candidates allotted for MBBS/BDS (Management Quota) Course Session :2026 - 2027 on - 22.10.2026",
+        "link": "https://tnmedicalselection.net/news/22102026031440.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-22T10:29:43.773Z"
+      },
       {
         "id": "8860d3ba70dd024b",
         "title": "92.5% - CLICK HERE FOR STRAY ROUND ONLINE COUNSELLING OF MBBS / BDS COURSE (GOVERNMENT / MANAGEMENT (INCLUDING MINORITY) / NRI QUOTA) 2026 - 2027 SESSION)",
@@ -1598,36 +1628,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-30T12:55:51.856Z"
-      },
-      {
-        "id": "e215c7716002f21b",
-        "title": "TENTATIVE VACANCY POSITION FOR MBBS/BDS DEGREE COURSE 2026-2027 IN (92.5% RESERVATION) AS ON 29-09-2026",
-        "link": "https://tnmedicalselection.net/news/29092026031352.pdf",
-        "date": "29/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-29T11:30:55.306Z"
-      },
-      {
-        "id": "05e31d95e24b8d72",
-        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/28092026031412.pdf",
-        "date": "28/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-28T11:33:34.927Z"
-      },
-      {
-        "id": "21f804eef7b6eb3d",
-        "title": "7.5% - TENTATIVE ROUND 3 COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSES (7.5% SEAT RESERVATION FOR TAMIL NADU GOVERNMENT SCHOOL STUDENTS ONLY) 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/27092026204945.pdf",
-        "date": "27/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-28T04:33:56.736Z"
       }
     ]
   },
@@ -2376,9 +2376,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-20T05:54:01.066Z",
+    "lastUpdatedDate": "2026-10-22T10:29:27.465Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "11d593b4e833894b",
+        "title": "Provisional Allotment of MBBS/BDS seats in Stray Round online counselling",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Provisional%20Allotment%20Stray%20Round%20221026.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T10:29:27.465Z"
+      },
       {
         "id": "48df01af9f66d127",
         "title": "Click here to fill online choices for stray Round of online counselling for MBBS/BDS under NEET UG 2026",
@@ -2568,16 +2578,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-25T05:58:41.415Z"
-      },
-      {
-        "id": "2ea3163c229c567d",
-        "title": "Provisional allotment of Result under NEET-UG 2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Allotment%20of%20Seat%20under%20J&K%20Migrants%20category%2021-09-2026.pdf",
-        "date": "21/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-21T19:09:26.860Z"
       }
     ]
   },
@@ -3641,9 +3641,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T13:10:11.884Z",
+    "lastUpdatedDate": "2026-10-22T10:34:13.211Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:5fa8895312a703f3",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR STRAY ROUND REGISTRATION FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1F5v1O3yCxPgyyJKGdnBA3yERKXZiq02f/view?usp=sharing",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T10:34:13.211Z"
+      },
+      {
+        "id": "UG NEET:5fa8895312a703f3",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR STRAY ROUND REGISTRATION FOR UG NEET BASED MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1F5v1O3yCxPgyyJKGdnBA3yERKXZiq02f/view?usp=sharing",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 457,
+        "detectedAt": "2026-10-22T10:34:13.211Z"
+      },
       {
         "id": "OVERALL:1a8b3ed55138fc63",
         "title": "IGMCRI - FEE STRUCTURE FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3822,26 +3842,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 335,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "UG NON-NEET:b63da8ba46a819cb",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 16 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/1VIkRaO7N-VCIH0FOfQwRBGWs4thXtZZz/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 336,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "UG NEET:a3d634fb3c470df0",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 450,
         "detectedAt": "2026-10-20T15:51:47.322Z"
       },
       {
@@ -5429,7 +5429,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-18T13:10:32.498Z",
+    "lastUpdatedDate": "2026-10-22T10:33:48.963Z",
     "pinned": false,
     "notices": [
       {
@@ -5825,9 +5825,29 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T13:10:13.961Z",
+    "lastUpdatedDate": "2026-10-22T10:34:15.486Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:986f586c8c469433",
+        "title": "Revised Seat Vacancy for Stray round MBBS/BDS Counselling 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Revised-Seat-Vacancy-for-Stray-round-MBBS-BDS-Counselling-21.10.2026.01.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T10:34:15.486Z"
+      },
+      {
+        "id": "MBBS/BDS Counselling:4c98fb35b0334bc9",
+        "title": "Provisional Seat Vacancy of Stray Round for MBBS/BDS 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Provisional-Seat-Vacancy-for-MBBS-BDS-Stray-Round-Counselling-2026-22.10.2026.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T10:34:15.486Z"
+      },
       {
         "id": "MBBS/BDS Counselling:5b201c714f9ffff6",
         "title": "Merit List MBBS/BDS Stray Round Counselling 2026",
@@ -6007,26 +6027,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-09-11T14:20:03.823Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:8c24d85565a6894d",
-        "title": "Merit list of MBBS/BDS 2nd round Counselling 2026-27",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/Merit-list-of-MBBS-BDS-2nd-round-Counselling-2026-merged.pdf",
-        "date": "08/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-08T13:29:50.601Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:2048823a0678b9b8",
-        "title": "Provisional Seat Vacancy for MBBS/BDS 2nd Round Counselling 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/Provisional-Seat-vacancy-for-MBBS-BDS-2nd-round-Counselling-2026-website-nn.pdf",
-        "date": "07/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-07T12:06:35.279Z"
       }
     ]
   },
@@ -6685,9 +6685,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T13:08:11.008Z",
+    "lastUpdatedDate": "2026-10-22T10:31:59.893Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c8d6da35cda1de12",
+        "title": "PGMC (CODE-102)_ 2006-27 INVITING PHYSICAL APPLICATIONS FOR 04 SEATS OF MD (PAEDIATRICS) IN CHACHA NEHRU BAL CHIKITSALAYA UNDER GGSIPU STATE/ INSTITUTIONAL QUOTA_dated-22.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261022615659704.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T10:31:59.893Z"
+      },
+      {
+        "id": "4090a5c27a60d929",
+        "title": "MBBS (CODE-103) (NEET UG 2026) – STRAY ROUND : 2026-27_dated-22.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610221647448318.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T10:31:59.893Z"
+      },
       {
         "id": "b40aaff24508378c",
         "title": "TENTATIVE VACANT SEATS FOR PARAMEDICAL (B.PT/B.OT/BASLP/BMLS/BPO) (CODE 119/124) FOR THE A.S:2026-27_dated-21.10.2026",
@@ -6867,26 +6887,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-10-05T16:59:43.195Z"
-      },
-      {
-        "id": "f3581544b5041eeb",
-        "title": "SCHEDULE OF 02nd OFFLINE COUNSELLING PROG L.E B.PHARM (CODE-138) FOR THE A.S:2026-27_dated-05.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610051853998685.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-05T16:59:43.195Z"
-      },
-      {
-        "id": "f8c0a0c79ff8fc56",
-        "title": "ROUND 01 BAMS (CODE-153) FOR NEET UG 2026 A.S:2026-27_dated-01.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610011736723427.pdf",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-01T15:17:52.423Z"
       }
     ]
   },
