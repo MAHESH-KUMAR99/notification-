@@ -2376,9 +2376,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T10:29:27.465Z",
+    "lastUpdatedDate": "2026-10-23T12:46:58.435Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "20a3eed2931ce19a",
+        "title": "Provisional Allocation of MBBS/BDS Seats – Stray Round of Online Counselling, Session 2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/23-10-2026/ProvisionalAllotment.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:46:58.435Z"
+      },
       {
         "id": "11d593b4e833894b",
         "title": "Provisional Allotment of MBBS/BDS seats in Stray Round online counselling",
@@ -2568,16 +2578,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-25T16:53:29.111Z"
-      },
-      {
-        "id": "8753d3b3b48f062b",
-        "title": "Schedule for 3rd Round of MBBS/BDS online counselling under NEET UG 2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/New%20Schedule%203rd%20Round-MBBS%20240926.pdf",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-25T05:58:41.415Z"
       }
     ]
   },
@@ -2780,9 +2780,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T07:15:58.967Z",
+    "lastUpdatedDate": "2026-10-23T12:51:07.918Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:dbc610a03d6468d7",
+        "title": "Revised Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/06 Dated 23.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_06.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:51:07.918Z"
+      },
       {
         "id": "Latest Updates:d46d95c2303b7cf6",
         "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/07 Dated 23.10.2026)",
@@ -2972,16 +2982,6 @@
         "source": "Latest Updates",
         "batchIndex": 1,
         "detectedAt": "2026-09-30T18:24:39.355Z"
-      },
-      {
-        "id": "Latest Updates:3fc089435a89ac1d",
-        "title": "Extension in Date for Online Application and Choice Filling for UGMAC[AYUSH]-2026(Adv. No. BCECEB[UGMAC(Ayush)]-2026/03 Dated 26.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_03.pdf",
-        "date": "26/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-26T12:26:39.419Z"
       },
       {
         "id": "UGMAC:83452738177639c4",
@@ -3285,9 +3285,39 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T13:05:55.348Z",
+    "lastUpdatedDate": "2026-10-23T12:46:57.370Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c153b829adc57799",
+        "title": "Advt. No. 111 Dated-23.10.2026 Indicative information regarding Merit List preparation for Special Round of online counselling for admission in All India seats in M.B.B.S. & B.D.S. courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/812.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:46:57.370Z"
+      },
+      {
+        "id": "e3f0a4f43b8c277f",
+        "title": "Advt. No. 110 dated-23.10.2026 Detailed information regarding Preparation of Merit List for Special Round of online counselling-2026 for admission in All India seats in M.B.B.S. & B.D.S. courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/811.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-23T12:46:57.370Z"
+      },
+      {
+        "id": "19aa3407c1538e5e",
+        "title": "Advt. No. 109 Dated-23.10.2026 Important Notice regarding correction in State Merit List/Merit Lists Based on NEET (UG)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/810.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-23T12:46:57.370Z"
+      },
       {
         "id": "f034a947aad40263",
         "title": "Advt. No. 108 dated-21.10.2026 झारखण्ड संयुक्त प्रवेश प्रतियोगिता परीक्षा (कृषि एवं अन्य समवर्गी पाठ्यक्रमों के लिए) -2026 के परीक्षाफल के आधार पर विशेष चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित आवश्यक सूचना",
@@ -3477,36 +3507,6 @@
         "titleEn": "Advt. No. 89 dated-30.09.2026 Commercial Pilot s License Training with Multi Engine Rating Important information related to the result of Psychometric Test/Pilot Aptitude Test of the candidates passed in the Entrance Competitive Examination-2026",
         "titleLang": "hi",
         "detectedAt": "2026-09-30T12:55:42.971Z"
-      },
-      {
-        "id": "fa36c5cbd3206d6e",
-        "title": "Advt. No. 88 dated-25.09.2026 Advisory and Guidelines regarding Residential/Category/Income & Assets/PwD/ In-service certificate for upcoming online Application form Submission for State Merit List on the basis of NEET (PG)-2026 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/791.pdf",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-25T11:42:04.389Z"
-      },
-      {
-        "id": "0424a17c00cdded3",
-        "title": "Advt. No. 87 dated-21.09.2026 Important Notice regarding correction in State Merit List Based on NEET (UG)- 2026 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/790.pdf",
-        "date": "21/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-21T13:46:25.124Z"
-      },
-      {
-        "id": "7dbdd9acc3af8d8d",
-        "title": "Advt. No. 86 dated-18.09.2026 Notice regarding 2nd Round of Online Counselling for MDS All India & NRI Quota Seats of Vananchal Dental College & Hospital, Farathiya, Garhwa on the basis of NEET MDS-2026 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/789.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-18T14:50:59.874Z"
       }
     ]
   },
@@ -3641,9 +3641,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T15:37:55.954Z",
+    "lastUpdatedDate": "2026-10-23T12:51:30.088Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:3d9870fe538fc6f8",
+        "title": "REVISED LIST OF CANDIDATES ELIGIBLE FOR STRAY ROUND ALLOTMENT (MBBS/BDS/BAMS) (REGISTERED FOR STRAY ROUND)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/revised_stray_round_list.html",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:51:30.088Z"
+      },
+      {
+        "id": "OVERALL:65044a98059e2ebf",
+        "title": "NOTICE : STRAY ROUND REVISED ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1TC9pmSvQhcINpswkWg0X1fv9nSBnjHHA/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-23T12:51:30.088Z"
+      },
+      {
+        "id": "UG NEET:3d9870fe538fc6f8",
+        "title": "REVISED LIST OF CANDIDATES ELIGIBLE FOR STRAY ROUND ALLOTMENT (MBBS/BDS/BAMS) (REGISTERED FOR STRAY ROUND)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/revised_stray_round_list.html",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 461,
+        "detectedAt": "2026-10-23T12:51:30.088Z"
+      },
+      {
+        "id": "UG NEET:65044a98059e2ebf",
+        "title": "NOTICE : STRAY ROUND REVISED ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1TC9pmSvQhcINpswkWg0X1fv9nSBnjHHA/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 462,
+        "detectedAt": "2026-10-23T12:51:30.088Z"
+      },
       {
         "id": "OVERALL:7eddb173fa2ed72e",
         "title": "LIST OF CANDIDATES ELIGIBLE FOR STRAY ROUND ALLOTMENT (MBBS/BDS/BAMS) (REGISTERED FOR STRAY ROUND)",
@@ -3803,46 +3843,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "PG MEDICAL:7e410f34dc1c0a07",
-        "title": "PRESS RELEASE ADMISSION NOTIFICATION TO PG MEDICAL (M.D. / M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/12T8iTo17zql8HfV-msfTXzvkCXc9Z9WM/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 297,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "PG MEDICAL:fc28fffb0bb0829d",
-        "title": "INFORMATION BROCHURE FOR ADMISSION TO POST GRADUATE MEDICAL (M.D./M.S.) COURSES",
-        "link": "https://drive.google.com/file/d/1R4u52A2hnX8sZAs4hrKSZZTPVHFE8YOC/view?usp=drivesdk",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 298,
-        "detectedAt": "2026-10-20T19:59:50.742Z"
-      },
-      {
-        "id": "PG MEDICAL:a3d634fb3c470df0",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 298,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "PG MEDICAL:bb2587f15d145ae0",
-        "title": "PRESS RELEASE ADMISSION NOTIFICATION TO PG MEDICAL (M.D. / M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1KeoTqrGa5FhbEuo-URJeg3GKJ-CTrZn-/view?usp=drivesdk",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 299,
-        "detectedAt": "2026-10-20T19:59:50.742Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5429,7 +5429,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T10:33:48.963Z",
+    "lastUpdatedDate": "2026-10-23T12:51:18.114Z",
     "pinned": false,
     "notices": [
       {
@@ -5825,9 +5825,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T10:34:15.486Z",
+    "lastUpdatedDate": "2026-10-23T12:51:32.305Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:9e6ab0e1706c3b89",
+        "title": "Provisional Seat allocation of MBBS/BDS Stray round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Provisional-Seat-allocation-of-MBBS-BDS-stray-round-COunselling-2026-merged.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:51:32.305Z"
+      },
       {
         "id": "MBBS/BDS Counselling:986f586c8c469433",
         "title": "Revised Seat Vacancy for Stray round MBBS/BDS Counselling 2026-27",
@@ -6017,16 +6027,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 1,
         "detectedAt": "2026-09-15T12:37:12.710Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:25402e43f1a13206",
-        "title": "Provisional Seat Allocation of MBBS/BDS 2nd Round Counselling 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/Provisional-Seat-Allocation-of-MBBS-BDS-2nd-round-Counselling-2026-merged.pdf",
-        "date": "11/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-11T14:20:03.823Z"
       }
     ]
   },
@@ -6473,9 +6473,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T07:16:07.424Z",
+    "lastUpdatedDate": "2026-10-23T12:51:14.002Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f16c942004d8093e",
+        "title": "UG(BUMS)- Final list of Candidates under 85% Delhi Quota for the session 2026-27.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1792751435181-BUMS_FINAL_LIST_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:51:14.002Z"
+      },
+      {
+        "id": "4c97ac95945d383e",
+        "title": "UG(BAMS)- Final list of Candidates under 85% Delhi Quota for the session 2026-27.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1792751445787-BAMS_FINAL_LIST_2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-23T12:51:14.002Z"
+      },
       {
         "id": "e4b7aa50764e49b7",
         "title": "UG(BUMS)- Provisional list of Candidates under 85% Delhi Quota for the session 2026-27.",
@@ -6655,26 +6675,6 @@
         "source": "Direct from Website",
         "batchIndex": 20,
         "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "019bb8c8799c21cf",
-        "title": "UG(Medical)- Supplementary list of CW Category applicants for UG Medical Admission 2026 under 85% DU Quota.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1786523708489-Suppliementary_list_for_CW.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 27,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "f5daa8d50a8058db",
-        "title": "UG(MBBS/BDS)- Online Registration Link for Admissions 2026-2027",
-        "link": "https://mbbsadmission.uod.ac.in/",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 28,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
       }
     ]
   },
@@ -6685,9 +6685,39 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T15:36:04.719Z",
+    "lastUpdatedDate": "2026-10-23T12:49:14.365Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bc3e923b5341d7eb",
+        "title": "Round 03 BHMS (CODE-154) FOR NEET UG 2026 A.S:2026-27_dated- 23.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610231960694687.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:49:14.365Z"
+      },
+      {
+        "id": "b2e9a8d3df0227a3",
+        "title": "Round 02 BAMS (CODE-153) FOR NEET UG 2026 A.S:2026-27_dated- 23.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610232862673.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-23T12:49:14.365Z"
+      },
+      {
+        "id": "ae44ff8018e0cc79",
+        "title": "Code 196(Postgraduate Ayurveda Courses) and Code 700(PG Homeopathy) Re-opening of portal for submission of online application forms_dated-23.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261023871766364.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-23T12:49:14.365Z"
+      },
       {
         "id": "1ab654f259c41e08",
         "title": "Closure of Counselling of Paramedical Courses(BPT/BPO/BASLP/BMLS/BOT) Code 124/119",
@@ -6857,36 +6887,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-06T17:08:01.552Z"
-      },
-      {
-        "id": "db1822703493a974",
-        "title": "ROUND 03 MBBS (CODE-103) (NEET UG 2026) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-06.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610061140829616.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-06T17:08:01.552Z"
-      },
-      {
-        "id": "db5d0853ae930722",
-        "title": "SEATS IN BA (LIBERAL ARTS) COUNSELLING ARE FILLED_dated-05.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261005731545047.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-05T16:59:43.195Z"
-      },
-      {
-        "id": "99c322ee45d2a2b6",
-        "title": "INCLUSION OF HINDU RAO HOSPITAL FOR CONDUCT OF PARAMEDICAL (B.PT/B.OT/BPO/BASLP/B.MLS) (CODE-119/124)SCHEDULE FOR SPOT ROUND 02 OF ONLINE COUNSELLING A.S:2026-27_dated-05.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261005840781527.pdf",
-        "date": "05/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-05T16:59:43.195Z"
       }
     ]
   },
@@ -6897,9 +6897,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-17T16:35:55.304Z",
+    "lastUpdatedDate": "2026-10-23T12:47:02.440Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6d8d80353dbea910",
+        "title": "Debarring Notice Dated 22-10-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/10/202610231054779216.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:47:02.440Z"
+      },
       {
         "id": "1afcd39472c39635",
         "title": "Provisional List of Candidates For Online Stray Round",
@@ -7089,16 +7099,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-24T09:52:43.225Z"
-      },
-      {
-        "id": "452d3b1ba5090b46",
-        "title": "Revised Schedule Round 1 Dated 20.08.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608202072716281.pdf",
-        "date": "20/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-08-20T10:34:55.216Z"
       }
     ]
   },
