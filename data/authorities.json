@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T19:50:50.627Z",
+    "lastUpdatedDate": "2026-10-23T17:47:45.994Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "df0a00ec0c6b3759",
+        "title": "23-10-2026: MBBS-MQ-2026-27-College wise allottments under STRAY ROUND BDS-MQ-2026-27- Notification for weboptions under Phase-III",
+        "link": "https://drntr.uhsap.in/index/notification/20261023222136980.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T17:47:45.994Z"
+      },
       {
         "id": "3b89c0a9ded9b15d",
         "title": "22-10-2026: MBBS - 2026-27 - MQ - List of candiates Not Reported _ Availed Free Exit after Phase III MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.19-10-2026 MBBS-MQ-2026-27- Notification for STRAY ROUND Web options BDS -CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III BDS-CQ 2026-27 - List of Phase-III_MRC Candidates MBBS_CQ-2026-27_College Wise Allotment under STRAY ROUND Counseling",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-14T16:51:19.199Z"
-      },
-      {
-        "id": "d5e1b7ec3af1ce6a",
-        "title": "14-10-2026: PG (MEDICAL) CQ NOTIFICATION 2026-27 PG(Medical) CQ UserManual 2026-27 PG (MEDICAL) CQ PROSPECTUS 2026-27 MBBS CQ 2026-27 - List of Candidates availed FREE EXIT after Phase-II Counselling MBBS CQ 2026-27 - List of candidates Not Reported after Phase-II",
-        "link": "https://drntr.uhsap.in/index/notification/20261014153152180.pdf",
-        "date": "14/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-14T11:33:17.819Z"
       }
     ]
   },
