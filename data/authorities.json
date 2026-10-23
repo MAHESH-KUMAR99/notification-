@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T17:47:45.994Z",
+    "lastUpdatedDate": "2026-10-23T21:11:32.671Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "06c496eb8dd2aa30",
+        "title": "23-10-2026: BDS 2026-27 CQ PHASE 3 College Wise Allotments MBBS-MQ-2026-27-College wise allottments under STRAY ROUND BDS-MQ-2026-27- Notification for weboptions under Phase-III",
+        "link": "https://drntr.uhsap.in/index/notification/20261024001302717.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T21:11:32.671Z"
+      },
       {
         "id": "df0a00ec0c6b3759",
         "title": "23-10-2026: MBBS-MQ-2026-27-College wise allottments under STRAY ROUND BDS-MQ-2026-27- Notification for weboptions under Phase-III",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-15T09:01:22.591Z"
-      },
-      {
-        "id": "71e4239e36283ab6",
-        "title": "14-10-2026: MBBS CQ 2026-27 Vacant seats for Phase III MBBS CQ 2026-27 PHASE 3 (MOPUP) WEB OPTIONS NOTIFICATION B.Sc.(NURSING) 4 YDC SEAT MATRIX 2026 - AU AREA B.Sc.(NURSING) 4 YDC SEAT MATRIX 2026 - SVU AREA B.Sc.(NURSING) 4 YDC SEAT MATRIX 2026 - SWI AREA B.Sc. (NURSING) 4 YDC SEAT MATRIX 2026 - Christian Minority College PG (MEDICAL) CQ NOTIFICATION 2026-27 PG(Medical) CQ UserManual 2026-27 PG (MEDICAL) CQ PROSPECTUS 2026-27 MBBS CQ 2026-27 - List of Candidates availed FREE EXIT after Phase-II Counselling MBBS CQ 2026-27 - List of candidates Not Reported after Phase-II",
-        "link": "https://drntr.uhsap.in/index/notification/20261014214047577.pdf",
-        "date": "14/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-14T16:51:19.199Z"
       }
     ]
   },
@@ -3641,9 +3641,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T12:51:30.088Z",
+    "lastUpdatedDate": "2026-10-23T21:15:58.561Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:f605f099df9e92b2",
+        "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1UtgHbpGjiWYXSgJQvC7X9nEuLzXIbEPw/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T21:15:58.561Z"
+      },
       {
         "id": "OVERALL:3d9870fe538fc6f8",
         "title": "REVISED LIST OF CANDIDATES ELIGIBLE FOR STRAY ROUND ALLOTMENT (MBBS/BDS/BAMS) (REGISTERED FOR STRAY ROUND)",
@@ -3653,6 +3663,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-23T12:51:30.088Z"
+      },
+      {
+        "id": "OVERALL:cbcc4bf70cdc8460",
+        "title": "NOTICE : STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1hXb9NVaVJXv5An-zoq7QzwrfpN8xljbW/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-23T21:15:58.561Z"
       },
       {
         "id": "OVERALL:65044a98059e2ebf",
@@ -3683,6 +3703,26 @@
         "source": "Direct from Website",
         "batchIndex": 462,
         "detectedAt": "2026-10-23T12:51:30.088Z"
+      },
+      {
+        "id": "UG NEET:f605f099df9e92b2",
+        "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1UtgHbpGjiWYXSgJQvC7X9nEuLzXIbEPw/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 463,
+        "detectedAt": "2026-10-23T21:15:58.561Z"
+      },
+      {
+        "id": "UG NEET:cbcc4bf70cdc8460",
+        "title": "NOTICE : STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1hXb9NVaVJXv5An-zoq7QzwrfpN8xljbW/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 464,
+        "detectedAt": "2026-10-23T21:15:58.561Z"
       },
       {
         "id": "OVERALL:7eddb173fa2ed72e",
@@ -3802,46 +3842,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "OVERALL:bb2587f15d145ae0",
-        "title": "PRESS RELEASE ADMISSION NOTIFICATION TO PG MEDICAL (M.D. / M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1KeoTqrGa5FhbEuo-URJeg3GKJ-CTrZn-/view?usp=drivesdk",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-20T19:59:50.742Z"
-      },
-      {
-        "id": "OVERALL:a3d634fb3c470df0",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 24 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA IN THE POST GRADUATE COURSES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/12fhqcVonxvNxegPuiuxdeOk8KyR_mLRc/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "OVERALL:b63da8ba46a819cb",
-        "title": "CHIEF SECRETARIAT - HIGHER AND TECHNICAL EDUCATION - G.O. NO. 16 - GUIDELINES FOR THE ADMISSION OF STUDENTS UNDER MERITORIOUS SPORTS PERSONS QUOTA - RATIONALIZATION OF GAMES IN THE LIST OF SPORTS DISCIPLINES - ORDERS - LSSUED.",
-        "link": "https://drive.google.com/file/d/1VIkRaO7N-VCIH0FOfQwRBGWs4thXtZZz/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
-      },
-      {
-        "id": "OVERALL:1c249d7365a9631b",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR STRAY ROUND REGISTRATION FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1SrASmrAAIMvqg13D9YCsKgY-a9boloqe/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-10-20T15:51:47.322Z"
       },
       {
