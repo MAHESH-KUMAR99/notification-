@@ -2780,9 +2780,209 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T15:37:34.396Z",
+    "lastUpdatedDate": "2026-10-23T07:15:58.967Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:d46d95c2303b7cf6",
+        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/07 Dated 23.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_07.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T07:15:58.967Z"
+      },
+      {
+        "id": "Latest Updates:3a9fe8c7b7d2b844",
+        "title": "Details for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/06 Dated 23.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_06.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-23T07:15:58.967Z"
+      },
+      {
+        "id": "Latest Updates:6e24e3aef3e4a82b",
+        "title": "Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/05 Dated 22.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_05.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:37:34.144Z"
+      },
+      {
+        "id": "Latest Updates:83452738177639c4",
+        "title": "Notice for Extension in filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/16 Dated 22.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_16.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-22T15:37:34.144Z"
+      },
+      {
+        "id": "Latest Updates:e132501e6992a94a",
+        "title": "Notice for filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/15 Dated 18.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_15.pdf",
+        "date": "18/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-18T13:10:08.991Z"
+      },
+      {
+        "id": "Latest Updates:347ad8f71c388380",
+        "title": "Details for filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/14 Dated 18.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_14.pdf",
+        "date": "18/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-18T13:10:08.991Z"
+      },
+      {
+        "id": "Latest Updates:0b94129b94936eee",
+        "title": "Notice for Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling (PGMAC)-2026 (MD/MS/PGD/ DNB(Degree/Diploma) Courses in Govt/Private Medical Colleges of Bihar on the basis of NEET(PG)-2026 (Adv. No. BCECEB(PGMAC)-2026/02 Dated 18.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_02.pdf",
+        "date": "18/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-18T13:10:08.991Z"
+      },
+      {
+        "id": "Latest Updates:0144e438fd22e079",
+        "title": "Details for Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling (PGMAC)-2026 (MD/MS/PGD/ DNB(Degree/Diploma) Courses in Govt/Private Medical Colleges of Bihar on the basis of NEET(PG)-2026 (Adv. No. BCECEB(PGMAC)-2026/01 Dated 18.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_01.pdf",
+        "date": "18/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-18T13:10:08.991Z"
+      },
+      {
+        "id": "Latest Updates:e35fc2a99649dab1",
+        "title": "Corrigendum for UGMAC-2026 Round-3 Counselling(Adv. No. BCECEB(UGMAC)-2026/13 Dated 14.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_13.pdf",
+        "date": "14/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-14T16:55:13.611Z"
+      },
+      {
+        "id": "Latest Updates:743a0331c67a0a73",
+        "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/05 Dated 09.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_05.pdf",
+        "date": "09/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-09T15:11:19.633Z"
+      },
+      {
+        "id": "Latest Updates:ea43612285241fc8",
+        "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/04 Dated 09.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_04.pdf",
+        "date": "09/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-09T15:11:19.633Z"
+      },
+      {
+        "id": "Latest Updates:23e973177001ce91",
+        "title": "Date and Time for Offline Counselling of POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/03 Dated 04.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGPAC26_03.pdf",
+        "date": "04/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-04T11:18:13.752Z"
+      },
+      {
+        "id": "Latest Updates:29baaa62487ae4fe",
+        "title": "Corrigendum for Online Registraion and Choice filling for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/11 Dated 03.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_12.pdf",
+        "date": "03/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-03T13:14:42.582Z"
+      },
+      {
+        "id": "Latest Updates:b170108a5eb528c2",
+        "title": "Corrigendum for Online Registraion and Choice filling for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/12 Dated 03.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_12.pdf",
+        "date": "03/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-14T16:55:13.611Z"
+      },
+      {
+        "id": "Latest Updates:ac91eeb6925246db",
+        "title": "Important Notice for of Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/05 Dated 02.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_05.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-02T13:06:54.935Z"
+      },
+      {
+        "id": "Latest Updates:c4a9e264f4023939",
+        "title": "Details of Registration-cum-Choice Filling for Admission in Round-3 of Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/04 Dated 02.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_04.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-02T13:06:54.935Z"
+      },
+      {
+        "id": "Latest Updates:a35b15ab4cca6366",
+        "title": "Corrigendum for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/11 Dated 02.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_11.pdf",
+        "date": "02/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-02T13:06:54.935Z"
+      },
+      {
+        "id": "Latest Updates:6f4416ecbdfccfd3",
+        "title": "Notice for filling online application form and choice filling for Round-3 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/10 Dated 30.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_10.pdf",
+        "date": "30/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-30T18:24:39.355Z"
+      },
+      {
+        "id": "Latest Updates:35b2f8a5063ee628",
+        "title": "Details for filling online application form and choice filling for Round-3 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/09 Dated 30.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_09.pdf",
+        "date": "30/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-09-30T18:24:39.355Z"
+      },
+      {
+        "id": "Latest Updates:3fc089435a89ac1d",
+        "title": "Extension in Date for Online Application and Choice Filling for UGMAC[AYUSH]-2026(Adv. No. BCECEB[UGMAC(Ayush)]-2026/03 Dated 26.09.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_03.pdf",
+        "date": "26/09/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-09-26T12:26:39.419Z"
+      },
       {
         "id": "UGMAC:83452738177639c4",
         "title": "Notice for Extension in filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/16 Dated 22.10.2026)",
@@ -2982,206 +3182,6 @@
         "source": "UGMAC",
         "batchIndex": 0,
         "detectedAt": "2026-07-08T09:36:47.664Z"
-      },
-      {
-        "id": "Latest Updates:6e24e3aef3e4a82b",
-        "title": "Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/05 Dated 22.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_05.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-22T15:37:34.144Z"
-      },
-      {
-        "id": "Latest Updates:83452738177639c4",
-        "title": "Notice for Extension in filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/16 Dated 22.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_16.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-22T15:37:34.144Z"
-      },
-      {
-        "id": "Latest Updates:e132501e6992a94a",
-        "title": "Notice for filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/15 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_15.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:347ad8f71c388380",
-        "title": "Details for filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/14 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_14.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:0b94129b94936eee",
-        "title": "Notice for Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling (PGMAC)-2026 (MD/MS/PGD/ DNB(Degree/Diploma) Courses in Govt/Private Medical Colleges of Bihar on the basis of NEET(PG)-2026 (Adv. No. BCECEB(PGMAC)-2026/02 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_02.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:0144e438fd22e079",
-        "title": "Details for Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling (PGMAC)-2026 (MD/MS/PGD/ DNB(Degree/Diploma) Courses in Govt/Private Medical Colleges of Bihar on the basis of NEET(PG)-2026 (Adv. No. BCECEB(PGMAC)-2026/01 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_01.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:e35fc2a99649dab1",
-        "title": "Corrigendum for UGMAC-2026 Round-3 Counselling(Adv. No. BCECEB(UGMAC)-2026/13 Dated 14.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_13.pdf",
-        "date": "14/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-14T16:55:13.611Z"
-      },
-      {
-        "id": "Latest Updates:743a0331c67a0a73",
-        "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/05 Dated 09.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_05.pdf",
-        "date": "09/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-09T15:11:19.633Z"
-      },
-      {
-        "id": "Latest Updates:ea43612285241fc8",
-        "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/04 Dated 09.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_04.pdf",
-        "date": "09/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-09T15:11:19.633Z"
-      },
-      {
-        "id": "Latest Updates:23e973177001ce91",
-        "title": "Date and Time for Offline Counselling of POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/03 Dated 04.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGPAC26_03.pdf",
-        "date": "04/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-04T11:18:13.752Z"
-      },
-      {
-        "id": "Latest Updates:29baaa62487ae4fe",
-        "title": "Corrigendum for Online Registraion and Choice filling for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/11 Dated 03.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_12.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-03T13:14:42.582Z"
-      },
-      {
-        "id": "Latest Updates:b170108a5eb528c2",
-        "title": "Corrigendum for Online Registraion and Choice filling for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/12 Dated 03.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_12.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 4,
-        "detectedAt": "2026-10-14T16:55:13.611Z"
-      },
-      {
-        "id": "Latest Updates:ac91eeb6925246db",
-        "title": "Important Notice for of Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/05 Dated 02.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_05.pdf",
-        "date": "02/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-02T13:06:54.935Z"
-      },
-      {
-        "id": "Latest Updates:c4a9e264f4023939",
-        "title": "Details of Registration-cum-Choice Filling for Admission in Round-3 of Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/04 Dated 02.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_04.pdf",
-        "date": "02/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-02T13:06:54.935Z"
-      },
-      {
-        "id": "Latest Updates:a35b15ab4cca6366",
-        "title": "Corrigendum for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/11 Dated 02.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_11.pdf",
-        "date": "02/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-02T13:06:54.935Z"
-      },
-      {
-        "id": "Latest Updates:6f4416ecbdfccfd3",
-        "title": "Notice for filling online application form and choice filling for Round-3 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/10 Dated 30.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_10.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-30T18:24:39.355Z"
-      },
-      {
-        "id": "Latest Updates:35b2f8a5063ee628",
-        "title": "Details for filling online application form and choice filling for Round-3 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/09 Dated 30.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_09.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-30T18:24:39.355Z"
-      },
-      {
-        "id": "Latest Updates:3fc089435a89ac1d",
-        "title": "Extension in Date for Online Application and Choice Filling for UGMAC[AYUSH]-2026(Adv. No. BCECEB[UGMAC(Ayush)]-2026/03 Dated 26.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_03.pdf",
-        "date": "26/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-26T12:26:39.419Z"
-      },
-      {
-        "id": "Latest Updates:8b5d731f059e0167",
-        "title": "Notice for Filling Online Application form for POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/02 Dated 24.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGPAC26_02.pdf",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T14:24:30.600Z"
-      },
-      {
-        "id": "Latest Updates:cf6d4d7b592bbe34",
-        "title": "Details for Filling Online Application form for POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/01 Dated 24.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGPAC26_01.pdf",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-24T14:24:30.600Z"
       }
     ]
   },
@@ -6473,208 +6473,208 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T15:37:40.223Z",
+    "lastUpdatedDate": "2026-10-23T07:16:07.424Z",
     "pinned": false,
     "notices": [
       {
-        "id": "9ee060605ee13a31",
-        "title": "Provisional list of Candidate applied for UG (BUMS) course under 85% Delhi Quota for the session 2026-27.",
+        "id": "e4b7aa50764e49b7",
+        "title": "UG(BUMS)- Provisional list of Candidates under 85% Delhi Quota for the session 2026-27.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1792669303792-BUMS_PROVISIONAL_LIST_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-10-22T15:37:40.223Z"
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "235ab3afc4947779",
-        "title": "Provisional list of Candidate applied for UG (BAMS) course under 85% Delhi Quota for the session 2026-27.",
+        "id": "0b5b5ec58dcae496",
+        "title": "UG(BAMS)- Provisional list of Candidates under 85% Delhi Quota for the session 2026-27.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1792669290382-BAMS_PROVISIONAL_LIST_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-10-22T15:37:40.223Z"
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "7046c24eb35e4eff",
-        "title": "Tentative list of Candidate applied for UG (BAMS) course under 85% Delhi Quota for the session 2026-27.",
+        "id": "1cc12f9584d08e67",
+        "title": "UG(BAMS)- Tentative list of Candidates under 85% Delhi Quota for the session 2026-27.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1792577071922-REGISTERED_CANDIDATE_UNDER_BAMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T13:09:53.279Z"
+        "batchIndex": 2,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "53325ad13ef585cf",
-        "title": "Tentative list of Candidate applied for UG (BUMS) course under 85% Delhi Quota for the session 2026-27.",
+        "id": "ad56030465079dea",
+        "title": "UG(BUMS)- Tentative list of Candidates under 85% Delhi Quota for the session 2026-27.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1792577096014-REGISTERED_CANDIDATE_UNDER_BUMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-21T13:09:53.279Z"
+        "batchIndex": 3,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "fe41a43b86ba842c",
-        "title": "Admission Notice for BHMS for 3rd Round of Counselling for Academic Session 2026-2027.",
+        "id": "235fa1b45c852cf8",
+        "title": "UG(BHMS)- Admission Notice for 3rd Round of Counselling for Academic Session 2026-2027.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1792142989377-Admission_Notification.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-16T11:06:26.869Z"
+        "batchIndex": 4,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "2f69367b938d9e3a",
-        "title": "Result of 3rd Round of Counselling for admission in UG (BHMS) 2026 under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "id": "6f113d98b4e75f67",
+        "title": "UG(BHMS)- Result of 3rd Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
         "link": "https://storage.googleapis.com/dudocsfmsc/1792142755289-3rd_Round_result_of_UG_BHMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-16T11:06:26.869Z"
+        "batchIndex": 5,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "da6c43199093ff55",
-        "title": "Online Registration Link for UG (BAMS & BUMS) Admissions 2026-2027",
+        "id": "9608804ff367b8cc",
+        "title": "UG(BAMS/BUMS)- Online Registration Link for Admissions 2026-2027",
         "link": "https://faumadmission.uod.ac.in/",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-12T18:50:46.400Z"
+        "batchIndex": 6,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "55e1ff90308a854c",
-        "title": "Counselling Schedule of BAMS & BUMS 2026.",
+        "id": "b89dc68919ef0f08",
+        "title": "UG(BAMS/BUMS)- Counselling Schedule for the Academic Session 2026-2027.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1791800806426-Counselling_Schedule_of_BAMS___BUMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-12T18:50:46.400Z"
+        "batchIndex": 7,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "0894bb2cc27ec373",
-        "title": "Seat Matrix of UG Courses BUMS & BAMS 2026.",
+        "id": "4ea7e58fe165cc8f",
+        "title": "UG(BAMS/BUMS)- Seat Matrix for the Academic Session 2026-2027.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1791800780653-SEAT_MATRIX_OF_UG_COURSES_BUMS___BAMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-12T18:50:46.400Z"
+        "batchIndex": 8,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "f5a10b0a716b54b3",
-        "title": "Result of 2nd Round of Counselling for admission in UG (BHMS) 2026 under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "id": "8c01a1fa5c53d268",
+        "title": "UG(BHMS)- Result of 2nd Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
         "link": "https://storage.googleapis.com/dudocsfmsc/1791800788613-RESULT_2nd_ROUND_OF_UG_BHMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-12T18:50:46.400Z"
+        "batchIndex": 9,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "48e2e5214be97778",
-        "title": "Extention of reporting date for admission to UG (BHMS) course under 1st Round of Counselling for the academic session 2026-27.",
+        "id": "66e56762a283b98b",
+        "title": "UG(BHMS)- Extension of reporting date for admission under 1st Round of Counselling for the academic session 2026-27.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1791546721341-Notice-09.10.2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-09T15:11:31.086Z"
+        "batchIndex": 10,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "14b9344517203606",
-        "title": "Result of 1st Round of Counselling for admission in UG (BHMS) 2026 under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "id": "a1c1c39c62f832ce",
+        "title": "UG(BHMS)- Result of 1st Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
         "link": "https://storage.googleapis.com/dudocsfmsc/1791194114390-RESULT_1ST_ROUND_OF_UG_BHMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-05T17:01:20.197Z"
+        "batchIndex": 11,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "05f41ac4109f9060",
-        "title": "Final lists as per merit of eligible candidates in UG (BHMS) Program under 85% Delhi Quota for the session 2026-27.",
+        "id": "476d1f002bf6728f",
+        "title": "UG(BHMS)- Final lists as per merit of eligible candidates under 85% Delhi Quota for the session 2026-27.",
         "link": "https://storage.googleapis.com/dudocsfmsc/1790835662367-FINAL_MERIT_LIST_UG__BHMS__2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-01T07:48:49.225Z"
+        "batchIndex": 12,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       },
       {
-        "id": "d257f4c2a5b58e44",
-        "title": "Tentative list of Candidate applied for UG (BHMS) course under 85% Delhi Quota for the session 2026-27",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1790580351250-PDF.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-28T11:37:27.994Z"
-      },
-      {
-        "id": "69b9b862deb8fd46",
-        "title": "SURETY BOND - BHMS/BAMS/BUMS 2026",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1789963514929-SURETY_BOND-2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-09-21T07:00:00.905Z"
-      },
-      {
-        "id": "b3d11937efb383f4",
-        "title": "Online Registration Link for UG (BHMS) Admissions 2026-2027",
-        "link": "https://faumadmission.uod.ac.in/",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-17T10:22:01.418Z"
-      },
-      {
-        "id": "cf2d38ae9ec7c010",
-        "title": "Surety Bond Medical (2026)",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1787801007394-SURETY_BOND-2026_260826_100008.PDF",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-17T10:22:01.418Z"
-      },
-      {
-        "id": "4f2326d6761df1d9",
-        "title": "ANNEXURES OF BOI UG BAMS/BUMS/BHMS 2026 - SURETY BOND, PRINCIPAL CERTIFICATE, PwBD, ECC,EWS CERTIFICATE, OBC CERTIFICATE, SC ST CERTIFICATE ETC.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1789621570850-ANNEXURES_OF_BOI_-_SURETY_BOND__PRINCIPAL_CERTIFICATE__PwBD__ECC_EWS_CERTIFICATE__OBC_CERTIFICATE__SC_ST_CERTIFICATE_ETC..pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-17T05:13:36.915Z"
-      },
-      {
-        "id": "dd206a4355f6b86d",
-        "title": "Bulletin of Information for (BAMS/BUMS/BHMS) Admissions 2026-2027",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1789553067361-FINAL_BOI_OF_UG_COURSE_2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-09-16T14:23:18.103Z"
-      },
-      {
-        "id": "8204feeb288b1ed5",
-        "title": "Admission Notice for BHMS for the Academic Session 2026-2027",
+        "id": "12713cbd143e50a7",
+        "title": "UG(BHMS)- Admission Notice for the Academic Session 2026-2027",
         "link": "https://storage.googleapis.com/dudocsfmsc/1789553220016-ADMISSION_NOTICE_UG_BHMS_2026.pdf",
         "date": null,
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 11,
-        "detectedAt": "2026-09-16T14:23:18.103Z"
+        "batchIndex": 15,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
+      },
+      {
+        "id": "323084a4648d33cb",
+        "title": "Format of Surety Bond- BHMS/BAMS/BUMS 2026",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1789963514929-SURETY_BOND-2026.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 17,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
+      },
+      {
+        "id": "ab2472405e66a1e6",
+        "title": "Annexures of BOI UG (BAMS/BUMS/BHMS) 2026 - Surety Bond, Principal Certificate, PWBD, ECC, EWS Certificate, OBC Certificate, SC & ST Certificate Etc.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1789621570850-ANNEXURES_OF_BOI_-_SURETY_BOND__PRINCIPAL_CERTIFICATE__PwBD__ECC_EWS_CERTIFICATE__OBC_CERTIFICATE__SC_ST_CERTIFICATE_ETC..pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 18,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
+      },
+      {
+        "id": "f8b61fcd4b2b4bab",
+        "title": "Format of Certificate to be obtained from the Principal of the school last attended",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1787804042462-Performa_of_Certificate_from_the_Principal_of_the_school.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 19,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
+      },
+      {
+        "id": "4c8030c85d4c1968",
+        "title": "Format of Surety Bond Medical (2026)",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1787801007394-SURETY_BOND-2026_260826_100008.PDF",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 20,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
+      },
+      {
+        "id": "019bb8c8799c21cf",
+        "title": "UG(Medical)- Supplementary list of CW Category applicants for UG Medical Admission 2026 under 85% DU Quota.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1786523708489-Suppliementary_list_for_CW.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 27,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
+      },
+      {
+        "id": "f5daa8d50a8058db",
+        "title": "UG(MBBS/BDS)- Online Registration Link for Admissions 2026-2027",
+        "link": "https://mbbsadmission.uod.ac.in/",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 28,
+        "detectedAt": "2026-10-23T07:16:07.424Z"
       }
     ]
   },
