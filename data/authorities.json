@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T21:11:32.671Z",
+    "lastUpdatedDate": "2026-10-24T09:02:04.173Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "481735a0ec724fe9",
+        "title": "24-10-2026: MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
+        "link": "https://drntr.uhsap.in/index/notification/20261024135708853.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T09:02:04.173Z"
+      },
       {
         "id": "06c496eb8dd2aa30",
         "title": "23-10-2026: BDS 2026-27 CQ PHASE 3 College Wise Allotments MBBS-MQ-2026-27-College wise allottments under STRAY ROUND BDS-MQ-2026-27- Notification for weboptions under Phase-III",
@@ -2176,6 +2186,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-23T21:11:32.671Z"
+      },
+      {
+        "id": "486db28b0576b54d",
+        "title": "23-10-2026: SVIMS, Tirupati-Revised Admission Guidelines&Regulations for admission into PG (Medical) courses- 2026-27 BDS 2026-27 CQ PHASE 3 College Wise Allotments MBBS-MQ-2026-27-College wise allottments under STRAY ROUND BDS-MQ-2026-27- Notification for weboptions under Phase-III",
+        "link": "https://drntr.uhsap.in/index/notification/20261024105614460.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-24T09:02:04.173Z"
       },
       {
         "id": "df0a00ec0c6b3759",
@@ -2346,26 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-16T11:01:24.458Z"
-      },
-      {
-        "id": "9ad67004caaa0585",
-        "title": "15-10-2026: UG AYUSH Courses 2026-27 - CQ - Phase-II College Wise Allotments MBBS-2026-27-MQ-Notification for Free Exit after Phase - I or II BDS-2026-27-CQ-Notification for FREE EXIT after Phase - I OR II",
-        "link": "https://drntr.uhsap.in/index/notification/20261015190311937.pdf",
-        "date": "15/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-15T14:19:55.325Z"
-      },
-      {
-        "id": "63d8290167ee969f",
-        "title": "15-10-2026: MBBS-2026-27-MQ-Notification for Free Exit after Phase - I or II BDS-2026-27-CQ-Notification for FREE EXIT after Phase - I OR II",
-        "link": "https://drntr.uhsap.in/index/notification/20261015130721880.pdf",
-        "date": "15/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-15T09:01:22.591Z"
       }
     ]
   },
@@ -3641,9 +3641,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T21:15:58.561Z",
+    "lastUpdatedDate": "2026-10-24T09:05:58.017Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:8bbb2b9ac4d27b52",
+        "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - FRESH CANDIDATES",
+        "link": "https://drive.google.com/file/d/17JU-aE27OZOfI6rN_OxE-BAdCXpHOsSb/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T09:05:58.017Z"
+      },
       {
         "id": "OVERALL:f605f099df9e92b2",
         "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
@@ -3663,6 +3673,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-23T12:51:30.088Z"
+      },
+      {
+        "id": "OVERALL:5cc4da9b8373021f",
+        "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - EXISTING CANDIDATES",
+        "link": "https://drive.google.com/file/d/1U7ud9Dfo9F4Se2Z4wahrgbFkwFgx2EAe/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-24T09:05:58.017Z"
       },
       {
         "id": "OVERALL:cbcc4bf70cdc8460",
@@ -3723,6 +3743,26 @@
         "source": "Direct from Website",
         "batchIndex": 464,
         "detectedAt": "2026-10-23T21:15:58.561Z"
+      },
+      {
+        "id": "UG NEET:8bbb2b9ac4d27b52",
+        "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - FRESH CANDIDATES",
+        "link": "https://drive.google.com/file/d/17JU-aE27OZOfI6rN_OxE-BAdCXpHOsSb/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 465,
+        "detectedAt": "2026-10-24T09:05:58.017Z"
+      },
+      {
+        "id": "UG NEET:5cc4da9b8373021f",
+        "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - EXISTING CANDIDATES",
+        "link": "https://drive.google.com/file/d/1U7ud9Dfo9F4Se2Z4wahrgbFkwFgx2EAe/view?usp=sharing",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 466,
+        "detectedAt": "2026-10-24T09:05:58.017Z"
       },
       {
         "id": "OVERALL:7eddb173fa2ed72e",
@@ -3803,46 +3843,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-21T13:10:11.884Z"
-      },
-      {
-        "id": "PG MEDICAL:1a8b3ed55138fc63",
-        "title": "IGMCRI - FEE STRUCTURE FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/10XGlIhUdeTu3_09jDN61sCxsoGeZA3Od/view?usp=sharing",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 300,
-        "detectedAt": "2026-10-21T13:10:11.884Z"
-      },
-      {
-        "id": "PG DENTAL:ad0b8939af03fbf0",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION & ROUND 3 REGISTRATION FOR PG DENTAL (MDS) COURSES",
-        "link": "https://drive.google.com/file/d/11455cnTCEpaa8aJWJCdpMu5OWAd-Rzzd/view?usp=sharing",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 307,
-        "detectedAt": "2026-10-21T13:10:11.884Z"
-      },
-      {
-        "id": "OVERALL:fc28fffb0bb0829d",
-        "title": "INFORMATION BROCHURE FOR ADMISSION TO POST GRADUATE MEDICAL (M.D./M.S.) COURSES",
-        "link": "https://drive.google.com/file/d/1R4u52A2hnX8sZAs4hrKSZZTPVHFE8YOC/view?usp=drivesdk",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-20T19:59:50.742Z"
-      },
-      {
-        "id": "OVERALL:7e410f34dc1c0a07",
-        "title": "PRESS RELEASE ADMISSION NOTIFICATION TO PG MEDICAL (M.D. / M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/12T8iTo17zql8HfV-msfTXzvkCXc9Z9WM/view?usp=sharing",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-20T15:51:47.322Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5429,7 +5429,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T12:51:18.114Z",
+    "lastUpdatedDate": "2026-10-24T09:05:45.915Z",
     "pinned": false,
     "notices": [
       {
@@ -5825,9 +5825,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T12:51:32.305Z",
+    "lastUpdatedDate": "2026-10-24T09:05:59.982Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:27866b975003cedc",
+        "title": "Final Seat Allocation of MBBS BDS Stray round counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Final-Seat-Allocation-of-MBBS-BDS-Stray-round-counselling-2026-merged.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T09:05:59.982Z"
+      },
       {
         "id": "MBBS/BDS Counselling:9e6ab0e1706c3b89",
         "title": "Provisional Seat allocation of MBBS/BDS Stray round Counselling 2026",
@@ -6016,16 +6026,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
-        "detectedAt": "2026-09-15T12:37:12.710Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:a8098505fddc6c5a",
-        "title": "Revised Provisional Seat Allocation of MBBS/BDS 2nd Round Counselling 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/Revised-Provisional-seat-allocation-of-MBBS-BDS-2nd-Round-COunselling-2026-merged.pdf",
-        "date": "15/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 1,
         "detectedAt": "2026-09-15T12:37:12.710Z"
       }
     ]
