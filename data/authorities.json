@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-24T09:02:04.173Z",
+    "lastUpdatedDate": "2026-10-24T13:30:20.675Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e77996a1689d9617",
+        "title": "24-10-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Fee paid but not submitted application B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Pending due to Non-Submission of Relevant Documents B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Provisional Merit Postition of Applied Candidates MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
+        "link": "https://drntr.uhsap.in/index/notification/20261024172152973.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T13:30:20.675Z"
+      },
       {
         "id": "481735a0ec724fe9",
         "title": "24-10-2026: MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-16T15:28:05.088Z"
-      },
-      {
-        "id": "afdded2afa1d6fdf",
-        "title": "16-10-2026: UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-I Counselling UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-I Counselling MBBS-BDS-CQ- 2026-27-FINAL PRIORITY LIST UNDER SPORTS & GAMES DT.16-10-2026 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-II Web Options Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20261016141229550.pdf",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-16T11:01:24.458Z"
       }
     ]
   },
@@ -3641,9 +3641,69 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-24T09:05:58.017Z",
+    "lastUpdatedDate": "2026-10-24T13:34:55.439Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:6a27f565bb0c06d3",
+        "title": "STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - FRESH CANDIDATES",
+        "link": "https://drive.google.com/file/d/1XmSOd7drQbgHpRNDfhKxax1i-4zDlDZZ/view?usp=sharing",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T13:34:55.439Z"
+      },
+      {
+        "id": "OVERALL:67e7c209f5a2c0c7",
+        "title": "STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - EXISTING CANDIDATES",
+        "link": "https://drive.google.com/file/d/1MgtwCYUA0kuXNU8ZKv-hQXstxTOkPBGT/view?usp=sharing",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-24T13:34:55.439Z"
+      },
+      {
+        "id": "OVERALL:42984789d24f82bb",
+        "title": "NOTICE : STARY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1FUwb_S06PgcLq_M4dyx4ocCtCipxPcUG/view?usp=sharing",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-24T13:34:55.439Z"
+      },
+      {
+        "id": "UG NEET:6a27f565bb0c06d3",
+        "title": "STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - FRESH CANDIDATES",
+        "link": "https://drive.google.com/file/d/1XmSOd7drQbgHpRNDfhKxax1i-4zDlDZZ/view?usp=sharing",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 468,
+        "detectedAt": "2026-10-24T13:34:55.439Z"
+      },
+      {
+        "id": "UG NEET:67e7c209f5a2c0c7",
+        "title": "STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - EXISTING CANDIDATES",
+        "link": "https://drive.google.com/file/d/1MgtwCYUA0kuXNU8ZKv-hQXstxTOkPBGT/view?usp=sharing",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 469,
+        "detectedAt": "2026-10-24T13:34:55.439Z"
+      },
+      {
+        "id": "UG NEET:42984789d24f82bb",
+        "title": "NOTICE : STARY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
+        "link": "https://drive.google.com/file/d/1FUwb_S06PgcLq_M4dyx4ocCtCipxPcUG/view?usp=sharing",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 470,
+        "detectedAt": "2026-10-24T13:34:55.439Z"
+      },
       {
         "id": "OVERALL:8bbb2b9ac4d27b52",
         "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - FRESH CANDIDATES",
@@ -3783,66 +3843,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-22T10:34:13.211Z"
-      },
-      {
-        "id": "OVERALL:420819ba18f8987d",
-        "title": "NOTICE : STRAY ROUND ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1ai2TU2EzoL7UK6E-FqhnVMRWqPiz8EAR/view?usp=sharing",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-22T15:37:55.954Z"
-      },
-      {
-        "id": "UG NEET:5fa8895312a703f3",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR STRAY ROUND REGISTRATION FOR UG NEET BASED MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1F5v1O3yCxPgyyJKGdnBA3yERKXZiq02f/view?usp=sharing",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 457,
-        "detectedAt": "2026-10-22T10:34:13.211Z"
-      },
-      {
-        "id": "UG NEET:7eddb173fa2ed72e",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR STRAY ROUND ALLOTMENT (MBBS/BDS/BAMS) (REGISTERED FOR STRAY ROUND)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UGNEET_2026/stray_round_eligible.html",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 459,
-        "detectedAt": "2026-10-22T15:37:55.954Z"
-      },
-      {
-        "id": "UG NEET:420819ba18f8987d",
-        "title": "NOTICE : STRAY ROUND ELIGIBLE CANDIDATES LIST FOR UG NEET COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1ai2TU2EzoL7UK6E-FqhnVMRWqPiz8EAR/view?usp=sharing",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 460,
-        "detectedAt": "2026-10-22T15:37:55.954Z"
-      },
-      {
-        "id": "OVERALL:1a8b3ed55138fc63",
-        "title": "IGMCRI - FEE STRUCTURE FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/10XGlIhUdeTu3_09jDN61sCxsoGeZA3Od/view?usp=sharing",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T13:10:11.884Z"
-      },
-      {
-        "id": "OVERALL:ad0b8939af03fbf0",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION & ROUND 3 REGISTRATION FOR PG DENTAL (MDS) COURSES",
-        "link": "https://drive.google.com/file/d/11455cnTCEpaa8aJWJCdpMu5OWAd-Rzzd/view?usp=sharing",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-21T13:10:11.884Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4933,9 +4933,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-10T13:00:06.102Z",
+    "lastUpdatedDate": "2026-10-24T13:34:46.218Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:66dc14e2c289c09a",
+        "title": "VACANCY AFTER 2nd ROUND BAMS/BHMS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261024813510271.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T13:34:46.218Z"
+      },
       {
         "id": "OJEE:1e34ac69e761474e",
         "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (2 nd ROUND COUNSELLING)",
@@ -5125,16 +5135,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-08-30T08:10:17.504Z"
-      },
-      {
-        "id": "OJEE:1a04718184e89e7e",
-        "title": "NOTICE REGARDING DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEES FOR 3 rd ROUND ALLOTTED CANDIDATES UNDER LE-TECH(DIPLOMA)/ LEB.Sc./ Int. MBA and Working Professionals for Engineering, M.TECH/M.AR",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/08/20260806477863167.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-06T15:01:54.191Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -7109,9 +7109,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T19:55:11.917Z",
+    "lastUpdatedDate": "2026-10-24T13:34:54.887Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1a29e98d6e71576a",
+        "title": "Third Phase Allotment To Ayurveda/Homoeo/Siddha/Unani/ Medical Allied Courses- Facility For Option Confirmation Fresh Option Registration Available For Veterinary Course",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/355/Upload1",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T13:34:54.887Z"
+      },
       {
         "id": "7d95cb1265cdf8ba",
         "title": "ADMISSION TO MBBS/BDS COURSES STRAY VACANCY ALLOTMENT PUBLISHED",
@@ -7305,16 +7315,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-24T18:40:55.547Z"
-      },
-      {
-        "id": "cefb4b821b88a627",
-        "title": "Admission To Ayurveda/Homoeo/Siddha/Unani/ Medical Allied Courses- Provisional First Phase Allotment List Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/274/Upload1",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-23T13:33:33.399Z"
       }
     ]
   },
@@ -7533,9 +7533,39 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T15:36:13.109Z",
+    "lastUpdatedDate": "2026-10-24T13:33:11.864Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "00003d11bc8adc3b",
+        "title": "Allotment candidates_Management quota (Stray Round)",
+        "link": "https://manipurmc.mn.gov.in/media/1792848065_Allotment%20candidates_Management%20quota%20.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T13:33:11.864Z"
+      },
+      {
+        "id": "648a5e31133881c1",
+        "title": "Allotted candidates _Govt. Quota(Stray Round)",
+        "link": "https://manipurmc.mn.gov.in/media/1792847903_Allotted%20candidates%20_Govt.%20Quota.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-24T13:33:11.864Z"
+      },
+      {
+        "id": "2a92fe9dcb44a843",
+        "title": "Notification of candidates allotted in Stray Vacancy Round of Manipur Medical e-Counselling 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1792847824_Notification%20of%20candidates%20allotted%20in%20Stray%20Vacancy%20Round%20of%20Manipur%20Medical%20e-Counselling%202026-27.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-24T13:33:11.864Z"
+      },
       {
         "id": "839d598b0af9968a",
         "title": "Stray Round UG Counselling Registration, Choice Filling/ Locking from 22-10-2026 to 23-10-2026 5:00 PM",
@@ -7705,36 +7735,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-16T18:22:36.498Z"
-      },
-      {
-        "id": "e40a98420ddf8a86",
-        "title": "List of the candidates allotted in Management Quota for 2nd Round of Manipur Medical e-Counselling 2026",
-        "link": "https://manipurmc.mn.gov.in/media/1789575791_List%20of%20the%20candidates%20allotted%20in%20Management%20Quota%20for%202nd%20Round%20of%20Manipur%20Medical%20e-Counselling%202026.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-16T18:22:36.498Z"
-      },
-      {
-        "id": "70b0540a5f162b24",
-        "title": "Merit list of candidates for Management Quota(Round 2)",
-        "link": "https://manipurmc.mn.gov.in/media/1789446382_Merit%20list%20of%20candidates%20for%20Management%20Quota.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-15T06:35:39.413Z"
-      },
-      {
-        "id": "46d9775b95dc7971",
-        "title": "Notification of merit list of applied candidates for Round 2 Manipur Medical eCounselling",
-        "link": "https://manipurmc.mn.gov.in/media/1789395126_Notification%20of%20merit%20list%20of%20applied%20candidates%20for%20Round%202%20Manipur%20Medical%20eCounselling%20.pdf",
-        "date": "14/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-14T19:10:13.195Z"
       }
     ]
   },
