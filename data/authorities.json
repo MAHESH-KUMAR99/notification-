@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-24T13:30:20.675Z",
+    "lastUpdatedDate": "2026-10-24T16:54:02.632Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6c41469c358d927a",
+        "title": "24-10-2026: MBBS-MQ-2026-27- Conversion of unfilled CA NRI seats to CA SF seats in New Govt Medical Colleges PG (Medical) CQ 2026-27 - Notification for Examination of Persons Registered Under PwBD Quota B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Fee paid but not submitted application B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Pending due to Non-Submission of Relevant Documents B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Provisional Merit Postition of Applied Candidates MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
+        "link": "https://drntr.uhsap.in/index/notification/20261024214016253.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T16:54:02.632Z"
+      },
       {
         "id": "e77996a1689d9617",
         "title": "24-10-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Fee paid but not submitted application B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Pending due to Non-Submission of Relevant Documents B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Provisional Merit Postition of Applied Candidates MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-16T18:57:48.323Z"
-      },
-      {
-        "id": "5c4e7d198d3e9273",
-        "title": "16-10-2026: BDS - MQ- 2026-27_ Phase-II Web Options Notfication MBBS-BDS-CQ-2026-27-Addendum to Provisional Final Merit list displayed on 10-10-2026 MDS MQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles MDS CQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-I Counselling UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-I Counselling MBBS-BDS-CQ- 2026-27-FINAL PRIORITY LIST UNDER SPORTS & GAMES DT.16-10-2026 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-II Web Options Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20261016195619947.pdf",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-16T15:28:05.088Z"
       }
     ]
   },
@@ -2780,9 +2780,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T12:51:07.918Z",
+    "lastUpdatedDate": "2026-10-24T16:57:41.873Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:390da15368bae381",
+        "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-3(Adv. No. BCECEB[UGMAC(Ayush)]-2026/07 Dated 24.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_07.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T16:57:41.873Z"
+      },
+      {
+        "id": "Latest Updates:832012fafde9cc25",
+        "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-3(Adv. No. BCECEB[UGMAC(Ayush)]-2026/06 Dated 24.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_06.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-24T16:57:41.873Z"
+      },
       {
         "id": "Latest Updates:dbc610a03d6468d7",
         "title": "Revised Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/06 Dated 23.10.2026)",
@@ -2962,26 +2982,6 @@
         "source": "Latest Updates",
         "batchIndex": 2,
         "detectedAt": "2026-10-02T13:06:54.935Z"
-      },
-      {
-        "id": "Latest Updates:6f4416ecbdfccfd3",
-        "title": "Notice for filling online application form and choice filling for Round-3 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/10 Dated 30.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_10.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-30T18:24:39.355Z"
-      },
-      {
-        "id": "Latest Updates:35b2f8a5063ee628",
-        "title": "Details for filling online application form and choice filling for Round-3 of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/09 Dated 30.09.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_09.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-30T18:24:39.355Z"
       },
       {
         "id": "UGMAC:83452738177639c4",
@@ -7533,7 +7533,7 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-24T13:33:11.864Z",
+    "lastUpdatedDate": "2026-10-24T16:56:20.242Z",
     "pinned": false,
     "notices": [
       {
@@ -7565,6 +7565,36 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-10-24T13:33:11.864Z"
+      },
+      {
+        "id": "358d0280fe609515",
+        "title": "Management_merit_list (stray round)",
+        "link": "https://manipurmc.mn.gov.in/media/1792848997_Management_merit_list%20(stray).pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-24T16:56:20.242Z"
+      },
+      {
+        "id": "6ef1db48c042d840",
+        "title": "Govt_merit_list (stray round)",
+        "link": "https://manipurmc.mn.gov.in/media/1792848952_Govt_merit_list%20(stray).pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-24T16:56:20.242Z"
+      },
+      {
+        "id": "6ff1e7e7a80e635b",
+        "title": "Notification for Merit list of candidates(Stray Round)",
+        "link": "https://manipurmc.mn.gov.in/media/1792849209_notification_%20for_meritlistof_candidates(StrayRound).pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-10-24T16:56:20.242Z"
       },
       {
         "id": "839d598b0af9968a",
@@ -7705,36 +7735,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-18T10:54:12.060Z"
-      },
-      {
-        "id": "f2342032552e4324",
-        "title": "Notification for Round 2 Counselling for Nursing, Pharmacy and Allied and Healthcare courses 2026-27",
-        "link": "https://manipurmc.mn.gov.in/media/1789640160_Round%202%20Counselling%20Notification.pdf",
-        "date": "17/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-17T10:20:28.302Z"
-      },
-      {
-        "id": "a34239ee1c7a8afe",
-        "title": "Notification of list of allotted candidates in State Government and Management Quota seats for 2nd round of Manipur Medical e-Counselling 2026",
-        "link": "https://manipurmc.mn.gov.in/media/1789575884_Notification%20of%20list%20of%20allotted%20candidates%20in%20State%20Government%20and%20Management%20Quota%20seats%20for%202nd%20round%20of%20Manipur%20Medical%20e-Counselling%202026.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-16T18:22:36.498Z"
-      },
-      {
-        "id": "469f383f60de796e",
-        "title": "List of candidates allotted in State Government Quota seats for 2nd round of Manipur Medical e-Counselling 2026",
-        "link": "https://manipurmc.mn.gov.in/media/1789575838_List%20of%20candidates%20allotted%20in%20State%20Government%20Quota%20seats%20for%202nd%20round%20of%20Manipur%20Medical%20e-Counselling%202026.pdf",
-        "date": "16/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-16T18:22:36.498Z"
       }
     ]
   },
