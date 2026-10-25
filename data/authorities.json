@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-25T10:02:51.254Z",
+    "lastUpdatedDate": "2026-10-25T14:30:49.202Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "08ed9da7a714ee54",
+        "title": "25-10-2026: MBBS-MQ-2026-27-College wise allottments under STRAY ROUND-II BDS -MQ- 2026-27 - College wise Allotments-Phase-III MBBS 2026-27 MQ_Phase_4 SeatMatrix Final 1 MBBS - 2026-27 - MQ - List of candiates Not Reported _ After Stray Round MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.24-10-2026",
+        "link": "https://drntr.uhsap.in/index/notification/20261025184816407.pdf",
+        "date": "25/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-25T14:30:49.202Z"
+      },
       {
         "id": "8c522a201086f3f7",
         "title": "25-10-2026: MBBS 2026-27 MQ_Phase_4 SeatMatrix Final 1 MBBS - 2026-27 - MQ - List of candiates Not Reported _ After Stray Round MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.24-10-2026",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-17T09:05:41.211Z"
-      },
-      {
-        "id": "f2329eb51f62438a",
-        "title": "17-10-2026: MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III",
-        "link": "https://drntr.uhsap.in/index/notification/20261017101206820.pdf",
-        "date": "17/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-17T04:52:22.951Z"
       }
     ]
   },
@@ -4705,7 +4705,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-22T19:52:00.968Z",
+    "lastUpdatedDate": "2026-10-25T14:31:58.041Z",
     "pinned": false,
     "notices": [
       {
