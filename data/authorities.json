@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-25T05:08:06.318Z",
+    "lastUpdatedDate": "2026-10-25T10:02:51.254Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8c522a201086f3f7",
+        "title": "25-10-2026: MBBS 2026-27 MQ_Phase_4 SeatMatrix Final 1 MBBS - 2026-27 - MQ - List of candiates Not Reported _ After Stray Round MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.24-10-2026",
+        "link": "https://drntr.uhsap.in/index/notification/20261025104843583.pdf",
+        "date": "25/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-25T10:02:51.254Z"
+      },
       {
         "id": "e369a079da9e77ee",
         "title": "25-10-2026: MBBS - 2026-27 - MQ - List of candiates Not Reported _ After Stray Round MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.24-10-2026",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-17T04:52:22.951Z"
-      },
-      {
-        "id": "70d3a4e8a83d44d4",
-        "title": "17-10-2026: UG AYUSH 2026-27 - MQ - Phase-II College Wise Allotments UG AYUSH 2026-27 - AIQ - Phase-II College Wise Allotments PG (MEDICAL) MQ PROSPECTUS 2026-27 PG (MEDICAL) MQ NOTIFICATION 2026-27 Allied and Healthcare Courses 2026-27 - Prospectus Allied and Healthcare Courses 2026-27 - CQ - Detailed Notification for Online Applications MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-III BDS MQ 2026-27 - List of candidates Not Reported after Phase-I MBBS _BDS-2026-27 -NOTICE FOR EXTENSION OF FREE EXIT AFTER PHASE-I AND PHASE-II MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III",
-        "link": "https://drntr.uhsap.in/index/notification/20261017191259590.pdf",
-        "date": "17/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-18T13:06:02.889Z"
       }
     ]
   },
