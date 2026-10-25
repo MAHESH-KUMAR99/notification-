@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-24T16:54:02.632Z",
+    "lastUpdatedDate": "2026-10-25T05:08:06.318Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e369a079da9e77ee",
+        "title": "25-10-2026: MBBS - 2026-27 - MQ - List of candiates Not Reported _ After Stray Round MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.24-10-2026",
+        "link": "https://drntr.uhsap.in/index/notification/20261025102808340.pdf",
+        "date": "25/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-25T05:08:06.318Z"
+      },
       {
         "id": "6c41469c358d927a",
         "title": "24-10-2026: MBBS-MQ-2026-27- Conversion of unfilled CA NRI seats to CA SF seats in New Govt Medical Colleges PG (Medical) CQ 2026-27 - Notification for Examination of Persons Registered Under PwBD Quota B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Fee paid but not submitted application B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Pending due to Non-Submission of Relevant Documents B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Provisional Merit Postition of Applied Candidates MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-18T13:06:02.889Z"
-      },
-      {
-        "id": "f43d855131eadba6",
-        "title": "16-10-2026: MBBS-2026-27-MQ- Weboptions Notificaiton for Phase-III counseling BDS - MQ- 2026-27_ Phase-II Web Options Notfication MBBS-BDS-CQ-2026-27-Addendum to Provisional Final Merit list displayed on 10-10-2026 MDS MQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles MDS CQ 2026-27 - Detailed Notification for Online applications due to lowering of qualifying Percentiles UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-I Counselling UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-I Counselling MBBS-BDS-CQ- 2026-27-FINAL PRIORITY LIST UNDER SPORTS & GAMES DT.16-10-2026 UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-II Web Options Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20261016205833423.pdf",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-16T18:57:48.323Z"
       }
     ]
   },
