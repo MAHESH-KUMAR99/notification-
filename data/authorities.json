@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-25T14:30:49.202Z",
+    "lastUpdatedDate": "2026-10-25T18:15:16.404Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8392f9e3fadc42da",
+        "title": "25-10-2026: MBBS-CQ-2026-27-Revision of priority and serial number in the revised final priority list under Sports & Games MBBS CQ Sports & Games COLLEGE WISE ALLOTMENTS (REVISED) MBBS-MQ-2026-27-College wise allottments under STRAY ROUND-II BDS -MQ- 2026-27 - College wise Allotments-Phase-III MBBS 2026-27 MQ_Phase_4 SeatMatrix Final 1 MBBS - 2026-27 - MQ - List of candiates Not Reported _ After Stray Round MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.24-10-2026",
+        "link": "https://drntr.uhsap.in/index/notification/20261025213321150.pdf",
+        "date": "25/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-25T18:15:16.404Z"
+      },
       {
         "id": "08ed9da7a714ee54",
         "title": "25-10-2026: MBBS-MQ-2026-27-College wise allottments under STRAY ROUND-II BDS -MQ- 2026-27 - College wise Allotments-Phase-III MBBS 2026-27 MQ_Phase_4 SeatMatrix Final 1 MBBS - 2026-27 - MQ - List of candiates Not Reported _ After Stray Round MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.24-10-2026",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-17T13:07:08.117Z"
-      },
-      {
-        "id": "b676d21531604f60",
-        "title": "17-10-2026: BDS MQ 2026-27 - List of candidates Not Reported after Phase-I MBBS _BDS-2026-27 -NOTICE FOR EXTENSION OF FREE EXIT AFTER PHASE-I AND PHASE-II MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III",
-        "link": "https://drntr.uhsap.in/index/notification/20261017132808260.pdf",
-        "date": "17/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-17T09:05:41.211Z"
       }
     ]
   },
