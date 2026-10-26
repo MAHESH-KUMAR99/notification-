@@ -6046,9 +6046,19 @@
     "category": "state",
     "officialLink": "https://dme.assam.gov.in/latest/admission-notice-ugpgothersnew",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-26T15:03:00.935Z",
+    "lastUpdatedDate": "2026-10-26T20:29:15.397Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "dd9750599c2cd83a",
+        "title": "Extension Notice 1st PG Counselling, 2026",
+        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/extension_notice_1st_pg_counselling_2026.pdf",
+        "date": null,
+        "sortTs": 1781740800000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-26T20:29:15.397Z"
+      },
       {
         "id": "173c0ecec085b30e",
         "title": "Admission Notice & Select list (after Stray round online counselling, session 2026)",
@@ -6237,16 +6247,6 @@
         "sortTs": null,
         "batchIndex": 0,
         "detectedAt": "2026-07-08T11:32:47.059Z"
-      },
-      {
-        "id": "e3f3886b8c5eabd4",
-        "title": "Notice for awarding addl. marks in NEET-PG-2026",
-        "link": "https://dme.assam.gov.in/sites/default/files/swf_utility_folder/departments/dme_lipl_in_oid_8/latest/notice_for_awarding_addl._marks_in_neet-pg-2026.pdf",
-        "date": null,
-        "sortTs": 1781740800000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-12T18:50:48.852Z"
       }
     ]
   },
