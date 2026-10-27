@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-27T10:49:35.907Z",
+    "lastUpdatedDate": "2026-10-27T16:16:52.078Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "10d8f08e58df7f52",
+        "title": "27-10-2026: M.Sc(N) Provisional Merit list of In-service candidates 2026-27 M.Sc(N) Provisional Merit list of Non-service candidates 2026-27 M.Sc(N) Re-Upload Candidates list 2026-27 BNYS Course 2026-27 - CQ - Phase-I Web Options Notification BNYS Course 2026-27 - Final Merit Position of Applied Candidates BNYS Course 2026-27 - SVU Area Seat Matrix BNYS Course 2026-27 - AU Area Seat Matrix B.Sc.(N) 4 YDC 2026-27 - MQ Phase-I - Notification for exercising web options B.Sc.(Nursing) 4 YDC 2026-27 - Provisional Final Eligible List of Candidates BNYS Course 2026-27 - List of Candidates whose document verification is pending BNYS Course 2026-27 Provisional Eligible Merit List of the Applied Candidates BNYS Course 2026-27 - List of Candidates paid Registration Fee but not submitted Application",
+        "link": "https://drntr.uhsap.in/index/notification/20261027182351340.pdf",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-27T16:16:52.078Z"
+      },
       {
         "id": "1c8cf5a72c977e6e",
         "title": "27-10-2026: BNYS Course 2026-27 - List of Candidates whose document verification is pending BNYS Course 2026-27 Provisional Eligible Merit List of the Applied Candidates BNYS Course 2026-27 - List of Candidates paid Registration Fee but not submitted Application",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-19T10:13:35.383Z"
-      },
-      {
-        "id": "735620a4eb90d1fa",
-        "title": "18-10-2026: BDS _CQ_2026-27_ Notification for web options for Phase-III Counseling BDS -MQ- 2026-27 - College wise Allotments-Phase-II Allied and Healthcare Courses 2026-27 - CQ - Notification for Online Applications for Private Universities",
-        "link": "https://drntr.uhsap.in/index/notification/20261018181509340.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-18T13:06:02.889Z"
       }
     ]
   },
@@ -3285,9 +3285,59 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-26T14:58:41.119Z",
+    "lastUpdatedDate": "2026-10-27T16:16:43.067Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "364774f308857405",
+        "title": "Advt. No. 115 dated-27.10.2026 Important Notice regarding correction in Provisional State Merit List Based on NEET (PG)-2026 Result for 1st Round of Online Counselling",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/818.pdf",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-27T16:16:43.067Z"
+      },
+      {
+        "id": "fd010c81d7492597",
+        "title": "Advt. No. 114 dated-27.10.2026 Notice regarding 3rd Round of Online Counselling for MDS All India Quota Seats of Vananchal Dental College & Hospital, Garhwa; Hazaribagh College of Dental Sciences and Hospital & Awadh Dental College & Hospital, Jamshedpur on the basis of NEET MDS-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/817.pdf",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-27T16:16:43.067Z"
+      },
+      {
+        "id": "50d176a8d3d4f7d8",
+        "title": "Advt. No. 113 dated-27.10.2026 Important Notice regarding 3rd Round of Online Counselling for Post-Graduate Dental State Quota seats on the basis of NEET (MDS)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/816.pdf",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-27T16:16:43.067Z"
+      },
+      {
+        "id": "2acd2eb635764116",
+        "title": "Provisional State Merit List of NEET (PG) -2026 on the basis of NEET (PG) - 2026 Result for 1st Round of Online Counselling for Admission to State Quota PG Medical (Degree/Diploma/DNB) Seats in Academic Year-2026-27 Date: 27.10.2026",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/815.pdf",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-10-27T16:16:43.067Z"
+      },
+      {
+        "id": "09cd12277ebddd74",
+        "title": "Provisional Not Eligible List of NEET (PG) - 2026 on the basis of NEET (PG) - 2026 Result for 1st Round of Online Counselling for Admission to State Quota PG Medical (Degree/Diploma/DNB) Seats in Academic Year-2026-27 Date: 27.10.2026",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/814.pdf",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-10-27T16:16:43.067Z"
+      },
       {
         "id": "59aa09e230512823",
         "title": "Advt. No. 112 dated-26.10.2026 Important information regarding Special Round of online counselling-2026 for admission in All India seats in M.B.B.S. & B.D.S. courses",
@@ -3448,62 +3498,6 @@
         "batchIndex": 1,
         "titleEn": "Advt. No. 95 dated-06.10.2026 B.Sc. Important information related to the fourth (final) cycle online interview of Nursing (Post Basic) Entrance Competitive Examination-2026.",
         "titleLang": "hi",
-        "detectedAt": "2026-10-06T17:05:20.054Z"
-      },
-      {
-        "id": "f2d17b38af007e15",
-        "title": "Advt. No. 94 dated-06.10.2026 बी.एससी. नर्सिंग (बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के चतुर्थ (अंतिम) चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/798.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "titleEn": "Advt. No. 94 dated-06.10.2026 B.Sc. Important information related to the fourth (final) cycle online interview of Nursing (Basic) Entrance Competitive Examination-2026",
-        "titleLang": "hi",
-        "detectedAt": "2026-10-06T17:05:20.054Z"
-      },
-      {
-        "id": "f89967600c7f80f6",
-        "title": "Advt. No. 93 dated-06.10.2026 जी०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2020 के तृतीय (अंतिम) चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/797.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "titleEn": "Advt. No. 93 dated-06.10.2026 Important information related to the third (final) cycle online interview of GNM Entrance Competitive Examination-2020",
-        "titleLang": "hi",
-        "detectedAt": "2026-10-06T17:05:20.054Z"
-      },
-      {
-        "id": "fdebff3f640e5b52",
-        "title": "Advt. No. 92 dated-06.10.2026 ए०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के तृतीय (अंतिम) चक्र ऑनलाईन साक्षात्कार से संबंधित सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/796.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "titleEn": "Advt. No. 92 dated-06.10.2026 Information related to the third (final) cycle online interview of ANM Entrance Competitive Examination-2026.",
-        "titleLang": "hi",
-        "detectedAt": "2026-10-06T17:05:20.054Z"
-      },
-      {
-        "id": "349d83a801adaab3",
-        "title": "Advt. No. 91 dated-06.10.2026 Notice regarding 3rd Round of Online Counselling for MDS All India & NRI Quota Seats of Vananchal Dental College & Hospital, Farathiya, Garhwa on the basis of NEET MDS-2026 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/794.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-10-06T17:05:20.054Z"
-      },
-      {
-        "id": "bce46144ed43512f",
-        "title": "Advt. No. 90 dated-06.10.2026 Notice regarding 3rd Round of Online Counselling for Post-Graduate Dental State Quota seats on the basis of NEET (MDS)-2026 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/793.pdf",
-        "date": "06/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
         "detectedAt": "2026-10-06T17:05:20.054Z"
       }
     ]
