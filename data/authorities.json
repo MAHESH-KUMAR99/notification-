@@ -4703,7 +4703,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-26T15:00:11.945Z",
+    "lastUpdatedDate": "2026-10-27T05:27:11.201Z",
     "pinned": false,
     "notices": [
       {
@@ -6471,9 +6471,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-26T15:02:58.247Z",
+    "lastUpdatedDate": "2026-10-27T05:29:37.582Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "018312321397d37d",
+        "title": "UG(BHMS)- 1st SVR round of counselling of admission to UG (BHMS) for the AY 2026-27.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1793073282498-BHMS_1srv_round_schedule.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-27T05:29:37.582Z"
+      },
       {
         "id": "8bb7de0334859064",
         "title": "UG(BHMS) - Result of 1st SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
@@ -6662,16 +6672,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 15,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "323084a4648d33cb",
-        "title": "Format of Surety Bond- BHMS/BAMS/BUMS 2026",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1789963514929-SURETY_BOND-2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 17,
         "detectedAt": "2026-10-23T07:16:07.424Z"
       }
     ]
