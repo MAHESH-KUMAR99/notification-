@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-26T14:59:02.867Z",
+    "lastUpdatedDate": "2026-10-27T10:49:35.907Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1c8cf5a72c977e6e",
+        "title": "27-10-2026: BNYS Course 2026-27 - List of Candidates whose document verification is pending BNYS Course 2026-27 Provisional Eligible Merit List of the Applied Candidates BNYS Course 2026-27 - List of Candidates paid Registration Fee but not submitted Application",
+        "link": "https://drntr.uhsap.in/index/notification/20261027135320367.pdf",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-27T10:49:35.907Z"
+      },
       {
         "id": "0917345bf2b327fb",
         "title": "26-10-2026: MBBS-MQ-2026-27- REVISED College wise Allotment List of MBBS Course, MQ STRAY ROUND -2 MDS CQ 2026-27 - Provisional Merit List - After Lowering of Cut-off Percentiles MDS CQ 2026-27 - Not Eligible List - After Lowering of Cut-off Percentiles MDS CQ 2026-27 - Fee paid but documents Not uploaded List - After Lowering of Cut-off Percentiles MDS MQ 2026-27 - Provisional Merit List - After Lowering of Cut-off Percentiles MDS MQ 2026-27 - Not Eligible List - After Lowering of Cut-off Percentiles MDS MQ 2026-27 - Fee paid but documents Not uploaded List - After Lowering of Cut-off Percentiles",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-18T13:06:02.889Z"
-      },
-      {
-        "id": "e9a55bb43891e4f1",
-        "title": "17-10-2026: UG AYUSH 2026-27 - MQ - Phase-II College Wise Allotments UG AYUSH 2026-27 - AIQ - Phase-II College Wise Allotments PG (MEDICAL) MQ PROSPECTUS 2026-27 PG (MEDICAL) MQ NOTIFICATION 2026-27 Allied and Healthcare Courses 2026-27 - Prospectus Allied and Healthcare Courses 2026-27 - CQ - Detailed Notification for Online Applications Allied and Healthcare Courses 2026-27 - CQ - Notification for Online Applications for Private Universities MBBS CQ 2026-27- Notice for Final Result & College-wise allotments List under Phase-III BDS MQ 2026-27 - List of candidates Not Reported after Phase-I MBBS _BDS-2026-27 -NOTICE FOR EXTENSION OF FREE EXIT AFTER PHASE-I AND PHASE-II MBBS CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III",
-        "link": "https://drntr.uhsap.in/index/notification/20261017191259590.pdf",
-        "date": "17/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-17T16:35:57.830Z"
       }
     ]
   },
@@ -3639,9 +3639,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-26T15:03:16.657Z",
+    "lastUpdatedDate": "2026-10-27T10:55:09.433Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7278673d142f430a",
+        "title": "PRESS RELEASE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION FOR PG MEDICAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1foxacoa27MYCELIyL_TFKL0uoKRmyMa0/view?usp=sharing",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-27T10:55:09.433Z"
+      },
+      {
+        "id": "PG MEDICAL:7278673d142f430a",
+        "title": "PRESS RELEASE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION FOR PG MEDICAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1foxacoa27MYCELIyL_TFKL0uoKRmyMa0/view?usp=sharing",
+        "date": "27/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 315,
+        "detectedAt": "2026-10-27T10:55:09.433Z"
+      },
       {
         "id": "OVERALL:a75488407d56c379",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
@@ -3821,26 +3841,6 @@
         "source": "Direct from Website",
         "batchIndex": 462,
         "detectedAt": "2026-10-23T12:51:30.088Z"
-      },
-      {
-        "id": "UG NEET:f605f099df9e92b2",
-        "title": "STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1UtgHbpGjiWYXSgJQvC7X9nEuLzXIbEPw/view?usp=sharing",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 463,
-        "detectedAt": "2026-10-23T21:15:58.561Z"
-      },
-      {
-        "id": "UG NEET:cbcc4bf70cdc8460",
-        "title": "NOTICE : STRAY ROUND DRAFT ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1hXb9NVaVJXv5An-zoq7QzwrfpN8xljbW/view?usp=sharing",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 464,
-        "detectedAt": "2026-10-23T21:15:58.561Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -5427,7 +5427,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-24T09:05:45.915Z",
+    "lastUpdatedDate": "2026-10-27T10:54:57.321Z",
     "pinned": false,
     "notices": [
       {
