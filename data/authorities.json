@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-29T09:38:53.645Z",
+    "lastUpdatedDate": "2026-10-29T16:46:18.956Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "fc775876d2c87854",
+        "title": "29-10-2026: BNYS Course 2026-27 - CQ - Phase-I College Wise Allotments M.Sc_N Web Options Detailed Notification 2026-27 M.Sc(N) Service candidates Final Merit List 2026-27 M.Sc(N) Non-Service candidates Final Merit List 2026-27 MSc., Nursing SVU Region Service seat Matrix 2026-27 MSc., Nursing SVU Region NON-Service seat Matrix 2026-27 MSc., Nursing AU Region Service seat Matrix 2026-27 MSc., Nursing AU Region Non-Service seat Matrix 2026-27 UG AYUSH Courses 2026-27 - NCC Merit List",
+        "link": "https://drntr.uhsap.in/index/notification/20261029184136960.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-29T16:46:18.956Z"
+      },
       {
         "id": "0e01e07a79eae8de",
         "title": "29-10-2026: UG AYUSH Courses 2026-27 - NCC Merit List",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-22T15:34:00.300Z"
-      },
-      {
-        "id": "497f313b7131abeb",
-        "title": "21-10-2026: MBBS -2026-27 - CQ - Web Options Notification for Stray Round Counseling MBBS -2026-27-CQ- LIST OF CANDIDATES NOT REPORTED AFTER PHASE-III",
-        "link": "https://drntr.uhsap.in/index/notification/20261021224719093.pdf",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T18:11:36.687Z"
       }
     ]
   },
@@ -3633,9 +3633,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-29T09:44:07.257Z",
+    "lastUpdatedDate": "2026-10-29T16:52:38.445Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:1e2b4a552bd20efe",
+        "title": "UPDATED LIST OF CANDIDATES WILLING TO PARTICIPATE IN MOPUP-2 ROUND - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_2_updated_eligible_list.html",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-29T16:52:38.445Z"
+      },
       {
         "id": "OVERALL:b8535c57411fcc97",
         "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
@@ -3647,6 +3657,16 @@
         "detectedAt": "2026-10-29T09:44:07.257Z"
       },
       {
+        "id": "OVERALL:249588541097617a",
+        "title": "NOTICE : UPDATED MOP UP-2 ROUND WILLING CANDIDATES LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1piJOw3nnkIwLqXka--dAV8RcjlHrQbYN/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-29T16:52:38.445Z"
+      },
+      {
         "id": "OVERALL:e69f0200fcb8c9aa",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
         "link": "https://drive.google.com/file/d/1or5TgVHVJI1Cu6yn2UwiCr9PylLlc3J7/view?usp=sharing",
@@ -3655,6 +3675,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-29T09:44:07.257Z"
+      },
+      {
+        "id": "OVERALL:2f74b7eec9522bc3",
+        "title": "STRAY ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES AS PER THE DIRECTIONS OF HON'BLE HIGH COURT AT MADRAS",
+        "link": "https://drive.google.com/file/d/1bvPYNXZOtDsNRPzAzU4zxSyj2eU9HJYE/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-10-29T16:52:38.445Z"
       },
       {
         "id": "UG NON-NEET:b8535c57411fcc97",
@@ -3675,6 +3705,36 @@
         "source": "Direct from Website",
         "batchIndex": 367,
         "detectedAt": "2026-10-29T09:44:07.257Z"
+      },
+      {
+        "id": "UG NON-NEET:1e2b4a552bd20efe",
+        "title": "UPDATED LIST OF CANDIDATES WILLING TO PARTICIPATE IN MOPUP-2 ROUND - (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_2_updated_eligible_list.html",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 369,
+        "detectedAt": "2026-10-29T16:52:38.445Z"
+      },
+      {
+        "id": "UG NON-NEET:249588541097617a",
+        "title": "NOTICE : UPDATED MOP UP-2 ROUND WILLING CANDIDATES LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1piJOw3nnkIwLqXka--dAV8RcjlHrQbYN/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 370,
+        "detectedAt": "2026-10-29T16:52:38.445Z"
+      },
+      {
+        "id": "UG NEET:2f74b7eec9522bc3",
+        "title": "STRAY ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES AS PER THE DIRECTIONS OF HON'BLE HIGH COURT AT MADRAS",
+        "link": "https://drive.google.com/file/d/1bvPYNXZOtDsNRPzAzU4zxSyj2eU9HJYE/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 494,
+        "detectedAt": "2026-10-29T16:52:38.445Z"
       },
       {
         "id": "OVERALL:3fe0459cf6582e7e",
@@ -3775,66 +3835,6 @@
         "source": "Direct from Website",
         "batchIndex": 368,
         "detectedAt": "2026-10-28T19:06:43.946Z"
-      },
-      {
-        "id": "OVERALL:7278673d142f430a",
-        "title": "PRESS RELEASE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION FOR PG MEDICAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1foxacoa27MYCELIyL_TFKL0uoKRmyMa0/view?usp=sharing",
-        "date": "27/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-27T10:55:09.433Z"
-      },
-      {
-        "id": "PG MEDICAL:7278673d142f430a",
-        "title": "PRESS RELEASE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION FOR PG MEDICAL COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1foxacoa27MYCELIyL_TFKL0uoKRmyMa0/view?usp=sharing",
-        "date": "27/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 315,
-        "detectedAt": "2026-10-27T10:55:09.433Z"
-      },
-      {
-        "id": "OVERALL:a75488407d56c379",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1bQqYvIt2vVxnPhlN0YxXFlXOSy9huc47/view?usp=sharing",
-        "date": "26/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-26T15:03:16.657Z"
-      },
-      {
-        "id": "OVERALL:9b6c97fbe11fc531",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION & ROUND 3 REGISTRATION FOR PG DENTAL (MDS) COURSES",
-        "link": "https://drive.google.com/file/d/12h2VfBh4sXGahfw_hJCZTRgWU1aclq3N/view?usp=sharing",
-        "date": "26/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-26T15:03:16.657Z"
-      },
-      {
-        "id": "PG DENTAL:9b6c97fbe11fc531",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF FRESH APPLICATION & ROUND 3 REGISTRATION FOR PG DENTAL (MDS) COURSES",
-        "link": "https://drive.google.com/file/d/12h2VfBh4sXGahfw_hJCZTRgWU1aclq3N/view?usp=sharing",
-        "date": "26/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 321,
-        "detectedAt": "2026-10-26T15:03:16.657Z"
-      },
-      {
-        "id": "UG NON-NEET:a75488407d56c379",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1bQqYvIt2vVxnPhlN0YxXFlXOSy9huc47/view?usp=sharing",
-        "date": "26/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 356,
-        "detectedAt": "2026-10-26T15:03:16.657Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4697,7 +4697,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-28T13:24:55.423Z",
+    "lastUpdatedDate": "2026-10-29T16:47:30.541Z",
     "pinned": false,
     "notices": [
       {
@@ -7101,9 +7101,29 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-24T13:34:54.887Z",
+    "lastUpdatedDate": "2026-10-29T16:52:38.028Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "145af32c13615ac1",
+        "title": "ADMISSION TO AYURVEDA/HOMOEO/SIDDHA/UNANI/ MEDICAL ALLIED COURSES- THIRD PHASE PROVISIONAL ALLOTMENT PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/371/Upload1",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-29T16:52:38.028Z"
+      },
+      {
+        "id": "672c07250f70d6ad",
+        "title": "List of Candidates Ineligible to Participate in State Quota Counselling,Having Been Admitted under the All India Quota (AIQ)",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/366/Upload1",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-29T16:52:38.028Z"
+      },
       {
         "id": "1a29e98d6e71576a",
         "title": "Third Phase Allotment To Ayurveda/Homoeo/Siddha/Unani/ Medical Allied Courses- Facility For Option Confirmation Fresh Option Registration Available For Veterinary Course",
@@ -7287,26 +7307,6 @@
         "titleEn": "Admission to Pharmacy Course – 2026 – Regarding Newly Inducted Colleges in Second Phase Centralized Allotment –",
         "titleLang": "ml",
         "detectedAt": "2026-09-28T11:37:47.996Z"
-      },
-      {
-        "id": "4f1bcbbc2f282652",
-        "title": "SECOND ROUND ONLINE VACANCY FILLING ALLOTMENT TO B.PHARM COURSE - ONLINE OPTIONS INVITED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/277/Upload1",
-        "date": "25/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-25T16:58:25.167Z"
-      },
-      {
-        "id": "161531ed16bd068c",
-        "title": "Admission to AYUSH/Veterinary/Fisheries/Forestry/Agriculture and Allied Courses - First Phase Allotment Published",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/275/Upload1",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T18:40:55.547Z"
       }
     ]
   },
