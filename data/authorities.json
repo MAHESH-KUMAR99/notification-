@@ -2164,9 +2164,29 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-28T19:00:43.934Z",
+    "lastUpdatedDate": "2026-10-29T09:38:53.645Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0e01e07a79eae8de",
+        "title": "29-10-2026: UG AYUSH Courses 2026-27 - NCC Merit List",
+        "link": "https://drntr.uhsap.in/index/notification/20261029104533697.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-29T09:38:53.645Z"
+      },
+      {
+        "id": "6dc4d5dc39217f9d",
+        "title": "28-10-2026: Extension of Ph.D Notification for admission into Ph.D course for the Academic Year 2026-27 is extended upto 05:00 PM on 25-11-2026. MPTCET PROSPECTUS 2026-27 MPTCET-2026-27 Notification inviting Applications Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area 2 YDC - 2nd Phase Web Notification 2026-27 2YDC_2026-27_Phase-I Not Reported",
+        "link": "https://drntr.uhsap.in/index/notification/20261029104521457.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-29T09:38:53.645Z"
+      },
       {
         "id": "3fddb6dbb7a9d5f8",
         "title": "28-10-2026: Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area 2 YDC - 2nd Phase Web Notification 2026-27 2YDC_2026-27_Phase-I Not Reported",
@@ -2346,26 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-21T18:11:36.687Z"
-      },
-      {
-        "id": "0f9cb40052fb17ac",
-        "title": "20-10-2026: B.Sc. (Nursing) -2026-27 - CQ - Phase 1 - Collegewise Allotments",
-        "link": "https://drntr.uhsap.in/index/notification/20261020230121787.pdf",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-20T19:55:18.364Z"
-      },
-      {
-        "id": "211cd2246dd4964b",
-        "title": "19-10-2026: MBBS_BDS - 2026-27 - Management Quota - Notification for Registrations MBBS MQ 2026-27 PHASE III COLLEGE WISE ALLOTMENTS BDS CQ 2026-27 - List of Candidates Not Admitted, availed FREE EXIT after Phase-I, Phase - II Counselling.",
-        "link": "https://drntr.uhsap.in/index/notification/20261019203420853.pdf",
-        "date": "19/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-19T21:41:36.201Z"
       }
     ]
   },
@@ -3633,9 +3633,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-28T19:06:43.946Z",
+    "lastUpdatedDate": "2026-10-29T09:44:07.257Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:b8535c57411fcc97",
+        "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
+        "link": "https://drive.google.com/file/d/12Pxkbjo7FlFrZRTSmTHZohsm_mMhYjJb/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-29T09:44:07.257Z"
+      },
+      {
+        "id": "OVERALL:e69f0200fcb8c9aa",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1or5TgVHVJI1Cu6yn2UwiCr9PylLlc3J7/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-29T09:44:07.257Z"
+      },
+      {
+        "id": "UG NON-NEET:b8535c57411fcc97",
+        "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
+        "link": "https://drive.google.com/file/d/12Pxkbjo7FlFrZRTSmTHZohsm_mMhYjJb/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 366,
+        "detectedAt": "2026-10-29T09:44:07.257Z"
+      },
+      {
+        "id": "UG NON-NEET:e69f0200fcb8c9aa",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
+        "link": "https://drive.google.com/file/d/1or5TgVHVJI1Cu6yn2UwiCr9PylLlc3J7/view?usp=sharing",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 367,
+        "detectedAt": "2026-10-29T09:44:07.257Z"
+      },
       {
         "id": "OVERALL:3fe0459cf6582e7e",
         "title": "MOP UP-2 ROUND WILLING CANDIDATES LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3795,46 +3835,6 @@
         "source": "Direct from Website",
         "batchIndex": 356,
         "detectedAt": "2026-10-26T15:03:16.657Z"
-      },
-      {
-        "id": "OVERALL:6a27f565bb0c06d3",
-        "title": "STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - FRESH CANDIDATES",
-        "link": "https://drive.google.com/file/d/1XmSOd7drQbgHpRNDfhKxax1i-4zDlDZZ/view?usp=sharing",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-24T13:34:55.439Z"
-      },
-      {
-        "id": "OVERALL:67e7c209f5a2c0c7",
-        "title": "STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - EXISTING CANDIDATES",
-        "link": "https://drive.google.com/file/d/1MgtwCYUA0kuXNU8ZKv-hQXstxTOkPBGT/view?usp=sharing",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-24T13:34:55.439Z"
-      },
-      {
-        "id": "OVERALL:42984789d24f82bb",
-        "title": "NOTICE : STARY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES 2026-2027",
-        "link": "https://drive.google.com/file/d/1FUwb_S06PgcLq_M4dyx4ocCtCipxPcUG/view?usp=sharing",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-24T13:34:55.439Z"
-      },
-      {
-        "id": "UG NEET:6a27f565bb0c06d3",
-        "title": "STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27) - FRESH CANDIDATES",
-        "link": "https://drive.google.com/file/d/1XmSOd7drQbgHpRNDfhKxax1i-4zDlDZZ/view?usp=sharing",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 468,
-        "detectedAt": "2026-10-24T13:34:55.439Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -6677,9 +6677,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-28T13:25:48.116Z",
+    "lastUpdatedDate": "2026-10-29T09:40:54.489Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "140f4a67c0f20286",
+        "title": "REVISED SCHEDULE B.SC (H) (NURSING) (CODE-115) (NEET UG 2026) AND CET Qualified 2026)-STRAY ROUND: 2026-27_dated-29.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610291239901450.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-29T09:40:54.489Z"
+      },
+      {
+        "id": "ee37a3fec9056b1b",
+        "title": "EXTENDED SCHEDULE FOR MBBS (CODE-103) (NEET UG 2026)-STRAY ROUND:2026-27_dated-29.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610291469541676.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-29T09:40:54.489Z"
+      },
       {
         "id": "3ac09f7dfa513ff4",
         "title": "BHMS (CODE-154) FOR NEET UG 2026 QUALIFIED CANDIDATES SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 03 FOR A.S.2026-27_dated-28.10.2026",
@@ -6858,26 +6878,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-10-07T15:23:09.072Z"
-      },
-      {
-        "id": "3f00fa6d1f6725b1",
-        "title": "L.E B.TECH (CODE-128) REFUND ORDER NO. 3969 DATED 05.10.2026 i.r.o online CANDIDATES FOR THE A.S: 2026-27_dated-07.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261007992869385.pdf",
-        "date": "07/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-07T15:23:09.072Z"
-      },
-      {
-        "id": "90b1a9b8d2262030",
-        "title": "B.TECH (CODE-131) REFUND ORDER NO. 3970 DATED 05.10.2026 i.r.o online NOT REPORTED CANDIDATES FOR THE A.S: 2026-27_dated-07.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261007601636169.pdf",
-        "date": "07/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-10-07T15:23:09.072Z"
       }
     ]
