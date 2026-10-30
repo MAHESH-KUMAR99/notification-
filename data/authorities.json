@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-29T16:46:18.956Z",
+    "lastUpdatedDate": "2026-10-30T08:20:33.853Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d7abe4871c930b8a",
+        "title": "30-10-2026: Post Graduation MPT Common Entrance Test 2026",
+        "link": "https://apntruhs-cbtmpt.aptonline.in/MPTCET",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-30T08:20:33.853Z"
+      },
       {
         "id": "fc775876d2c87854",
         "title": "29-10-2026: BNYS Course 2026-27 - CQ - Phase-I College Wise Allotments M.Sc_N Web Options Detailed Notification 2026-27 M.Sc(N) Service candidates Final Merit List 2026-27 M.Sc(N) Non-Service candidates Final Merit List 2026-27 MSc., Nursing SVU Region Service seat Matrix 2026-27 MSc., Nursing SVU Region NON-Service seat Matrix 2026-27 MSc., Nursing AU Region Service seat Matrix 2026-27 MSc., Nursing AU Region Non-Service seat Matrix 2026-27 UG AYUSH Courses 2026-27 - NCC Merit List",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-22T19:50:50.627Z"
-      },
-      {
-        "id": "9e0b72c99ef53ee4",
-        "title": "22-10-2026: MBBS- MQ-2026-27- LIST OF CANDIDATES NOT REPORTED AFTER PHASE-III MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.19-10-2026 MBBS-MQ-2026-27- Notification for STRAY ROUND Web options BDS -CQ-2026-27 - NOTICE FOR GRIEVANCE ON COLLEGE WISE PROIVISIONAL RESULT UNDER PHASE-III BDS-CQ 2026-27 - List of Phase-III_MRC Candidates MBBS_CQ-2026-27_College Wise Allotment under STRAY ROUND Counseling",
-        "link": "https://drntr.uhsap.in/index/notification/20261022203234848.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-22T15:34:00.300Z"
       }
     ]
   },
@@ -3633,9 +3633,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-29T21:46:35.566Z",
+    "lastUpdatedDate": "2026-10-30T08:26:10.252Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:5f00a38316827b00",
+        "title": "MOP UP 2 ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1bn4QZX8yOikvi5eQwGBQ0e_yDfVkCJuv/view?usp=sharing",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-30T08:26:10.252Z"
+      },
+      {
+        "id": "OVERALL:7a0a767f4b189fce",
+        "title": "NOTICE : MOP UP-2 ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1VlcKIiWofKz-aF9kd_ul43Dxpj-ylI-m/view?usp=sharing",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-30T08:26:10.252Z"
+      },
+      {
+        "id": "UG NON-NEET:5f00a38316827b00",
+        "title": "MOP UP 2 ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1bn4QZX8yOikvi5eQwGBQ0e_yDfVkCJuv/view?usp=sharing",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 374,
+        "detectedAt": "2026-10-30T08:26:10.252Z"
+      },
+      {
+        "id": "UG NON-NEET:7a0a767f4b189fce",
+        "title": "NOTICE : MOP UP-2 ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1VlcKIiWofKz-aF9kd_ul43Dxpj-ylI-m/view?usp=sharing",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 375,
+        "detectedAt": "2026-10-30T08:26:10.252Z"
+      },
       {
         "id": "OVERALL:669204839be05218",
         "title": "NOTICE : STRAY-2 ROUND REGISTRATION FOR UG NEET- B.A.M.S. COURSE AT RGAMC, MAHE FOR VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR B.A.M.S. (GQ & MQ)",
@@ -3795,46 +3835,6 @@
         "source": "Direct from Website",
         "batchIndex": 499,
         "detectedAt": "2026-10-29T21:46:35.566Z"
-      },
-      {
-        "id": "OVERALL:3fe0459cf6582e7e",
-        "title": "MOP UP-2 ROUND WILLING CANDIDATES LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_1_eligible_list.html",
-        "date": "28/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-28T19:06:43.946Z"
-      },
-      {
-        "id": "OVERALL:9d6a9163219416d2",
-        "title": "NOTICE : MOP UP-2 ROUND WILLING CANDIDATES LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/194pBA59a0aBRa1mJqOaJMoZJhLihMA6F/view?usp=drivesdk",
-        "date": "28/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-28T19:06:43.946Z"
-      },
-      {
-        "id": "OVERALL:0a0c4aff076e49a9",
-        "title": "UPDATED FINAL MERIT LIST FOR UG NON NEET MSP NON ELIGIBLE CANDIDATES 2026-2027",
-        "link": "https://drive.google.com/file/d/1Vh_Ya-h_xGtMdWa8kowDwrfKJDycyIaT/view?usp=drivesdk",
-        "date": "28/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-28T19:06:43.946Z"
-      },
-      {
-        "id": "OVERALL:99acfa1914e6017b",
-        "title": "UPDATED FINAL MERIT LIST FOR UG NON NEET MSP ELIGIBLE CANDIDATES 2026- 2027",
-        "link": "https://drive.google.com/file/d/1FhEWg56ZsxsLQd4Y3f43NOBh1xBWKndE/view?usp=drivesdk",
-        "date": "28/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-28T19:06:43.946Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
