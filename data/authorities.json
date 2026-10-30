@@ -4697,7 +4697,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-30T15:14:21.868Z",
+    "lastUpdatedDate": "2026-10-30T20:02:06.997Z",
     "pinned": false,
     "notices": [
       {
@@ -6677,9 +6677,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-29T09:40:54.489Z",
+    "lastUpdatedDate": "2026-10-30T20:02:59.405Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "680f6da77ad9b59b",
+        "title": "MBBS (CODE-103) (NEET UG 2026) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF STRAY ROUND FOR A.S:2026-27_dated-30.10.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261030341749386.pdf",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-30T20:02:59.405Z"
+      },
       {
         "id": "140f4a67c0f20286",
         "title": "REVISED SCHEDULE B.SC (H) (NURSING) (CODE-115) (NEET UG 2026) AND CET Qualified 2026)-STRAY ROUND: 2026-27_dated-29.10.2026",
@@ -6869,16 +6879,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-10-08T14:50:50.823Z"
-      },
-      {
-        "id": "bf04d2896d7d220f",
-        "title": "Withdrawal of Schedule for Spot Round of Offline Counselling vide Notification No. 268/2026; F. No. IPU-7/ DA(Academic /Offline Counselling/2026/2987 dated 05.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610071708696367.pdf",
-        "date": "07/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-07T15:23:09.072Z"
       }
     ]
   },
