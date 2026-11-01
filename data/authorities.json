@@ -2780,9 +2780,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-30T15:18:00.641Z",
+    "lastUpdatedDate": "2026-11-01T17:57:05.773Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:815bd7b789fde044",
+        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of UGMAC[AYUSH]-2026 (Adv. No. BCECEB[UGMAC(Ayush)]-2026/08 Dated 01.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_08.pdf",
+        "date": "01/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-01T17:57:05.773Z"
+      },
+      {
+        "id": "Latest Updates:7fd6f88d28ddee13",
+        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/08 Dated 01.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_08.pdf",
+        "date": "01/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-01T17:57:05.773Z"
+      },
       {
         "id": "Latest Updates:ff2d5691038c95fc",
         "title": "Important notice regarding filling up online application form for the post of Senior Resident /Tutor Under Health Department (Adv. No. (Health(SR))-2026(III)-2026/02 Dated 30.10.2026)",
@@ -2962,26 +2982,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-10-04T11:18:13.752Z"
-      },
-      {
-        "id": "Latest Updates:29baaa62487ae4fe",
-        "title": "Corrigendum for Online Registraion and Choice filling for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/11 Dated 03.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_12.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-03T13:14:42.582Z"
-      },
-      {
-        "id": "Latest Updates:b170108a5eb528c2",
-        "title": "Corrigendum for Online Registraion and Choice filling for UGMAC-2026 Round-3 (Adv. No. BCECEB(UGMAC)-2026/12 Dated 03.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_12.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 4,
-        "detectedAt": "2026-10-14T16:55:13.611Z"
       },
       {
         "id": "UGMAC:e63fe0dbbd6063d8",
