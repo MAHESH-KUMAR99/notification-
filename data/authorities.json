@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-20T11:10:03.490Z",
+    "lastUpdatedDate": "2026-11-02T18:43:54.324Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "b17e2879ae57aa8c",
+        "title": "NOTICE FOR ADDITION OF SEATS IN SPECIAL ROUND UG 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611021519458016.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-02T18:43:54.324Z"
+      },
+      {
+        "id": "2b3637bab30d5311",
+        "title": "SPECIAL STRAY VACANCY ROUND FOR MBBS AND 5TH ROUND OF BDS/B.S.C NURSING 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261102817404741.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-02T18:43:54.324Z"
+      },
       {
         "id": "87dfd89c4e53a1f0",
         "title": "Final Allotment Result for the UG Counselling Stray Vacancy Round",
@@ -399,26 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-12T11:08:40.205Z"
-      },
-      {
-        "id": "e481170792a9f006",
-        "title": "Provisional Result for UG Round 2 Counselling 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609101871040333.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-10T13:26:18.025Z"
-      },
-      {
-        "id": "9631731f33803330",
-        "title": "Notice for Provisional Result UG Round 2 Counselling 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260910283255977.pdf",
-        "date": "10/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-10T13:26:18.025Z"
       }
     ]
   },
@@ -998,7 +998,7 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-21T07:17:59.795Z",
+    "lastUpdatedDate": "2026-11-02T18:44:06.507Z",
     "pinned": false,
     "notices": [
       {
@@ -1070,6 +1070,18 @@
         "source": "Direct from Website",
         "batchIndex": 6,
         "detectedAt": "2026-10-21T07:17:59.795Z"
+      },
+      {
+        "id": "c9d6eee4645157fc",
+        "title": "MBBS/BDS કાઉન્સેલિંગના ચોથા સ્ટ્રે વેકન્સી રાઉન્ડમાં ભાગ લેવા માટે સંમતિ (Consent) આપેલ ઉમેદવારો સ્પેશિયલ સ્ટ્રે વેકન્સી રાઉન્ડમાં ભાગ લેવા માટે પાત્ર ગણાશે. જોકે, નીચે દર્શાવેલ ઉમેદવારો, તેમણે ચોથા સ્ટ્રે વેકન્સી રાઉન્ડમાં ભાગ લેવા માટે સંમતિ (Consent) આપેલ હોય કે ન હોય, તો પણ સ્પેશિયલ સ્ટ્રે વેકન્સી રાઉન્ડમાં ભાગ લેવા માટે અપાત્ર ગણાશે: 1. જે ઉમેદવારોએ કાઉન્સેલિંગના અગાઉના કોઈપણ રાઉન્ડમાં MBBS/BDS/BAMS/BHMS અભ્યાસક્રમમાં પ્રવેશ કન્ફર્મ કરાવી દીધી હોય. 2. જે ઉમેદવારોને MBBS/BDS કાઉન્સેલિંગના ચોથા સ્ટ્રે વેકન્સી રાઉન્ડમાં બેઠક (Seat) ફાળવવામાં આવી હોય. Candidates who have given their consent for Fourth Stray Vacancy Round of MBBS/BDS counselling shall be eligible to participate in the Special Stray Vacancy Round, However, the following candidates shall NOT be eligible to participate in the Special Stray Vacancy Round, irrespective of they have given their consent in 4th stray vacancy round : 1. Candidates who have already secured and confirmed admission to MBBS/BDS/BAMS/BHMS courses through any previous round of counselling. 2. Candidates who have been allotted a seat in 4th Stray Vacancy Round of MBBS/BDS counselling.",
+        "link": null,
+        "date": null,
+        "sortTs": 1792540800000,
+        "source": "Direct from Website",
+        "batchIndex": 16,
+        "titleEn": "Candidates who have consented to participate in the Fourth Stray Vacancy Round of MBBS/BDS Counseling will be eligible to participate in the Special Stray Vacancy Round. However, the following candidates, whether they have consented to participate in the Fourth Stray Vacancy Round or not, will be ineligible to participate in the Special Stray Vacancy Round: 1. Candidates who have confirmed admission to the MBBS/BDS/BAMS/BHMS course in any previous round of counselling. 2. Candidates who have been allotted a seat in the fourth stray vacancy round of MBBS/BDS counselling. Candidates who have given their consent for Fourth Stray Vacancy Round of MBBS/BDS counseling shall be eligible to participate in the Special Stray Vacancy Round, However, the following candidates shall NOT be eligible to participate in the Special Stray Vacancy Round, irrespective of they have given their consent in 4th stray vacancy round : 1. Candidates who have already secured and confirmed admission to MBBS/BDS/BAMS/BHMS courses through any previous round of counselling. 2. Candidates who have been allotted a seat in 4th Stray Vacancy Round of MBBS/BDS counselling.",
+        "titleLang": "gu",
+        "detectedAt": "2026-11-02T18:44:06.507Z"
       },
       {
         "id": "6990f61a9b3f4414",
@@ -1200,18 +1212,6 @@
         "source": "Direct from Website",
         "batchIndex": 12,
         "titleEn": "Candidates who have been allotted a seat in the fourth online (stray vacancy) round of MBBS/BDS courses, but do not confirm their admission by paying the prescribed tuition fee of the allotted college and depositing the original certificates at the Help Center of the Admission Committee, their refundable security deposit will be forfeited. Such candidates will not be eligible to participate in the extended fourth online (stray vacancy) round to be conducted by the Admission Committee. [Candidates who are allotted a seat in the Fourth Online (Stray Vacancy) Round of MBBS/BDS counseling but fail to confirm their admission by paying the prescribed tuition fees to the allotted college and submitting their original certificates at the Help Center of the Admission Committee shall have their refundable security deposit forfeited. Such candidates shall not be eligible to participate in the Extended Fourth Online (Stray Vacancy) Round for MBBS/BDS courses, if conducted by the Admission Committee.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-10-16T15:27:38.679Z"
-      },
-      {
-        "id": "875cb9c9b5560af7",
-        "title": "જે ઉમેદવારોને MBBS/BDS અભ્યાસક્રમોના ચોથા ઓનલાઈન (સ્ટ્રે વેકેન્સી) રાઉન્ડમાં બેઠક ફાળવવામાં આવી હોય અને ત્યારબાદ તેઓ નિયત ટ્યુશન ફી ભરીને, હેલ્પ સેન્ટર ખાતે અસલ પ્રમાણપત્રો જમા કરાવીને તથા એડમિશન ઓર્ડર મેળવીને પ્રવેશ કન્ફર્મ કરાવે, તેવા ઉમેદવારો પ્રવેશ સમિતિ દ્વારા યોજવામાં આવનાર એક્સટેન્ડેડ ચોથા ઓનલાઈન (સ્ટ્રે વેકેન્સી) રાઉન્ડમાં ભાગ લેવા માટે લાયક રહેશે નહીં. બાકીના ઉમેદવારો કે જેમણે ચોથા ઓનલાઈન (સ્ટ્રે વેકેન્સી) રાઉન્ડ દરમિયાન ઓનલાઈન કન્સેન્ટ આપીને ચોઈસ ભરેલી હશે, તેઓને જ નોન-રિપોર્ટેડ બેઠકો માટે લાયક ગણવામાં આવશે. [Candidates who are allotted a seat in the Fourth Online (Stray Vacancy) Round of MBBS/BDS counselling and subsequently confirm their admission by paying the prescribed tuition fees to the allotted college, submitting their original certificates at the Help Center, and obtaining the Admission Order shall not be eligible to participate in the Extended Fourth Online (Stray Vacancy) Round for MBBS/BDS courses, if conducted by the Admission Committee. Only those remaining candidates who have given online consent and filled in their choices during the Fourth Online (Stray Vacancy) Round shall be considered eligible for the non-reported seats.]",
-        "link": null,
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 13,
-        "titleEn": "Candidates who have been allotted seats in the fourth online (stray vacancy) round of MBBS/BDS courses and then confirm their admission by paying the prescribed tuition fee, depositing the original certificates at the Help Center and obtaining the admission order, will not be eligible to participate in the extended fourth online (stray vacancy) round to be conducted by the Admission Committee. Remaining candidates who have filled the choice by giving online consent during the fourth online (stray vacancy) round, will be considered eligible for non-reported seats. [Candidates who are allotted a seat in the Fourth Online (Stray Vacancy) Round of MBBS/BDS counseling and subsequently confirm their admission by paying the prescribed tuition fees to the allotted college, submitting their original certificates at the Help Center, and obtaining the Admission Order shall not be eligible to participate in the Extended Fourth Online (Stray Vacancy) Round for MBBS/BDS courses, if conducted by the Admission Committee. Only those remaining candidates who have given online consent and filled in their choices during the Fourth Online (Stray Vacancy) Round shall be considered eligible for the non-reported seats.]",
         "titleLang": "gu",
         "detectedAt": "2026-10-16T15:27:38.679Z"
       },
@@ -2780,9 +2780,19 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-01T17:57:05.773Z",
+    "lastUpdatedDate": "2026-11-02T18:49:06.352Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:06eea9817e0c4efd",
+        "title": "Revised Document Verification Schedule of PGMAC-2026 (Adv. No. BCECEB(PGMAC)-2026/03 Dated 02.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_03.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-02T18:49:06.352Z"
+      },
       {
         "id": "Latest Updates:815bd7b789fde044",
         "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of UGMAC[AYUSH]-2026 (Adv. No. BCECEB[UGMAC(Ayush)]-2026/08 Dated 01.11.2026)",
@@ -2972,16 +2982,6 @@
         "source": "Latest Updates",
         "batchIndex": 1,
         "detectedAt": "2026-10-09T15:11:19.633Z"
-      },
-      {
-        "id": "Latest Updates:23e973177001ce91",
-        "title": "Date and Time for Offline Counselling of POST GRADUATE PHARMACY ADMISSION COUNSELLING (PGPAC)-2026 on the basis of GPAT(Adv. No. BCECEB(PGPAC)-2026/03 Dated 04.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGPAC26_03.pdf",
-        "date": "04/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-04T11:18:13.752Z"
       },
       {
         "id": "UGMAC:e63fe0dbbd6063d8",
@@ -3633,9 +3633,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-30T08:26:10.252Z",
+    "lastUpdatedDate": "2026-11-02T18:50:35.477Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:c04c6818d4ebe945",
+        "title": "UG NEET ADMITTED LIST - STRAY ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1f7AyveX_4ESjckxhIDz6iN4WqSCl_tD_/view?usp=sharing",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-02T18:50:35.477Z"
+      },
+      {
+        "id": "UG NEET:c04c6818d4ebe945",
+        "title": "UG NEET ADMITTED LIST - STRAY ROUND - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1f7AyveX_4ESjckxhIDz6iN4WqSCl_tD_/view?usp=sharing",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 504,
+        "detectedAt": "2026-11-02T18:50:35.477Z"
+      },
       {
         "id": "OVERALL:5f00a38316827b00",
         "title": "MOP UP 2 ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
@@ -3814,26 +3834,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 373,
-        "detectedAt": "2026-10-29T21:46:35.566Z"
-      },
-      {
-        "id": "UG NEET:2f74b7eec9522bc3",
-        "title": "STRAY ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES AS PER THE DIRECTIONS OF HON'BLE HIGH COURT AT MADRAS",
-        "link": "https://drive.google.com/file/d/1bvPYNXZOtDsNRPzAzU4zxSyj2eU9HJYE/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 494,
-        "detectedAt": "2026-10-29T16:52:38.445Z"
-      },
-      {
-        "id": "UG NEET:669204839be05218",
-        "title": "NOTICE : STRAY-2 ROUND REGISTRATION FOR UG NEET- B.A.M.S. COURSE AT RGAMC, MAHE FOR VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR B.A.M.S. (GQ & MQ)",
-        "link": "https://drive.google.com/file/d/1TkKtJ-9QR2oQxyPmCh-0f0uyDP9FWsJE/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 499,
         "detectedAt": "2026-10-29T21:46:35.566Z"
       },
       {
@@ -4697,7 +4697,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-31T20:13:31.738Z",
+    "lastUpdatedDate": "2026-11-02T18:46:09.412Z",
     "pinned": false,
     "notices": [
       {
@@ -6465,9 +6465,29 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-28T13:27:36.114Z",
+    "lastUpdatedDate": "2026-11-02T18:49:12.558Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9b5e3386a4fee0a0",
+        "title": "UG(BUMS)- Result of 2nd Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1793614121997-BUMS_2ND_ROUND_RESULT.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-02T18:49:12.558Z"
+      },
+      {
+        "id": "74704e5c8d86741c",
+        "title": "UG(BAMS) - Result of 2nd Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1793614140365-BAMS_2ND_ROUND_RESULT.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-02T18:49:12.558Z"
+      },
       {
         "id": "9b8268d712092ca2",
         "title": "UG(BAMS) - Revised result of CW category for 1st Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
@@ -6647,26 +6667,6 @@
         "source": "Direct from Website",
         "batchIndex": 10,
         "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "a1c1c39c62f832ce",
-        "title": "UG(BHMS)- Result of 1st Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1791194114390-RESULT_1ST_ROUND_OF_UG_BHMS_2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 11,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "476d1f002bf6728f",
-        "title": "UG(BHMS)- Final lists as per merit of eligible candidates under 85% Delhi Quota for the session 2026-27.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1790835662367-FINAL_MERIT_LIST_UG__BHMS__2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 12,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
       }
     ]
   },
@@ -6677,9 +6677,49 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-30T20:02:59.405Z",
+    "lastUpdatedDate": "2026-11-02T18:47:02.287Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "323cea8b7a5fbd66",
+        "title": "MBBS (CODE 103) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF STRAY ROUND FOR A.S. 2026-27_dated-02.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261102861924567.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-02T18:47:02.287Z"
+      },
+      {
+        "id": "7f2ad759440e85fd",
+        "title": "BHMS (CODE 154) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 03 FOR A.S. 2026-27_dated-02.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261102649028531.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-02T18:47:02.287Z"
+      },
+      {
+        "id": "daf6715b39f62cde",
+        "title": "BAMS (CODE 153) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 02 FOR A.S. 2026-27_dated-02.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611021174310441.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-02T18:47:02.287Z"
+      },
+      {
+        "id": "06028ec592c342e8",
+        "title": "B.SC. (H) NURSING (CODE 115) (NEET AND CET 2026)- EXTENDED STRAY ROUND: 2026-27_dated-02.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611021491272970.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-02T18:47:02.287Z"
+      },
       {
         "id": "680f6da77ad9b59b",
         "title": "MBBS (CODE-103) (NEET UG 2026) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF STRAY ROUND FOR A.S:2026-27_dated-30.10.2026",
@@ -6839,46 +6879,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-13T16:20:15.860Z"
-      },
-      {
-        "id": "0cb8b8ade7e2e316",
-        "title": "SCHEDULE OF 2nd ROUND (PGDYTMP (CODE-176) OF OFFLINE COUNSELLING FOR A.S: 2026-27_dated-08.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008412038361.pdf",
-        "date": "08/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-08T14:50:50.823Z"
-      },
-      {
-        "id": "d08368d57ab86456",
-        "title": "SCHEDULE FOR SPOT ROUND OF B.ED (SE) (CODE-159) OFFLINE COUNSELLING FOR A.S:2026-27_dated-08.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008161155318.pdf",
-        "date": "08/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-08T14:50:50.823Z"
-      },
-      {
-        "id": "1edc604a0c026139",
-        "title": "ROUND 02 BHMS (CODE-154) FOR NEET UG 2026 SCHEDULE FOR ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-08.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008809730450.pdf",
-        "date": "08/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-08T14:50:50.823Z"
-      },
-      {
-        "id": "feac12faa6763477",
-        "title": "ROUND 01 BAMS (CODE-153) FOR NEET UG 2026 SCHEDULE FOR ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-08.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261008701900293.pdf",
-        "date": "08/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-08T14:50:50.823Z"
       }
     ]
   },
@@ -6889,9 +6889,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-23T12:47:02.440Z",
+    "lastUpdatedDate": "2026-11-02T18:44:55.935Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7e2dc1f3f039f319",
+        "title": "Schedule of Special Stray Round for MBBS and Round 5 for BDS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/11/202611022040605503.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-11-02T18:44:55.935Z"
+      },
       {
         "id": "6d8d80353dbea910",
         "title": "Debarring Notice Dated 22-10-2026",
@@ -7081,16 +7091,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-25T08:48:51.114Z"
-      },
-      {
-        "id": "74d0cfcc851c5eb2",
-        "title": "Fee Structure for Private Medical and Dental Colleges",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/202608241072214322.pdf",
-        "date": "24/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-24T09:52:43.225Z"
       }
     ]
   },
