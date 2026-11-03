@@ -7097,7 +7097,7 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:34:57.883Z",
+    "lastUpdatedDate": "2026-11-03T22:01:59.712Z",
     "pinned": false,
     "notices": [
       {
@@ -7109,6 +7109,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-03T16:34:57.883Z"
+      },
+      {
+        "id": "bc172aefa18b5bb7",
+        "title": "MBBS/BDS - Special Stray Vacancy Filling Allotment - Option Registration Started.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/384/Upload1",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-03T22:01:59.712Z"
       },
       {
         "id": "8ca5837b8cc97d09",
@@ -7291,16 +7301,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-08T14:53:55.980Z"
-      },
-      {
-        "id": "d352a9a99609a354",
-        "title": "Second Phase Allotment To Ayurveda/Homoeo/Siddha/Unani/ Medical Allied Courses- Facility For Option Confirmation Fresh Option Registration Available For Nss Homoeo Medical College",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/294/Upload1",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-03T13:15:11.206Z"
       }
     ]
   },
