@@ -3633,9 +3633,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-02T18:50:35.477Z",
+    "lastUpdatedDate": "2026-11-03T08:35:44.261Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:c41ac8a2f2a77063",
+        "title": "NOTICE : SPECIAL STRAY ROUND REGISTRATION FOR UG NEET- M.B.B.S. AND B.D.S. COURSES VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR M.B.B.S. & B.D.S. - MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1P7SjafzTmQfkBhYmmxg4bdDJz-Dq9sp7/view?usp=sharing",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-03T08:35:44.261Z"
+      },
+      {
+        "id": "OVERALL:a56e674ef06c8fe6",
+        "title": "LIST OF VACANCIES IN UG NEET COURSES FOR SPECIAL STRAY ROUND",
+        "link": "https://drive.google.com/file/d/19i6b1-OsNgIDpjBIzhcau_adae56dkva/view?usp=sharing",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-03T08:35:44.261Z"
+      },
+      {
+        "id": "UG NEET:c41ac8a2f2a77063",
+        "title": "NOTICE : SPECIAL STRAY ROUND REGISTRATION FOR UG NEET- M.B.B.S. AND B.D.S. COURSES VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR M.B.B.S. & B.D.S. - MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1P7SjafzTmQfkBhYmmxg4bdDJz-Dq9sp7/view?usp=sharing",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 506,
+        "detectedAt": "2026-11-03T08:35:44.261Z"
+      },
+      {
+        "id": "UG NEET:a56e674ef06c8fe6",
+        "title": "LIST OF VACANCIES IN UG NEET COURSES FOR SPECIAL STRAY ROUND",
+        "link": "https://drive.google.com/file/d/19i6b1-OsNgIDpjBIzhcau_adae56dkva/view?usp=sharing",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 507,
+        "detectedAt": "2026-11-03T08:35:44.261Z"
+      },
       {
         "id": "OVERALL:c04c6818d4ebe945",
         "title": "UG NEET ADMITTED LIST - STRAY ROUND - (2026 - 2027)",
@@ -3795,46 +3835,6 @@
         "source": "Direct from Website",
         "batchIndex": 367,
         "detectedAt": "2026-10-29T09:44:07.257Z"
-      },
-      {
-        "id": "UG NON-NEET:1e2b4a552bd20efe",
-        "title": "UPDATED LIST OF CANDIDATES WILLING TO PARTICIPATE IN MOPUP-2 ROUND - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_2_updated_eligible_list.html",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 369,
-        "detectedAt": "2026-10-29T16:52:38.445Z"
-      },
-      {
-        "id": "UG NON-NEET:249588541097617a",
-        "title": "NOTICE : UPDATED MOP UP-2 ROUND WILLING CANDIDATES LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1piJOw3nnkIwLqXka--dAV8RcjlHrQbYN/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 370,
-        "detectedAt": "2026-10-29T16:52:38.445Z"
-      },
-      {
-        "id": "UG NON-NEET:a26efe8a5c8a571e",
-        "title": "MOP UP 2 ROUND DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1PzjDXETZbekpMW2ZGSP4rkYg5-zqjZsN/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 372,
-        "detectedAt": "2026-10-29T21:46:35.566Z"
-      },
-      {
-        "id": "UG NON-NEET:9202662d5f38f3e7",
-        "title": "NOTICE : MOP UP-2 ROUND DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1gwZ9johSX3OgS9tkEWGjZ-0dBcCJhE3j/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 373,
-        "detectedAt": "2026-10-29T21:46:35.566Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4697,7 +4697,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-02T18:46:09.412Z",
+    "lastUpdatedDate": "2026-11-03T08:31:35.958Z",
     "pinned": false,
     "notices": [
       {
