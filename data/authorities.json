@@ -2164,9 +2164,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:29:12.173Z",
+    "lastUpdatedDate": "2026-11-04T17:51:57.749Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "86682429f0a06448",
+        "title": "04-11-2026: MBBS _BDS - MQ-2026-27-Notification for Online application & schedule for Special Stray Vacancy Round M.Sc(N) Notice Regarding Phase-I web options",
+        "link": "https://drntr.uhsap.in/index/notification/20261104175736980.pdf",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-04T17:51:57.749Z"
+      },
       {
         "id": "aa001cc7a8dd5baa",
         "title": "03-11-2026: MSc(N) PHASE 1 CollegeWise Allotments 2026-27 B.Sc(Nursing) 4-YDC CQ Phase-2 Web Options Notification_2026-27 B.Sc.(Nursing) 4 YDC 2026-27 - CQ LIST OF NOT REPORTED CANDIDATES AFTER PHASE-I COUNSELLING B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - AU Area Seat Matrix B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - SVU Area Seat Matrix UG AYUSH Courses 2026-27 - CQ - Phase-III Web Options Notification UG AYUSH Courses 2026-27 - CQ - List of Not Reported Candidates after Phase-II Counselling PG (Dental) Admissions 2026-27 - Notification on Free Exit (final) for Phase-I&II allotted candidates MDS CQ 2026-27 - Phase-III Web Options Notification PG (Dental) CQ 2026-27 - Consolidated Not Eligible list PG (Dental) CQ 2026-27 - Consolidated Final Merit list MDS MQ 2026-27 - Phase-III Web Options Notification PG (Dental) MQ 2026-27 - List of Candidates Eligible for S3 (Institutional Quota) seats PG (Dental) MQ 2026-27 - Consolidated Final Merit list",
@@ -2356,16 +2366,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-23T21:11:32.671Z"
-      },
-      {
-        "id": "486db28b0576b54d",
-        "title": "23-10-2026: SVIMS, Tirupati-Revised Admission Guidelines&Regulations for admission into PG (Medical) courses- 2026-27 BDS 2026-27 CQ PHASE 3 College Wise Allotments MBBS-MQ-2026-27-College wise allottments under STRAY ROUND BDS-MQ-2026-27- Notification for weboptions under Phase-III",
-        "link": "https://drntr.uhsap.in/index/notification/20261024105614460.pdf",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-24T09:02:04.173Z"
       }
     ]
   },
@@ -3637,9 +3637,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T08:35:44.261Z",
+    "lastUpdatedDate": "2026-11-04T17:56:59.209Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:516d6729749bc938",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR STRAY 2 ROUND BAMS ALLOTMENT",
+        "link": "https://drive.google.com/file/d/10u_HLeXZtx5EstF5sWBP61_qH4KDy6Rj/view?usp=drivesdk",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-04T17:56:59.209Z"
+      },
+      {
+        "id": "OVERALL:61cc419d263a74e6",
+        "title": "NOTICE : STRAY-2 ROUND ELIGIBLE CANDIDATES LIST FOR BAMS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1izXUMKzmVZmh0czENEnH2_lZbl2pGwhU/view?usp=drivesdk",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-04T17:56:59.209Z"
+      },
+      {
+        "id": "UG NEET:516d6729749bc938",
+        "title": "LIST OF CANDIDATES ELIGIBLE FOR STRAY 2 ROUND BAMS ALLOTMENT",
+        "link": "https://drive.google.com/file/d/10u_HLeXZtx5EstF5sWBP61_qH4KDy6Rj/view?usp=drivesdk",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 508,
+        "detectedAt": "2026-11-04T17:56:59.209Z"
+      },
+      {
+        "id": "UG NEET:61cc419d263a74e6",
+        "title": "NOTICE : STRAY-2 ROUND ELIGIBLE CANDIDATES LIST FOR BAMS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1izXUMKzmVZmh0czENEnH2_lZbl2pGwhU/view?usp=drivesdk",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 509,
+        "detectedAt": "2026-11-04T17:56:59.209Z"
+      },
       {
         "id": "OVERALL:c41ac8a2f2a77063",
         "title": "NOTICE : SPECIAL STRAY ROUND REGISTRATION FOR UG NEET- M.B.B.S. AND B.D.S. COURSES VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR M.B.B.S. & B.D.S. - MANAGEMENT QUOTA",
@@ -3798,46 +3838,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-10-29T09:44:07.257Z"
-      },
-      {
-        "id": "OVERALL:9202662d5f38f3e7",
-        "title": "NOTICE : MOP UP-2 ROUND DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1gwZ9johSX3OgS9tkEWGjZ-0dBcCJhE3j/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-29T21:46:35.566Z"
-      },
-      {
-        "id": "OVERALL:2f74b7eec9522bc3",
-        "title": "STRAY ROUND - ADDITIONAL PROVISIONAL ALLOTMENT LIST FOR UG NEET-BASED COURSES AS PER THE DIRECTIONS OF HON'BLE HIGH COURT AT MADRAS",
-        "link": "https://drive.google.com/file/d/1bvPYNXZOtDsNRPzAzU4zxSyj2eU9HJYE/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-29T16:52:38.445Z"
-      },
-      {
-        "id": "UG NON-NEET:b8535c57411fcc97",
-        "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
-        "link": "https://drive.google.com/file/d/12Pxkbjo7FlFrZRTSmTHZohsm_mMhYjJb/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 366,
-        "detectedAt": "2026-10-29T09:44:07.257Z"
-      },
-      {
-        "id": "UG NON-NEET:e69f0200fcb8c9aa",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1or5TgVHVJI1Cu6yn2UwiCr9PylLlc3J7/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 367,
         "detectedAt": "2026-10-29T09:44:07.257Z"
       },
       {
@@ -4701,7 +4701,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:30:33.028Z",
+    "lastUpdatedDate": "2026-11-04T17:53:08.138Z",
     "pinned": false,
     "notices": [
       {
@@ -6469,9 +6469,19 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-02T18:49:12.558Z",
+    "lastUpdatedDate": "2026-11-04T17:55:35.803Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4068f40b3556ba1d",
+        "title": "Cancellation/withdrawn of admission/allotment of the Candidates declared Ineligible by AACCC for the Academic Session 2026–27.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1793792035347-NOTIFICATION_-_CANCELLATION_OF_ADMISSION_OF_THE_CANDIATES_DELCARED_IN_INELIGIBLE_BY_AACCC.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-04T17:55:35.803Z"
+      },
       {
         "id": "9b5e3386a4fee0a0",
         "title": "UG(BUMS)- Result of 2nd Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
@@ -6661,16 +6671,6 @@
         "source": "Direct from Website",
         "batchIndex": 9,
         "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "66e56762a283b98b",
-        "title": "UG(BHMS)- Extension of reporting date for admission under 1st Round of Counselling for the academic session 2026-27.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1791546721341-Notice-09.10.2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
       }
     ]
   },
@@ -6681,9 +6681,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-02T18:47:02.287Z",
+    "lastUpdatedDate": "2026-11-04T17:54:00.983Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "de2278932cd89f17",
+        "title": "SCHEDULE OFFLINE COUNSELLING POSTGRADUATE AYURVEDA COURSES (PGAC CODE 196) AND POSTGRADUATE HOMEOPATHY COURSES (PGHC CODE 700) FOR A.S:2026-27_dated-04.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611041552062630.pdf",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-04T17:54:00.983Z"
+      },
       {
         "id": "323cea8b7a5fbd66",
         "title": "MBBS (CODE 103) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF STRAY ROUND FOR A.S. 2026-27_dated-02.11.2026",
@@ -6873,16 +6883,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-16T22:01:25.085Z"
-      },
-      {
-        "id": "a3b642c8abb1756a",
-        "title": "TENTATIVE VACANT SEATS FOR B.ED (SPECIAL EDUCATION) (CODE-159) FOR THE A.S: 2026-27_dated-13.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610131878192517.pdf",
-        "date": "13/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-13T16:20:15.860Z"
       }
     ]
   },
@@ -7105,9 +7105,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T22:01:59.712Z",
+    "lastUpdatedDate": "2026-11-04T17:56:58.770Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f89d5c7b2873a6bb",
+        "title": "Admission to Ayurveda (BAMS), Homoeopathy (BHMS), Siddha (BSMS) & Unani (BUMS) Courses-Application Submission Facility Re-opened.",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/388/Upload1",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-04T17:56:58.770Z"
+      },
       {
         "id": "af852f3751c0ca24",
         "title": "KEAM 2026 MBBS/BDS - Tentative Vacancy Position",
@@ -7299,16 +7309,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-09T15:11:46.869Z"
-      },
-      {
-        "id": "81706843710ad509",
-        "title": "ADMISSION TO MBBS/BDS COURSES-2026 THIRD PHASE PROVISIONAL ALLOTMENT PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/304/Upload1",
-        "date": "08/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-08T14:53:55.980Z"
       }
     ]
   },
