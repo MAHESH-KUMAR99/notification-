@@ -1426,7 +1426,7 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:29:10.039Z",
+    "lastUpdatedDate": "2026-11-04T09:42:46.579Z",
     "pinned": false,
     "notices": [
       {
@@ -1440,6 +1440,16 @@
         "detectedAt": "2026-11-03T16:29:10.039Z"
       },
       {
+        "id": "216b62908f347dd8",
+        "title": "92.5% - CLICK HERE FOR SPECIAL STRAY ROUND ONLINE COUNSELLING OF MBBS / BDS COURSE (GOVERNMENT / MANAGEMENT (INCLUDING MINORITY) / NRI QUOTA) 2026 - 2027 SESSION)",
+        "link": "https://counug.tnmedicalonline.co.in/ugmedgqstray/",
+        "date": null,
+        "sortTs": 1793664000000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-04T09:42:46.579Z"
+      },
+      {
         "id": "5d979b4419d356ba",
         "title": "TENTATIVE SPECIAL STRAY VACANCY ROUND COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSE in Tamil Nadu Government Medical & Dental Colleges, Government & Management Quota seats in Self Financing Medical & Dental Colleges, State Private Universities 2026-2027 SESSION",
         "link": "https://tnmedicalselection.net/news/03112026055712.pdf",
@@ -1448,6 +1458,26 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-11-03T16:29:10.039Z"
+      },
+      {
+        "id": "b4b8a90fff882a45",
+        "title": "TENTATIVE VACANCY FOR MBBS/BDS DEGREE COURSE 2026-2027 AS ON 04-11-2026",
+        "link": "https://tnmedicalselection.net/news/03112026235807.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-04T09:42:46.579Z"
+      },
+      {
+        "id": "05ee7ac6878073be",
+        "title": "TENTATIVE VACANCY POSITION FOR MBBS/BDS (GOVERNMENT QUOTA 7.5% RESERVATION) COURSE 2026-2027 SESSION ON 03-11-2026",
+        "link": "https://tnmedicalselection.net/news/03112026235706.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-04T09:42:46.579Z"
       },
       {
         "id": "3671c53c74114ea1",
@@ -1598,36 +1628,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-10-12T18:46:47.697Z"
-      },
-      {
-        "id": "4f539b28b77bf62d",
-        "title": "ADDENDUM TO THE ELIGIBLE LIST AS PER COURT ORDER - MBBS/BDS COURSE 2026 - 2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/12102026033253.pdf",
-        "date": "12/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-10-12T18:46:47.697Z"
-      },
-      {
-        "id": "450521e2809d728d",
-        "title": "KIND ATTENTION TO THE MBBS/BDS CANDIDATES-EXTENSION OF ROUND 3 SCHEDULE",
-        "link": "https://tnmedicalselection.net/news/08102026051427.pdf",
-        "date": "08/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-08T14:48:35.379Z"
-      },
-      {
-        "id": "df4cf2cc50ca27b7",
-        "title": "RESIGNATION PORTAL FOR TAMIL NADU MEDICAL SELECTION COMMITTEE WILL BE OPEN TILL 05.00 PM of 09.10.2026.",
-        "link": "https://tnmedicalselection.net/news/08102026025553.pdf",
-        "date": "08/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-08T14:48:35.379Z"
       }
     ]
   },
@@ -2376,9 +2376,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:29:04.947Z",
+    "lastUpdatedDate": "2026-11-04T09:42:38.357Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "1e88d7507bd3b6f6",
+        "title": "Click here to apply online Click here to submit willingness for 5th Round Click here to view willingness list",
+        "link": "https://admission.bfuhsonline.ac.in/pmet26onlineD/main.aspx",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-04T09:42:38.357Z"
+      },
       {
         "id": "80e66219a63ae382",
         "title": "Schedule of 5th Round of Online Counseling for BDS Course Vacancy Position of BDS Course for 5th round of online counseling",
@@ -2568,16 +2578,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-28T19:26:34.244Z"
-      },
-      {
-        "id": "32bc09ba1ab2e0b5",
-        "title": "Click here to apply online Click here to submit willingness for 3rd Round Click here to view willingness list",
-        "link": "https://admission.bfuhsonline.ac.in/pmet26onlineD/main.aspx",
-        "date": "28/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-28T11:32:57.835Z"
       }
     ]
   },
@@ -3285,9 +3285,21 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:29:03.807Z",
+    "lastUpdatedDate": "2026-11-04T09:42:37.228Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "944cd6961a7eba91",
+        "title": "Advt. No. 121 dated-03.11.2026 जी०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के अंतिम चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/824.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "titleEn": "Advt. No. 121 dated-03.11.2026 Important information related to the last round online interview of GNM Entrance Competition Examination-2026.",
+        "titleLang": "hi",
+        "detectedAt": "2026-11-04T09:42:37.228Z"
+      },
       {
         "id": "54e493ccd76131f6",
         "title": "Advt. No. 117 dated-03.11.2026 Indicative information regarding Special Stray Vacancy Round of Online Counselling for admission in All India Seats in M.B.B.S. & B.D.S. Courses",
@@ -3299,6 +3311,18 @@
         "detectedAt": "2026-11-03T16:29:03.807Z"
       },
       {
+        "id": "7594f6a27fa3ccf2",
+        "title": "Advt. No. 120 dated-03.11.2026 ए०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के अंतिम चक्र ऑनलाईन साक्षात्कार से संबंधित सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/823.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "Advt. No. 120 dated-03.11.2026 Information related to the final round online interview of ANM Entrance Competitive Examination-2026.",
+        "titleLang": "hi",
+        "detectedAt": "2026-11-04T09:42:37.228Z"
+      },
+      {
         "id": "31b9206b07c3f863",
         "title": "Advt. No. 116 dated-03.11.2026 Important information regarding Schedule of Special Stray Vacancy round of online counselling for admission in M.B.B.S., B.D.S. & B.H.M.S. Courses",
         "link": "https://jceceb.jharkhand.gov.in/con_notice/819.pdf",
@@ -3307,6 +3331,30 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-11-03T16:29:03.807Z"
+      },
+      {
+        "id": "038aeb10acb3409f",
+        "title": "Advt. No. 119 dated-03.11.2026 बी.एससी. नर्सिंग (बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के अंतिम चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/822.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "titleEn": "Advt. No. 119 dated-03.11.2026 B.Sc. Important information related to the last round online interview of Nursing (Basic) Entrance Competitive Examination-2026",
+        "titleLang": "hi",
+        "detectedAt": "2026-11-04T09:42:37.228Z"
+      },
+      {
+        "id": "9d1f6537831eb003",
+        "title": "Advt. No. 118 dated-03.11.2026 बी.एससी. नर्सिंग (पोस्ट बेसिक) प्रवेश प्रतियोगिता परीक्षा-2026 के अंतिम चक्र ऑनलाईन साक्षात्कार से संबंधित आवश्यक सूचना",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/821.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "titleEn": "Advt. No. 118 dated-03.11.2026 B.Sc. Important information related to the last cycle online interview of Nursing (Post Basic) Entrance Competitive Examination-2026",
+        "titleLang": "hi",
+        "detectedAt": "2026-11-04T09:42:37.228Z"
       },
       {
         "id": "364774f308857405",
@@ -3455,46 +3503,6 @@
         "titleEn": "Advt. No. 104 Dated - 16.10.2026 B.Sc. Important information related to special round online interview of Nursing (Post-Basic) Entrance Competitive Examination-2026",
         "titleLang": "hi",
         "detectedAt": "2026-10-16T15:27:50.182Z"
-      },
-      {
-        "id": "3df6012046ffe001",
-        "title": "Advt. No. 103 Dated- 16.10.2026 {Notice regarding Online counselling for Post Graduate Medical (MD/MS/Diploma & DNB) State Quota seats on the basis of NEET-PG-2026 Result}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/804.pdf",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-10-16T15:27:50.182Z"
-      },
-      {
-        "id": "65b00c570ce8d497",
-        "title": "Advt. No. 100 Dated 15.10.2026 {Very Important information regarding change in ongoing Schedule of Stray Vacancy round of online counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. Courses}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/803.pdf",
-        "date": "15/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-16T11:00:53.594Z"
-      },
-      {
-        "id": "3fc83c7b45d87e49",
-        "title": "Advt. No. 99 Dated - 14.10.2026 {Indicative information regarding Stray vacancy Round of Online Counselling for admission in All India Seats in M.B.B.S. & B.D.S. courses}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/802.pdf",
-        "date": "14/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-15T09:01:14.875Z"
-      },
-      {
-        "id": "b15cf88768b531e5",
-        "title": "Advt. No. 98 Dated - 14.10.2026 {Important information regarding Revised Schedule of Stray Vacancy round of online counselling for admission to M.B.B.S., B.D.S. & B.H.M.S. Courses}",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/801.pdf",
-        "date": "14/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-15T09:01:14.875Z"
       }
     ]
   },
@@ -6885,9 +6893,29 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-02T18:44:55.935Z",
+    "lastUpdatedDate": "2026-11-04T09:42:46.178Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d7f218bbba9b254d",
+        "title": "Urgent Notice Dated 04-11-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/11/202611041204237441.pdf",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-04T09:42:46.178Z"
+      },
+      {
+        "id": "3d73fc8753e12b01",
+        "title": "Revised Schedule dated 04-11-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/11/202611041860517744.pdf",
+        "date": "04/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-11-04T09:42:46.178Z"
+      },
       {
         "id": "7e2dc1f3f039f319",
         "title": "Schedule of Special Stray Round for MBBS and Round 5 for BDS",
@@ -7067,26 +7095,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-27T21:06:10.290Z"
-      },
-      {
-        "id": "241a91cd63caba82",
-        "title": "Notice for WB UG Medical and Dental 2026 Admission",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/20260827155618943.pdf",
-        "date": "27/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-27T21:06:10.290Z"
-      },
-      {
-        "id": "3e3e2538ff9cc22b",
-        "title": "Revised Provisional List of Candidates For Round 1",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/08/2026082575533214.pdf",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T08:48:51.114Z"
       }
     ]
   },

@@ -60,7 +60,7 @@
       "1b38805b833aacae",
       "d56ee248b327794b"
     ],
-    "lastCheckedAt": "2026-11-04T02:01:47.949Z",
+    "lastCheckedAt": "2026-11-04T09:42:20.107Z",
     "status": "ok"
   },
   "nta-neet": {
@@ -112,7 +112,7 @@
       "9627acb28c84a467",
       "358540bee95bcea0"
     ],
-    "lastCheckedAt": "2026-11-04T02:01:48.647Z",
+    "lastCheckedAt": "2026-11-04T09:42:20.787Z",
     "status": "ok"
   },
   "nmc": {
@@ -928,7 +928,7 @@
       "nmc-1022",
       "nmc-1021"
     ],
-    "lastCheckedAt": "2026-11-04T02:01:49.395Z",
+    "lastCheckedAt": "2026-11-04T09:42:21.534Z",
     "status": "error",
     "error": "HTTP 301"
   },
@@ -1584,11 +1584,15 @@
       "cf453f41c2ef675f",
       "3a0b5e2e02f52a7d"
     ],
-    "lastCheckedAt": "2026-11-04T02:01:54.893Z",
+    "lastCheckedAt": "2026-11-04T09:42:26.280Z",
     "status": "ok"
   },
   "jharkhand": {
     "seenIds": [
+      "944cd6961a7eba91",
+      "7594f6a27fa3ccf2",
+      "038aeb10acb3409f",
+      "9d1f6537831eb003",
       "54e493ccd76131f6",
       "31b9206b07c3f863",
       "364774f308857405",
@@ -1939,11 +1943,12 @@
       "7ae77b8e8aef2c7b",
       "6fddd78218ed37af"
     ],
-    "lastCheckedAt": "2026-11-04T02:02:02.836Z",
+    "lastCheckedAt": "2026-11-04T09:42:37.230Z",
     "status": "ok"
   },
   "punjab": {
     "seenIds": [
+      "1e88d7507bd3b6f6",
       "80e66219a63ae382",
       "52ea29cf7fc1644b",
       "20a3eed2931ce19a",
@@ -2090,7 +2095,7 @@
       "c576403a3b551bb8",
       "4765f0e1b02be7d2"
     ],
-    "lastCheckedAt": "2026-11-04T02:02:03.968Z",
+    "lastCheckedAt": "2026-11-04T09:42:38.359Z",
     "status": "ok"
   },
   "telangana-knruhs": {
@@ -2176,25 +2181,27 @@
       "4eb876f089c0bb3a",
       "1c638673ab8e3045"
     ],
-    "lastCheckedAt": "2026-11-04T02:02:05.998Z",
+    "lastCheckedAt": "2026-11-04T09:42:43.803Z",
     "status": "error",
     "error": "Row selector matched nothing: .all-notification-table tr"
   },
   "west-bengal": {
     "seenIds": [
+      "d7f218bbba9b254d",
       "6d8d80353dbea910",
       "1afcd39472c39635",
       "bb753f1e1d923c04",
       "bb16e51b8eae8950",
-      "7227b46a800ab2f3",
+      "3d73fc8753e12b01",
       "7e2dc1f3f039f319",
       "21a7baee9548fdde",
       "7822656d04b57518",
       "012c6180309e3ce2",
-      "8e9115476d8f77d7",
       "1bd4f62cd637ebf0",
       "be8e232632937af0",
       "652e59d035afa772",
+      "7227b46a800ab2f3",
+      "8e9115476d8f77d7",
       "1b4351e2c8f0f072",
       "e395a025c58a57d2",
       "30a9aa8b960dc8cd",
@@ -2233,15 +2240,17 @@
       "aed874135e1b35a3",
       "e082b3783579e477"
     ],
-    "lastCheckedAt": "2026-11-04T02:02:08.192Z",
+    "lastCheckedAt": "2026-11-04T09:42:46.180Z",
     "status": "ok"
   },
   "tamil-nadu": {
     "seenIds": [
+      "6df4b3e0fb28f34c",
+      "216b62908f347dd8",
+      "b4b8a90fff882a45",
+      "05ee7ac6878073be",
       "552f565810463083",
       "5d979b4419d356ba",
-      "200d4e2c035f92eb",
-      "fe4dd2b975f8699b",
       "3671c53c74114ea1",
       "96a02c54b9fd448a",
       "cb3a3e9062d6c30e",
@@ -2350,6 +2359,8 @@
       "c33d445b91b2a799",
       "84092accaee10b2e",
       "b6089d07b8f18acc",
+      "200d4e2c035f92eb",
+      "fe4dd2b975f8699b",
       "6ea57e393a20d43f",
       "0c735c939643e749",
       "8860d3ba70dd024b",
@@ -2390,7 +2401,7 @@
       "ba01dbc0d7c0bae0",
       "89aa274e35efa6d2"
     ],
-    "lastCheckedAt": "2026-11-04T02:02:08.565Z",
+    "lastCheckedAt": "2026-11-04T09:42:46.584Z",
     "status": "ok"
   },
   "andhra-pradesh-uhsap": {
@@ -2626,7 +2637,7 @@
       "a970b3c5837c37d2",
       "1b708801c7b9455f"
     ],
-    "lastCheckedAt": "2026-11-04T02:02:10.549Z",
+    "lastCheckedAt": "2026-11-04T09:42:53.286Z",
     "status": "ok"
   },
   "tripura": {
@@ -2641,7 +2652,7 @@
       "ea6f966853c7b408",
       "46ffbba8169e8776"
     ],
-    "lastCheckedAt": "2026-11-04T02:03:18.616Z",
+    "lastCheckedAt": "2026-11-04T09:44:01.368Z",
     "status": "error",
     "error": "Proxy HTTP 502"
   },
@@ -2822,7 +2833,7 @@
       "de2d8bf40e3b8aeb",
       "7d42119096dc1ad8"
     ],
-    "lastCheckedAt": "2026-11-04T02:03:18.901Z",
+    "lastCheckedAt": "2026-11-04T09:44:01.661Z",
     "status": "ok"
   },
   "haryana-dmer": {
@@ -3093,7 +3104,7 @@
       "e7e082c2c270b73c",
       "7e8d0dc7ca7c7ae2"
     ],
-    "lastCheckedAt": "2026-11-04T02:04:09.465Z",
+    "lastCheckedAt": "2026-11-04T09:44:51.724Z",
     "status": "error",
     "error": "Request timed out"
   },
@@ -3229,9 +3240,8 @@
       "9e111277a2d01863",
       "d99c347a81191c50"
     ],
-    "lastCheckedAt": "2026-11-04T02:05:01.903Z",
-    "status": "error",
-    "error": "This operation was aborted"
+    "lastCheckedAt": "2026-11-04T09:45:08.562Z",
+    "status": "ok"
   },
   "manipur": {
     "seenIds": [
@@ -3390,7 +3400,7 @@
       "Latest Notifications:4393a3b253e8240d",
       "Latest Notifications:2139c24903c22572"
     ],
-    "lastCheckedAt": "2026-11-04T02:05:03.474Z",
+    "lastCheckedAt": "2026-11-04T09:45:10.098Z",
     "status": "ok"
   },
   "meghalaya": {
@@ -3588,7 +3598,7 @@
       "b17ebf315c61f626",
       "087dd4f7f2d79c10"
     ],
-    "lastCheckedAt": "2026-11-04T02:05:13.279Z",
+    "lastCheckedAt": "2026-11-04T09:45:19.733Z",
     "status": "error",
     "error": "Proxy HTTP 502"
   },
@@ -3676,7 +3686,7 @@
       "afmc-pune-126",
       "afmc-pune-123"
     ],
-    "lastCheckedAt": "2026-11-04T02:05:15.238Z",
+    "lastCheckedAt": "2026-11-04T09:45:21.717Z",
     "status": "ok"
   },
   "jammu-kashmir": {
@@ -4901,7 +4911,7 @@
       "d9bdabe10750d379",
       "1a6dcd8e90d5c3b6"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:23.012Z",
+    "lastCheckedAt": "2026-11-04T09:46:29.550Z",
     "status": "error",
     "error": "Proxy HTTP 502"
   },
@@ -5070,7 +5080,7 @@
       "Latest Updates:d949fe8de339ba5b",
       "Latest Updates:c51d24bdf701fabf"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:25.616Z",
+    "lastCheckedAt": "2026-11-04T09:46:32.199Z",
     "status": "ok"
   },
   "bihar-ugmac": {
@@ -5101,7 +5111,7 @@
       "UGMAC:29baaa62487ae4fe",
       "UGMAC:912a8b9b7ff7a37a"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:25.884Z",
+    "lastCheckedAt": "2026-11-04T09:46:32.473Z",
     "status": "ok"
   },
   "mp-latest-instructions": {
@@ -5179,7 +5189,7 @@
       "Latest Instructions:6840a4793fa07648",
       "Latest Instructions:6bf93c84a547379d"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:28.345Z",
+    "lastCheckedAt": "2026-11-04T09:46:36.700Z",
     "status": "ok"
   },
   "mp-counselling-schedule": {
@@ -5190,7 +5200,7 @@
       "Counselling Schedule:cdc71e56ef143c41",
       "Counselling Schedule:dadb06cb5e49ddb2"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:28.858Z",
+    "lastCheckedAt": "2026-11-04T09:46:37.200Z",
     "status": "ok"
   },
   "mp-seat-charts": {
@@ -5202,7 +5212,7 @@
       "Seat Charts:824bcd5e33e451df",
       "Seat Charts:9e0f7e504a551737"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:29.397Z",
+    "lastCheckedAt": "2026-11-04T09:46:37.690Z",
     "status": "ok"
   },
   "mp-state-merit": {
@@ -5216,7 +5226,7 @@
       "State Merit:78f68182eb0a2606",
       "State Merit:6199b704e08b629f"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:29.903Z",
+    "lastCheckedAt": "2026-11-04T09:46:38.179Z",
     "status": "ok"
   },
   "mp-rule-book": {
@@ -5227,7 +5237,7 @@
       "Rule Book / Steps / User Manual:17d1850b86b542bf",
       "Rule Book / Steps / User Manual:6840a4793fa07648"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:30.411Z",
+    "lastCheckedAt": "2026-11-04T09:46:38.689Z",
     "status": "ok"
   },
   "mp-allotment-list": {
@@ -5240,7 +5250,7 @@
       "Allotment List:f73017a77fec3eb6",
       "Allotment List:e77be08ea25f8c63"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:30.912Z",
+    "lastCheckedAt": "2026-11-04T09:46:39.177Z",
     "status": "ok"
   },
   "delhi-fmsc": {
@@ -5314,7 +5324,7 @@
       "a292d3770f673b27",
       "ca4681ddf1f210c7"
     ],
-    "lastCheckedAt": "2026-11-04T02:06:32.012Z",
+    "lastCheckedAt": "2026-11-04T09:46:40.265Z",
     "status": "ok"
   },
   "uttarakhand": {
@@ -5472,7 +5482,7 @@
       "68c63956e496bcf6",
       "e9a209608198e1cb"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:42.151Z",
+    "lastCheckedAt": "2026-11-04T09:47:49.976Z",
     "status": "ok"
   },
   "odisha-ojee": {
@@ -5536,7 +5546,7 @@
       "OJEE:0a02274c1c71a773",
       "OJEE:d39d81a321f123dc"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:44.293Z",
+    "lastCheckedAt": "2026-11-04T09:47:52.623Z",
     "status": "ok"
   },
   "odisha-dme": {
@@ -5935,7 +5945,7 @@
       "DME Odisha:cba9ba0bdfd7be99",
       "DME Odisha:4c5cbab78432a0f9"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:46.469Z",
+    "lastCheckedAt": "2026-11-04T09:47:55.147Z",
     "status": "ok"
   },
   "arunachal-pradesh-dmet": {
@@ -5951,7 +5961,7 @@
       "44ca9f5e426063d0",
       "7c294415f64e9f3a"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:51.601Z",
+    "lastCheckedAt": "2026-11-04T09:48:00.258Z",
     "status": "error",
     "error": "Proxy HTTP 403"
   },
@@ -6084,7 +6094,7 @@
       "81b4cb3e42bfe808",
       "423284d3268d1b09"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:53.618Z",
+    "lastCheckedAt": "2026-11-04T09:48:01.942Z",
     "status": "ok"
   },
   "puducherry": {
@@ -6817,7 +6827,7 @@
       "UG NON-NEET:11c61cb1010ea753",
       "UG NON-NEET:9ba9fbc1bca3c64b"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:54.030Z",
+    "lastCheckedAt": "2026-11-04T09:48:02.355Z",
     "status": "ok"
   },
   "uttar-pradesh": {
@@ -9823,7 +9833,7 @@
       "374d819768e582e9",
       "68c77c2b037bdac1"
     ],
-    "lastCheckedAt": "2026-11-04T02:09:31.630Z",
+    "lastCheckedAt": "2026-11-04T09:49:39.688Z",
     "status": "error",
     "error": "This operation was aborted"
   },
@@ -10070,7 +10080,7 @@
       "10d3976a81517893",
       "278f67ffe7778700"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:40.035Z",
+    "lastCheckedAt": "2026-11-04T09:47:48.180Z",
     "status": "error",
     "error": "Proxy HTTP 502"
   },
@@ -10415,7 +10425,7 @@
       "724bfda589d3216e",
       "79fc073857294e8e"
     ],
-    "lastCheckedAt": "2026-11-04T02:04:12.389Z",
+    "lastCheckedAt": "2026-11-04T09:44:55.134Z",
     "status": "ok"
   },
   "karnataka-kea": {
@@ -10481,7 +10491,7 @@
       "6422241b5da30402",
       "428e87377b19edfd"
     ],
-    "lastCheckedAt": "2026-11-04T02:01:46.667Z",
+    "lastCheckedAt": "2026-11-04T09:42:18.727Z",
     "status": "ok"
   },
   "himachal-mbbs-bds-counselling": {
@@ -10580,7 +10590,7 @@
       "MBBS/BDS Counselling:507324093d81ee73",
       "MBBS/BDS Counselling:05c4b85bc3592690"
     ],
-    "lastCheckedAt": "2026-11-04T02:07:56.011Z",
+    "lastCheckedAt": "2026-11-04T09:48:04.333Z",
     "status": "ok"
   },
   "gujarat-home": {
@@ -10951,7 +10961,7 @@
       "00a6167e3535a4cc",
       "93ce45531a887480"
     ],
-    "lastCheckedAt": "2026-11-04T02:01:51.686Z",
+    "lastCheckedAt": "2026-11-04T09:42:24.032Z",
     "status": "ok"
   },
   "gujarat-notification": {
@@ -10982,16 +10992,16 @@
       "Rules & Notification:df8b8b1b8554a43f",
       "Rules & Notification:f8b2d13e318c527c"
     ],
-    "lastCheckedAt": "2026-11-04T02:01:52.030Z",
+    "lastCheckedAt": "2026-11-04T09:42:24.303Z",
     "status": "ok"
   },
   "karnataka-kea-home": {
-    "lastCheckedAt": "2026-11-04T02:10:39.545Z",
+    "lastCheckedAt": "2026-11-04T09:50:47.639Z",
     "status": "error",
     "error": "Proxy HTTP 502"
   },
   "karnataka-ugneet2026": {
-    "lastCheckedAt": "2026-11-04T02:11:47.649Z",
+    "lastCheckedAt": "2026-11-04T09:51:55.656Z",
     "status": "error",
     "error": "Proxy HTTP 502"
   }
