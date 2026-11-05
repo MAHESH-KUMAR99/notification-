@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-02T18:43:54.324Z",
+    "lastUpdatedDate": "2026-11-05T19:51:47.515Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "ace2f055c496904c",
+        "title": "Provisional Result for UG Counselling Special stray vacancy Round for MBBS and 5th round of BDS/B.Sc nursing 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051976570973.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-05T19:51:47.515Z"
+      },
+      {
+        "id": "ebb505136b1d682e",
+        "title": "Notice for Provisional Result for UG Counselling Special stray vacancy Round for MBBS and 5th round of BDS/B.Sc nursing 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611051933682618.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-05T19:51:47.515Z"
+      },
       {
         "id": "b17e2879ae57aa8c",
         "title": "NOTICE FOR ADDITION OF SEATS IN SPECIAL ROUND UG 2026",
@@ -399,26 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-23T13:28:23.739Z"
-      },
-      {
-        "id": "0d748c27cee89e37",
-        "title": "CLEAR VACANCY ROUND 3 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260923895250028.pdf",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-09-23T13:28:23.739Z"
-      },
-      {
-        "id": "a18a3c8c2699c3e3",
-        "title": "Final Result UG Round 2 Counselling 2026 dated 12.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260912351980769.pdf",
-        "date": "12/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-12T11:08:40.205Z"
       }
     ]
   },
@@ -998,9 +998,19 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T11:59:54.047Z",
+    "lastUpdatedDate": "2026-11-05T19:51:51.104Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "99291f07ca595e8e",
+        "title": "List of candidates whose Refundable Security Deposit is forfeited and removed from the Merit list due to Cancel Admission (As per order of Hon.Highcourt of Gujarat)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R4/R4_CANCEL_CANDIDATE_LIST.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-05T19:51:51.104Z"
+      },
       {
         "id": "5897a341cb171d55",
         "title": "Deposite Paid Candidate List (Special Stray Round)",
@@ -1010,6 +1020,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-05T11:59:54.047Z"
+      },
+      {
+        "id": "d9012a7969b782eb",
+        "title": "Vacant Seats for MBBS / BDS courses for Special Stray Round (Updated on 05-11-2026 06:00 PM)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/r5_bef_vac_05112026.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-05T19:51:51.104Z"
       },
       {
         "id": "2e518a660bf93cdd",
@@ -1186,30 +1206,6 @@
         "source": "Direct from Website",
         "batchIndex": 9,
         "titleEn": "Candidates who are allotted seats in the Stray Vacancy round of All India Quota Counseling conducted by MCC, New Delhi, will not be considered eligible to participate in the fourth online (stray vacancy) round. [Candidates who are allotted a seat in the All-India Quota (AIQ) Stray Vacancy Round (conducted by MCC, New Delhi) will not be eligible to take part in 4th Online (Stray Vacancy) round.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-10-16T15:27:38.679Z"
-      },
-      {
-        "id": "a3be562e09c9e175",
-        "title": "એકવાર UG MBBS/BDS ના ચોથા ઓનલાઈન (સ્ટ્રે વેકેન્સી) રાઉન્ડમાં એલોટ થયેલ બેઠક વિદ્યાર્થી દ્વારા કન્ફર્મ ( જેમાં ટ્યુશન ફી ભરીને, હેલ્પ સેન્ટર ખાતે અસલ પ્રમાણપત્રો જમા કરાવીને એડમીશન ઓર્ડર મેળવેલ છે) કરાવ્યા પછી, કોઈપણ પરિસ્થિતિમાં આ બેઠકને રદ કરવી શક્ય રહેશે નહીં. [Once a seat allotted in the UG MBBS/BDS 4th Online (Stray Vacancy) Round is confirmed (by paying the tuition fees, submitting their original documents at the Help Center, and obtaining the Admission Order) by the student, it cannot be cancelled under any circumstances.]",
-        "link": null,
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "titleEn": "Once the allotted seat in the fourth online (stray vacancy) round of UG MBBS/BDS has been confirmed by the student (having received the admission order by paying the tuition fee, depositing the original certificates at the Help Centre), cancellation of the seat will not be possible under any circumstances. [Once a seat allotted in the UG MBBS/BDS 4th Online (Stray Vacancy) Round is confirmed (by paying the tuition fees, submitting their original documents at the Help Center, and obtaining the Admission Order) by the student, it cannot be canceled under any circumstances.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-10-16T15:27:38.679Z"
-      },
-      {
-        "id": "73d102024068edb9",
-        "title": "જો ચોથા ઓનલાઈન (સ્ટ્રે વેકેન્સી) રાઉન્ડ બાદ MBBS/BDS અભ્યાસક્રમોની કોઈ બેઠકો ખાલી રહે અને MCC, New Delhi દ્વારા એક્સટેન્ડેડ સ્ટ્રે વેકેન્સી રાઉન્ડ યોજવા માટે સૂચના આપવામાં આવે, તો પ્રવેશ સમિતિ દ્વારા એક્સટેન્ડેડ સ્ટ્રે વેકેન્સી રાઉન્ડ યોજવામાં આવશે. [If any seats in the MBBS/BDS courses remain vacant after the Fourth Online (Stray Vacancy) Round, and MCC, New Delhi, issues instructions to conduct an Extended online Stray Vacancy Round, the Admission Committee shall conduct the Extended online Stray Vacancy Round accordingly.]",
-        "link": null,
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 11,
-        "titleEn": "If any seats in MBBS/BDS courses remain vacant after the fourth online (stray vacancy) round and the MCC, New Delhi instructs to conduct an extended stray vacancy round, the admission committee will conduct an extended stray vacancy round. [If any seats in the MBBS/BDS courses remain vacant after the Fourth Online (Stray Vacancy) Round, and MCC, New Delhi, issues instructions to conduct an Extended online Stray Vacancy Round, the Admission Committee shall conduct the Extended online Stray Vacancy Round accordingly.]",
         "titleLang": "gu",
         "detectedAt": "2026-10-16T15:27:38.679Z"
       },
@@ -2172,9 +2168,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T12:00:08.079Z",
+    "lastUpdatedDate": "2026-11-05T19:52:06.063Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "613c9ba93b33ddd8",
+        "title": "05-11-2026: PG (Dental) MQ 2026-27 - Corrigendum to MQ Consolidated Final Merit list SVIMS, Tirupati - Debarred candidates for admission into PG (Medical) courses for the academic year 2026-27 M.Sc(N) Service candidates Phase-I Web Options Detailed Notification",
+        "link": "https://drntr.uhsap.in/index/notification/20261105173425793.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-05T19:52:06.063Z"
+      },
       {
         "id": "7d73a1d8738bac6d",
         "title": "05-11-2026: M.Sc(N) Service candidates Phase-I Web Options Detailed Notification",
@@ -2364,16 +2370,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-24T16:54:02.632Z"
-      },
-      {
-        "id": "e77996a1689d9617",
-        "title": "24-10-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Fee paid but not submitted application B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Pending due to Non-Submission of Relevant Documents B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Provisional Merit Postition of Applied Candidates MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
-        "link": "https://drntr.uhsap.in/index/notification/20261024172152973.pdf",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-24T13:30:20.675Z"
       }
     ]
   },
@@ -2788,9 +2784,209 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:33:29.867Z",
+    "lastUpdatedDate": "2026-11-05T19:55:45.907Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:93ac9b398b222589",
+        "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Unani) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/06 Dated 05.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_06.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-05T19:55:45.907Z"
+      },
+      {
+        "id": "Latest Updates:33b2e850cf77d938",
+        "title": "Details of Registration-cum-Choice Filling for Post Graduate Degree for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Unani) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/05 Dated 05.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_05.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-05T19:55:45.907Z"
+      },
+      {
+        "id": "Latest Updates:d65f6020ea13b620",
+        "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Ayurveda) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/04 Dated 05.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_04.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-05T19:55:45.907Z"
+      },
+      {
+        "id": "Latest Updates:761de3b42d8d05af",
+        "title": "Details of Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Ayurveda) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/03 Dated 05.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_03.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-05T19:55:45.907Z"
+      },
+      {
+        "id": "Latest Updates:16c652a1a099415f",
+        "title": "Important Notice for Registration-cum-Choice Filling for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Homeo) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/02 Dated 05.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_02.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 4,
+        "detectedAt": "2026-11-05T19:55:45.907Z"
+      },
+      {
+        "id": "Latest Updates:ee0958457e845f31",
+        "title": "Details of Registration-cum-Choice Filling for Post Graduate Degree for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Homeo) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/01 Dated 05.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC25_01.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 5,
+        "detectedAt": "2026-11-05T19:55:45.907Z"
+      },
+      {
+        "id": "Latest Updates:6351800e5158002a",
+        "title": "Notice for filling online application form and choice filling for Special Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/19 Dated 03.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_19.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-03T16:33:29.570Z"
+      },
+      {
+        "id": "Latest Updates:611832484c3914e7",
+        "title": "Details for filling online application form and choice Special filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/18 Dated 03.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_18.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-03T16:33:29.570Z"
+      },
+      {
+        "id": "Latest Updates:06eea9817e0c4efd",
+        "title": "Revised Document Verification Schedule of PGMAC-2026 (Adv. No. BCECEB(PGMAC)-2026/03 Dated 02.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_03.pdf",
+        "date": "02/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-02T18:49:06.352Z"
+      },
+      {
+        "id": "Latest Updates:815bd7b789fde044",
+        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of UGMAC[AYUSH]-2026 (Adv. No. BCECEB[UGMAC(Ayush)]-2026/08 Dated 01.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_08.pdf",
+        "date": "01/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-01T17:57:05.773Z"
+      },
+      {
+        "id": "Latest Updates:7fd6f88d28ddee13",
+        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/08 Dated 01.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_08.pdf",
+        "date": "01/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-01T17:57:05.773Z"
+      },
+      {
+        "id": "Latest Updates:ff2d5691038c95fc",
+        "title": "Important notice regarding filling up online application form for the post of Senior Resident /Tutor Under Health Department (Adv. No. (Health(SR))-2026(III)-2026/02 Dated 30.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_02.pdf",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-30T15:18:00.641Z"
+      },
+      {
+        "id": "Latest Updates:5a7b6258dc329cfc",
+        "title": "Detail regarding filling up online application form for the post of Senior Resident / Tutor Under Health Department (Adv. No. (Health(SR))-2026(III)-2026/01 Dated 30.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_01.pdf",
+        "date": "30/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-30T15:18:00.641Z"
+      },
+      {
+        "id": "Latest Updates:e63fe0dbbd6063d8",
+        "title": "Document Verification Schedule for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/17 Dated 29.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_17.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-28T13:27:29.456Z"
+      },
+      {
+        "id": "Latest Updates:390da15368bae381",
+        "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-3(Adv. No. BCECEB[UGMAC(Ayush)]-2026/07 Dated 24.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_07.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-24T16:57:41.873Z"
+      },
+      {
+        "id": "Latest Updates:832012fafde9cc25",
+        "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-3(Adv. No. BCECEB[UGMAC(Ayush)]-2026/06 Dated 24.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_06.pdf",
+        "date": "24/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-24T16:57:41.873Z"
+      },
+      {
+        "id": "Latest Updates:dbc610a03d6468d7",
+        "title": "Revised Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/06 Dated 23.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_06.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T12:51:07.918Z"
+      },
+      {
+        "id": "Latest Updates:d46d95c2303b7cf6",
+        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/07 Dated 23.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_07.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-23T07:15:58.967Z"
+      },
+      {
+        "id": "Latest Updates:3a9fe8c7b7d2b844",
+        "title": "Details for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/06 Dated 23.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_06.pdf",
+        "date": "23/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-10-23T07:15:58.967Z"
+      },
+      {
+        "id": "Latest Updates:6e24e3aef3e4a82b",
+        "title": "Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/05 Dated 22.10.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_05.pdf",
+        "date": "22/10/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-10-22T15:37:34.144Z"
+      },
       {
         "id": "UGMAC:6351800e5158002a",
         "title": "Notice for filling online application form and choice filling for Special Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/19 Dated 03.11.2026)",
@@ -2990,206 +3186,6 @@
         "source": "UGMAC",
         "batchIndex": 0,
         "detectedAt": "2026-08-25T12:59:27.963Z"
-      },
-      {
-        "id": "Latest Updates:6351800e5158002a",
-        "title": "Notice for filling online application form and choice filling for Special Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/19 Dated 03.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_19.pdf",
-        "date": "03/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-03T16:33:29.570Z"
-      },
-      {
-        "id": "Latest Updates:611832484c3914e7",
-        "title": "Details for filling online application form and choice Special filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/18 Dated 03.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_18.pdf",
-        "date": "03/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-03T16:33:29.570Z"
-      },
-      {
-        "id": "Latest Updates:06eea9817e0c4efd",
-        "title": "Revised Document Verification Schedule of PGMAC-2026 (Adv. No. BCECEB(PGMAC)-2026/03 Dated 02.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_03.pdf",
-        "date": "02/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-02T18:49:06.352Z"
-      },
-      {
-        "id": "Latest Updates:815bd7b789fde044",
-        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of UGMAC[AYUSH]-2026 (Adv. No. BCECEB[UGMAC(Ayush)]-2026/08 Dated 01.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_08.pdf",
-        "date": "01/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-01T17:57:05.773Z"
-      },
-      {
-        "id": "Latest Updates:7fd6f88d28ddee13",
-        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/08 Dated 01.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_08.pdf",
-        "date": "01/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-01T17:57:05.773Z"
-      },
-      {
-        "id": "Latest Updates:ff2d5691038c95fc",
-        "title": "Important notice regarding filling up online application form for the post of Senior Resident /Tutor Under Health Department (Adv. No. (Health(SR))-2026(III)-2026/02 Dated 30.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_02.pdf",
-        "date": "30/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-30T15:18:00.641Z"
-      },
-      {
-        "id": "Latest Updates:5a7b6258dc329cfc",
-        "title": "Detail regarding filling up online application form for the post of Senior Resident / Tutor Under Health Department (Adv. No. (Health(SR))-2026(III)-2026/01 Dated 30.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_01.pdf",
-        "date": "30/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-30T15:18:00.641Z"
-      },
-      {
-        "id": "Latest Updates:e63fe0dbbd6063d8",
-        "title": "Document Verification Schedule for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/17 Dated 29.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_17.pdf",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-28T13:27:29.456Z"
-      },
-      {
-        "id": "Latest Updates:390da15368bae381",
-        "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-3(Adv. No. BCECEB[UGMAC(Ayush)]-2026/07 Dated 24.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_07.pdf",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-24T16:57:41.873Z"
-      },
-      {
-        "id": "Latest Updates:832012fafde9cc25",
-        "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-3(Adv. No. BCECEB[UGMAC(Ayush)]-2026/06 Dated 24.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_06.pdf",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-24T16:57:41.873Z"
-      },
-      {
-        "id": "Latest Updates:dbc610a03d6468d7",
-        "title": "Revised Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/06 Dated 23.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_06.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-23T12:51:07.918Z"
-      },
-      {
-        "id": "Latest Updates:d46d95c2303b7cf6",
-        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/07 Dated 23.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_07.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-23T07:15:58.967Z"
-      },
-      {
-        "id": "Latest Updates:3a9fe8c7b7d2b844",
-        "title": "Details for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/06 Dated 23.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_06.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-23T07:15:58.967Z"
-      },
-      {
-        "id": "Latest Updates:6e24e3aef3e4a82b",
-        "title": "Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/05 Dated 22.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_05.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-22T15:37:34.144Z"
-      },
-      {
-        "id": "Latest Updates:83452738177639c4",
-        "title": "Notice for Extension in filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/16 Dated 22.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_16.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-22T15:37:34.144Z"
-      },
-      {
-        "id": "Latest Updates:e132501e6992a94a",
-        "title": "Notice for filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/15 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_15.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:347ad8f71c388380",
-        "title": "Details for filling online application form and choice filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/14 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_14.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:0b94129b94936eee",
-        "title": "Notice for Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling (PGMAC)-2026 (MD/MS/PGD/ DNB(Degree/Diploma) Courses in Govt/Private Medical Colleges of Bihar on the basis of NEET(PG)-2026 (Adv. No. BCECEB(PGMAC)-2026/02 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_02.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:0144e438fd22e079",
-        "title": "Details for Registration-Cum-Choice filling for Post Graduate Medical Admission Counselling (PGMAC)-2026 (MD/MS/PGD/ DNB(Degree/Diploma) Courses in Govt/Private Medical Colleges of Bihar on the basis of NEET(PG)-2026 (Adv. No. BCECEB(PGMAC)-2026/01 Dated 18.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_01.pdf",
-        "date": "18/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-18T13:10:08.991Z"
-      },
-      {
-        "id": "Latest Updates:e35fc2a99649dab1",
-        "title": "Corrigendum for UGMAC-2026 Round-3 Counselling(Adv. No. BCECEB(UGMAC)-2026/13 Dated 14.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_13.pdf",
-        "date": "14/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-14T16:55:13.611Z"
       }
     ]
   },
@@ -3645,9 +3641,89 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-04T17:56:59.209Z",
+    "lastUpdatedDate": "2026-11-05T19:57:12.701Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:a20a1f9df81a50d1",
+        "title": "FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES AFTER LOWERING OF CUT-OFF (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/updated_final_merit_list.html",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
+      {
+        "id": "OVERALL:842b9c4a2afa6485",
+        "title": "NOTICE : FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES AFTER LOWERING OF CUT-OFF FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ul5NIKkcxXu2GGvh8o5visKd71s8yYTL/view?usp=sharing",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
+      {
+        "id": "OVERALL:3ae0ece57ed5a40c",
+        "title": "STRAY TWO DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1lvI7MZTYZLpQpzN_gbaUnZGiXPiJSWhW/view?usp=sharing",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
+      {
+        "id": "OVERALL:153b2f069add6ded",
+        "title": "NOTICE : STRAY-2 ROUND DRAFT ALLOTMENT LIST FOR B.A.M.S. FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1rLrkSZZaw-6mywtdFKvZhxrkPUb0GF8b/view?usp=sharing",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
+      {
+        "id": "PG DENTAL:a20a1f9df81a50d1",
+        "title": "FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES AFTER LOWERING OF CUT-OFF (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/updated_final_merit_list.html",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 348,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
+      {
+        "id": "PG DENTAL:842b9c4a2afa6485",
+        "title": "NOTICE : FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES AFTER LOWERING OF CUT-OFF FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1ul5NIKkcxXu2GGvh8o5visKd71s8yYTL/view?usp=sharing",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 349,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
+      {
+        "id": "UG NEET:3ae0ece57ed5a40c",
+        "title": "STRAY TWO DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
+        "link": "https://drive.google.com/file/d/1lvI7MZTYZLpQpzN_gbaUnZGiXPiJSWhW/view?usp=sharing",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 514,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
+      {
+        "id": "UG NEET:153b2f069add6ded",
+        "title": "NOTICE : STRAY-2 ROUND DRAFT ALLOTMENT LIST FOR B.A.M.S. FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1rLrkSZZaw-6mywtdFKvZhxrkPUb0GF8b/view?usp=sharing",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 515,
+        "detectedAt": "2026-11-05T19:57:12.701Z"
+      },
       {
         "id": "OVERALL:516d6729749bc938",
         "title": "LIST OF CANDIDATES ELIGIBLE FOR STRAY 2 ROUND BAMS ALLOTMENT",
@@ -3767,86 +3843,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-30T08:26:10.252Z"
-      },
-      {
-        "id": "UG NON-NEET:5f00a38316827b00",
-        "title": "MOP UP 2 ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1bn4QZX8yOikvi5eQwGBQ0e_yDfVkCJuv/view?usp=sharing",
-        "date": "30/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 374,
-        "detectedAt": "2026-10-30T08:26:10.252Z"
-      },
-      {
-        "id": "UG NON-NEET:7a0a767f4b189fce",
-        "title": "NOTICE : MOP UP-2 ROUND PROVISIONAL ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1VlcKIiWofKz-aF9kd_ul43Dxpj-ylI-m/view?usp=sharing",
-        "date": "30/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 375,
-        "detectedAt": "2026-10-30T08:26:10.252Z"
-      },
-      {
-        "id": "OVERALL:669204839be05218",
-        "title": "NOTICE : STRAY-2 ROUND REGISTRATION FOR UG NEET- B.A.M.S. COURSE AT RGAMC, MAHE FOR VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR B.A.M.S. (GQ & MQ)",
-        "link": "https://drive.google.com/file/d/1TkKtJ-9QR2oQxyPmCh-0f0uyDP9FWsJE/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-29T21:46:35.566Z"
-      },
-      {
-        "id": "OVERALL:1e2b4a552bd20efe",
-        "title": "UPDATED LIST OF CANDIDATES WILLING TO PARTICIPATE IN MOPUP-2 ROUND - (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/UgNonNeet_2026/round_mopup_2_updated_eligible_list.html",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-29T16:52:38.445Z"
-      },
-      {
-        "id": "OVERALL:b8535c57411fcc97",
-        "title": "LIST OF VACANCIES IN UG NON-NEET COURSES AFTER MOP UP ROUND",
-        "link": "https://drive.google.com/file/d/12Pxkbjo7FlFrZRTSmTHZohsm_mMhYjJb/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-29T09:44:07.257Z"
-      },
-      {
-        "id": "OVERALL:a26efe8a5c8a571e",
-        "title": "MOP UP 2 ROUND DRAFT ALLOTMENT LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1PzjDXETZbekpMW2ZGSP4rkYg5-zqjZsN/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-29T21:46:35.566Z"
-      },
-      {
-        "id": "OVERALL:249588541097617a",
-        "title": "NOTICE : UPDATED MOP UP-2 ROUND WILLING CANDIDATES LIST FOR UG NON-NEET PROFESSIONAL / ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1piJOw3nnkIwLqXka--dAV8RcjlHrQbYN/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-29T16:52:38.445Z"
-      },
-      {
-        "id": "OVERALL:e69f0200fcb8c9aa",
-        "title": "NOTICE : EXTENSION OF LAST DATE FOR SUBMISSION OF COURSE PREFERENCES FOR ONLINE MOP UP-2 ROUND FOR UG NON-NEET PROFESSIONAL, ARTS, SCIENCE & COMMERCE COURSES FOR THE ACADEMIC YEAR 2026 - 2027",
-        "link": "https://drive.google.com/file/d/1or5TgVHVJI1Cu6yn2UwiCr9PylLlc3J7/view?usp=sharing",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-29T09:44:07.257Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4709,7 +4705,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T12:01:16.636Z",
+    "lastUpdatedDate": "2026-11-05T19:53:17.553Z",
     "pinned": false,
     "notices": [
       {
