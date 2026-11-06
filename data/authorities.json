@@ -3633,9 +3633,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-06T15:53:35.415Z",
+    "lastUpdatedDate": "2026-11-06T21:28:34.864Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:fb8c1ff9329e0ced",
+        "title": "NOTIFICATION FOR ADMISSION TO B.SC. NURSING UNFILLED GOVERNEMNT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1VlfhiR-63BXB_735fxutnv6kZ5nPR04y/view?usp=sharing",
+        "date": "07/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-06T21:28:34.864Z"
+      },
+      {
+        "id": "OVERALL:07d7a718100ce1c3",
+        "title": "LIST OF VACANCIES IN B.SC. NURSING AFTER MOPUP-2 ADMISSION",
+        "link": "https://drive.google.com/file/d/1YikyijdylBf2pqq7zC5nq45_EOd9Mbyj/view?usp=sharing",
+        "date": "07/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-06T21:28:34.864Z"
+      },
+      {
+        "id": "UG NON-NEET:fb8c1ff9329e0ced",
+        "title": "NOTIFICATION FOR ADMISSION TO B.SC. NURSING UNFILLED GOVERNEMNT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1VlfhiR-63BXB_735fxutnv6kZ5nPR04y/view?usp=sharing",
+        "date": "07/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 403,
+        "detectedAt": "2026-11-06T21:28:34.864Z"
+      },
+      {
+        "id": "UG NON-NEET:07d7a718100ce1c3",
+        "title": "LIST OF VACANCIES IN B.SC. NURSING AFTER MOPUP-2 ADMISSION",
+        "link": "https://drive.google.com/file/d/1YikyijdylBf2pqq7zC5nq45_EOd9Mbyj/view?usp=sharing",
+        "date": "07/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 404,
+        "detectedAt": "2026-11-06T21:28:34.864Z"
+      },
       {
         "id": "OVERALL:c9a1a0b575d13b1d",
         "title": "DRAFT MERIT LIST OF PG NEET MEDICAL (M.D./M.S.) COURSES (2026 - 2027)",
@@ -3655,6 +3695,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-11-06T15:53:35.415Z"
+      },
+      {
+        "id": "OVERALL:36588262f598489e",
+        "title": "NOTICE : EXTENSION OF LAST DATE FOR SPECIAL STRAY ROUND REGISTRATION FOR UG NEET M.B.B.S. AND B.D.S. MEDICAL COURSES",
+        "link": "https://drive.google.com/file/d/1x78kHBu8_pRjCPmaTJ3vj3N6NfJe-WyM/view?usp=sharing",
+        "date": "06/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-06T21:28:34.864Z"
       },
       {
         "id": "OVERALL:b3f28fc77d1ef6e0",
@@ -3785,56 +3835,6 @@
         "source": "Direct from Website",
         "batchIndex": 530,
         "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "UG NEET:bb0134fdff8b2b2d",
-        "title": "NOTICE : STRAY-2 ROUND PROVISIONAL ALLOTMENT LIST FOR B.A.M.S. FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-j0YIyypDQl_VKHpY-owQQgk_X_6CSco/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 531,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "OVERALL:a20a1f9df81a50d1",
-        "title": "FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES AFTER LOWERING OF CUT-OFF (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/updated_final_merit_list.html",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-05T19:57:12.701Z"
-      },
-      {
-        "id": "OVERALL:842b9c4a2afa6485",
-        "title": "NOTICE : FINAL MERIT LIST FOR PG DENTAL (M.D.S.) COURSES AFTER LOWERING OF CUT-OFF FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1ul5NIKkcxXu2GGvh8o5visKd71s8yYTL/view?usp=sharing",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-05T19:57:12.701Z"
-      },
-      {
-        "id": "OVERALL:3ae0ece57ed5a40c",
-        "title": "STRAY TWO DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1lvI7MZTYZLpQpzN_gbaUnZGiXPiJSWhW/view?usp=sharing",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-11-05T19:57:12.701Z"
-      },
-      {
-        "id": "OVERALL:153b2f069add6ded",
-        "title": "NOTICE : STRAY-2 ROUND DRAFT ALLOTMENT LIST FOR B.A.M.S. FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1rLrkSZZaw-6mywtdFKvZhxrkPUb0GF8b/view?usp=sharing",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-11-05T19:57:12.701Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
