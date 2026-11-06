@@ -2168,9 +2168,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T19:52:06.063Z",
+    "lastUpdatedDate": "2026-11-06T07:47:54.119Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4fd9a73e6c1b8435",
+        "title": "06-11-2026: MBBS -CQ -2026-27 -Notice regarding Refund of Security Deposit MBBS-CQ-2026-27-Annexure-I - List of eligible candidates for refund of Security Deposit Amount MBBS - CQ-2026-27 -Annexure-II -List of not Eligible candidates for Refund of Security Deposit",
+        "link": "https://drntr.uhsap.in/index/notification/20261106103742460.pdf",
+        "date": "06/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-06T07:47:54.119Z"
+      },
       {
         "id": "613c9ba93b33ddd8",
         "title": "05-11-2026: PG (Dental) MQ 2026-27 - Corrigendum to MQ Consolidated Final Merit list SVIMS, Tirupati - Debarred candidates for admission into PG (Medical) courses for the academic year 2026-27 M.Sc(N) Service candidates Phase-I Web Options Detailed Notification",
@@ -2360,16 +2370,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-25T05:08:06.318Z"
-      },
-      {
-        "id": "6c41469c358d927a",
-        "title": "24-10-2026: MBBS-MQ-2026-27- Conversion of unfilled CA NRI seats to CA SF seats in New Govt Medical Colleges PG (Medical) CQ 2026-27 - Notification for Examination of Persons Registered Under PwBD Quota B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Fee paid but not submitted application B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Pending due to Non-Submission of Relevant Documents B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Provisional Merit Postition of Applied Candidates MBBS-BDS- MQ-2026-27 - Detailed NOTIFICATION FOR NEW REGISTRATION - STRAY ROUND-2",
-        "link": "https://drntr.uhsap.in/index/notification/20261024214016253.pdf",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-24T16:54:02.632Z"
       }
     ]
   },
@@ -2380,9 +2380,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-04T09:42:38.357Z",
+    "lastUpdatedDate": "2026-11-06T07:47:43.385Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "38537ab2a6820ddb",
+        "title": "PROVISIONAL MERIT LIST OF CANDIDATES WHO HAVE APPLIED FOR ROUND 5TH OF ONLINE COUNSELLING FOR ADMISSION TO BDS COURSE UNDER NEET-UG 2026 (DATED 06.11.2026)",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/NEET%20UG%205th%20mop%20up%20Round%20Data%20from%20it%20cell%206.11.pdf",
+        "date": "06/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-06T07:47:43.385Z"
+      },
       {
         "id": "1e88d7507bd3b6f6",
         "title": "Click here to apply online Click here to submit willingness for 5th Round Click here to view willingness list",
@@ -2572,16 +2582,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-01T15:15:10.414Z"
-      },
-      {
-        "id": "5e4b1062fa3094d5",
-        "title": "Tentative Vacancy position after 2nd Round of Counselling MBBS BDS",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Revised%20Seat%20Matrix%20after%202nd%20round%20MBBS%20date%2028092026.pdf",
-        "date": "28/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-28T19:26:34.244Z"
       }
     ]
   },
@@ -2784,7 +2784,7 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T19:55:45.907Z",
+    "lastUpdatedDate": "2026-11-06T07:51:31.844Z",
     "pinned": false,
     "notices": [
       {
@@ -2836,6 +2836,16 @@
         "source": "Latest Updates",
         "batchIndex": 4,
         "detectedAt": "2026-11-05T19:55:45.907Z"
+      },
+      {
+        "id": "Latest Updates:313e91968283f14d",
+        "title": "Details of Registration-cum-Choice Filling for Post Graduate Degree for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Homeo) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/01 Dated 05.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_01.pdf",
+        "date": "05/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 5,
+        "detectedAt": "2026-11-06T07:51:31.844Z"
       },
       {
         "id": "Latest Updates:ee0958457e845f31",
@@ -2976,16 +2986,6 @@
         "source": "Latest Updates",
         "batchIndex": 1,
         "detectedAt": "2026-10-23T07:15:58.967Z"
-      },
-      {
-        "id": "Latest Updates:6e24e3aef3e4a82b",
-        "title": "Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/05 Dated 22.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_05.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-22T15:37:34.144Z"
       },
       {
         "id": "UGMAC:6351800e5158002a",
@@ -4933,9 +4933,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T12:05:19.972Z",
+    "lastUpdatedDate": "2026-11-06T07:52:49.100Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:8a691e0432dfb6f1",
+        "title": "COUNSELLING FOR ADMISSION TO POSTGRADUATION COURSE [MD (Hom.)] and POSTGRADUATION COURSE [MD/MS(Ayurvedic)] SESSION 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611061227551844.pdf",
+        "date": "06/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-06T07:52:49.100Z"
+      },
       {
         "id": "OJEE:0ebcd034876dc933",
         "title": "NOTICE FOR WEB BASED COUNSELLING AND ADMISSION TO POSTGRADUATION COURSE [MD (Hom.)] and [MD/MS(Ayurvedic)] COURSES",
@@ -5125,16 +5135,6 @@
         "source": "OJEE",
         "batchIndex": 2,
         "detectedAt": "2026-09-08T13:29:38.341Z"
-      },
-      {
-        "id": "OJEE:306c0716f64d1ff5",
-        "title": "NOTICE FOR CANDIDATES APPLYING UNDER Physically Challenged (PC) CATEGORY FOR ADMISSION INTO B. Pharm / M.Pharm and Lateral Entry to B.Pharm Programmes.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/20260903166635353.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T11:40:32.658Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -5825,9 +5825,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:35:00.285Z",
+    "lastUpdatedDate": "2026-11-06T07:53:00.274Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:11faead6fa487a3c",
+        "title": "Merit List of MBBS/BDS 2nd Stray Round Counselling 2026-27",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/11/Merit-List-of-MBBS-BDS-2nd-Stray-Round-Counselling-2026-27.pdf",
+        "date": "06/11/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-06T07:53:00.274Z"
+      },
       {
         "id": "MBBS/BDS Counselling:37440b83236c2e2e",
         "title": "Click here for Apply for (Fresh Registration) online Application for MBBS/BDS 2nd Stray Round NEET UG Counselling 2026-27",
@@ -6017,16 +6027,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
         "detectedAt": "2026-09-22T12:33:55.378Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:fcac9a354c35b577",
-        "title": "Schedule for MBBS/BDS 3rd Round Counselling 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/MBBS-bds-3rd-round-schedule.pdf",
-        "date": "19/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-19T08:45:25.646Z"
       }
     ]
   },
