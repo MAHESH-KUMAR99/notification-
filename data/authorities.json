@@ -2372,9 +2372,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-06T07:47:43.385Z",
+    "lastUpdatedDate": "2026-11-07T07:39:56.153Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "e46956d0fac071ec",
+        "title": "Click here to fill online choices for Spl. stray Round of online counselling for MBBS/BDS under NEET UG 2026 NDC Dera Bassi BDS seats added in Special stray Round of counselling",
+        "link": "https://bfuhs.smartpad.in/Registration/Default.aspx",
+        "date": "07/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-07T07:39:56.153Z"
+      },
       {
         "id": "38537ab2a6820ddb",
         "title": "PROVISIONAL MERIT LIST OF CANDIDATES WHO HAVE APPLIED FOR ROUND 5TH OF ONLINE COUNSELLING FOR ADMISSION TO BDS COURSE UNDER NEET-UG 2026 (DATED 06.11.2026)",
@@ -2564,16 +2574,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-02T13:01:52.946Z"
-      },
-      {
-        "id": "ff8f09afd2d3e0f5",
-        "title": "Partially revised schedule for 3rd Round of UG Medical/Dental Online Punjab State Counselling under NEET-UG-2026",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/Revised%20Schedule%203rd%20Round-MBBS%2001-10-26.pdf",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-01T15:15:10.414Z"
       }
     ]
   },
