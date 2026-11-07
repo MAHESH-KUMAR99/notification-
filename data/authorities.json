@@ -4697,7 +4697,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-07T14:48:23.301Z",
+    "lastUpdatedDate": "2026-11-07T19:19:19.084Z",
     "pinned": false,
     "notices": [
       {
@@ -5421,7 +5421,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-03T16:34:45.910Z",
+    "lastUpdatedDate": "2026-11-07T19:23:22.509Z",
     "pinned": false,
     "notices": [
       {
@@ -6889,9 +6889,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-06T15:47:48.974Z",
+    "lastUpdatedDate": "2026-11-07T19:18:07.689Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "bc36ec8169e8e79e",
+        "title": "Urgent Notice dated 07-11-2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/11/20261107692770427.pdf",
+        "date": "07/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-07T19:18:07.689Z"
+      },
       {
         "id": "42163997fd7fb428",
         "title": "Provisional List of Candidates for Spl. Stray/Round-5",
@@ -7081,16 +7091,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-09-12T11:09:01.574Z"
-      },
-      {
-        "id": "34a0d0d06b32723b",
-        "title": "Round 2 Schedule Dated 03.09.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/202609031302532871.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-03T16:05:54.901Z"
       }
     ]
   },
