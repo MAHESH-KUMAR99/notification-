@@ -5421,7 +5421,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-08T09:28:46.781Z",
+    "lastUpdatedDate": "2026-11-08T16:18:42.681Z",
     "pinned": false,
     "notices": [
       {
@@ -7101,9 +7101,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-07T14:52:33.406Z",
+    "lastUpdatedDate": "2026-11-08T16:18:54.321Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9be939b4a87b9619",
+        "title": "ADMISSION TO MBBS/BDS COURSES -SPECIAL STRAY VACANCY ALLOTMENT PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/397/Upload1",
+        "date": "08/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-08T16:18:54.321Z"
+      },
       {
         "id": "9a358df996bfb0f5",
         "title": "ADMISSION TO MBBS/BDS COURSES - 2026- PROVISIONAL SPECIAL STRAY VACANCY ALLOTMENT PUBLISHED",
@@ -7295,16 +7305,6 @@
         "titleEn": "Regarding Spot Allotment for B.Pharm Course for Academic Year 2026-27",
         "titleLang": "ml",
         "detectedAt": "2026-10-17T09:11:22.687Z"
-      },
-      {
-        "id": "664e6b0a00869ce6",
-        "title": "ADMISSION TO MBBS/ BDS COURSES THIRD PHASE ALLOTMENT LIST PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/309/Upload1",
-        "date": "11/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-11T06:20:18.748Z"
       }
     ]
   },
