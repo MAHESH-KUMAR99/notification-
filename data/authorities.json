@@ -2160,9 +2160,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-07T14:47:15.108Z",
+    "lastUpdatedDate": "2026-11-09T07:45:44.224Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "f655a80d0d514af3",
+        "title": "09-11-2026: NMC ADVISORY TO STUDENTS AND PARENTS PG (Dental) CQ 2026-27 - List of Candidates who availed Free Exit after Phase-I & Phase-II Counselling PG (Dental) MQ 2026-27 - List of Candidates who availed Free Exit after Phase-II Counselling",
+        "link": "https://drntr.uhsap.in/index/notification/20261109130009260.pdf",
+        "date": "09/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-09T07:45:44.224Z"
+      },
       {
         "id": "92db38fa98c15cf9",
         "title": "07-11-2026: UG AYUSH Courses 2026-27 - CQ - Phase-III College Wise Allotments MSc(N) PHASE-1 Service candidates College wise Allotments UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-III Web Options Notification PG (Medical) MQ 2026-27 - Not Eligible List PG (Medical) MQ 2026-27 - Provisional Merit List PG (Medical) MQ 2026-27 - List of candidates who have paid Fee but not uploaded Documents PG (Medical) Colleges List 2026-27 PG (Medical) CQ 2026-27 - Phase-I Web Options Notification for both In-service & Non-service PG (Medical) CQ 2026-27 - Provisional Final Merit list of In-Service Candidates PG (Medical) CQ 2026-27 - Provisional Final Merit list of Non-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of In-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of Non-Service Candidates Medical PG CQ Seat Matrix and NET Group 2026-27 Post Basic B.Sc.(Nursing) 2ydc phase II Not Admitted list Post Basic B.Sc. (Nursing) 2YDC_Phase-III_Web Options Notification 2026-27 Post Basic (Nursing) 2 YDC 2026-27 - CQ Addendum to Final Merit List",
@@ -2352,16 +2362,6 @@
         "source": "Direct from Website",
         "batchIndex": 9,
         "detectedAt": "2026-11-07T14:47:15.108Z"
-      },
-      {
-        "id": "0917345bf2b327fb",
-        "title": "26-10-2026: MBBS-MQ-2026-27- REVISED College wise Allotment List of MBBS Course, MQ STRAY ROUND -2 MDS CQ 2026-27 - Provisional Merit List - After Lowering of Cut-off Percentiles MDS CQ 2026-27 - Not Eligible List - After Lowering of Cut-off Percentiles MDS CQ 2026-27 - Fee paid but documents Not uploaded List - After Lowering of Cut-off Percentiles MDS MQ 2026-27 - Provisional Merit List - After Lowering of Cut-off Percentiles MDS MQ 2026-27 - Not Eligible List - After Lowering of Cut-off Percentiles MDS MQ 2026-27 - Fee paid but documents Not uploaded List - After Lowering of Cut-off Percentiles",
-        "link": "https://drntr.uhsap.in/index/notification/20261026171038260.pdf",
-        "date": "26/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-26T14:59:02.867Z"
       }
     ]
   },
@@ -6677,9 +6677,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T12:02:09.052Z",
+    "lastUpdatedDate": "2026-11-09T07:47:45.518Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "295ee6b47bd3547a",
+        "title": "PROVISIONAL LIST OF ALLOTTED CANDIDATES IN ROUND 02 ONLINE COUNSELLING OF MBBS (CODE 103) 2026-27.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261109738457181.pdf",
+        "date": "09/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-09T07:47:45.518Z"
+      },
+      {
+        "id": "f7f5fc75e164b552",
+        "title": "List of Candidates Reported after allotment of seat in MBBS (CODE 103) upto Round 03_ GGSIPU_2026-27.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261109618924804.pdf",
+        "date": "09/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-09T07:47:45.518Z"
+      },
       {
         "id": "767bd472de871a97",
         "title": "NOTIFICATION FOR ADMISSION FOR THE PROG. MPO (CODE 109) A.S. 2026-27_dated-05.11.2026",
@@ -6859,26 +6879,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-22T10:31:59.893Z"
-      },
-      {
-        "id": "4090a5c27a60d929",
-        "title": "MBBS (CODE-103) (NEET UG 2026) – STRAY ROUND : 2026-27_dated-22.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610221647448318.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-22T10:31:59.893Z"
-      },
-      {
-        "id": "b40aaff24508378c",
-        "title": "TENTATIVE VACANT SEATS FOR PARAMEDICAL (B.PT/B.OT/BASLP/BMLS/BPO) (CODE 119/124) FOR THE A.S:2026-27_dated-21.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261021361285737.pdf",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T13:08:11.008Z"
       }
     ]
   },
@@ -7746,9 +7746,29 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-10-12T08:54:21.063Z",
+    "lastUpdatedDate": "2026-11-09T07:48:05.223Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "dc72a2bc4551c392",
+        "title": "SELECTED LIST of BAMS and BHMS seats",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/11/Selected-candidates-of-seats-BAMS-BHMS-.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-09T07:48:05.223Z"
+      },
+      {
+        "id": "c3aaa309e326eacc",
+        "title": "MERIT LIST of BAMS and BHMS seats",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/11/Merit-list-BAMS-BHMS-2026.pdf",
+        "date": "03/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-09T07:48:05.223Z"
+      },
       {
         "id": "eb2ea4bd08deb5e6",
         "title": "Application for BAMS & BHMS at Shillong & Guwahati 2026-27",
@@ -7928,26 +7948,6 @@
         "source": "Direct from Website",
         "batchIndex": 3,
         "detectedAt": "2026-08-06T14:59:12.752Z"
-      },
-      {
-        "id": "46f8b4fa16158e9c",
-        "title": "State NON-NEET-REJECTED-LIST",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NON-NEET-REJECTED-LIST-SIGNED.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-08-06T14:59:12.752Z"
-      },
-      {
-        "id": "1cce75948e56f9af",
-        "title": "State Merit List of NEET UG and NON NEET 2026 Notification",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/State-Merit-List-of-NEET-UG-and-NON-NEET-2026-Notification.pdf",
-        "date": "01/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-01T09:36:08.489Z"
       }
     ]
   },
