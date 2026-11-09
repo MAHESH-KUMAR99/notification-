@@ -2160,9 +2160,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-09T07:45:44.224Z",
+    "lastUpdatedDate": "2026-11-09T18:31:35.318Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "88eb6060f4a36c25",
+        "title": "09-11-2026: MDS CQ 2026-27 - Phase-III (Mop Up) MRC list B.Sc.(N) 4 YDC 2026-27 - CQ Phase-II - College-wise Allotments MDS CQ 2026-27 - Phase-III (Mop Up) College wise Provisional Allotments list MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND BDS -2026-27 - CQ - Web Options Notification for Stray Round Counseling BDS- CQ -2026-27 -Vacant seats for Stray Round NMC ADVISORY TO STUDENTS AND PARENTS PG (Dental) CQ 2026-27 - List of Candidates who availed Free Exit after Phase-I & Phase-II Counselling PG (Dental) MQ 2026-27 - List of Candidates who availed Free Exit after Phase-II Counselling",
+        "link": "https://drntr.uhsap.in/index/notification/20261109182355843.pdf",
+        "date": "09/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-09T18:31:35.318Z"
+      },
       {
         "id": "f655a80d0d514af3",
         "title": "09-11-2026: NMC ADVISORY TO STUDENTS AND PARENTS PG (Dental) CQ 2026-27 - List of Candidates who availed Free Exit after Phase-I & Phase-II Counselling PG (Dental) MQ 2026-27 - List of Candidates who availed Free Exit after Phase-II Counselling",
@@ -2314,6 +2324,16 @@
         "detectedAt": "2026-10-29T09:38:53.645Z"
       },
       {
+        "id": "d4945c4c9f90b63a",
+        "title": "28-10-2026: Extension of Ph.D Notification for admission into Ph.D course for the Academic Year 2026-27 is extended upto 05:00 PM on 25-11-2026. MPTCET PROSPECTUS 2026-27 MPTCET-2026-27 Notification inviting Applications Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area",
+        "link": "https://drntr.uhsap.in/index/notification/20261029104521457.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-11-09T18:31:35.318Z"
+      },
+      {
         "id": "3fddb6dbb7a9d5f8",
         "title": "28-10-2026: Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area 2 YDC - 2nd Phase Web Notification 2026-27 2YDC_2026-27_Phase-I Not Reported",
         "link": "https://drntr.uhsap.in/index/notification/20261028184502607.pdf",
@@ -2342,26 +2362,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-27T16:16:52.078Z"
-      },
-      {
-        "id": "1c8cf5a72c977e6e",
-        "title": "27-10-2026: BNYS Course 2026-27 - List of Candidates whose document verification is pending BNYS Course 2026-27 Provisional Eligible Merit List of the Applied Candidates BNYS Course 2026-27 - List of Candidates paid Registration Fee but not submitted Application",
-        "link": "https://drntr.uhsap.in/index/notification/20261027135320367.pdf",
-        "date": "27/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-27T10:49:35.907Z"
-      },
-      {
-        "id": "7d0260bd5f97eb5f",
-        "title": "27-10-2026: M.Sc(N) Provisional Merit list of In-service candidates 2026-27 M.Sc(N) Provisional Merit list of Non-service candidates 2026-27 M.Sc(N) Re-Upload Candidates list 2026-27 BNYS Course 2026-27 - CQ - Phase-I Web Options Notification BNYS Course 2026-27 - Final Merit Position of Applied Candidates BNYS Course 2026-27 - SVU Area Seat Matrix BNYS Course 2026-27 - AU Area Seat Matrix",
-        "link": "https://drntr.uhsap.in/index/notification/20261027182351340.pdf",
-        "date": "27/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-11-07T14:47:15.108Z"
       }
     ]
   },
@@ -4697,9 +4697,19 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-07T19:19:19.084Z",
+    "lastUpdatedDate": "2026-11-09T18:32:43.477Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8dbfc2bf9c212f61",
+        "title": "09 Nov. 2026: CHHATTISGARH STATE ALLIED & HEALTHCARE COURSES - 2026 MERIT LIST- ROUND 1 IMPORTANT NOTICE: Claims and objections regarding the Chhattisgarh State Allied & Healthcare Courses-2026 (Round 1) Merit List will be accepted strictly via email at cgdme.alliedhelp@gmail.com until 11:00 AM on 10 November 2026. LATE SUBMISSIONS WILL NOT BE CONSIDERED......More",
+        "link": "https://www.cgdme.in/notice.php?id=2320",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-09T18:32:43.477Z"
+      },
       {
         "id": "a8f9306bbefea29b",
         "title": "16 Oct. 2026: नीट यूजी (NEET UG) प्रवेश वर्ष 2026 अंतर्गत स्वतंत्रता संग्राम सेनानी (Freedom Fighter - FF) संवर्ग की रिक्त सीट हेतु दस्तावेज सत्यापन संबंधी आवश्यक सूचना.....More",
@@ -4903,18 +4913,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-18T15:36:40.678Z"
-      },
-      {
-        "id": "2423c0d212751987",
-        "title": ": नवीन शासकीय फिजियोथेरेपी महाविद्यालयों में तृतीय एवं चतुर्थ श्रेणी के विभिन्न पदों पर संविदा भर्ती हेतु विज्ञापन.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2163",
-        "date": "17/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": ": Advertisement for contractual recruitment on various posts of third and fourth class in new government physiotherapy colleges.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-08-17T07:03:50.837Z"
       }
     ]
   },
@@ -4925,9 +4923,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-06T15:53:24.755Z",
+    "lastUpdatedDate": "2026-11-09T18:36:38.260Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:afd62484b8edf139",
+        "title": "Notice For Physically Challenged (PC)/PwBD Candidates wish to take part in the State Quota POSTGRADUATION COURSE [MD (Hom.)], POSTGRADUATION COURSE [MD/MS (Ayurvedic)]. counselling and Admission Proce",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611091062133924.pdf",
+        "date": "09/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-09T18:36:38.260Z"
+      },
       {
         "id": "OJEE:af40f0d9ebd06938",
         "title": "INFORMATION & GUIDELINES FOR COUNSELLING & ADMISSION TO M.D. (HOM.) IN MATERIA MEDICA FOR THE YEAR 2026-27",
@@ -5117,16 +5125,6 @@
         "source": "OJEE",
         "batchIndex": 2,
         "detectedAt": "2026-09-19T13:03:44.672Z"
-      },
-      {
-        "id": "OJEE:a74cbe6a607ab5d4",
-        "title": "INFORMATION & INSTRUCTIONS FOR COUNSELLING & ADMISSION TO BAMS / BHMS COURSES, 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609171379291928.pdf",
-        "date": "17/09/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-17T15:17:00.000Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -6677,9 +6675,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-09T07:47:45.518Z",
+    "lastUpdatedDate": "2026-11-09T18:33:36.776Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b2aa6a2253ee69f4",
+        "title": "TENTATIVE VACANT SEAT STATUS IN MBBS (CODE-103) FOR SPECIAL STRAY ROUND_GGSIPU_2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611091900410440.pdf",
+        "date": "09/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-09T18:33:36.776Z"
+      },
       {
         "id": "295ee6b47bd3547a",
         "title": "PROVISIONAL LIST OF ALLOTTED CANDIDATES IN ROUND 02 ONLINE COUNSELLING OF MBBS (CODE 103) 2026-27.",
@@ -6869,16 +6877,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-22T15:36:04.719Z"
-      },
-      {
-        "id": "c8d6da35cda1de12",
-        "title": "PGMC (CODE-102)_ 2006-27 INVITING PHYSICAL APPLICATIONS FOR 04 SEATS OF MD (PAEDIATRICS) IN CHACHA NEHRU BAL CHIKITSALAYA UNDER GGSIPU STATE/ INSTITUTIONAL QUOTA_dated-22.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261022615659704.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-22T10:31:59.893Z"
       }
     ]
   },
