@@ -2160,9 +2160,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-10T09:29:04.649Z",
+    "lastUpdatedDate": "2026-11-10T17:15:26.802Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c78333567cdaa274",
+        "title": "10-11-2026: MSc(N) Phase-II, Final Web Options Detailed Notification 2026-27 MSC NURSING SERVICE PHASE 1 Not Reported MSc(NURSING) CQ PHASE 1 Non-Service Not Reported candidates list Allied and Healthcare Courses 2026-27 - Notice for Examination of Persons with Disability (PwD) Candidates MDS CQ 2026-27 - Phase-III (Mop Up) College wise Final Allotments list MDS MQ 2026-27 - Phase-III (Mop Up) College wise Allotments list BDS -2026-27 - MQ - Web Options Notification for Stray Round Counseling PG AYUSH 2026-27 Online application Extension notification",
+        "link": "https://drntr.uhsap.in/index/notification/20261110180143977.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T17:15:26.802Z"
+      },
       {
         "id": "48c011bb13c5eef1",
         "title": "10-11-2026: BDS -2026-27 - MQ - Web Options Notification for Stray Round Counseling PG AYUSH 2026-27 Online application Extension notification",
@@ -2334,6 +2344,16 @@
         "detectedAt": "2026-10-29T09:38:53.645Z"
       },
       {
+        "id": "6700e9372d6141bd",
+        "title": "29-10-2026: BNYS Course 2026-27 - CQ - Phase-I College Wise Allotments M.Sc_N Web Options Detailed Notification 2026-27 M.Sc(N) Service candidates Final Merit List 2026-27 M.Sc(N) Non-Service candidates Final Merit List 2026-27 MSc., Nursing SVU Region Service seat Matrix 2026-27 MSc., Nursing SVU Region NON-Service seat Matrix 2026-27 MSc., Nursing AU Region Service seat Matrix 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20261029184136960.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-11-10T17:15:26.802Z"
+      },
+      {
         "id": "d4945c4c9f90b63a",
         "title": "28-10-2026: Extension of Ph.D Notification for admission into Ph.D course for the Academic Year 2026-27 is extended upto 05:00 PM on 25-11-2026. MPTCET PROSPECTUS 2026-27 MPTCET-2026-27 Notification inviting Applications Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area",
         "link": "https://drntr.uhsap.in/index/notification/20261029104521457.pdf",
@@ -2342,26 +2362,6 @@
         "source": "Direct from Website",
         "batchIndex": 9,
         "detectedAt": "2026-11-09T18:31:35.318Z"
-      },
-      {
-        "id": "58b5c6a501fa4376",
-        "title": "28-10-2026: Extension of Ph.D Notification for admission into Ph.D course for the Academic Year 2026-27 is extended upto 05:00 PM on 25-11-2026. MPTCET PROSPECTUS 2026-27 MPTCET-2026-27 Notification inviting Applications Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application",
-        "link": "https://drntr.uhsap.in/index/notification/20261029104521457.pdf",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 10,
-        "detectedAt": "2026-11-10T09:29:04.649Z"
-      },
-      {
-        "id": "3fddb6dbb7a9d5f8",
-        "title": "28-10-2026: Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area 2 YDC - 2nd Phase Web Notification 2026-27 2YDC_2026-27_Phase-I Not Reported",
-        "link": "https://drntr.uhsap.in/index/notification/20261028184502607.pdf",
-        "date": "28/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-28T19:00:43.934Z"
       }
     ]
   },
@@ -2372,9 +2372,19 @@
     "category": "state",
     "officialLink": "https://admission.bfuhsonline.ac.in/mbbs_bds/mbbsbds.asp",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-07T07:39:56.153Z",
+    "lastUpdatedDate": "2026-11-10T17:15:20.321Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "78364d80c9c1f348",
+        "title": "Provisional Allocation of BDS seats of 5th Round Online Counselling, Session-2026",
+        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/11-11-26/Allotment-BDS.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T17:15:20.321Z"
+      },
       {
         "id": "e46956d0fac071ec",
         "title": "Click here to fill online choices for Spl. stray Round of online counselling for MBBS/BDS under NEET UG 2026 NDC Dera Bassi BDS seats added in Special stray Round of counselling",
@@ -2564,16 +2574,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-04T11:14:07.396Z"
-      },
-      {
-        "id": "2061032f10688afa",
-        "title": "Important Public notice regarding 3rd Round Schedule",
-        "link": "https://admission.bfuhsonline.ac.in/MBBS2026/PublicNotice021026.pdf",
-        "date": "02/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-02T13:01:52.946Z"
       }
     ]
   },
@@ -3633,7 +3633,7 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-10T09:33:58.736Z",
+    "lastUpdatedDate": "2026-11-10T17:20:49.831Z",
     "pinned": false,
     "notices": [
       {
@@ -3655,6 +3655,106 @@
         "source": "Direct from Website",
         "batchIndex": 404,
         "detectedAt": "2026-11-10T09:33:58.736Z"
+      },
+      {
+        "id": "OVERALL:fa1e063016492743",
+        "title": "ROUND 3 DRAFT ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1-JIksZlxVBPHFoBIx_VuvAtX8N7Yal3l/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "OVERALL:2a2d1687d9b6cf66",
+        "title": "NOTICE : ROUND 3 DRAFT ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1zutP6lnM8_GJwNsXONq_0q-rkTxeWOyy/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "OVERALL:c93f803f2d490938",
+        "title": "MCC ROUND 3 ADMITTED CANDIDATES WEEDED OUT FROM CENTAC PG DENTAL (M.D.S.) COURSES ROUND 3 ELIGIBLE LIST",
+        "link": "https://drive.google.com/file/d/1NSqgy0-AEdQ35QqsnNMsMyIrxQDBK2Z6/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "OVERALL:247c53a15b418ea9",
+        "title": "REVISED DRAFT MERIT LIST OF PG NEET MEDICAL (M.D./M.S.) COURSES (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgMedical_2026/revised_draft_merit_list.html",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "OVERALL:ab4fd9c937cbd1dc",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1mbIHQU4o0SOyxqkSNav7vYZXKsENDhX_/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "PG MEDICAL:247c53a15b418ea9",
+        "title": "REVISED DRAFT MERIT LIST OF PG NEET MEDICAL (M.D./M.S.) COURSES (2026 - 2027)",
+        "link": "https://centacpuducherry.in/htmlpages/2026/PgMedical_2026/revised_draft_merit_list.html",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 358,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "PG MEDICAL:ab4fd9c937cbd1dc",
+        "title": "NOTICE : REVISED DRAFT MERIT LIST FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/1mbIHQU4o0SOyxqkSNav7vYZXKsENDhX_/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 359,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "PG DENTAL:fa1e063016492743",
+        "title": "ROUND 3 DRAFT ALLOTMENT LIST OF PG DENTAL COURSES - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1-JIksZlxVBPHFoBIx_VuvAtX8N7Yal3l/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 372,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "PG DENTAL:2a2d1687d9b6cf66",
+        "title": "NOTICE : ROUND 3 DRAFT ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
+        "link": "https://drive.google.com/file/d/1zutP6lnM8_GJwNsXONq_0q-rkTxeWOyy/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 373,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
+      },
+      {
+        "id": "PG DENTAL:c93f803f2d490938",
+        "title": "MCC ROUND 3 ADMITTED CANDIDATES WEEDED OUT FROM CENTAC PG DENTAL (M.D.S.) COURSES ROUND 3 ELIGIBLE LIST",
+        "link": "https://drive.google.com/file/d/1NSqgy0-AEdQ35QqsnNMsMyIrxQDBK2Z6/view?usp=sharing",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 374,
+        "detectedAt": "2026-11-10T17:20:49.831Z"
       },
       {
         "id": "OVERALL:fb8c1ff9329e0ced",
@@ -3734,106 +3834,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "OVERALL:37c1c1fdda4a7634",
-        "title": "NOTICE : ROUND 3 ELIGIBLE CANDIDATES LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1XOURUEuw5fLLSwYJLNFdue3aMS2viiH0/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "OVERALL:d906c805e02968a2",
-        "title": "STRAY TWO PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1553p88CZIzvBm8SDQh5fSyCdAmkQUJzM/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "OVERALL:bb0134fdff8b2b2d",
-        "title": "NOTICE : STRAY-2 ROUND PROVISIONAL ALLOTMENT LIST FOR B.A.M.S. FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1-j0YIyypDQl_VKHpY-owQQgk_X_6CSco/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "OVERALL:92a2952938ad0755",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR PG MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1yK72nMZ0TVG2qe1euI5qDOnpXcYCTHud/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "OVERALL:1ff12285f1686497",
-        "title": "PG MEDICAL SEAT MATRIX FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1bDjBqE1t0CQ2FfyKXyK0Asoz5_1VVKeo/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "PG MEDICAL:c9a1a0b575d13b1d",
-        "title": "DRAFT MERIT LIST OF PG NEET MEDICAL (M.D./M.S.) COURSES (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgMedical_2026/Draft_merit_list.html",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 349,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "PG MEDICAL:6c2dcff70598a66a",
-        "title": "NOTICE : DRAFT MERIT LIST FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1iS_gAqV4JP9i0hvkcnMkyGdCdhxQAn8c/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 350,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "PG MEDICAL:92a2952938ad0755",
-        "title": "NOTICE : UPDATION OF COURSE PREFERENCES FOR PG MEDICAL COURSES",
-        "link": "https://drive.google.com/file/d/1yK72nMZ0TVG2qe1euI5qDOnpXcYCTHud/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 351,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "PG MEDICAL:1ff12285f1686497",
-        "title": "PG MEDICAL SEAT MATRIX FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1bDjBqE1t0CQ2FfyKXyK0Asoz5_1VVKeo/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 352,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "PG DENTAL:b3f28fc77d1ef6e0",
-        "title": "LIST OF CANDIDATES ELIGIBLE FOR ROUND 3 PG DENTAL COUNSELLING (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgDental_2026/round_three_eligible_list.html",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 361,
         "detectedAt": "2026-11-06T15:53:35.415Z"
       },
       {
@@ -4697,7 +4697,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-09T18:32:43.477Z",
+    "lastUpdatedDate": "2026-11-10T17:16:36.728Z",
     "pinned": false,
     "notices": [
       {
@@ -4709,6 +4709,18 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-09T18:32:43.477Z"
+      },
+      {
+        "id": "2b1653382e4ffbca",
+        "title": "10 Nov. 2026: प्रवेश वर्ष 2026 - एलाईड एवं हेल्थ केयर प्रोफेशनल स्नातक एवं डिप्लोमा पाठ्यक्रमों की प्रथम चरण काउंसिलिंग आवंटन सूचना, सूची एवं 200 बिंदु रोस्टर.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2321",
+        "date": null,
+        "sortTs": 1794268800000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "10 Nov. 2026: Admission Year 2026 - First Phase Counseling Allotment Information, List and 200 Points Roster of Allied and Health Care Professional Undergraduate and Diploma Courses.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-11-10T17:16:36.728Z"
       },
       {
         "id": "a8f9306bbefea29b",
@@ -4903,16 +4915,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-08-18T15:36:40.678Z"
-      },
-      {
-        "id": "202852235ece63db",
-        "title": ": CHHATTISGARH STATE NEET-UG (MBBS & BDS)-2026 MERIT LIST-ROUND 1.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2164",
-        "date": "18/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-18T15:36:40.678Z"
       }
     ]
   },
@@ -4923,9 +4925,29 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-09T18:36:38.260Z",
+    "lastUpdatedDate": "2026-11-10T17:20:40.513Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:0c9aabee78e2b48e",
+        "title": "CORRIGENDUM NOTICE",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611101465230260.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T17:20:40.513Z"
+      },
+      {
+        "id": "OJEE:946119e0ff14718f",
+        "title": "REVISED DATES FOR 1 st ROUND COUNSELLING & ADMISSION TO POSTGRADUATION COURSE [MD (Hom.)] and POSTGRADUATION COURSE [MD/MS(Ayurvedic)] SESSION 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261110767179665.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-10T17:20:40.513Z"
+      },
       {
         "id": "OJEE:afd62484b8edf139",
         "title": "Notice For Physically Challenged (PC)/PwBD Candidates wish to take part in the State Quota POSTGRADUATION COURSE [MD (Hom.)], POSTGRADUATION COURSE [MD/MS (Ayurvedic)]. counselling and Admission Proce",
@@ -5104,26 +5126,6 @@
         "sortTs": null,
         "source": "OJEE",
         "batchIndex": 0,
-        "detectedAt": "2026-09-19T13:03:44.672Z"
-      },
-      {
-        "id": "OJEE:70e5e967951d1003",
-        "title": "NOTICE FOR CANDIDATES WISH TO TAKE PART IN THE STATE QUOTA BAMS/BHMS COUNSELLING AND ADMISSION PROCESS UNDER EX-SERVICEMEN CATEGORY",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609191166791574.pdf",
-        "date": "19/09/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-19T13:03:44.672Z"
-      },
-      {
-        "id": "OJEE:77cc3e28c0c4ce39",
-        "title": "NOTICE FOR EXTENSION OF LAST DATE FOR DOCUMENT UPLOAD AND PAYMENT OF SEAT ACCEPTANCE FEE FOR 1st ROUND ALLOTTED CANDIDATES UNDER B.PHARM/ M.PHARM & LATERAL ENTRY TO B.PHARM PROGRAMMES",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/09/202609181055915331.pdf",
-        "date": "18/09/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 2,
         "detectedAt": "2026-09-19T13:03:44.672Z"
       },
       {
@@ -5815,9 +5817,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-06T15:53:37.423Z",
+    "lastUpdatedDate": "2026-11-10T17:20:51.565Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:41b1bb72d2351a72",
+        "title": "Seat Allocation of MBBS/BDS 2nd Stray Round Counselling 2026",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/11/Seat-allocation-of-MBBS-BDS-2nd-Stray-Round-Counselling-2026-merged.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T17:20:51.565Z"
+      },
       {
         "id": "MBBS/BDS Counselling:75c9f97b0aa1321e",
         "title": "Provisional Seat vacancy for MBBS/BDS 2nd Stray round Counselling 2026",
@@ -6007,16 +6019,6 @@
         "source": "MBBS/BDS Counselling",
         "batchIndex": 1,
         "detectedAt": "2026-10-01T15:19:47.100Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:176b1b385d05ea06",
-        "title": "Provisional Merit list of MBBS/BDS 3rd Round Counselling 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/09/MBBS-BDS-2026-27-Final-provisional-merit_merged.pdf",
-        "date": "30/09/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-30T06:30:29.237Z"
       }
     ]
   },
@@ -6675,9 +6677,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-10T09:31:05.251Z",
+    "lastUpdatedDate": "2026-11-10T17:17:29.264Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "46ca39e6dbc75cb6",
+        "title": "SPECIAL STRAY ROUND MBBS (CODE 103) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT FOR A.S:2026-27_dated-10.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/2026111011852531.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T17:17:29.264Z"
+      },
       {
         "id": "9c1c10f38143f862",
         "title": "ROUND 03 BAMS (CODE 153) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT QUALIFIED CANDIDATES FOR A.S:2026-27_dated-10.11.2026",
@@ -6866,16 +6878,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-10-23T12:49:14.365Z"
-      },
-      {
-        "id": "b2e9a8d3df0227a3",
-        "title": "Round 02 BAMS (CODE-153) FOR NEET UG 2026 A.S:2026-27_dated- 23.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610232862673.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-10-23T12:49:14.365Z"
       }
     ]
@@ -7521,9 +7523,29 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-05T12:02:40.521Z",
+    "lastUpdatedDate": "2026-11-10T17:18:02.324Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "711fb585db769706",
+        "title": "Special Stray Round UG Counselling Registration, Choice Filling/ Locking from 10-11-2026 to 12-11-2026. UG",
+        "link": null,
+        "date": "12/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-10T17:18:02.324Z"
+      },
+      {
+        "id": "88b362654ad1ad41",
+        "title": "NEET-UG Special Stray Round Notification",
+        "link": "https://manipurmc.mn.gov.in/media/1794307568_NEETUG%20Special%20Stray%20Round%20Notification.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-11-10T17:18:02.324Z"
+      },
       {
         "id": "c42c80bc0e8a5430",
         "title": "Revised Seat Matrix(RIMS) of State Level Medical PG Counselling 2026-27",
@@ -7702,26 +7724,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-10-15T14:22:07.104Z"
-      },
-      {
-        "id": "77a0698700f62eef",
-        "title": "Candidates allotted in Management Quota seats in Round 3",
-        "link": "https://manipurmc.mn.gov.in/media/1792057928_Candidates%20allotted%20in%20Management%20Quota%20seats%20in%20Round%203.pdf",
-        "date": "15/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-15T14:22:07.104Z"
-      },
-      {
-        "id": "38483bb48734fbd6",
-        "title": "Round 3 seat allotment notification",
-        "link": "https://manipurmc.mn.gov.in/media/1792057900_Round%203%20seat%20allotment%20notification%20.pdf",
-        "date": "15/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-10-15T14:22:07.104Z"
       }
     ]
