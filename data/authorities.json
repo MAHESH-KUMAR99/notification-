@@ -2160,9 +2160,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-09T18:31:35.318Z",
+    "lastUpdatedDate": "2026-11-10T09:29:04.649Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "48c011bb13c5eef1",
+        "title": "10-11-2026: BDS -2026-27 - MQ - Web Options Notification for Stray Round Counseling PG AYUSH 2026-27 Online application Extension notification",
+        "link": "https://drntr.uhsap.in/index/notification/20261110131901257.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T09:29:04.649Z"
+      },
       {
         "id": "88eb6060f4a36c25",
         "title": "09-11-2026: MDS CQ 2026-27 - Phase-III (Mop Up) MRC list B.Sc.(N) 4 YDC 2026-27 - CQ Phase-II - College-wise Allotments MDS CQ 2026-27 - Phase-III (Mop Up) College wise Provisional Allotments list MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND BDS -2026-27 - CQ - Web Options Notification for Stray Round Counseling BDS- CQ -2026-27 -Vacant seats for Stray Round NMC ADVISORY TO STUDENTS AND PARENTS PG (Dental) CQ 2026-27 - List of Candidates who availed Free Exit after Phase-I & Phase-II Counselling PG (Dental) MQ 2026-27 - List of Candidates who availed Free Exit after Phase-II Counselling",
@@ -2334,6 +2344,16 @@
         "detectedAt": "2026-11-09T18:31:35.318Z"
       },
       {
+        "id": "58b5c6a501fa4376",
+        "title": "28-10-2026: Extension of Ph.D Notification for admission into Ph.D course for the Academic Year 2026-27 is extended upto 05:00 PM on 25-11-2026. MPTCET PROSPECTUS 2026-27 MPTCET-2026-27 Notification inviting Applications Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application",
+        "link": "https://drntr.uhsap.in/index/notification/20261029104521457.pdf",
+        "date": "29/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 10,
+        "detectedAt": "2026-11-10T09:29:04.649Z"
+      },
+      {
         "id": "3fddb6dbb7a9d5f8",
         "title": "28-10-2026: Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area 2 YDC - 2nd Phase Web Notification 2026-27 2YDC_2026-27_Phase-I Not Reported",
         "link": "https://drntr.uhsap.in/index/notification/20261028184502607.pdf",
@@ -2342,26 +2362,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-28T19:00:43.934Z"
-      },
-      {
-        "id": "d8af89e4abed671b",
-        "title": "28-10-2026: MPTCET PROSPECTUS 2026-27 MPTCET-2026-27 Notification inviting Applications Allied and Healthcare Courses - 2026-27 - CQ Extension Notification for Online Application Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in SVU Area Post Basic (N) 2 YDC 2026-27 - Phase - 2 Seat Matrix in AU Area 2 YDC - 2nd Phase Web Notification 2026-27 2YDC_2026-27_Phase-I Not Reported",
-        "link": "https://drntr.uhsap.in/index/notification/20261028184519120.pdf",
-        "date": "28/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-28T13:23:46.881Z"
-      },
-      {
-        "id": "10d8f08e58df7f52",
-        "title": "27-10-2026: M.Sc(N) Provisional Merit list of In-service candidates 2026-27 M.Sc(N) Provisional Merit list of Non-service candidates 2026-27 M.Sc(N) Re-Upload Candidates list 2026-27 BNYS Course 2026-27 - CQ - Phase-I Web Options Notification BNYS Course 2026-27 - Final Merit Position of Applied Candidates BNYS Course 2026-27 - SVU Area Seat Matrix BNYS Course 2026-27 - AU Area Seat Matrix B.Sc.(N) 4 YDC 2026-27 - MQ Phase-I - Notification for exercising web options B.Sc.(Nursing) 4 YDC 2026-27 - Provisional Final Eligible List of Candidates BNYS Course 2026-27 - List of Candidates whose document verification is pending BNYS Course 2026-27 Provisional Eligible Merit List of the Applied Candidates BNYS Course 2026-27 - List of Candidates paid Registration Fee but not submitted Application",
-        "link": "https://drntr.uhsap.in/index/notification/20261027182351340.pdf",
-        "date": "27/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-27T16:16:52.078Z"
       }
     ]
   },
@@ -3633,9 +3633,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-06T21:28:34.864Z",
+    "lastUpdatedDate": "2026-11-10T09:33:58.736Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:728d6e95aeeffcb8",
+        "title": "REVISED STRAY COUNSELLING SCHEDULE FOR B.A.LL.B./B.B.A.LL.B. (5 YEARS) ON 11/11/2026 (WEDNESDAY)",
+        "link": "https://drive.google.com/file/d/1zfdY1Ye3Y5Q-urX32Hx6CRNPyvUYIjO1/view?usp=sharing",
+        "date": "11/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T09:33:58.736Z"
+      },
+      {
+        "id": "UG NON-NEET:728d6e95aeeffcb8",
+        "title": "REVISED STRAY COUNSELLING SCHEDULE FOR B.A.LL.B./B.B.A.LL.B. (5 YEARS) ON 11/11/2026 (WEDNESDAY)",
+        "link": "https://drive.google.com/file/d/1zfdY1Ye3Y5Q-urX32Hx6CRNPyvUYIjO1/view?usp=sharing",
+        "date": "11/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 404,
+        "detectedAt": "2026-11-10T09:33:58.736Z"
+      },
       {
         "id": "OVERALL:fb8c1ff9329e0ced",
         "title": "NOTIFICATION FOR ADMISSION TO B.SC. NURSING UNFILLED GOVERNEMNT QUOTA SEATS FOR THE ACADEMIC YEAR 2026-2027",
@@ -3814,26 +3834,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 361,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "PG DENTAL:37c1c1fdda4a7634",
-        "title": "NOTICE : ROUND 3 ELIGIBLE CANDIDATES LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1XOURUEuw5fLLSwYJLNFdue3aMS2viiH0/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 362,
-        "detectedAt": "2026-11-06T15:53:35.415Z"
-      },
-      {
-        "id": "UG NEET:d906c805e02968a2",
-        "title": "STRAY TWO PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL / BAMS AYURVEDA / BVSC.& AH [NATIONAL SS & NRI] - (2026-27)",
-        "link": "https://drive.google.com/file/d/1553p88CZIzvBm8SDQh5fSyCdAmkQUJzM/view?usp=sharing",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 530,
         "detectedAt": "2026-11-06T15:53:35.415Z"
       },
       {
@@ -6675,9 +6675,29 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-09T18:33:36.776Z",
+    "lastUpdatedDate": "2026-11-10T09:31:05.251Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9c1c10f38143f862",
+        "title": "ROUND 03 BAMS (CODE 153) SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT QUALIFIED CANDIDATES FOR A.S:2026-27_dated-10.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611101397294103.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-10T09:31:05.251Z"
+      },
+      {
+        "id": "73b3f63aa5190210",
+        "title": "B.SC. NURSING (CODE 115) (NEET UG 2026 & CET 2026 QUALIFIED CANDIDATES) SPECIAL STRAY ROUND:2026-27_dated-10.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261110203857805.pdf",
+        "date": "10/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-10T09:31:05.251Z"
+      },
       {
         "id": "b2aa6a2253ee69f4",
         "title": "TENTATIVE VACANT SEAT STATUS IN MBBS (CODE-103) FOR SPECIAL STRAY ROUND_GGSIPU_2026-27",
@@ -6857,26 +6877,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-23T12:49:14.365Z"
-      },
-      {
-        "id": "ae44ff8018e0cc79",
-        "title": "Code 196(Postgraduate Ayurveda Courses) and Code 700(PG Homeopathy) Re-opening of portal for submission of online application forms_dated-23.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/20261023871766364.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-23T12:49:14.365Z"
-      },
-      {
-        "id": "1ab654f259c41e08",
-        "title": "Closure of Counselling of Paramedical Courses(BPT/BPO/BASLP/BMLS/BOT) Code 124/119",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610221499237007.pdf",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-22T15:36:04.719Z"
       }
     ]
   },
