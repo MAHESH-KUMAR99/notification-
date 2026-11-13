@@ -2180,9 +2180,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T11:26:40.737Z",
+    "lastUpdatedDate": "2026-11-13T18:42:01.319Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8c6290eba0ec4f78",
+        "title": "13-11-2026: PG (Medical) CQ 2026-27 - In-service Phase-I College wise Final Allotment List BNYS Course 2026-27 - CQ - Phase-II Web Options Notification B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round - PwD Eligible List BDS 2026-27 -MQ- Stray Round College Wise Allotments PG (Medical) CQ 2026-27 - MRC List of In-service Phase-I B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Online application for web based 2nd & Final Counselling PG (Medical) CQ 2026-27 - Provisional College wise Allotments List of In-service",
+        "link": "https://drntr.uhsap.in/index/notification/20261113195711670.pdf",
+        "date": "13/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-13T18:42:01.319Z"
+      },
       {
         "id": "ae2d8cf5a6764757",
         "title": "13-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round - PwD Eligible List BDS 2026-27 -MQ- Stray Round College Wise Allotments PG (Medical) CQ 2026-27 - MRC List of In-service Phase-I B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Online application for web based 2nd & Final Counselling PG (Medical) CQ 2026-27 - Provisional College wise Allotments List of In-service",
@@ -2314,6 +2324,16 @@
         "detectedAt": "2026-11-12T16:41:05.839Z"
       },
       {
+        "id": "eb4f05b15698f457",
+        "title": "03-11-2026: UG AYUSH Courses 2026-27 - CQ - Revised List of Not Reported Candidates after Phase-II Counselling",
+        "link": "https://drntr.uhsap.in/index/notification/20261106190144567.pdf",
+        "date": "06/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "detectedAt": "2026-11-13T18:42:01.319Z"
+      },
+      {
         "id": "313d320f0917e2c5",
         "title": "03-11-2026: UG AYUSH Courses 2026-27 - CQ - Revised List of Not Reported Candidates after Phase-II Counselling MSc(N) PHASE 1 CollegeWise Allotments 2026-27 B.Sc(Nursing) 4-YDC CQ Phase-2 Web Options Notification_2026-27",
         "link": "https://drntr.uhsap.in/index/notification/20261106190144567.pdf",
@@ -2362,26 +2382,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-04T17:51:57.749Z"
-      },
-      {
-        "id": "aa001cc7a8dd5baa",
-        "title": "03-11-2026: MSc(N) PHASE 1 CollegeWise Allotments 2026-27 B.Sc(Nursing) 4-YDC CQ Phase-2 Web Options Notification_2026-27 B.Sc.(Nursing) 4 YDC 2026-27 - CQ LIST OF NOT REPORTED CANDIDATES AFTER PHASE-I COUNSELLING B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - AU Area Seat Matrix B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - SVU Area Seat Matrix UG AYUSH Courses 2026-27 - CQ - Phase-III Web Options Notification UG AYUSH Courses 2026-27 - CQ - List of Not Reported Candidates after Phase-II Counselling PG (Dental) Admissions 2026-27 - Notification on Free Exit (final) for Phase-I&II allotted candidates MDS CQ 2026-27 - Phase-III Web Options Notification PG (Dental) CQ 2026-27 - Consolidated Not Eligible list PG (Dental) CQ 2026-27 - Consolidated Final Merit list MDS MQ 2026-27 - Phase-III Web Options Notification PG (Dental) MQ 2026-27 - List of Candidates Eligible for S3 (Institutional Quota) seats PG (Dental) MQ 2026-27 - Consolidated Final Merit list",
-        "link": "https://drntr.uhsap.in/index/notification/20261103190919597.pdf",
-        "date": "03/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-03T16:29:12.173Z"
-      },
-      {
-        "id": "0cc6ef622b8be590",
-        "title": "31-10-2026: Post Basic (Nursing) 2 YDC 2026-27 - Competent Authority Quota - Phase-II - College-wise Allotment B.Sc.(N) 4 YDC 2026-27 - MQ Phase-I - College-wise allotments PG (Medical) CQ 2026-27 - List of Eligible & Not Eligible candidates under PwBD Quota PG (Medical) CQ 2026-27 - Provisional Merit list of Non-service candidates PG (Medical) CQ 2026-27 - Provisional Merit list of In-service candidates PG (Medical) CQ 2026-27 - Not Eligible list of Non-service candidates PG (Medical) CQ 2026-27 - Not Eligible list of In-service candidates PG (Medical) CQ 2026-27 - List of candidates who have paid Fee but not uploaded Documents",
-        "link": "https://drntr.uhsap.in/index/notification/20261031183443787.pdf",
-        "date": "31/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-31T16:14:54.620Z"
       }
     ]
   },
@@ -4713,7 +4713,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T11:27:52.949Z",
+    "lastUpdatedDate": "2026-11-13T18:43:10.867Z",
     "pinned": false,
     "notices": [
       {
@@ -7115,9 +7115,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-12T16:46:13.148Z",
+    "lastUpdatedDate": "2026-11-13T18:47:27.654Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "270581c8d2d0bb73",
+        "title": "ADMISSION TO AYURVEDA [BAMS], HOMOEOPATHY [BHMS], SIDDHA[BSMS] & UNANI[BUMS] COURSES- REVISED FINAL RANK LIST & CATEGORY LIST PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/407/Upload1",
+        "date": "13/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-13T18:47:27.654Z"
+      },
       {
         "id": "3a18a9856239bd21",
         "title": "Stray Vacancy Allotment To Ayurveda/Homoeo/Sidha/Unani And Medical Allied Courses (Svr-1) - Option Registration Started",
@@ -7307,16 +7317,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-10-30T15:19:29.419Z"
-      },
-      {
-        "id": "92096ed10992e4ae",
-        "title": "Seat Matrix for the 25 additional BDS seats at Sri Sankara Dental College, Varkala - G.O. Reg",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/343/Upload1",
-        "date": "20/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-20T05:58:13.248Z"
       }
     ]
   },
