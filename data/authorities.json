@@ -2180,9 +2180,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T18:42:01.319Z",
+    "lastUpdatedDate": "2026-11-14T14:00:40.395Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "22f743f0f313a42e",
+        "title": "14-11-2026: PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
+        "link": "https://drntr.uhsap.in/index/notification/20261114180058550.pdf",
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-14T14:00:40.395Z"
+      },
       {
         "id": "8c6290eba0ec4f78",
         "title": "13-11-2026: PG (Medical) CQ 2026-27 - In-service Phase-I College wise Final Allotment List BNYS Course 2026-27 - CQ - Phase-II Web Options Notification B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round - PwD Eligible List BDS 2026-27 -MQ- Stray Round College Wise Allotments PG (Medical) CQ 2026-27 - MRC List of In-service Phase-I B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Online application for web based 2nd & Final Counselling PG (Medical) CQ 2026-27 - Provisional College wise Allotments List of In-service",
@@ -2372,16 +2382,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-11-05T12:00:08.079Z"
-      },
-      {
-        "id": "86682429f0a06448",
-        "title": "04-11-2026: MBBS _BDS - MQ-2026-27-Notification for Online application & schedule for Special Stray Vacancy Round M.Sc(N) Notice Regarding Phase-I web options",
-        "link": "https://drntr.uhsap.in/index/notification/20261104175736980.pdf",
-        "date": "04/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-04T17:51:57.749Z"
       }
     ]
   },
@@ -4713,7 +4713,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T00:17:21.593Z",
+    "lastUpdatedDate": "2026-11-14T14:01:51.267Z",
     "pinned": false,
     "notices": [
       {
@@ -5435,7 +5435,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T07:00:14.900Z",
+    "lastUpdatedDate": "2026-11-14T14:05:35.719Z",
     "pinned": false,
     "notices": [
       {
@@ -7535,9 +7535,19 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-10T22:32:15.297Z",
+    "lastUpdatedDate": "2026-11-14T14:03:00.031Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "791fbda7c6f78b52",
+        "title": "Allotted Candidates in Round 1 State Level Medical PG Counselling 2026-27",
+        "link": "https://manipurmc.mn.gov.in/media/1794660621_Round_1_state_level_pg_counselling.pdf",
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-11-14T14:03:00.031Z"
+      },
       {
         "id": "711fb585db769706",
         "title": "Special Stray Round UG Counselling Registration, Choice Filling/ Locking from 10-11-2026 to 12-11-2026. UG",
@@ -7727,16 +7737,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-22T15:36:13.109Z"
-      },
-      {
-        "id": "a45965004fd173ef",
-        "title": "Candidates allotted in State Govt. quota seats in Round 3",
-        "link": "https://manipurmc.mn.gov.in/media/1792057950_Candidates%20allotted%20in%20State%20Govt.%20quota%20seats%20in%20Round%203.pdf",
-        "date": "15/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-15T14:22:07.104Z"
       }
     ]
   },
