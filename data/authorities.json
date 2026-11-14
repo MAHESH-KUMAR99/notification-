@@ -998,9 +998,119 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T11:26:19.461Z",
+    "lastUpdatedDate": "2026-11-14T19:03:58.847Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "20851b2de7297177",
+        "title": "The Admission Committee hereby informs all candidates allotted MBBS/BDS seats in the Special Stray Vacancy Round that they must report to the designated Help Centre only on 16/11/2026, between 10:00 AM and 4:00 PM.",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "1e2605d2794aaac1",
+        "title": "Candidates must bring the following documents after taking appointment of the nearest Help Centre:",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "b35d53d7ca4a6e60",
+        "title": "1. Paid Tuition Fee Receipt as mentioned in challan: tuition fee receipt of online payment OR by the cash payment or by the Demand Draft at designated branch of bank OR Valid Freeship Card for SC/ST category candidates OR Zero-fee challan (if tuition fee is adjusted against the security deposit of special stray vacancy round)",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "751c56a1c56696ec",
+        "title": "2. Allotment Letter and all required Original Documents",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "66b4adb85172c3ad",
+        "title": "Strict Note: No admission confirmation will be entertained after 4:00 PM on 16/11/2026.",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "beb9b0dd64410cfb",
+        "title": "[એડમિશન કમિટી દ્વારા સ્પેશિયલ સ્ટ્રે વેકેન્સી રાઉન્ડમાં MBBS/BDSની બેઠકો ફાળવવામાં આવેલ તમામ ઉમેદવારોને જણાવવામાં આવે છે કે તેમણે પ્રવેશ કન્ફર્મ કરવા માટે ફક્ત તા. 16/11/2026ના રોજ સવારે 10:00 થી સાંજે 4:00 વાગ્યા સુધી નિયત હેલ્પ સેન્ટર ખાતે રૂબરૂ હાજર રહેવાનું રહેશે.",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "titleEn": "[All the candidates allotted MBBS/BDS seats in Special Stray Vacancy round by the Admission Committee are hereby informed to confirm admission only on dt. 16/11/2026 from 10:00 AM to 4:00 PM in person at the designated Help Center.",
+        "titleLang": "gu",
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "b299a5c9790521c6",
+        "title": "ઉમેદવારોએ નજીકના હેલ્પ સેન્ટર ખાતે અગાઉથી એપોઇન્ટમેન્ટ મેળવી નીચે મુજબના દસ્તાવેજો સાથે હાજર રહેવાનું રહેશે:",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 6,
+        "titleEn": "Candidates have to make an appointment in advance at the nearest Help Center and present themselves with the following documents:",
+        "titleLang": "gu",
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "09d1ddd040ee1e0b",
+        "title": "1. ભરેલ ટ્યુશન ફીની રસીદ (ચલણમાં દર્શાવ્યા મુજબ): ઓનલાઇન ફી ભર્યાની રસીદ, અથવા નિયત બેંકની શાખામાં રોકડ અથવા ડિમાન્ડ ડ્રાફ્ટ (DD) દ્વારા ફી ભર્યાની રસીદ, અથવા SC/ST કેટેગરીના ઉમેદવારો માટે માન્ય ફ્રીશિપ કાર્ડ અથવા ઝીરો ફી ચલણ (સ્પેશિયલ સ્ટ્રે વેકેન્સી રાઉન્ડની સિક્યુરિટી ડિપોઝિટની રકમ સામે ટ્યુશન ફી સરભર થતી હોય તો).",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "titleEn": "1. Receipt of paid tuition fee (as shown in challan): Receipt of online fee payment, or receipt of fee payment by cash or demand draft (DD) at a designated bank branch, or valid freeship card or zero fee challan for SC/ST category candidates (in case tuition fee is offset against the security deposit amount of Special Stray Vacancy round).",
+        "titleLang": "gu",
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "c1cc1cd56a995b6d",
+        "title": "2. એલોટમેન્ટ લેટર અને જરૂરી અસલ પ્રમાણપત્રો",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "titleEn": "2. Allotment letter and necessary original certificates",
+        "titleLang": "gu",
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
+      {
+        "id": "46d1b7910d5ba9bf",
+        "title": "ખાસ નોંધ: તા. 16/11/2026ના રોજ સાંજે 4:00 વાગ્યા બાદ પ્રવેશ કન્ફર્મ કરવા અંગેની કોઈપણ રજૂઆત સ્વીકારવામાં આવશે નહીં.]",
+        "link": null,
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 9,
+        "titleEn": "Special Note: Dt. Any submission for confirmation of admission after 4:00 PM on 16/11/2026 will not be entertained.]",
+        "titleLang": "gu",
+        "detectedAt": "2026-11-14T19:03:58.847Z"
+      },
       {
         "id": "8ea05a9686c5a171",
         "title": "Advertisement for Allotment and Reporting of Special Stray Round for MBBS/BDS",
@@ -1100,106 +1210,6 @@
         "source": "Direct from Website",
         "batchIndex": 15,
         "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "d9f77952fbfd4374",
-        "title": "List of the candidates removed from MBBS BDS merit list due to Allotment in All India Quota Special Stray Vacancy round. (list provided by the MCC, New Delhi)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/AIQ_Alloted_r5.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 16,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "99291f07ca595e8e",
-        "title": "List of candidates whose Refundable Security Deposit is forfeited and removed from the Merit list due to Cancel Admission (As per order of Hon.Highcourt of Gujarat)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R4/R4_CANCEL_CANDIDATE_LIST.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-05T19:51:51.104Z"
-      },
-      {
-        "id": "5897a341cb171d55",
-        "title": "Deposite Paid Candidate List (Special Stray Round)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/DEPOSITE_PAID_LIST.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-05T11:59:54.047Z"
-      },
-      {
-        "id": "d9012a7969b782eb",
-        "title": "Vacant Seats for MBBS / BDS courses for Special Stray Round (Updated on 05-11-2026 06:00 PM)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/r5_bef_vac_05112026.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-05T19:51:51.104Z"
-      },
-      {
-        "id": "2db7b2555a31130c",
-        "title": "List of candidates whose Refundable Security Deposit is forfeited and removed from the Merit list due to Cancel Admission (As per order of Hon.Highcourt of Gujarat) GJHC240862972026-1 GJHC240855182026-1 GJHC240852032026-1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R4/R4_CANCEL_CANDIDATE_LIST.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 17,
-        "detectedAt": "2026-11-13T11:26:19.461Z"
-      },
-      {
-        "id": "a6b407f0945475d4",
-        "title": "GJHC240862972026-1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/GJHC240862972026-1_18284.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 18,
-        "detectedAt": "2026-11-13T11:26:19.461Z"
-      },
-      {
-        "id": "fa49e07c32b143ed",
-        "title": "GJHC240855182026-1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/GJHC240855182026-1_20853.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 19,
-        "detectedAt": "2026-11-13T11:26:19.461Z"
-      },
-      {
-        "id": "3d14174bd16e8765",
-        "title": "GJHC240852032026-1",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/GJHC240852032026-1_13500.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 20,
-        "detectedAt": "2026-11-13T11:26:19.461Z"
-      },
-      {
-        "id": "2e518a660bf93cdd",
-        "title": "Advertisement for 4th Online Stray Vacancy Round Allotment & Reporting (MBBS & BDS Courses only)",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R4/Adv.%20-%204th%20Round%20-%20UG%20[2026-27]%20-%20Allotment%20&%20Reporting.pdf",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T07:17:59.795Z"
-      },
-      {
-        "id": "bb2cd441bda6a222",
-        "title": "Rank Wise Result",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R4/r4_merit_wiseadm_1135.pdf",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-21T07:17:59.795Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2180,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T14:00:40.395Z",
+    "lastUpdatedDate": "2026-11-14T19:04:14.861Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "877891a2e36066e6",
+        "title": "14-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd - Final Phase - Notice to the candidates for exercising web options B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd &Final Phase - Provisional Final Eligible List PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
+        "link": "https://drntr.uhsap.in/index/notification/20261114200314613.pdf",
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-14T19:04:14.861Z"
+      },
       {
         "id": "22f743f0f313a42e",
         "title": "14-11-2026: PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
@@ -2212,6 +2232,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-13T11:26:40.737Z"
+      },
+      {
+        "id": "e3a6219852bc7c0c",
+        "title": "13-11-2026: PG (Medical) CQ 2026-27 - In-service Phase-I College wise Final Allotment List BNYS Course 2026-27 - CQ - Phase-II Web Options Notification B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round - PwD Eligible List BDS 2026-27 -MQ- Stray Round College Wise Allotments PG (Medical) CQ 2026-27 - MRC List of In-service Phase-I B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Online application for web based 2nd & Final Counselling MBBS-BDS-MQ-2026-27-Addendum to Final Merit list PG (Medical) CQ 2026-27 - Provisional College wise Allotments List of In-service",
+        "link": "https://drntr.uhsap.in/index/notification/20261113195711670.pdf",
+        "date": "13/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-14T19:04:14.861Z"
       },
       {
         "id": "1cb365ed9793ed69",
@@ -2324,6 +2354,16 @@
         "detectedAt": "2026-11-06T15:47:51.321Z"
       },
       {
+        "id": "59d3fef8882af5b1",
+        "title": "06-11-2026: MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.04-11-2026 Corrigendum to Prospectus & Notification of MPTCET 2026-27 Issued on 28-10-2026 MD.MS(Ayurveda) Notification 2026-27 MD.MS(Ayurveda) Prospectus 2026-27 MD (Homoeo) Notification - 2026-27 MD(Homoeo) Prospectus 2026-27 MBBS -CQ -2026-27 -Notice regarding Refund of Security Deposit",
+        "link": "https://drntr.uhsap.in/index/notification/20261106193740810.pdf",
+        "date": "06/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 7,
+        "detectedAt": "2026-11-14T19:04:14.861Z"
+      },
+      {
         "id": "59a97ec721b974b7",
         "title": "03-11-2026: UG AYUSH Courses 2026-27 - CQ - Revised List of Not Reported Candidates after Phase-II Counselling MSc(N) PHASE 1 CollegeWise Allotments 2026-27 B.Sc(Nursing) 4-YDC CQ Phase-2 Web Options Notification_2026-27 B.Sc.(Nursing) 4 YDC 2026-27 - CQ LIST OF NOT REPORTED CANDIDATES AFTER PHASE-I COUNSELLING B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - AU Area Seat Matrix B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - SVU Area Seat Matrix UG AYUSH Courses 2026-27 - CQ - Phase-III Web Options Notification PG (Dental) Admissions 2026-27 - Notification on Free Exit (final) for Phase-I&II allotted candidates",
         "link": "https://drntr.uhsap.in/index/notification/20261106190144567.pdf",
@@ -2352,36 +2392,6 @@
         "source": "Direct from Website",
         "batchIndex": 9,
         "detectedAt": "2026-11-13T11:26:40.737Z"
-      },
-      {
-        "id": "613c9ba93b33ddd8",
-        "title": "05-11-2026: PG (Dental) MQ 2026-27 - Corrigendum to MQ Consolidated Final Merit list SVIMS, Tirupati - Debarred candidates for admission into PG (Medical) courses for the academic year 2026-27 M.Sc(N) Service candidates Phase-I Web Options Detailed Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20261105173425793.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-05T19:52:06.063Z"
-      },
-      {
-        "id": "7d73a1d8738bac6d",
-        "title": "05-11-2026: M.Sc(N) Service candidates Phase-I Web Options Detailed Notification",
-        "link": "https://drntr.uhsap.in/index/notification/20261105112034023.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-05T12:00:08.079Z"
-      },
-      {
-        "id": "ca1830477d3ed10a",
-        "title": "04-11-2026: B.Sc.(N) 4 YDC 2026-27 - CQ Notification for Final Mop-up round counselling with APEAPCET - 2026 MBBS _BDS - MQ-2026-27-Notification for Online application & schedule for Special Stray Vacancy Round M.Sc(N) Notice Regarding Phase-I web options",
-        "link": "https://drntr.uhsap.in/index/notification/20261105100907810.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-05T12:00:08.079Z"
       }
     ]
   },
@@ -4713,7 +4723,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T14:01:51.267Z",
+    "lastUpdatedDate": "2026-11-14T19:05:25.355Z",
     "pinned": false,
     "notices": [
       {
@@ -5435,7 +5445,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T14:05:35.719Z",
+    "lastUpdatedDate": "2026-11-14T19:08:59.058Z",
     "pinned": false,
     "notices": [
       {
@@ -7535,7 +7545,7 @@
     "category": "state",
     "officialLink": "https://manipurmc.mn.gov.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T14:03:00.031Z",
+    "lastUpdatedDate": "2026-11-14T19:06:23.912Z",
     "pinned": false,
     "notices": [
       {
