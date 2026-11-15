@@ -2190,9 +2190,29 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T19:04:14.861Z",
+    "lastUpdatedDate": "2026-11-15T10:41:32.863Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6e81b686dee241b2",
+        "title": "15-11-2026: Post Basic (Nursing) 2 YDC 2026-27 - CQ 3rd & Final Phase counselling - College-wise allotments PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Final Allotment List",
+        "link": "https://drntr.uhsap.in/index/notification/20261115150906407.pdf",
+        "date": "15/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-15T10:41:32.863Z"
+      },
+      {
+        "id": "940e4882ff37f5d9",
+        "title": "14-11-2026: Nursing 4 YDC 2026-27 - CQ Final Mop-up round - Addendcum to Final Merit List B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd - Final Phase - Notice to the candidates for exercising web options B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd &Final Phase - Provisional Final Eligible List PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
+        "link": "https://drntr.uhsap.in/index/notification/20261115130028270.pdf",
+        "date": "15/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-15T10:41:32.863Z"
+      },
       {
         "id": "877891a2e36066e6",
         "title": "14-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd - Final Phase - Notice to the candidates for exercising web options B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd &Final Phase - Provisional Final Eligible List PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
@@ -2364,34 +2384,14 @@
         "detectedAt": "2026-11-14T19:04:14.861Z"
       },
       {
-        "id": "59a97ec721b974b7",
-        "title": "03-11-2026: UG AYUSH Courses 2026-27 - CQ - Revised List of Not Reported Candidates after Phase-II Counselling MSc(N) PHASE 1 CollegeWise Allotments 2026-27 B.Sc(Nursing) 4-YDC CQ Phase-2 Web Options Notification_2026-27 B.Sc.(Nursing) 4 YDC 2026-27 - CQ LIST OF NOT REPORTED CANDIDATES AFTER PHASE-I COUNSELLING B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - AU Area Seat Matrix B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - SVU Area Seat Matrix UG AYUSH Courses 2026-27 - CQ - Phase-III Web Options Notification PG (Dental) Admissions 2026-27 - Notification on Free Exit (final) for Phase-I&II allotted candidates",
-        "link": "https://drntr.uhsap.in/index/notification/20261106190144567.pdf",
+        "id": "031cd8051a0cd3ee",
+        "title": "06-11-2026: MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.04-11-2026 Corrigendum to Prospectus & Notification of MPTCET 2026-27 Issued on 28-10-2026 MD.MS(Ayurveda) Notification 2026-27 MD.MS(Ayurveda) Prospectus 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20261106193740810.pdf",
         "date": "06/11/2026",
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 8,
-        "detectedAt": "2026-11-12T16:41:05.839Z"
-      },
-      {
-        "id": "eb4f05b15698f457",
-        "title": "03-11-2026: UG AYUSH Courses 2026-27 - CQ - Revised List of Not Reported Candidates after Phase-II Counselling",
-        "link": "https://drntr.uhsap.in/index/notification/20261106190144567.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-11-13T18:42:01.319Z"
-      },
-      {
-        "id": "313d320f0917e2c5",
-        "title": "03-11-2026: UG AYUSH Courses 2026-27 - CQ - Revised List of Not Reported Candidates after Phase-II Counselling MSc(N) PHASE 1 CollegeWise Allotments 2026-27 B.Sc(Nursing) 4-YDC CQ Phase-2 Web Options Notification_2026-27",
-        "link": "https://drntr.uhsap.in/index/notification/20261106190144567.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-11-13T11:26:40.737Z"
+        "detectedAt": "2026-11-15T10:41:32.863Z"
       }
     ]
   },
@@ -5445,7 +5445,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T19:08:59.058Z",
+    "lastUpdatedDate": "2026-11-15T10:46:23.505Z",
     "pinned": false,
     "notices": [
       {
