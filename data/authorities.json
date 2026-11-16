@@ -2190,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-15T10:41:32.863Z",
+    "lastUpdatedDate": "2026-11-16T10:49:17.067Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d8bf596ac7f1603e",
+        "title": "16-11-2026: PG (Dental) MQ Admissions 2026-27-Notification for Online Submission of S2 & S3 documents for upgradation with a late fee PG (Medical) CQ 2026-27 - Extension Notification for Phase-I Allotted In-service candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20261116151137187.pdf",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-16T10:49:17.067Z"
+      },
       {
         "id": "6e81b686dee241b2",
         "title": "15-11-2026: Post Basic (Nursing) 2 YDC 2026-27 - CQ 3rd & Final Phase counselling - College-wise allotments PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Final Allotment List",
@@ -2382,16 +2392,6 @@
         "source": "Direct from Website",
         "batchIndex": 7,
         "detectedAt": "2026-11-14T19:04:14.861Z"
-      },
-      {
-        "id": "031cd8051a0cd3ee",
-        "title": "06-11-2026: MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.04-11-2026 Corrigendum to Prospectus & Notification of MPTCET 2026-27 Issued on 28-10-2026 MD.MS(Ayurveda) Notification 2026-27 MD.MS(Ayurveda) Prospectus 2026-27",
-        "link": "https://drntr.uhsap.in/index/notification/20261106193740810.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-11-15T10:41:32.863Z"
       }
     ]
   },
@@ -5445,7 +5445,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-15T17:42:59.570Z",
+    "lastUpdatedDate": "2026-11-16T10:54:26.198Z",
     "pinned": false,
     "notices": [
       {
@@ -7768,7 +7768,7 @@
     "category": "state",
     "officialLink": "https://dte.nagaland.gov.in/index.php/dept-2/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-09T07:48:05.223Z",
+    "lastUpdatedDate": "2026-11-16T10:51:48.252Z",
     "pinned": false,
     "notices": [
       {
@@ -7800,6 +7800,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-12T08:54:21.063Z"
+      },
+      {
+        "id": "fae6d8eca70a4603",
+        "title": "NIT-for-IT-component-Non-IT-component-Sports-Component",
+        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/11/NIT-for-IT-component-Non-IT-component-Sports-Component.pdf",
+        "date": "07/10/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-16T10:51:48.252Z"
       },
       {
         "id": "b782d0c3239cccd7",
@@ -7959,16 +7969,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-08-06T14:59:12.752Z"
-      },
-      {
-        "id": "19a62802d109ffa8",
-        "title": "State NON-NEET 2026-MERIT-LIST",
-        "link": "https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NON-NEET-MERIT-LIST-SIGNED.pdf",
-        "date": "06/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-08-06T14:59:12.752Z"
       }
     ]
