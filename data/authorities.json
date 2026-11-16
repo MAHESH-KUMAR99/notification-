@@ -998,9 +998,29 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T19:03:58.847Z",
+    "lastUpdatedDate": "2026-11-16T20:52:16.960Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "678597a13103b4a8",
+        "title": "List of Candidates Whose Refundable Security Deposit (₹300000/-) and Refundable Registration Security Deposit (₹10000/-) Have Been Forfeited and Removed from the Merit List Due to Non-Reporting in the Special Stray Vacancy Round (Round-05) – Medical & Dental (MBBS/BDS) Courses",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/NR%20CANDIDATE%20LIST%20R5.pdf",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-16T20:52:16.960Z"
+      },
+      {
+        "id": "94efa631592bb038",
+        "title": "Institute Wise Admitted Candidate List",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/final_instwiseadm_r5.pdf",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-16T20:52:16.960Z"
+      },
       {
         "id": "20851b2de7297177",
         "title": "The Admission Committee hereby informs all candidates allotted MBBS/BDS seats in the Special Stray Vacancy Round that they must report to the designated Help Centre only on 16/11/2026, between 10:00 AM and 4:00 PM.",
@@ -1189,26 +1209,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 12,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "0bea50a2c9faa7df",
-        "title": "Important Note:If any BDS course seats remain vacant in the Special Stray Round, the Admission Committee will conduct a fifth online Stray Round. Candidates who are allotted seats in the Special Stray Round must, within the stipulated time mentioned in the schedule, pay the tuition fees, submit their original documents at the help center for which an appointment has been taken, obtain the admission order, and then report to the allotted institution for admission. Candidates who do not confirm admission to the seats allotted in the Special Stray Round will forfeit their refundable security deposit of ₹3,00,000 (three lakh) plus ₹10,000 (ten thousand).",
-        "link": null,
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 14,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "83559ee056f5993c",
-        "title": "Note:Admission confirmation will be considered only for students who have paid the prescribed tuition fee at the HDFC bank branch(es) specifically designated by the Admission Committee. Payments made at any other HDFC bank branch will not be considered for confirmation of admission.",
-        "link": null,
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 15,
         "detectedAt": "2026-11-06T15:47:35.572Z"
       },
       {
@@ -2190,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-16T10:49:17.067Z",
+    "lastUpdatedDate": "2026-11-16T20:52:32.222Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b12567ffc55e0131",
+        "title": "16-11-2026: MSc(Nursing) PHASE -II.Final College Wise Allotments PG (Dental) CQ 2026-27 - List of Not Reported Candidates after Phase-III (Mop Up) Counselling PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-III (Mop Up) Counselling PG (Dental) MQ Admissions 2026-27-Notification for Online Submission of S2 & S3 documents for upgradation with a late fee PG (Medical) CQ 2026-27 - Extension Notification for Phase-I Allotted In-service candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20261116184845173.pdf",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-16T20:52:32.222Z"
+      },
       {
         "id": "d8bf596ac7f1603e",
         "title": "16-11-2026: PG (Dental) MQ Admissions 2026-27-Notification for Online Submission of S2 & S3 documents for upgradation with a late fee PG (Medical) CQ 2026-27 - Extension Notification for Phase-I Allotted In-service candidates",
@@ -2354,6 +2364,16 @@
         "detectedAt": "2026-11-07T14:47:15.108Z"
       },
       {
+        "id": "2392e421796fe95d",
+        "title": "07-11-2026: UG AYUSH Courses 2026-27 - CQ - Phase-III College Wise Allotments MSc(N) PHASE-1 Service candidates College wise Allotments UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-III Web Options Notification PG (Medical) MQ 2026-27 - Not Eligible List PG (Medical) MQ 2026-27 - Provisional Merit List PG (Medical) MQ 2026-27 - List of candidates who have paid Fee but not uploaded Documents PG (Medical) Colleges List 2026-27 PG (Medical) CQ 2026-27 - Phase-I Web Options Notification for both In-service & Non-service PG (Medical) CQ 2026-27 - Provisional Final Merit list of In-Service Candidates PG (Medical) CQ 2026-27 - Provisional Final Merit list of Non-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of In-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of Non-Service Candidates Medical PG CQ Seat Matrix and NET Group 2026-27 Post Basic B.Sc.(Nursing) 2ydc phase II Not Admitted list Post Basic B.Sc. (Nursing) 2YDC_Phase-III_Web Options Notification 2026-27",
+        "link": "https://drntr.uhsap.in/index/notification/20261107200015263.pdf",
+        "date": "07/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-11-16T20:52:32.222Z"
+      },
+      {
         "id": "f22f9860f82fd53a",
         "title": "06-11-2026: MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.04-11-2026 Corrigendum to Prospectus & Notification of MPTCET 2026-27 Issued on 28-10-2026 MD.MS(Ayurveda) Notification 2026-27 MD.MS(Ayurveda) Prospectus 2026-27 MD (Homoeo) Notification - 2026-27 MD(Homoeo) Prospectus 2026-27 MBBS -CQ -2026-27 -Notice regarding Refund of Security Deposit MBBS-CQ-2026-27-Annexure-I - List of eligible candidates for refund of Security Deposit Amount MBBS - CQ-2026-27 -Annexure-II -List of not Eligible candidates for Refund of Security Deposit",
         "link": "https://drntr.uhsap.in/index/notification/20261106193740810.pdf",
@@ -2372,26 +2392,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-06T07:47:54.119Z"
-      },
-      {
-        "id": "56a375da273eb9a0",
-        "title": "03-11-2026: UG AYUSH Courses 2026-27 - CQ - Revised List of Not Reported Candidates after Phase-II Counselling MSc(N) PHASE 1 CollegeWise Allotments 2026-27 B.Sc(Nursing) 4-YDC CQ Phase-2 Web Options Notification_2026-27 B.Sc.(Nursing) 4 YDC 2026-27 - CQ LIST OF NOT REPORTED CANDIDATES AFTER PHASE-I COUNSELLING B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - AU Area Seat Matrix B.Sc.(Nursing) 4 YDC 2026-27 - CQ Phase-II - SVU Area Seat Matrix UG AYUSH Courses 2026-27 - CQ - Phase-III Web Options Notification PG (Dental) Admissions 2026-27 - Notification on Free Exit (final) for Phase-I&II allotted candidates MDS CQ 2026-27 - Phase-III Web Options Notification PG (Dental) CQ 2026-27 - Consolidated Not Eligible list PG (Dental) CQ 2026-27 - Consolidated Final Merit list MDS MQ 2026-27 - Phase-III Web Options Notification PG (Dental) MQ 2026-27 - List of Candidates Eligible for S3 (Institutional Quota) seats PG (Dental) MQ 2026-27 - Consolidated Final Merit list",
-        "link": "https://drntr.uhsap.in/index/notification/20261106190144567.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-11-06T15:47:51.321Z"
-      },
-      {
-        "id": "59d3fef8882af5b1",
-        "title": "06-11-2026: MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.04-11-2026 Corrigendum to Prospectus & Notification of MPTCET 2026-27 Issued on 28-10-2026 MD.MS(Ayurveda) Notification 2026-27 MD.MS(Ayurveda) Prospectus 2026-27 MD (Homoeo) Notification - 2026-27 MD(Homoeo) Prospectus 2026-27 MBBS -CQ -2026-27 -Notice regarding Refund of Security Deposit",
-        "link": "https://drntr.uhsap.in/index/notification/20261106193740810.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-11-14T19:04:14.861Z"
       }
     ]
   },
@@ -4949,9 +4949,29 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-11T17:51:44.995Z",
+    "lastUpdatedDate": "2026-11-16T20:57:25.140Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:a64da33f3b3243dd",
+        "title": "REVISED VACANCY AFTER 3rd ROUND BAMS/BHMS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261116710396500.pdf",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-16T20:57:25.140Z"
+      },
+      {
+        "id": "OJEE:2b3aea272dc9ba47",
+        "title": "TENTATIVE SCHEDULE FOR STRAY VACANCY COUNSELLING AND ADMISSION FOR BHMS/BAMS COURSES",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261116436225768.pdf",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-16T20:57:25.140Z"
+      },
       {
         "id": "OJEE:68143b8e3009678e",
         "title": "VACANCY AFTER 3rd ROUND BAMS/BHMS",
@@ -5131,26 +5151,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-10-04T11:18:29.255Z"
-      },
-      {
-        "id": "OJEE:d4a388d16c73fde7",
-        "title": "NOTICE FOR CANDIDATES WISH TO TAKE PART IN THE BAMS/BHMS (2nd Round) COUNSELLING AND ADMISSION PROCESS",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261003272024201.pdf",
-        "date": "03/10/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-03T13:14:59.794Z"
-      },
-      {
-        "id": "OJEE:0522feb6df7116b1",
-        "title": "NOTICE FOR FINAL ROUND SEAT ALLOTMENT OF B. PHARM, M. PHARM & LE. PHARMACY (2026–27)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610011553690788.pdf",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-01T15:19:35.654Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -5841,9 +5841,19 @@
     "category": "state",
     "officialLink": "https://amruhp.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-10T17:20:51.565Z",
+    "lastUpdatedDate": "2026-11-16T20:57:37.190Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "MBBS/BDS Counselling:c8177f291a00392c",
+        "title": "Notice regarding Admission Against One Vacant General Category Seat at H.P. Government Dental College, Shimla",
+        "link": "https://amruhp.ac.in/wp-content/uploads/2026/11/New-Doc-11-16-2026-17.16-1.pdf",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "MBBS/BDS Counselling",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-16T20:57:37.190Z"
+      },
       {
         "id": "MBBS/BDS Counselling:41b1bb72d2351a72",
         "title": "Seat Allocation of MBBS/BDS 2nd Stray Round Counselling 2026",
@@ -6032,16 +6042,6 @@
         "sortTs": null,
         "source": "MBBS/BDS Counselling",
         "batchIndex": 0,
-        "detectedAt": "2026-10-01T15:19:47.100Z"
-      },
-      {
-        "id": "MBBS/BDS Counselling:96f64635ab5e1b25",
-        "title": "Final Merit List MBBS/BDS 3rd round Counselling 2026",
-        "link": "https://amruhp.ac.in/wp-content/uploads/2026/10/Final-Merit-List-MBBS-BDS-3rd-round-Counselling-2026-merged.pdf",
-        "date": "01/10/2026",
-        "sortTs": null,
-        "source": "MBBS/BDS Counselling",
-        "batchIndex": 1,
         "detectedAt": "2026-10-01T15:19:47.100Z"
       }
     ]
@@ -7125,9 +7125,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T18:47:27.654Z",
+    "lastUpdatedDate": "2026-11-16T20:57:34.422Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b75769bbe8a74d09",
+        "title": "Provisional Stray Vacancy Allotment List Published",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/415/Upload1",
+        "date": "16/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-16T20:57:34.422Z"
+      },
       {
         "id": "270581c8d2d0bb73",
         "title": "ADMISSION TO AYURVEDA [BAMS], HOMOEOPATHY [BHMS], SIDDHA[BSMS] & UNANI[BUMS] COURSES- REVISED FINAL RANK LIST & CATEGORY LIST PUBLISHED",
@@ -7317,16 +7327,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-21T18:15:48.681Z"
-      },
-      {
-        "id": "15d828be605f0949",
-        "title": "List of Candidates Ineligible to Participate in State Quota Counselling,Having Been Admitted under the All India Quota (AIQ) for MBBS/BDS Courses",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/345/Upload1",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-10-30T15:19:29.419Z"
       }
     ]
   },
