@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-06T15:47:32.020Z",
+    "lastUpdatedDate": "2026-11-17T12:54:48.209Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "aad1c80f080f3420",
+        "title": "CLEAR VACANCY 6TH ROUND FOR BDS/B.SC (NURSING) SEATS UG 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611171489708965.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T12:54:48.209Z"
+      },
       {
         "id": "54e0dd43f6b2b4ce",
         "title": "Final Result for UG Counselling Special stray vacancy Round for MBBS and 5th round of BDS/B.Sc nursing 2026",
@@ -409,16 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-24T09:12:30.699Z"
-      },
-      {
-        "id": "fa1f570c2f160624",
-        "title": "NEWLY ADDED SEATS ROUND 3 (MBBS BDS) – UG COUNSELLING 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609231568966558.pdf",
-        "date": "23/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-23T13:28:23.739Z"
       }
     ]
   },
@@ -998,9 +998,59 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-16T20:52:16.960Z",
+    "lastUpdatedDate": "2026-11-17T12:54:52.334Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9690d0ef80d8835e",
+        "title": "Vacant Seats For Round 06 BDS",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/r6_bds_vac.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T12:54:52.334Z"
+      },
+      {
+        "id": "d454d9450adb8183",
+        "title": "List of candidates whose Refundable Security Deposit is forfeited and removed from the Merit list due to Cancel Admission (As per order of Hon.Highcourt of Gujarat)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/CANCEL%20CANDIDATE%20LIST%20R5.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-17T12:54:52.334Z"
+      },
+      {
+        "id": "6cc32405df52598c",
+        "title": "GJHC240874132026-3",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/GJHC240874132026-3.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-17T12:54:52.334Z"
+      },
+      {
+        "id": "5cf6ad7bc4dfc53a",
+        "title": "GJHC240874192026-2",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/GJHC240874192026-2.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-17T12:54:52.334Z"
+      },
+      {
+        "id": "8a77def05058c06b",
+        "title": "AIQ & State Schedule for Round 6 of BDS",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/20261116175397022.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-11-17T12:54:52.334Z"
+      },
       {
         "id": "678597a13103b4a8",
         "title": "List of Candidates Whose Refundable Security Deposit (₹300000/-) and Refundable Registration Security Deposit (₹10000/-) Have Been Forfeited and Removed from the Merit List Due to Non-Reporting in the Special Stray Vacancy Round (Round-05) – Medical & Dental (MBBS/BDS) Courses",
@@ -1159,56 +1209,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 2,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "2df59d4db2aa8693",
-        "title": "Last Rank",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/r5_last_merit_mopwise_0454.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "c0324498195455cf",
-        "title": "List of Students required to pay the tuition fees online or at designated branch of HDFC Bank",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/R5_FEES_DATA.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "3e1e69cc6b135a7c",
-        "title": "ST Convert Seat To General Category",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/st_convert_gen.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "6b2807808b39dba8",
-        "title": "Procedure for Admission Confirmation",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/Procedure%20for%20Admission%20Confirmation%20for%20Round%205_2026.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "955bbae7a0d58453",
-        "title": "AIQ as Well as State Quota Schedule for Stray Round for MBB/SBDS",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/Special%20Stray%20Round%20for%20MBBS%20&%20Round%205%20for%20BDSB.Sc%20Nursing.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 12,
         "detectedAt": "2026-11-06T15:47:35.572Z"
       },
       {
@@ -2190,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-16T20:52:32.222Z",
+    "lastUpdatedDate": "2026-11-17T12:55:07.361Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ba529e14e8187fcd",
+        "title": "17-11-2026: BDS-CQ -2026-27- Notification for Web options UNDER Spl Stray Round",
+        "link": "https://drntr.uhsap.in/index/notification/20261117132949417.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T12:55:07.361Z"
+      },
       {
         "id": "b12567ffc55e0131",
         "title": "16-11-2026: MSc(Nursing) PHASE -II.Final College Wise Allotments PG (Dental) CQ 2026-27 - List of Not Reported Candidates after Phase-III (Mop Up) Counselling PG (Dental) MQ 2026-27 - List of Not Reported Candidates after Phase-III (Mop Up) Counselling PG (Dental) MQ Admissions 2026-27-Notification for Online Submission of S2 & S3 documents for upgradation with a late fee PG (Medical) CQ 2026-27 - Extension Notification for Phase-I Allotted In-service candidates",
@@ -2374,24 +2384,14 @@
         "detectedAt": "2026-11-16T20:52:32.222Z"
       },
       {
-        "id": "f22f9860f82fd53a",
-        "title": "06-11-2026: MBBS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.04-11-2026 Corrigendum to Prospectus & Notification of MPTCET 2026-27 Issued on 28-10-2026 MD.MS(Ayurveda) Notification 2026-27 MD.MS(Ayurveda) Prospectus 2026-27 MD (Homoeo) Notification - 2026-27 MD(Homoeo) Prospectus 2026-27 MBBS -CQ -2026-27 -Notice regarding Refund of Security Deposit MBBS-CQ-2026-27-Annexure-I - List of eligible candidates for refund of Security Deposit Amount MBBS - CQ-2026-27 -Annexure-II -List of not Eligible candidates for Refund of Security Deposit",
-        "link": "https://drntr.uhsap.in/index/notification/20261106193740810.pdf",
-        "date": "06/11/2026",
+        "id": "f517bbfcd603b1f1",
+        "title": "07-11-2026: UG AYUSH Courses 2026-27 - CQ - Phase-III College Wise Allotments MSc(N) PHASE-1 Service candidates College wise Allotments UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-III Web Options Notification PG (Medical) MQ 2026-27 - Not Eligible List PG (Medical) MQ 2026-27 - Provisional Merit List PG (Medical) MQ 2026-27 - List of candidates who have paid Fee but not uploaded Documents PG (Medical) Colleges List 2026-27 PG (Medical) CQ 2026-27 - Phase-I Web Options Notification for both In-service & Non-service PG (Medical) CQ 2026-27 - Provisional Final Merit list of In-Service Candidates PG (Medical) CQ 2026-27 - Provisional Final Merit list of Non-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of In-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of Non-Service Candidates Medical PG CQ Seat Matrix and NET Group 2026-27 Post Basic B.Sc.(Nursing) 2ydc phase II Not Admitted list",
+        "link": "https://drntr.uhsap.in/index/notification/20261107200015263.pdf",
+        "date": "07/11/2026",
         "sortTs": null,
         "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-06T15:47:51.321Z"
-      },
-      {
-        "id": "4fd9a73e6c1b8435",
-        "title": "06-11-2026: MBBS -CQ -2026-27 -Notice regarding Refund of Security Deposit MBBS-CQ-2026-27-Annexure-I - List of eligible candidates for refund of Security Deposit Amount MBBS - CQ-2026-27 -Annexure-II -List of not Eligible candidates for Refund of Security Deposit",
-        "link": "https://drntr.uhsap.in/index/notification/20261106103742460.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-06T07:47:54.119Z"
+        "batchIndex": 9,
+        "detectedAt": "2026-11-17T12:55:07.361Z"
       }
     ]
   },
@@ -2806,9 +2806,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-12T16:44:44.826Z",
+    "lastUpdatedDate": "2026-11-17T12:58:47.734Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:e74f795011375689",
+        "title": "Important Notice for of Registration-cum-Choice Filling for Stray Vacancy Round of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/10 Dated 17.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_10.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T12:58:47.734Z"
+      },
+      {
+        "id": "Latest Updates:d96e00a24529380a",
+        "title": "Details of Registration-cum-Choice Filling for Stray Vacancy Round of Post Graduate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/09 Dated 17.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_09.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-17T12:58:47.734Z"
+      },
       {
         "id": "Latest Updates:cddfc6b81c84efa1",
         "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-1(Adv. No. BCECEB[UGMAC(Ayush)]-2026/10 Dated 12.11.2026)",
@@ -2988,26 +3008,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-10-24T16:57:41.873Z"
-      },
-      {
-        "id": "Latest Updates:832012fafde9cc25",
-        "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Round-3(Adv. No. BCECEB[UGMAC(Ayush)]-2026/06 Dated 24.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_06.pdf",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-24T16:57:41.873Z"
-      },
-      {
-        "id": "Latest Updates:dbc610a03d6468d7",
-        "title": "Revised Provisional Merit List for the Post of FMT after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/06 Dated 23.10.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_2SR26_06.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-23T12:51:07.918Z"
       },
       {
         "id": "UGMAC:6351800e5158002a",
@@ -3311,9 +3311,29 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T11:26:27.454Z",
+    "lastUpdatedDate": "2026-11-17T12:54:59.534Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "627e0047319766b1",
+        "title": "Advt. No. 126 Dated - 17.11.2026 Indicative information regarding Special Stray vacancy Round-II of Online Counselling for admission to All India Seats in B.D.S. course",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/831.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T12:54:59.534Z"
+      },
+      {
+        "id": "0baf46e5fe5bf0d1",
+        "title": "Advt. No. 125 dated-17.11.2026 Important information regarding Schedule of Special Stray Vacancy Round-II of online counselling for admission to B.D.S. & B.H.M.S. courses",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/830.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-17T12:54:59.534Z"
+      },
       {
         "id": "5ed05a91d11bdbcc",
         "title": "Advt. No. 124 dated-13.11.2026 Notice regarding 1st Round of Online Counselling for NEET (PG)-2026 All India & NRI Quota Seats of Laxmi Chandravansi Medical College & Hospital, Bishrampur, Palamu and Netaji Subhas Medical College and Hospital, Adityapur, Seraikela-Kharsawan on the basis of NEET PG-2026 Result",
@@ -3333,6 +3353,26 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-11-13T11:26:27.454Z"
+      },
+      {
+        "id": "a7a32f3434b4d7be",
+        "title": "Advt. No. 124 dated-13.11.2026 Notice regarding 1st Round of Online Counselling for NEET (PG)-2026 All India & NRI Quota Seats of Laxmi Chandravansi Medical College & Hospital, Bishrampur, Palamu and Netaji Subhas Medical College and Hospital, Adityapur, Seraikela-Kharsawan on the basis of NEET PG-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/829.pdf",
+        "date": "13/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-17T12:54:59.534Z"
+      },
+      {
+        "id": "9b62cf67821bb9bb",
+        "title": "Advt. No. 123 Dated- 13.11.2026 Important Notice regarding 2nd Round of Online counselling of Post Graduate Medical (MD/MS/Diploma & DNB) State Quota seats on the basis of NEET-PG-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/828.pdf",
+        "date": "13/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-17T12:54:59.534Z"
       },
       {
         "id": "7273120d681324e5",
@@ -3483,48 +3523,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-23T12:46:57.370Z"
-      },
-      {
-        "id": "e3f0a4f43b8c277f",
-        "title": "Advt. No. 110 dated-23.10.2026 Detailed information regarding Preparation of Merit List for Special Round of online counselling-2026 for admission in All India seats in M.B.B.S. & B.D.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/811.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-23T12:46:57.370Z"
-      },
-      {
-        "id": "19aa3407c1538e5e",
-        "title": "Advt. No. 109 Dated-23.10.2026 Important Notice regarding correction in State Merit List/Merit Lists Based on NEET (UG)-2026 Result",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/810.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-23T12:46:57.370Z"
-      },
-      {
-        "id": "f034a947aad40263",
-        "title": "Advt. No. 108 dated-21.10.2026 झारखण्ड संयुक्त प्रवेश प्रतियोगिता परीक्षा (कृषि एवं अन्य समवर्गी पाठ्यक्रमों के लिए) -2026 के परीक्षाफल के आधार पर विशेष चक्र ऑनलाईन साक्षात्कार के आयोजन से संबंधित आवश्यक सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/809.pdf",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T13:05:55.348Z"
-      },
-      {
-        "id": "9d57561fd596985d",
-        "title": "Advt. No. 107 Dated - 16.10.2026 ए०एन०एम० प्रवेश प्रतियोगिता परीक्षा-2026 के विशेष चक्र ऑनलाईन साक्षात्कार से संबंधित सूचना",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/808.pdf",
-        "date": "16/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "Advt. No. 107 Dated - 16.10.2026 Information related to special round online interview of ANM Entrance Competitive Examination-2026.",
-        "titleLang": "hi",
-        "detectedAt": "2026-10-16T15:27:50.182Z"
       }
     ]
   },
@@ -3659,9 +3657,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T11:32:03.551Z",
+    "lastUpdatedDate": "2026-11-17T13:00:17.254Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:3c1b09deaba39c92",
+        "title": "PG NEET DENTAL (M.D.S.) COURSES - VACANCIES FOR STRAY ROUND",
+        "link": "https://drive.google.com/file/d/1cLz6q9l8sBLJXydbj3DTNWXSSlFYJHzl/view?usp=sharing",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T13:00:17.254Z"
+      },
+      {
+        "id": "OVERALL:4289f66af4e3eea7",
+        "title": "PG DENTAL ADMITTED LIST - ROUND 3 - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1VibbFHbbN0S5YHY6UFr6xaUtybLvft6q/view?usp=sharing",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-17T13:00:17.254Z"
+      },
+      {
+        "id": "PG DENTAL:3c1b09deaba39c92",
+        "title": "PG NEET DENTAL (M.D.S.) COURSES - VACANCIES FOR STRAY ROUND",
+        "link": "https://drive.google.com/file/d/1cLz6q9l8sBLJXydbj3DTNWXSSlFYJHzl/view?usp=sharing",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 396,
+        "detectedAt": "2026-11-17T13:00:17.254Z"
+      },
+      {
+        "id": "PG DENTAL:4289f66af4e3eea7",
+        "title": "PG DENTAL ADMITTED LIST - ROUND 3 - (2026 - 2027)",
+        "link": "https://drive.google.com/file/d/1VibbFHbbN0S5YHY6UFr6xaUtybLvft6q/view?usp=sharing",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 397,
+        "detectedAt": "2026-11-17T13:00:17.254Z"
+      },
       {
         "id": "OVERALL:58e605ea02d365dc",
         "title": "ROUND 1 PROVISIONAL ALLOTMENT LIST OF PG MEDICAL COURSES - (2026 - 2027)",
@@ -3820,46 +3858,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 370,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "PG MEDICAL:15859aab580fe92b",
-        "title": "NOTICE : : ROUND 1 DRAFT ALLOTMENT LIST FOR PG MEDICAL (M.D./M.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1S5HVcVffVg936nZbQxJ1KxRv5YH-uXv4/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 371,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "PG MEDICAL:1db176c29f470e16",
-        "title": "FINAL MERIT LIST OF PG NEET MEDICAL (M.D./M.S.) COURSES (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgMedical_2026/final_merit_list.html",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 372,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "PG MEDICAL:99b9b9ba7d72aa23",
-        "title": "NOTICE : FINAL MERIT LIST FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1O9MILbp1rUMEg1G8wQGYUTWIV7AeUuuY/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 373,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "UG NEET:7bbfc2ca567b7a02",
-        "title": "SPECIAL STRAY DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL - (2026-27)",
-        "link": "https://drive.google.com/file/d/1aaDTaAxjZLo3-maCJvvFJgKudDyAqQJH/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 566,
         "detectedAt": "2026-11-12T16:46:13.663Z"
       },
       {
@@ -4723,9 +4721,31 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-14T19:05:25.355Z",
+    "lastUpdatedDate": "2026-11-17T12:56:20.276Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "8240377025524f41",
+        "title": "17 Nov. 2026: शासकीय फिजियोथेरेपी महाविद्यालय, रायपुर - सहायक प्राध्यापक (संविदा) वॉक-इन-इंटरव्यू विज्ञापन एवं आवेदन पत्र .....More",
+        "link": "https://www.cgdme.in/notice.php?id=2352",
+        "date": null,
+        "sortTs": 1794614400000,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "titleEn": "17 Nov. 2026: Government Physiotherapy College, Raipur - Assistant Professor (Contract) Walk-in-Interview Advertisement and Application Form .....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-11-17T12:56:20.276Z"
+      },
+      {
+        "id": "c903ecd91813872b",
+        "title": "14 Nov. 2026: Chhattisgarh NEET PG Round-2 Clear Vacancy Session 2026-27 Dated: 14-11-2026.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2351",
+        "date": "14/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-11-17T12:56:20.276Z"
+      },
       {
         "id": "f8b4524055becd2d",
         "title": "12 Nov. 2026: प्रवेश वर्ष 2026 - फिजियोथेरेपी (BPT) पाठ्यक्रम की स्पेशल स्ट्रे वैकेंसी राउण्ड-2 काउंसिलिंग आवंटन सूचना एवं आवंटन सूची .....More",
@@ -4919,26 +4939,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-09-01T19:49:14.636Z"
-      },
-      {
-        "id": "c4075ce17845e383",
-        "title": ":CG STATE NEET-UG (MBBS/BDS) 2026 Provisional Allotment List-Round 1.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2171",
-        "date": "25/08/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-25T14:52:04.459Z"
-      },
-      {
-        "id": "07b3cd97dc51ebe7",
-        "title": "31 Aug. 2026: CG STATE MDS Round 1 Merit List Session 2026-27.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2172",
-        "date": null,
-        "sortTs": 1787616000000,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-08-31T16:20:22.902Z"
       }
     ]
   },
@@ -6913,9 +6913,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-07T19:18:07.689Z",
+    "lastUpdatedDate": "2026-11-17T12:55:04.715Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b7a1675564a3d6cf",
+        "title": "Schedule Round 6 for BDS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/11/202611172023163106.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-11-17T12:55:04.715Z"
+      },
       {
         "id": "bc36ec8169e8e79e",
         "title": "Urgent Notice dated 07-11-2026",
@@ -7105,16 +7115,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-03T06:19:25.433Z"
-      },
-      {
-        "id": "012c6180309e3ce2",
-        "title": "Round 2 Schedule Dated 03-09-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/202609031302532871.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-09-12T11:09:01.574Z"
       }
     ]
   },
