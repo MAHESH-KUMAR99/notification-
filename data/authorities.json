@@ -2190,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T12:55:07.361Z",
+    "lastUpdatedDate": "2026-11-17T21:36:28.129Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7f86e0750d88d9e5",
+        "title": "17-11-2026: PG (Medical) MQ 2026-27 - Phase-I College wise Final Allotment List PG (Medical) CQ 2026-27 - Extension Notification for Phase-I Allotted In-service candidates BDS-CQ -2026-27- Notification for Web options UNDER Spl Stray Round",
+        "link": "https://drntr.uhsap.in/index/notification/20261117182744841.pdf",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T21:36:28.129Z"
+      },
       {
         "id": "ba529e14e8187fcd",
         "title": "17-11-2026: BDS-CQ -2026-27- Notification for Web options UNDER Spl Stray Round",
@@ -2382,16 +2392,6 @@
         "source": "Direct from Website",
         "batchIndex": 8,
         "detectedAt": "2026-11-16T20:52:32.222Z"
-      },
-      {
-        "id": "f517bbfcd603b1f1",
-        "title": "07-11-2026: UG AYUSH Courses 2026-27 - CQ - Phase-III College Wise Allotments MSc(N) PHASE-1 Service candidates College wise Allotments UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-III Web Options Notification PG (Medical) MQ 2026-27 - Not Eligible List PG (Medical) MQ 2026-27 - Provisional Merit List PG (Medical) MQ 2026-27 - List of candidates who have paid Fee but not uploaded Documents PG (Medical) Colleges List 2026-27 PG (Medical) CQ 2026-27 - Phase-I Web Options Notification for both In-service & Non-service PG (Medical) CQ 2026-27 - Provisional Final Merit list of In-Service Candidates PG (Medical) CQ 2026-27 - Provisional Final Merit list of Non-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of In-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of Non-Service Candidates Medical PG CQ Seat Matrix and NET Group 2026-27 Post Basic B.Sc.(Nursing) 2ydc phase II Not Admitted list",
-        "link": "https://drntr.uhsap.in/index/notification/20261107200015263.pdf",
-        "date": "07/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "detectedAt": "2026-11-17T12:55:07.361Z"
       }
     ]
   },
@@ -3657,9 +3657,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T13:00:17.254Z",
+    "lastUpdatedDate": "2026-11-17T21:41:33.893Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7b928f5ace5faf17",
+        "title": "NOTICE : GENERAL INFORMATION FOR PG MEDICAL ROUND 1 ALLOTTED PG CANDIDATES REGARDING ADMISSION",
+        "link": "https://drive.google.com/file/d/1Oknh7i6PVhvY-y1Kioj4AyS6YHKw8xU8/view?usp=drivesdk",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T21:41:33.893Z"
+      },
       {
         "id": "OVERALL:3c1b09deaba39c92",
         "title": "PG NEET DENTAL (M.D.S.) COURSES - VACANCIES FOR STRAY ROUND",
@@ -3671,6 +3681,16 @@
         "detectedAt": "2026-11-17T13:00:17.254Z"
       },
       {
+        "id": "OVERALL:f7fca4bbf5fec184",
+        "title": "NOTICE : STRAY ROUND REGISTRATION FOR PG DENTAL (M.D.S.) COURSES FOR VACANCIES UNDER GOVERNMENT & MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1wa_NUQbmZbINPMTwg5r_xgFbBeg3845s/view?usp=drivesdk",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-17T21:41:33.893Z"
+      },
+      {
         "id": "OVERALL:4289f66af4e3eea7",
         "title": "PG DENTAL ADMITTED LIST - ROUND 3 - (2026 - 2027)",
         "link": "https://drive.google.com/file/d/1VibbFHbbN0S5YHY6UFr6xaUtybLvft6q/view?usp=sharing",
@@ -3679,6 +3699,16 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-11-17T13:00:17.254Z"
+      },
+      {
+        "id": "PG MEDICAL:7b928f5ace5faf17",
+        "title": "NOTICE : GENERAL INFORMATION FOR PG MEDICAL ROUND 1 ALLOTTED PG CANDIDATES REGARDING ADMISSION",
+        "link": "https://drive.google.com/file/d/1Oknh7i6PVhvY-y1Kioj4AyS6YHKw8xU8/view?usp=drivesdk",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 378,
+        "detectedAt": "2026-11-17T21:41:33.893Z"
       },
       {
         "id": "PG DENTAL:3c1b09deaba39c92",
@@ -3699,6 +3729,16 @@
         "source": "Direct from Website",
         "batchIndex": 397,
         "detectedAt": "2026-11-17T13:00:17.254Z"
+      },
+      {
+        "id": "PG DENTAL:f7fca4bbf5fec184",
+        "title": "NOTICE : STRAY ROUND REGISTRATION FOR PG DENTAL (M.D.S.) COURSES FOR VACANCIES UNDER GOVERNMENT & MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1wa_NUQbmZbINPMTwg5r_xgFbBeg3845s/view?usp=drivesdk",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 399,
+        "detectedAt": "2026-11-17T21:41:33.893Z"
       },
       {
         "id": "OVERALL:58e605ea02d365dc",
@@ -3818,46 +3858,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "OVERALL:7bbfc2ca567b7a02",
-        "title": "SPECIAL STRAY DRAFT ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL - (2026-27)",
-        "link": "https://drive.google.com/file/d/1aaDTaAxjZLo3-maCJvvFJgKudDyAqQJH/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "OVERALL:8674a8db27d4b8f1",
-        "title": "NOTICE : SPECIAL STRAY ROUND REVISED LIST OF ELIGIBLE CANDIDATES FOR MANAGEMENT QUOTA (EXISTING) & DRAFT ALLOTMENT LIST FOR M.B.B.S. AND B.D.S. FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1bk397LrioXjcXk0jUvxYWz5D-rUCtxp_/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "OVERALL:2e6017b68fab0e98",
-        "title": "REVISED LIST OF EXISTING CANDIDATES ELIGIBLE FOR SPECIAL STRAY ROUND MBBS ALLOTMENT",
-        "link": "https://drive.google.com/file/d/1NlyUDCzC7p1nHp7oVjbhbQ8621E4E4qn/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "PG MEDICAL:27a6d91aa16bf8d5",
-        "title": "ROUND 1 DRAFT ALLOTMENT LIST OF PG MEDICAL COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1H6xrOwTE0V1e5QlZqvzG5twO-xsS_8gc/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 370,
         "detectedAt": "2026-11-12T16:46:13.663Z"
       },
       {
@@ -7125,9 +7125,29 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-16T20:57:34.422Z",
+    "lastUpdatedDate": "2026-11-17T21:41:33.308Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2d1a6e17bff378b0",
+        "title": "SIXTH ROUND ALLOTMENT TO BDS COURSES- FACILITY TO REGISTER NEW OPTIONS",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/418/Upload1",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-17T21:41:33.308Z"
+      },
+      {
+        "id": "ac3ed43b0c090faf",
+        "title": "ADMISSION TO AYURVEDA/HOMOEO/SIDDHA/UNANI/ MEDICAL ALLIED COURSES -STRAY VACANCY ALLOTMENT PUBLISHED (SVR 1)",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/417/Upload1",
+        "date": "17/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-17T21:41:33.308Z"
+      },
       {
         "id": "b75769bbe8a74d09",
         "title": "Provisional Stray Vacancy Allotment List Published",
@@ -7307,26 +7327,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-22T19:55:11.917Z"
-      },
-      {
-        "id": "32ea34f81fb9a103",
-        "title": "List of Candidates Ineligible to Participate in State Quota Counselling,Having Been Admitted under the All India Quota (AIQ)",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/345/Upload1",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-21T18:15:48.681Z"
-      },
-      {
-        "id": "b24288445c4bea81",
-        "title": "ADMISSION TO MBBS/BDS COURSES- PROVISIONAL STRAY VACANCY ALLOTMENT PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/344/Upload1",
-        "date": "21/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-21T18:15:48.681Z"
       }
     ]
   },
