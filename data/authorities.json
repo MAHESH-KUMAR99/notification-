@@ -1422,9 +1422,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-11T17:46:51.990Z",
+    "lastUpdatedDate": "2026-11-18T12:08:34.211Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "097df0c018de1f8c",
+        "title": "TENTATIVE SPEICAL STRAY VACANCY ROUND II COUNSELLING SCHEDULE FOR ADMISSION TO BDS DEGREE COURSE ALONE Government and Management Quota seats in Self Financing Dental Colleges 2026-2027 SESSION",
+        "link": "https://tnmedicalselection.net/news/18112026050827.pdf",
+        "date": "18/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-18T12:08:34.211Z"
+      },
       {
         "id": "11b0cf0c858abd1e",
         "title": "KIND ATTENTION TO THE CANDIDATES FOR MBBS/BDS DEGREE COURSE 2026-2027 SESSION",
@@ -1614,16 +1624,6 @@
         "source": "Direct from Website",
         "batchIndex": 5,
         "detectedAt": "2026-10-18T08:42:38.965Z"
-      },
-      {
-        "id": "7203e43bc9a6d053",
-        "title": "KIND ATTENTION TO THE CANDIDATES FOR MBBS/BDS DEGREE COURSE 2026-2027 SESSION - EXTENSION OF ROUND 3",
-        "link": "https://tnmedicalselection.net/news/14102026233136.pdf",
-        "date": "14/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-15T09:01:20.447Z"
       }
     ]
   },
@@ -2190,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T21:36:28.129Z",
+    "lastUpdatedDate": "2026-11-18T12:08:36.300Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "25896d00177a6ffd",
+        "title": "18-11-2026: BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round BDS-2026-27 -CQ-NOTICE FOR EXTENSION OF WEB OPTIONS UNDER SPECIAL STRAY ROUND",
+        "link": "https://drntr.uhsap.in/index/notification/20261118160340757.pdf",
+        "date": "18/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-18T12:08:36.300Z"
+      },
       {
         "id": "7f86e0750d88d9e5",
         "title": "17-11-2026: PG (Medical) MQ 2026-27 - Phase-I College wise Final Allotment List PG (Medical) CQ 2026-27 - Extension Notification for Phase-I Allotted In-service candidates BDS-CQ -2026-27- Notification for Web options UNDER Spl Stray Round",
@@ -2382,16 +2392,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-07T14:47:15.108Z"
-      },
-      {
-        "id": "2392e421796fe95d",
-        "title": "07-11-2026: UG AYUSH Courses 2026-27 - CQ - Phase-III College Wise Allotments MSc(N) PHASE-1 Service candidates College wise Allotments UG AYUSH Courses 2026-27 - AIQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - MQ - List of Not Reported Candidates after Phase-II Counselling UG AYUSH Courses 2026-27 - AIQ & MQ - Phase-III Web Options Notification PG (Medical) MQ 2026-27 - Not Eligible List PG (Medical) MQ 2026-27 - Provisional Merit List PG (Medical) MQ 2026-27 - List of candidates who have paid Fee but not uploaded Documents PG (Medical) Colleges List 2026-27 PG (Medical) CQ 2026-27 - Phase-I Web Options Notification for both In-service & Non-service PG (Medical) CQ 2026-27 - Provisional Final Merit list of In-Service Candidates PG (Medical) CQ 2026-27 - Provisional Final Merit list of Non-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of In-Service Candidates PG (Medical) CQ 2026-27 - Not Eligible list of Non-Service Candidates Medical PG CQ Seat Matrix and NET Group 2026-27 Post Basic B.Sc.(Nursing) 2ydc phase II Not Admitted list Post Basic B.Sc. (Nursing) 2YDC_Phase-III_Web Options Notification 2026-27",
-        "link": "https://drntr.uhsap.in/index/notification/20261107200015263.pdf",
-        "date": "07/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "detectedAt": "2026-11-16T20:52:32.222Z"
       }
     ]
   },
@@ -6489,9 +6489,59 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-11T17:50:33.112Z",
+    "lastUpdatedDate": "2026-11-18T12:12:25.098Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "862d17506f7aa866",
+        "title": "UG(BUMS)- Result of 1SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1794988764780-BUMS_1_SVR_RESULT.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-18T12:12:25.098Z"
+      },
+      {
+        "id": "bc14533861b4d981",
+        "title": "UG(BAMS) - Result of 1SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1794988774545-BAMS_1SVR_RESULT.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-18T12:12:25.098Z"
+      },
+      {
+        "id": "9ab7364fbbfc7009",
+        "title": "UG(BAMS/BUMS)- Admission Notice for 1SVR Round of Counselling Schedule for Academic Session 2026-2027.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1794988739262-Admission_Notification__BAMS___BUMS_.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-18T12:12:25.098Z"
+      },
+      {
+        "id": "9995db69f5d1fc47",
+        "title": "UG(BHMS)- 2nd SVR round of counselling schedule of admission to UG (BHMS) for the AY 2026-27.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1794988747681-Admission_Notification__BHMS_.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-18T12:12:25.098Z"
+      },
+      {
+        "id": "1cb6ae07a566f69a",
+        "title": "UG(BHMS) - Result of 2nd SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1794988756296-BHMS_2_SVR_RESULT.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 4,
+        "detectedAt": "2026-11-18T12:12:25.098Z"
+      },
       {
         "id": "ea049f51308df891",
         "title": "UG(BUMS)- Result of 3rd Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
@@ -6641,56 +6691,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "1cc12f9584d08e67",
-        "title": "UG(BAMS)- Tentative list of Candidates under 85% Delhi Quota for the session 2026-27.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1792577071922-REGISTERED_CANDIDATE_UNDER_BAMS_2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "ad56030465079dea",
-        "title": "UG(BUMS)- Tentative list of Candidates under 85% Delhi Quota for the session 2026-27.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1792577096014-REGISTERED_CANDIDATE_UNDER_BUMS_2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "235fa1b45c852cf8",
-        "title": "UG(BHMS)- Admission Notice for 3rd Round of Counselling for Academic Session 2026-2027.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1792142989377-Admission_Notification.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "6f113d98b4e75f67",
-        "title": "UG(BHMS)- Result of 3rd Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1792142755289-3rd_Round_result_of_UG_BHMS_2026.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
-      },
-      {
-        "id": "9608804ff367b8cc",
-        "title": "UG(BAMS/BUMS)- Online Registration Link for Admissions 2026-2027",
-        "link": "https://faumadmission.uod.ac.in/",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "detectedAt": "2026-10-23T07:16:07.424Z"
       }
     ]
   },
@@ -6701,9 +6701,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-13T11:28:45.560Z",
+    "lastUpdatedDate": "2026-11-18T12:10:37.117Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "efccc0f7fbf0446c",
+        "title": "B.Sc. NURSING (CODE 115) (NEET UG 2026 & CET 2026 QUALIFIED CANDIDATES) EXTENDED SCHEDULE AFTER DECLARATION OF SPECIAL STRAY ROUND: 2026-27_dated-18.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261118563430165.pdf",
+        "date": "18/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-18T12:10:37.117Z"
+      },
       {
         "id": "2db0134cbb276451",
         "title": "STRAY ROUND (NEET UG 2026) BAMS (CODE 153) & BHMS (CODE 154) A.S. 2026-27_dated-13.11.2026",
@@ -6893,16 +6903,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-10-29T09:40:54.489Z"
-      },
-      {
-        "id": "3ac09f7dfa513ff4",
-        "title": "BHMS (CODE-154) FOR NEET UG 2026 QUALIFIED CANDIDATES SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 03 FOR A.S.2026-27_dated-28.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/2026102834968474.pdf",
-        "date": "28/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-28T13:25:48.116Z"
       }
     ]
   },
