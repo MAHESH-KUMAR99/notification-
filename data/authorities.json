@@ -1422,9 +1422,19 @@
     "category": "state",
     "officialLink": "https://tnmedicalselection.net/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-18T12:08:34.211Z",
+    "lastUpdatedDate": "2026-11-19T10:40:24.187Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "4cb6b2ad981e448f",
+        "title": "92.5% - CLICK HERE FOR SPEICAL STRAY VACANCY ROUND II ONLINE COUNSELLING OF MBBS / BDS COURSE (GOVERNMENT / MANAGEMENT QUOTA) 2026 - 2027 SESSION)",
+        "link": "https://counug.tnmedicalonline.co.in/ugmedgqstray/",
+        "date": null,
+        "sortTs": 1794960000000,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-19T10:40:24.187Z"
+      },
       {
         "id": "097df0c018de1f8c",
         "title": "TENTATIVE SPEICAL STRAY VACANCY ROUND II COUNSELLING SCHEDULE FOR ADMISSION TO BDS DEGREE COURSE ALONE Government and Management Quota seats in Self Financing Dental Colleges 2026-2027 SESSION",
@@ -1434,6 +1444,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-18T12:08:34.211Z"
+      },
+      {
+        "id": "ab2087fc7d700385",
+        "title": "TENTATIVE VACANCY FOR BDS DEGREE COURSE 2026-2027 IN SELF FINANCING DENTAL COLLEGES AS ON 19-11-2026",
+        "link": "https://tnmedicalselection.net/news/18112026215436.pdf",
+        "date": "18/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-19T10:40:24.187Z"
       },
       {
         "id": "11b0cf0c858abd1e",
@@ -1603,26 +1623,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 3,
-        "detectedAt": "2026-10-18T08:42:38.965Z"
-      },
-      {
-        "id": "b3f840eba5c629f8",
-        "title": "7.5% - TENTATIVE STRAY VACANCY ROUND COUNSELLING SCHEDULE FOR ADMISSION TO BDS DEGREE COURSES in Tamil Nadu Government Dental Colleges & Government Quota seats in Self Financing Dental Colleges 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/17102026232511.pdf",
-        "date": "17/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-10-18T08:42:38.965Z"
-      },
-      {
-        "id": "f7a21310492d600f",
-        "title": "92.5% - TENTATIVE STRAY VACANCY ROUND COUNSELLING SCHEDULE FOR ADMISSION TO MBBS & BDS DEGREE COURSES in Tamil Nadu Government Medical & Dental Colleges, Government & Management Quota seats in Self Financing Medical Colleges & Dental Colleges, State Private Universities 2026-2027 SESSION",
-        "link": "https://tnmedicalselection.net/news/17102026232125.pdf",
-        "date": "17/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 5,
         "detectedAt": "2026-10-18T08:42:38.965Z"
       }
     ]
@@ -3311,9 +3311,29 @@
     "category": "state",
     "officialLink": "https://jceceb.jharkhand.gov.in/Links/counselling.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T12:54:59.534Z",
+    "lastUpdatedDate": "2026-11-19T10:40:18.553Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "7d5a0856bce8de08",
+        "title": "Advt. No. 128 dated-19.11.2026 Notice regarding Stray Vacancy Round of Online Counselling for MDS All India Quota Seats of Vananchal Dental College & Hospital, Garhwa; Hazaribagh College of Dental Sciences and Hospital & Awadh Dental College & Hospital, Jamshedpur on the basis of NEET MDS-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/833.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-19T10:40:18.553Z"
+      },
+      {
+        "id": "2c6e85ab5c45ae1d",
+        "title": "Advt. No. 127 dated-19.11.2026 Important Notice regarding Stray Vacancy Round of Online Counselling for MDS State Quota vacant seats on the basis of NEET (MDS)-2026 Result",
+        "link": "https://jceceb.jharkhand.gov.in/con_notice/832.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-19T10:40:18.553Z"
+      },
       {
         "id": "627e0047319766b1",
         "title": "Advt. No. 126 Dated - 17.11.2026 Indicative information regarding Special Stray vacancy Round-II of Online Counselling for admission to All India Seats in B.D.S. course",
@@ -3503,26 +3523,6 @@
         "source": "Direct from Website",
         "batchIndex": 4,
         "detectedAt": "2026-10-27T16:16:43.067Z"
-      },
-      {
-        "id": "59aa09e230512823",
-        "title": "Advt. No. 112 dated-26.10.2026 Important information regarding Special Round of online counselling-2026 for admission in All India seats in M.B.B.S. & B.D.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/813.pdf",
-        "date": "26/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-26T14:58:41.119Z"
-      },
-      {
-        "id": "c153b829adc57799",
-        "title": "Advt. No. 111 Dated-23.10.2026 Indicative information regarding Merit List preparation for Special Round of online counselling for admission in All India seats in M.B.B.S. & B.D.S. courses",
-        "link": "https://jceceb.jharkhand.gov.in/con_notice/812.pdf",
-        "date": "23/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-23T12:46:57.370Z"
       }
     ]
   },
@@ -4949,9 +4949,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-16T20:57:25.140Z",
+    "lastUpdatedDate": "2026-11-19T10:45:15.212Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:b2cbcc7c87ec5c09",
+        "title": "REVISED VACANCY AFTER 3rd ROUND BAMS/BHMS",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611191543640205.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-19T10:45:15.212Z"
+      },
       {
         "id": "OJEE:a64da33f3b3243dd",
         "title": "REVISED VACANCY AFTER 3rd ROUND BAMS/BHMS",
@@ -5141,16 +5151,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-10-09T07:56:23.231Z"
-      },
-      {
-        "id": "OJEE:8ef5acbf4463a09c",
-        "title": "Revised 3rd Round Post Allotment activities for the B.PHARM, LE-PHARM & M.PHARM COURSES.",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610041760633530.pdf",
-        "date": "04/10/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-04T11:18:29.255Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -6701,9 +6701,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-18T12:10:37.117Z",
+    "lastUpdatedDate": "2026-11-19T10:42:31.567Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "2789b9eeb8b96ab0",
+        "title": "Important Notice for the programmes Post Graduate Ayurveda Courses (Code 196) and Post Graduate Homeopathy Courses (Code 700) A.S. 2026-27_dated-19.11.2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611191583998817.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-19T10:42:31.567Z"
+      },
       {
         "id": "efccc0f7fbf0446c",
         "title": "B.Sc. NURSING (CODE 115) (NEET UG 2026 & CET 2026 QUALIFIED CANDIDATES) EXTENDED SCHEDULE AFTER DECLARATION OF SPECIAL STRAY ROUND: 2026-27_dated-18.11.2026",
@@ -6892,16 +6902,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-10-29T09:40:54.489Z"
-      },
-      {
-        "id": "ee37a3fec9056b1b",
-        "title": "EXTENDED SCHEDULE FOR MBBS (CODE-103) (NEET UG 2026)-STRAY ROUND:2026-27_dated-29.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610291469541676.pdf",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-10-29T09:40:54.489Z"
       }
     ]
