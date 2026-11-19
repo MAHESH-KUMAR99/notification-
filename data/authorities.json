@@ -217,9 +217,29 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T12:54:48.209Z",
+    "lastUpdatedDate": "2026-11-19T19:25:07.524Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "2c513593b4187327",
+        "title": "NOTICE FOR PROVISIONAL ALLOTMENT RESULT OF NEET UG ROUND -6 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/20261119492496041.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-19T19:25:07.524Z"
+      },
+      {
+        "id": "95f8758e1726e76e",
+        "title": "PROVISIONAL ALLOTMENT RESULT FOR UG 6TH ROUND 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611191346150348.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-19T19:25:07.524Z"
+      },
       {
         "id": "aad1c80f080f3420",
         "title": "CLEAR VACANCY 6TH ROUND FOR BDS/B.SC (NURSING) SEATS UG 2026",
@@ -398,26 +418,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-09-24T09:12:30.699Z"
-      },
-      {
-        "id": "1816923a8d1ee345",
-        "title": "VIRTUAL VACANCY ROUND 3 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260924472236998.pdf",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-09-24T09:12:30.699Z"
-      },
-      {
-        "id": "8a533c6371dcccfa",
-        "title": "CLEAR VACANCY ROUND 3 (MBBS BDS B.SC NURSING) – UG COUNSELLING 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/20260924663257695.pdf",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-09-24T09:12:30.699Z"
       }
     ]
@@ -2190,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-18T20:49:59.375Z",
+    "lastUpdatedDate": "2026-11-19T19:25:25.605Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0d0d084eb662b584",
+        "title": "19-11-2026: MDS MQ 2026-27 - Web Options Notification for Stray vacancy Round MDS CQ 2026-27 - Web Options Notification for Stray vacancy Round MDS MQ 2026-27 - Eligible Candidates List for Stray vacancy Round MDS CQ 2026-27 - Eligible Candidates List for Stray vacancy Round",
+        "link": "https://drntr.uhsap.in/index/notification/20261119163624877.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-19T19:25:25.605Z"
+      },
       {
         "id": "00bfdca48cd31afc",
         "title": "18-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round Counselling - College-wise allotments BNYS Course 2026-27 - CQ - Phase-II College Wise Allotments Allied and Healthcare Courses 2026-27 - Final Merit List of Applied Candidates Allied and Healthcare Courses 2026-27 - CQ - Phase-1 Web Options Notification Allied and Healthcare Courses 2026-27 - List of Candidates whose Documents Verification is Pending Allied and Healthcare Courses 2026-27 - List of Candidates Paid Registration fee but not submitted application Allied and Healthcare Courses 2026-27 - PwBD Eligible & Not-Eligible Candidates List Allied and Healthcare Courses 2026-27 - Not-Eligible Candidates List UG Allied and Healthcare Courses - Seat Matrix - 2026-27 BDS 2026-27 -CQ- Special Stray Round College Wise Allotments BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round BDS-2026-27 -CQ-NOTICE FOR EXTENSION OF WEB OPTIONS UNDER SPECIAL STRAY ROUND",
@@ -2382,16 +2392,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-10T09:29:04.649Z"
-      },
-      {
-        "id": "88eb6060f4a36c25",
-        "title": "09-11-2026: MDS CQ 2026-27 - Phase-III (Mop Up) MRC list B.Sc.(N) 4 YDC 2026-27 - CQ Phase-II - College-wise Allotments MDS CQ 2026-27 - Phase-III (Mop Up) College wise Provisional Allotments list MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND BDS -2026-27 - CQ - Web Options Notification for Stray Round Counseling BDS- CQ -2026-27 -Vacant seats for Stray Round NMC ADVISORY TO STUDENTS AND PARENTS PG (Dental) CQ 2026-27 - List of Candidates who availed Free Exit after Phase-I & Phase-II Counselling PG (Dental) MQ 2026-27 - List of Candidates who availed Free Exit after Phase-II Counselling",
-        "link": "https://drntr.uhsap.in/index/notification/20261109182355843.pdf",
-        "date": "09/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-09T18:31:35.318Z"
       }
     ]
   },
@@ -3657,9 +3657,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T21:41:33.893Z",
+    "lastUpdatedDate": "2026-11-19T19:31:05.069Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:7cd555907a216056",
+        "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.D.S. COURSE VACANCIES UNDER MANAGEMENT QUOTA & FRESH APPLICATION FOR B.D.S. - MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/13QPv6Fi0-nV4BG1Ucs8yZFJzjWrRm6w4/view?usp=sharing",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-19T19:31:05.069Z"
+      },
+      {
+        "id": "UG NEET:7cd555907a216056",
+        "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.D.S. COURSE VACANCIES UNDER MANAGEMENT QUOTA & FRESH APPLICATION FOR B.D.S. - MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/13QPv6Fi0-nV4BG1Ucs8yZFJzjWrRm6w4/view?usp=sharing",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 582,
+        "detectedAt": "2026-11-19T19:31:05.069Z"
+      },
       {
         "id": "OVERALL:7b928f5ace5faf17",
         "title": "NOTICE : GENERAL INFORMATION FOR PG MEDICAL ROUND 1 ALLOTTED PG CANDIDATES REGARDING ADMISSION",
@@ -3838,26 +3858,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "OVERALL:1db176c29f470e16",
-        "title": "FINAL MERIT LIST OF PG NEET MEDICAL (M.D./M.S.) COURSES (2026 - 2027)",
-        "link": "https://centacpuducherry.in/htmlpages/2026/PgMedical_2026/final_merit_list.html",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "OVERALL:99b9b9ba7d72aa23",
-        "title": "NOTICE : FINAL MERIT LIST FOR PG MEDICAL (M.D./M.S.) COURSES FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1O9MILbp1rUMEg1G8wQGYUTWIV7AeUuuY/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 3,
         "detectedAt": "2026-11-12T16:46:13.663Z"
       },
       {
@@ -4721,7 +4721,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-18T20:51:09.400Z",
+    "lastUpdatedDate": "2026-11-19T19:26:35.159Z",
     "pinned": false,
     "notices": [
       {
@@ -5445,7 +5445,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-16T10:54:26.198Z",
+    "lastUpdatedDate": "2026-11-19T19:30:51.860Z",
     "pinned": false,
     "notices": [
       {
