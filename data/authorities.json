@@ -806,9 +806,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-12T16:43:34.978Z",
+    "lastUpdatedDate": "2026-11-20T09:01:39.257Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-136",
+        "title": "RECRUITMENT FOR ADVERTISEMENT OF PROJECT RESEARCH SCIENTIST POSITIONS AT DMR, AFMC, PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "19/11/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T09:01:39.257Z"
+      },
       {
         "id": "afmc-pune-135",
         "title": "RECRUITMENT FOR VARIOUS RESEARCH STAFF POSITIONS AT MRU, AFMC, PUNE.",
@@ -979,15 +988,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-28T05:35:38.107Z"
-      },
-      {
-        "id": "afmc-pune-114",
-        "title": "Recruitment of Project Nurse III Post at MRU-Core, AFMC, Pune.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "21/08/2026",
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-27T11:04:15.339Z"
       }
     ]
   },
@@ -4721,7 +4721,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-19T19:26:35.159Z",
+    "lastUpdatedDate": "2026-11-20T09:00:27.728Z",
     "pinned": false,
     "notices": [
       {
@@ -5445,7 +5445,7 @@
     "category": "state",
     "officialLink": "https://meta-secure.com/HNBUMU_NEETUG",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-19T19:30:51.860Z",
+    "lastUpdatedDate": "2026-11-20T09:04:06.598Z",
     "pinned": false,
     "notices": [
       {
@@ -6913,9 +6913,19 @@
     "category": "state",
     "officialLink": "https://wbmcc.nic.in/ug-medical-dental-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T12:55:04.715Z",
+    "lastUpdatedDate": "2026-11-20T08:59:14.543Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6dcdaf96c8b566c2",
+        "title": "Provisional List of Candidates for Round 6 (BDS)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/11/20261120763946529.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T08:59:14.543Z"
+      },
       {
         "id": "b7a1675564a3d6cf",
         "title": "Schedule Round 6 for BDS",
@@ -7105,16 +7115,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-09-09T16:14:18.619Z"
-      },
-      {
-        "id": "b6e3c6567ec54d70",
-        "title": "PwD related MCC Notice for Round 2",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2026/09/20260903701030144.pdf",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-03T06:19:25.433Z"
       }
     ]
   },
