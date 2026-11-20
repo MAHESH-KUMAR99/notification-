@@ -217,9 +217,19 @@
     "category": "central",
     "officialLink": "https://mcc.nic.in/ug-medical-counselling/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-19T19:25:07.524Z",
+    "lastUpdatedDate": "2026-11-20T17:43:06.266Z",
     "pinned": true,
     "notices": [
+      {
+        "id": "495a90c63b1f44c3",
+        "title": "Final Allotment Result for UG Round 6",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/11/202611201307325403.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T17:43:06.266Z"
+      },
       {
         "id": "2c513593b4187327",
         "title": "NOTICE FOR PROVISIONAL ALLOTMENT RESULT OF NEET UG ROUND -6 2026",
@@ -409,16 +419,6 @@
         "source": "Direct from Website",
         "batchIndex": 2,
         "detectedAt": "2026-09-25T11:41:54.575Z"
-      },
-      {
-        "id": "8736471fe19366c1",
-        "title": "NEWLY ADDED SEATS ROUND 3 (MBBS BDS) – UG COUNSELLING 2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3e0f7a4d0ef9b84b83b693bbf3feb8e6e/uploads/2026/09/202609241056073871.pdf",
-        "date": "24/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-24T09:12:30.699Z"
       }
     ]
   },
@@ -998,9 +998,29 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T12:54:52.334Z",
+    "lastUpdatedDate": "2026-11-20T17:43:10.371Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "531b3a3b8bfc8bd5",
+        "title": "List of the candidates removed from MBBS BDS merit list due to Admitted in BAMS & BHMS",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/bams_bhms_admitted.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T17:43:10.371Z"
+      },
+      {
+        "id": "3a03cf7c90b9db4c",
+        "title": "List of the candidates removed from MBBS BDS merit list due to Allotment in All India Quota Round 6. (list provided by the MCC, New Delhi)",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/AIQ_Alloted_r6.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-20T17:43:10.371Z"
+      },
       {
         "id": "9690d0ef80d8835e",
         "title": "Vacant Seats For Round 06 BDS",
@@ -1189,26 +1209,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "75ba6f1406513c6c",
-        "title": "Rank Wise Result",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/r5_merit_wiseadm_0454.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
-      },
-      {
-        "id": "052147f3244ddb85",
-        "title": "Institute Wise Result",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/r5_instwiseadm_0454.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 2,
         "detectedAt": "2026-11-06T15:47:35.572Z"
       },
       {
@@ -2190,9 +2190,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-19T19:25:25.605Z",
+    "lastUpdatedDate": "2026-11-20T17:43:24.798Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "83bcaa3c07205975",
+        "title": "20-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Collegewise Allotments under 2nd & Final Counselling M.Sc(N) Mopup round Web Options Detailed Notification 2026-27 BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round- 2 MSc (Nursing) List of Not Reported candidates after Phase-II",
+        "link": "https://drntr.uhsap.in/index/notification/20261120172802573.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T17:43:24.798Z"
+      },
       {
         "id": "0d0d084eb662b584",
         "title": "19-11-2026: MDS MQ 2026-27 - Web Options Notification for Stray vacancy Round MDS CQ 2026-27 - Web Options Notification for Stray vacancy Round MDS MQ 2026-27 - Eligible Candidates List for Stray vacancy Round MDS CQ 2026-27 - Eligible Candidates List for Stray vacancy Round",
@@ -2382,16 +2392,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-10T17:15:26.802Z"
-      },
-      {
-        "id": "48c011bb13c5eef1",
-        "title": "10-11-2026: BDS -2026-27 - MQ - Web Options Notification for Stray Round Counseling PG AYUSH 2026-27 Online application Extension notification",
-        "link": "https://drntr.uhsap.in/index/notification/20261110131901257.pdf",
-        "date": "10/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-10T09:29:04.649Z"
       }
     ]
   },
@@ -3657,9 +3657,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-19T19:31:05.069Z",
+    "lastUpdatedDate": "2026-11-20T17:48:46.085Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:d2b0dfea30c9fe37",
+        "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.A.M.S. COURSE AT RGAMC, MAHE FOR VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR B.A.M.S. (G.Q./M.Q)",
+        "link": "https://drive.google.com/file/d/1j5j0u1T6RoXT1si9GYSpk7qxVqvJdtKw/view?usp=drivesdk",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T17:48:46.085Z"
+      },
+      {
+        "id": "UG NEET:d2b0dfea30c9fe37",
+        "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.A.M.S. COURSE AT RGAMC, MAHE FOR VACANCIES UNDER GOVERNMENT QUOTA / MANAGEMENT QUOTA & FRESH APPLICATION FOR B.A.M.S. (G.Q./M.Q)",
+        "link": "https://drive.google.com/file/d/1j5j0u1T6RoXT1si9GYSpk7qxVqvJdtKw/view?usp=drivesdk",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 583,
+        "detectedAt": "2026-11-20T17:48:46.085Z"
+      },
       {
         "id": "OVERALL:7cd555907a216056",
         "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.D.S. COURSE VACANCIES UNDER MANAGEMENT QUOTA & FRESH APPLICATION FOR B.D.S. - MANAGEMENT QUOTA",
@@ -3671,6 +3691,16 @@
         "detectedAt": "2026-11-19T19:31:05.069Z"
       },
       {
+        "id": "OVERALL:8e6d0cdeaf46c7e6",
+        "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.D.S. COURSE VACANCIES UNDER MANAGEMENT QUOTA & FRESH APPLICATION FOR B.D.S. - MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1Plum6SVRPdg0kcXUxwLxiiLxQ190mYe6/view?usp=sharing",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-20T17:48:46.085Z"
+      },
+      {
         "id": "UG NEET:7cd555907a216056",
         "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.D.S. COURSE VACANCIES UNDER MANAGEMENT QUOTA & FRESH APPLICATION FOR B.D.S. - MANAGEMENT QUOTA",
         "link": "https://drive.google.com/file/d/13QPv6Fi0-nV4BG1Ucs8yZFJzjWrRm6w4/view?usp=sharing",
@@ -3679,6 +3709,16 @@
         "source": "Direct from Website",
         "batchIndex": 582,
         "detectedAt": "2026-11-19T19:31:05.069Z"
+      },
+      {
+        "id": "UG NEET:8e6d0cdeaf46c7e6",
+        "title": "NOTICE : SPECIAL STRAY-2 ROUND REGISTRATION FOR UG NEET- B.D.S. COURSE VACANCIES UNDER MANAGEMENT QUOTA & FRESH APPLICATION FOR B.D.S. - MANAGEMENT QUOTA",
+        "link": "https://drive.google.com/file/d/1Plum6SVRPdg0kcXUxwLxiiLxQ190mYe6/view?usp=sharing",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 584,
+        "detectedAt": "2026-11-20T17:48:46.085Z"
       },
       {
         "id": "OVERALL:7b928f5ace5faf17",
@@ -3819,46 +3859,6 @@
         "source": "Direct from Website",
         "batchIndex": 375,
         "detectedAt": "2026-11-13T11:32:03.551Z"
-      },
-      {
-        "id": "UG NEET:016b908e4d1ad0e7",
-        "title": "SPECIAL STRAY PROVISIONAL ALLOTMENT LIST FOR UG NEET - MEDICAL / DENTAL - (2026-27)",
-        "link": "https://drive.google.com/file/d/1ViTEDmE-_HTDEmUNouKyONERZ0OfWzrC/view?usp=sharing",
-        "date": "13/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 573,
-        "detectedAt": "2026-11-13T11:32:03.551Z"
-      },
-      {
-        "id": "UG NEET:4d5f09b39a352123",
-        "title": "NOTICE : SPECIAL STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR M.B.B.S. & B.D.S FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1IimAnvDOQg6XXADO91RfCnIMSPVuE-Tr/view?usp=sharing",
-        "date": "13/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 574,
-        "detectedAt": "2026-11-13T11:32:03.551Z"
-      },
-      {
-        "id": "OVERALL:27a6d91aa16bf8d5",
-        "title": "ROUND 1 DRAFT ALLOTMENT LIST OF PG MEDICAL COURSES - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1H6xrOwTE0V1e5QlZqvzG5twO-xsS_8gc/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
-      },
-      {
-        "id": "OVERALL:15859aab580fe92b",
-        "title": "NOTICE : : ROUND 1 DRAFT ALLOTMENT LIST FOR PG MEDICAL (M.D./M.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/1S5HVcVffVg936nZbQxJ1KxRv5YH-uXv4/view?usp=sharing",
-        "date": "12/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-12T16:46:13.663Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4721,7 +4721,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-20T09:00:27.728Z",
+    "lastUpdatedDate": "2026-11-20T17:44:35.816Z",
     "pinned": false,
     "notices": [
       {
@@ -4949,9 +4949,29 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-19T10:45:15.212Z",
+    "lastUpdatedDate": "2026-11-20T17:48:36.056Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:426ac0150080d662",
+        "title": "REVISED STATE QUOTA SEAT MATRIX (PG AYURVEDA 2026–27)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261120581292469.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T17:48:36.056Z"
+      },
+      {
+        "id": "OJEE:376ee34d2ca4ad63",
+        "title": "REPORTING NOTICE FOR ALL CANDIDATES PARTICIPATED IN STRAY VACANCY ROUND BAMS/BHMS COUNSELLING",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611201435025810.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-20T17:48:36.056Z"
+      },
       {
         "id": "OJEE:b2cbcc7c87ec5c09",
         "title": "REVISED VACANCY AFTER 3rd ROUND BAMS/BHMS",
@@ -5131,26 +5151,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-10-24T13:34:46.218Z"
-      },
-      {
-        "id": "OJEE:1e34ac69e761474e",
-        "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (2 nd ROUND COUNSELLING)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610101824980330.pdf",
-        "date": "10/10/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-10T13:00:06.102Z"
-      },
-      {
-        "id": "OJEE:c8f0c2659527acc9",
-        "title": "Vacancy Seat matrix of BAMS/BHMS after Round 1, OJEE-2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261009826731220.pdf",
-        "date": "09/10/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-09T07:56:23.231Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -6701,9 +6701,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-19T10:42:31.567Z",
+    "lastUpdatedDate": "2026-11-20T17:45:28.942Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "9016e6429729d180",
+        "title": "Notice regarding Last Date for Submission of Updated Score Card for Admissions to PG Ayurveda (Code 196) & PG Homoeopathy (Code 700)",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611202005333604.pdf",
+        "date": "20/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-20T17:45:28.942Z"
+      },
       {
         "id": "2789b9eeb8b96ab0",
         "title": "Important Notice for the programmes Post Graduate Ayurveda Courses (Code 196) and Post Graduate Homeopathy Courses (Code 700) A.S. 2026-27_dated-19.11.2026",
@@ -6893,16 +6903,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-30T20:02:59.405Z"
-      },
-      {
-        "id": "140f4a67c0f20286",
-        "title": "REVISED SCHEDULE B.SC (H) (NURSING) (CODE-115) (NEET UG 2026) AND CET Qualified 2026)-STRAY ROUND: 2026-27_dated-29.10.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/10/202610291239901450.pdf",
-        "date": "29/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-29T09:40:54.489Z"
       }
     ]
   },
