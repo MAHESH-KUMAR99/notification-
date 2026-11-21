@@ -998,9 +998,59 @@
     "category": "state",
     "officialLink": "https://www.medadmgujarat.org/ug/home.aspx",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-20T17:43:10.371Z",
+    "lastUpdatedDate": "2026-11-21T06:20:04.172Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "63dc7d6a080671a7",
+        "title": "Advertisement for Allotment and Reporting of Round 6 for BDS",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/Adv.%20Round%206%20for%20BDS%20[2026-27]%20-%20Allotment%20&%20Reporting.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-21T06:20:04.172Z"
+      },
+      {
+        "id": "a569d2780d76a692",
+        "title": "Rank Wise Result",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/r6_merit_wiseadm_0553.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-21T06:20:04.172Z"
+      },
+      {
+        "id": "2b403430e24e45af",
+        "title": "Institute Wise Result",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/r6_instwiseadm_0553.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-21T06:20:04.172Z"
+      },
+      {
+        "id": "aad8d52fc14c5762",
+        "title": "Last Rank",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/r6_last_merit_mopwise_0553.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-21T06:20:04.172Z"
+      },
+      {
+        "id": "a62c5bca17a3f597",
+        "title": "Procedure for Admission Confirmation",
+        "link": "https://medadmgujarat.ncode.in/web/UG2026/R6/Procedure%20for%20Admission%20Confirmation%20for%20Round%206_2026.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 5,
+        "detectedAt": "2026-11-21T06:20:04.172Z"
+      },
       {
         "id": "531b3a3b8bfc8bd5",
         "title": "List of the candidates removed from MBBS BDS merit list due to Admitted in BAMS & BHMS",
@@ -1152,64 +1202,6 @@
         "titleEn": "[All the candidates allotted MBBS/BDS seats in Special Stray Vacancy round by the Admission Committee are hereby informed to confirm admission only on dt. 16/11/2026 from 10:00 AM to 4:00 PM in person at the designated Help Center.",
         "titleLang": "gu",
         "detectedAt": "2026-11-14T19:03:58.847Z"
-      },
-      {
-        "id": "b299a5c9790521c6",
-        "title": "ઉમેદવારોએ નજીકના હેલ્પ સેન્ટર ખાતે અગાઉથી એપોઇન્ટમેન્ટ મેળવી નીચે મુજબના દસ્તાવેજો સાથે હાજર રહેવાનું રહેશે:",
-        "link": null,
-        "date": "14/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 6,
-        "titleEn": "Candidates have to make an appointment in advance at the nearest Help Center and present themselves with the following documents:",
-        "titleLang": "gu",
-        "detectedAt": "2026-11-14T19:03:58.847Z"
-      },
-      {
-        "id": "09d1ddd040ee1e0b",
-        "title": "1. ભરેલ ટ્યુશન ફીની રસીદ (ચલણમાં દર્શાવ્યા મુજબ): ઓનલાઇન ફી ભર્યાની રસીદ, અથવા નિયત બેંકની શાખામાં રોકડ અથવા ડિમાન્ડ ડ્રાફ્ટ (DD) દ્વારા ફી ભર્યાની રસીદ, અથવા SC/ST કેટેગરીના ઉમેદવારો માટે માન્ય ફ્રીશિપ કાર્ડ અથવા ઝીરો ફી ચલણ (સ્પેશિયલ સ્ટ્રે વેકેન્સી રાઉન્ડની સિક્યુરિટી ડિપોઝિટની રકમ સામે ટ્યુશન ફી સરભર થતી હોય તો).",
-        "link": null,
-        "date": "14/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 7,
-        "titleEn": "1. Receipt of paid tuition fee (as shown in challan): Receipt of online fee payment, or receipt of fee payment by cash or demand draft (DD) at a designated bank branch, or valid freeship card or zero fee challan for SC/ST category candidates (in case tuition fee is offset against the security deposit amount of Special Stray Vacancy round).",
-        "titleLang": "gu",
-        "detectedAt": "2026-11-14T19:03:58.847Z"
-      },
-      {
-        "id": "c1cc1cd56a995b6d",
-        "title": "2. એલોટમેન્ટ લેટર અને જરૂરી અસલ પ્રમાણપત્રો",
-        "link": null,
-        "date": "14/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 8,
-        "titleEn": "2. Allotment letter and necessary original certificates",
-        "titleLang": "gu",
-        "detectedAt": "2026-11-14T19:03:58.847Z"
-      },
-      {
-        "id": "46d1b7910d5ba9bf",
-        "title": "ખાસ નોંધ: તા. 16/11/2026ના રોજ સાંજે 4:00 વાગ્યા બાદ પ્રવેશ કન્ફર્મ કરવા અંગેની કોઈપણ રજૂઆત સ્વીકારવામાં આવશે નહીં.]",
-        "link": null,
-        "date": "14/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 9,
-        "titleEn": "Special Note: Dt. Any submission for confirmation of admission after 4:00 PM on 16/11/2026 will not be entertained.]",
-        "titleLang": "gu",
-        "detectedAt": "2026-11-14T19:03:58.847Z"
-      },
-      {
-        "id": "8ea05a9686c5a171",
-        "title": "Advertisement for Allotment and Reporting of Special Stray Round for MBBS/BDS",
-        "link": "https://medadmgujarat.ncode.in/web/UG2026/R5/Adv.%20-%20Special%20Stray%20Round%20for%20MBBSBDS%20[2026-27]%20-%20Allotment%20&%20Reporting.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-06T15:47:35.572Z"
       },
       {
         "id": "Rules & Notification:f555d73cb83dce1e",
@@ -2190,9 +2182,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-20T17:43:24.798Z",
+    "lastUpdatedDate": "2026-11-21T06:20:26.359Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "01eddb27fcb3c0eb",
+        "title": "21-11-2026: PG (Medical) Admissions 2026-27 - Notification on Free Exit for Phase-I joined candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20261121111544237.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-21T06:20:26.359Z"
+      },
       {
         "id": "83bcaa3c07205975",
         "title": "20-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Collegewise Allotments under 2nd & Final Counselling M.Sc(N) Mopup round Web Options Detailed Notification 2026-27 BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round- 2 MSc (Nursing) List of Not Reported candidates after Phase-II",
@@ -2382,16 +2384,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-11T09:45:51.777Z"
-      },
-      {
-        "id": "c78333567cdaa274",
-        "title": "10-11-2026: MSc(N) Phase-II, Final Web Options Detailed Notification 2026-27 MSC NURSING SERVICE PHASE 1 Not Reported MSc(NURSING) CQ PHASE 1 Non-Service Not Reported candidates list Allied and Healthcare Courses 2026-27 - Notice for Examination of Persons with Disability (PwD) Candidates MDS CQ 2026-27 - Phase-III (Mop Up) College wise Final Allotments list MDS MQ 2026-27 - Phase-III (Mop Up) College wise Allotments list BDS -2026-27 - MQ - Web Options Notification for Stray Round Counseling PG AYUSH 2026-27 Online application Extension notification",
-        "link": "https://drntr.uhsap.in/index/notification/20261110180143977.pdf",
-        "date": "10/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-10T17:15:26.802Z"
       }
     ]
   },
@@ -4949,9 +4941,29 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-20T17:48:36.056Z",
+    "lastUpdatedDate": "2026-11-21T06:25:31.471Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:ad7c555aa6d590c3",
+        "title": "Fee Structure for BAMS/BHMS 2026",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261121557405145.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-21T06:25:31.471Z"
+      },
+      {
+        "id": "OJEE:b0f7d9c508e8a174",
+        "title": "REVISED COUNSELLING SCHEDULE FOR ADMISSION TO POSTGRADUATION COURSE [MD (Hom.)] and POSTGRADUATION COURSE [MD/MS(Ayurvedic)]",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611211159860133.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-21T06:25:31.471Z"
+      },
       {
         "id": "OJEE:426ac0150080d662",
         "title": "REVISED STATE QUOTA SEAT MATRIX (PG AYURVEDA 2026–27)",
@@ -5131,26 +5143,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-11-03T16:34:48.061Z"
-      },
-      {
-        "id": "OJEE:7e4b1e24c8f9eb7b",
-        "title": "SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO BAMS/BHMS (3rd ROUND COUNSELLING)",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/202610301982130379.pdf",
-        "date": "30/10/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-30T15:19:20.309Z"
-      },
-      {
-        "id": "OJEE:66dc14e2c289c09a",
-        "title": "VACANCY AFTER 2nd ROUND BAMS/BHMS",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/10/20261024813510271.pdf",
-        "date": "24/10/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-24T13:34:46.218Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
@@ -7125,9 +7117,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-17T21:41:33.308Z",
+    "lastUpdatedDate": "2026-11-21T06:25:40.323Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "00f01611c2d69385",
+        "title": "ADMISSION TO AYURVEDA (BAMS), HOMOEOPATHY (BHMS), SIDDHA (BSMS) & UNANI (BUMS) COURSES- Application Submission Facility Re-Opened For Stray Vacancy Round 2",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/425/Upload1",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-21T06:25:40.323Z"
+      },
       {
         "id": "2d1a6e17bff378b0",
         "title": "SIXTH ROUND ALLOTMENT TO BDS COURSES- FACILITY TO REGISTER NEW OPTIONS",
@@ -7317,16 +7319,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-24T13:34:54.887Z"
-      },
-      {
-        "id": "7d95cb1265cdf8ba",
-        "title": "ADMISSION TO MBBS/BDS COURSES STRAY VACANCY ALLOTMENT PUBLISHED",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/349/Upload1",
-        "date": "22/10/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-22T19:55:11.917Z"
       }
     ]
   },
