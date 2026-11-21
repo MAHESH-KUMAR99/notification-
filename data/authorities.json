@@ -2182,9 +2182,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-21T14:53:28.765Z",
+    "lastUpdatedDate": "2026-11-21T20:50:23.184Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a1dedb22176f1f47",
+        "title": "21-11-2026: PG (Medical) MQ 2026-27 - Notification for S2&S3 seats Upgradation PG (Medical) CQ 2026-27 - Phase-II Web Options Notification for both In-service&Non-service PG (Medical) CQ 2026-27 - AU Non-service Seat Matrix (2nd Phase) for Enhanced & Newly Sanctioned seats PG (Medical) CQ 2026-27 - AU Service Seat Matrix (2nd Phase) for Enhanced & Newly Sanctioned seats PG (Medical) CQ 2026-27 - SVU Non-service Seat Matrix (2nd Phase) for Enhanced & Newly Sanctioned seats PG (Medical) CQ 2026-27 - SVU Service Seat Matrix (2nd Phase) for Enhanced & Newly Sanctioned seats PG (Medical) CQ 2026-27 - Minority Non-service Seat Matrix (2nd Phase) for Enhanced & Newly Sanctioned seats MD (Homoeo) Provisional Merit List 2026-27 MD (Homoeo) List of Re-Upload candidates 2026-27 MD (Homoeo) Fee paid but application not submitted list 2026-27 MD (Ayurveda) Provisional Merit List 2026-27 MD (Ayurveda) List of Re-Upload candidates MD (Ayurveda) Fee paid but application not submitted list 2026-27 BDS-2026-27-MQ- College Wise Alloments under Special Stray Round PG (Medical) Admissions 2026-27 - Notification on Free Exit for Phase-I joined candidates",
+        "link": "https://drntr.uhsap.in/index/notification/20261121222154328.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-21T20:50:23.184Z"
+      },
       {
         "id": "2a2c228fb89dc7bd",
         "title": "21-11-2026: MD (Homoeo) Provisional Merit List 2026-27 MD (Homoeo) List of Re-Upload candidates 2026-27 MD (Homoeo) Fee paid but application not submitted list 2026-27 MD (Ayurveda) Provisional Merit List 2026-27 MD (Ayurveda) List of Re-Upload candidates MD (Ayurveda) Fee paid but application not submitted list 2026-27 BDS-2026-27-MQ- College Wise Alloments under Special Stray Round PG (Medical) Admissions 2026-27 - Notification on Free Exit for Phase-I joined candidates",
@@ -2374,16 +2384,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-13T11:26:40.737Z"
-      },
-      {
-        "id": "e3a6219852bc7c0c",
-        "title": "13-11-2026: PG (Medical) CQ 2026-27 - In-service Phase-I College wise Final Allotment List BNYS Course 2026-27 - CQ - Phase-II Web Options Notification B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round - PwD Eligible List BDS 2026-27 -MQ- Stray Round College Wise Allotments PG (Medical) CQ 2026-27 - MRC List of In-service Phase-I B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Online application for web based 2nd & Final Counselling MBBS-BDS-MQ-2026-27-Addendum to Final Merit list PG (Medical) CQ 2026-27 - Provisional College wise Allotments List of In-service",
-        "link": "https://drntr.uhsap.in/index/notification/20261113195711670.pdf",
-        "date": "13/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-14T19:04:14.861Z"
       }
     ]
   },
