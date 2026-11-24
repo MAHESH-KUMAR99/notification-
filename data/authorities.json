@@ -2182,9 +2182,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-24T10:18:24.659Z",
+    "lastUpdatedDate": "2026-11-24T20:47:35.883Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "3181fdd65052f463",
+        "title": "24-11-2026: UG AYUSH Courses 2026-27 - CQ - Stray Vacancy Round College Wise Allotments UG AYUSH Courses 2026-27 - AIQ & MQ - Stray Vacancy Round Web Options Notification PG (Medical) MQ 2026-27 - Phase-II Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 (including Enhanced&Newly Sanctioned Seats) PG (Medical) MQ 2026-27 - Corrigendum BDS-2026-27-CQ- College Wise Alloments under Special Stray Round-2 MSC-NURSING-COLLEGE WISE ALLOTMENTS-MOP UP ROUND-2026-27 PG (Medical) CQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling (In-service) PG (Medical) CQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling (Non-service) PG (Medical) MQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling",
+        "link": "https://drntr.uhsap.in/index/notification/20261124182505900.pdf",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-24T20:47:35.883Z"
+      },
       {
         "id": "0d0eeb78be0d9986",
         "title": "24-11-2026: MSC-NURSING-COLLEGE WISE ALLOTMENTS-MOP UP ROUND-2026-27 PG (Medical) CQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling (In-service) PG (Medical) CQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling (Non-service) PG (Medical) MQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling",
@@ -2374,16 +2384,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-11-15T10:41:32.863Z"
-      },
-      {
-        "id": "877891a2e36066e6",
-        "title": "14-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd - Final Phase - Notice to the candidates for exercising web options B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd &Final Phase - Provisional Final Eligible List PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
-        "link": "https://drntr.uhsap.in/index/notification/20261114200314613.pdf",
-        "date": "14/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-14T19:04:14.861Z"
       }
     ]
   },
@@ -2798,9 +2798,49 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-23T12:18:33.041Z",
+    "lastUpdatedDate": "2026-11-24T20:51:52.262Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:407a51c2a6721cda",
+        "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/12 Dated 24.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_12.pdf",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-24T20:51:52.262Z"
+      },
+      {
+        "id": "Latest Updates:703947cb1dda127e",
+        "title": "Details for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/11 Dated 24.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_11.pdf",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-24T20:51:52.262Z"
+      },
+      {
+        "id": "Latest Updates:e5a458c748b48801",
+        "title": "Schedule for Round-2 Counselling of PGMAC[UNANI]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/09 Dated 24.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_09.pdf",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-24T20:51:52.262Z"
+      },
+      {
+        "id": "Latest Updates:4d2f90b6741d0406",
+        "title": "Schedule for Round-2 Counselling of PGMAC[HOMEOPATH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/08 Dated 24.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC26_08.pdf",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-24T20:51:52.262Z"
+      },
       {
         "id": "Latest Updates:5fc55a142f5790d9",
         "title": "Provisional Merit List of Eligible and Not Eligible Candidates for the Post of DENTISTRY after Document Verification of Senior Resident / Tutor Under Health Department (Adv. No. BCECEB(Health(SR))-2026(II)/07 Dated 23.11.2026)",
@@ -2960,46 +3000,6 @@
         "source": "Latest Updates",
         "batchIndex": 0,
         "detectedAt": "2026-11-03T16:33:29.570Z"
-      },
-      {
-        "id": "Latest Updates:611832484c3914e7",
-        "title": "Details for filling online application form and choice Special filling for Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/18 Dated 03.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_18.pdf",
-        "date": "03/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-03T16:33:29.570Z"
-      },
-      {
-        "id": "Latest Updates:06eea9817e0c4efd",
-        "title": "Revised Document Verification Schedule of PGMAC-2026 (Adv. No. BCECEB(PGMAC)-2026/03 Dated 02.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGMAC26_03.pdf",
-        "date": "02/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-02T18:49:06.352Z"
-      },
-      {
-        "id": "Latest Updates:815bd7b789fde044",
-        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of UGMAC[AYUSH]-2026 (Adv. No. BCECEB[UGMAC(Ayush)]-2026/08 Dated 01.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGAAC26_08.pdf",
-        "date": "01/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-01T17:57:05.773Z"
-      },
-      {
-        "id": "Latest Updates:7fd6f88d28ddee13",
-        "title": "Notice for Extesion of Date for Registration-cum-Choice Filling for Admission in Round-3 of Post Gradudate Dental Courses (PGDAC)-2026 (Adv. No. BCECEB(PGDAC)-2026/08 Dated 01.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGDAC26_08.pdf",
-        "date": "01/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-01T17:57:05.773Z"
       },
       {
         "id": "UGMAC:6351800e5158002a",
@@ -3649,9 +3649,19 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-24T10:23:30.170Z",
+    "lastUpdatedDate": "2026-11-24T20:53:20.333Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:58602fdc0e36f366",
+        "title": "PG MEDICAL - GOVERNMENT QUOTA - ADDITIONAL CANDIDATES LIST",
+        "link": "https://drive.google.com/file/d/1rirJuEjNzqMlRr6qjcbTiL_mPYPTs3AD/view?usp=drivesdk",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-24T20:53:20.333Z"
+      },
       {
         "id": "OVERALL:36f3fdf1fb1776d4",
         "title": "PG DENTAL (M.D.S.) GOVERNMENT QUOTA APPLIED CANDIDATES ARE ELIGIBLE TO OPT FOR FOR MANAGEMENT QUOTA AFTER PAYMENT OF BALANCE APPLICATION FEE. COURSE PREFERENCES MAY BE UPDATED ACCORDINGLY ON OR BEFORE 24/11/2026, 5.00 PM. - CENTAC",
@@ -3661,6 +3671,16 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-24T10:23:30.170Z"
+      },
+      {
+        "id": "PG MEDICAL:58602fdc0e36f366",
+        "title": "PG MEDICAL - GOVERNMENT QUOTA - ADDITIONAL CANDIDATES LIST",
+        "link": "https://drive.google.com/file/d/1rirJuEjNzqMlRr6qjcbTiL_mPYPTs3AD/view?usp=drivesdk",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 385,
+        "detectedAt": "2026-11-24T20:53:20.333Z"
       },
       {
         "id": "PG DENTAL:36f3fdf1fb1776d4",
@@ -3830,26 +3850,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 1,
-        "detectedAt": "2026-11-17T13:00:17.254Z"
-      },
-      {
-        "id": "PG MEDICAL:7b928f5ace5faf17",
-        "title": "NOTICE : GENERAL INFORMATION FOR PG MEDICAL ROUND 1 ALLOTTED PG CANDIDATES REGARDING ADMISSION",
-        "link": "https://drive.google.com/file/d/1Oknh7i6PVhvY-y1Kioj4AyS6YHKw8xU8/view?usp=drivesdk",
-        "date": "17/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 378,
-        "detectedAt": "2026-11-17T21:41:33.893Z"
-      },
-      {
-        "id": "PG DENTAL:3c1b09deaba39c92",
-        "title": "PG NEET DENTAL (M.D.S.) COURSES - VACANCIES FOR STRAY ROUND",
-        "link": "https://drive.google.com/file/d/1cLz6q9l8sBLJXydbj3DTNWXSSlFYJHzl/view?usp=sharing",
-        "date": "17/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 396,
         "detectedAt": "2026-11-17T13:00:17.254Z"
       },
       {
@@ -4713,7 +4713,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-24T10:19:32.869Z",
+    "lastUpdatedDate": "2026-11-24T20:48:48.994Z",
     "pinned": false,
     "notices": [
       {
