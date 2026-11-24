@@ -2182,9 +2182,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-24T00:14:09.431Z",
+    "lastUpdatedDate": "2026-11-24T10:18:24.659Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "0d0eeb78be0d9986",
+        "title": "24-11-2026: MSC-NURSING-COLLEGE WISE ALLOTMENTS-MOP UP ROUND-2026-27 PG (Medical) CQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling (In-service) PG (Medical) CQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling (Non-service) PG (Medical) MQ 2026-27 - List of Not Reported & Free Exit candidates after Phase-I Counselling",
+        "link": "https://drntr.uhsap.in/index/notification/20261124125924710.pdf",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-24T10:18:24.659Z"
+      },
       {
         "id": "1fb364c806837ea4",
         "title": "23-11-2026: PG (Dental) MQ 2026-27 - Notification for Inviting online application forms for Stray Vacancy Round-1 PG (Dental) CQ 2026-27 - Notification for Inviting online application forms for Stray Vacancy Round-1 MDS MQ 2026-27 - Stray Round College wise Allotments List MDS CQ 2026-27 - Stray Round College wise Allotments List BDS-MQ-2026-27-PROVISIONAL MERIT POSITION OF APPLIED CANDIDATES -AFTER VERIFICATION OF UPLOADED CERTIFICATES VIDE THIS OFFICE NOTIFICATION DT.20-11-2026 BDS-2026-27- List of Vacacies for Special Stray Round-2 UG AYUSH Courses 2026-27 - CQ - Stray Vacancy Round Web Options Notification BDS-CQ -2026-27- Notification for Web options UNDER Spl Stray Round-2",
@@ -2374,16 +2384,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-14T19:04:14.861Z"
-      },
-      {
-        "id": "22f743f0f313a42e",
-        "title": "14-11-2026: PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
-        "link": "https://drntr.uhsap.in/index/notification/20261114180058550.pdf",
-        "date": "14/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-14T14:00:40.395Z"
       }
     ]
   },
@@ -3649,9 +3649,29 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-24T00:19:51.511Z",
+    "lastUpdatedDate": "2026-11-24T10:23:30.170Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:36f3fdf1fb1776d4",
+        "title": "PG DENTAL (M.D.S.) GOVERNMENT QUOTA APPLIED CANDIDATES ARE ELIGIBLE TO OPT FOR FOR MANAGEMENT QUOTA AFTER PAYMENT OF BALANCE APPLICATION FEE. COURSE PREFERENCES MAY BE UPDATED ACCORDINGLY ON OR BEFORE 24/11/2026, 5.00 PM. - CENTAC",
+        "link": "https://centacpuducherry.in/#",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-24T10:23:30.170Z"
+      },
+      {
+        "id": "PG DENTAL:36f3fdf1fb1776d4",
+        "title": "PG DENTAL (M.D.S.) GOVERNMENT QUOTA APPLIED CANDIDATES ARE ELIGIBLE TO OPT FOR FOR MANAGEMENT QUOTA AFTER PAYMENT OF BALANCE APPLICATION FEE. COURSE PREFERENCES MAY BE UPDATED ACCORDINGLY ON OR BEFORE 24/11/2026, 5.00 PM. - CENTAC",
+        "link": "https://centacpuducherry.in/#",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 407,
+        "detectedAt": "2026-11-24T10:23:30.170Z"
+      },
       {
         "id": "OVERALL:6bb0b3ff8a887101",
         "title": "NOTICE : EXTENSION OF LAST DATE FOR STRAY ROUND REGISTRATION & SUBMISSION OF FRESH APPLICATION FOR PG DENTAL (M.D.S.) COURSES FOR VACANCIES UNDER MANAGEMENT QUOTA",
@@ -3831,26 +3851,6 @@
         "source": "Direct from Website",
         "batchIndex": 396,
         "detectedAt": "2026-11-17T13:00:17.254Z"
-      },
-      {
-        "id": "PG DENTAL:4289f66af4e3eea7",
-        "title": "PG DENTAL ADMITTED LIST - ROUND 3 - (2026 - 2027)",
-        "link": "https://drive.google.com/file/d/1VibbFHbbN0S5YHY6UFr6xaUtybLvft6q/view?usp=sharing",
-        "date": "17/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 397,
-        "detectedAt": "2026-11-17T13:00:17.254Z"
-      },
-      {
-        "id": "PG DENTAL:f7fca4bbf5fec184",
-        "title": "NOTICE : STRAY ROUND REGISTRATION FOR PG DENTAL (M.D.S.) COURSES FOR VACANCIES UNDER GOVERNMENT & MANAGEMENT QUOTA",
-        "link": "https://drive.google.com/file/d/1wa_NUQbmZbINPMTwg5r_xgFbBeg3845s/view?usp=drivesdk",
-        "date": "17/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 399,
-        "detectedAt": "2026-11-17T21:41:33.893Z"
       },
       {
         "id": "OVERALL:66226d4831aac2eb",
@@ -4713,7 +4713,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-23T12:16:13.403Z",
+    "lastUpdatedDate": "2026-11-24T10:19:32.869Z",
     "pinned": false,
     "notices": [
       {
@@ -4941,9 +4941,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-23T12:19:50.627Z",
+    "lastUpdatedDate": "2026-11-24T10:23:19.744Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:100f8b8ecf4611b4",
+        "title": "REPORTING SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO (1st ROUND) PG [MD (HOM.)] & PG [MD/MS (AYURVEDIC)] FOR THE SESSION 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261124893720521.pdf",
+        "date": "24/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-24T10:23:19.744Z"
+      },
       {
         "id": "OJEE:2847e44b8dc4ec8b",
         "title": "List of Reported Candidates of Stray Vacancy Round Counselling of BAMS/BHMS",
@@ -5133,16 +5143,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-11-06T07:52:49.100Z"
-      },
-      {
-        "id": "OJEE:5e3600f58658c1e3",
-        "title": "Information and Guidelines for PG Homeopathy and Ayurveda",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/20261106488984317.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-06T15:53:24.755Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
