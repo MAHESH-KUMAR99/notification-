@@ -806,9 +806,18 @@
     "category": "central",
     "officialLink": "https://afmc.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-27T09:01:01.719Z",
+    "lastUpdatedDate": "2026-11-27T18:53:06.971Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "afmc-pune-139",
+        "title": "RECRUITMENT OF PROJECT POSITION RESEARCH ASSISTANT FOR INFECTIOUS DISEASE RESEARCH AND DIAGNOSTIC LABORATORY IRDL,DEPT OF MICROBIOLOGY, AFMC, PUNE.",
+        "link": "https://afmc.nic.in/letestnews",
+        "date": "26/11/2026",
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-27T18:53:06.971Z"
+      },
       {
         "id": "afmc-pune-137",
         "title": "RECRUITMENT FOR ADVERTISEMENT OF PROJECT TRIGGER FINGER WARMER GLOVES AT DMR,AFMC,PUNE.",
@@ -979,15 +988,6 @@
         "source": "Direct from Website",
         "batchIndex": 1,
         "detectedAt": "2026-08-31T16:21:34.484Z"
-      },
-      {
-        "id": "afmc-pune-116",
-        "title": "RECRUITMENT OF STAFF FOR JRF AFMRC PROJECT AT FACULTY OF DENTAL SURGERY AND OHS AT AFMC,PUNE.",
-        "link": "https://afmc.nic.in/letestnews",
-        "date": "27/08/2026",
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-08-28T05:35:38.107Z"
       }
     ]
   },
@@ -2180,9 +2180,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-26T15:38:59.761Z",
+    "lastUpdatedDate": "2026-11-27T18:50:36.028Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "a86e3261ef83fc02",
+        "title": "27-11-2026: Allied and Healthcare Courses 2026-27 - CQ - Phase-I College Wise Allotments PG (Medical) MQ 2026-27 - Phase-II College wise Final Allotment List",
+        "link": "https://drntr.uhsap.in/index/notification/20261127144958437.pdf",
+        "date": "27/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-27T18:50:36.028Z"
+      },
       {
         "id": "ee0b7bca40d30bab",
         "title": "26-11-2026: UG AYUSH Courses 2026-27 - CQ - Stray Vacancy Round 2 Web Options Notification UG AYUSH Courses 2026-27 - AIQ & MQ - Stray Vacancy Round 2 Web Options Notification UG AYUSH Courses 2026-27 - AIQ - Merit List of Applied Candidates in response to Notification dated 25.11.2026 UG AYUSH Courses 2026-27 - MQ - Merit List of Applied Candidates in response to Notification dated 25.11.2026 MDS CQ 2026-27 - Stray Round-1 College wise Allotments List MDS MQ 2026-27 - Stray Round-1 College wise Allotments List BDS-2026-27-MQ- College WiseAllotments under Special Stray Round-2 MD(Ayurveda) Addendum to Final Merit List 2026-27 PG (Medical) CQ 2026-27 - Phase-II College Wise Final Allotments List (Non-service) PG (Medical) CQ 2026-27 - Phase-II College Wise Final Allotments List (In-service) Allied and Healthcare Courses 2026-27 - Notice regarding Phase-I Web Counselling",
@@ -2304,6 +2314,16 @@
         "detectedAt": "2026-11-26T15:38:59.761Z"
       },
       {
+        "id": "f3fe64f362b49499",
+        "title": "18-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round - College-wise Allotments B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round Counselling - College-wise allotments",
+        "link": "https://drntr.uhsap.in/index/notification/20261121123526977.pdf",
+        "date": "21/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-11-27T18:50:36.028Z"
+      },
+      {
         "id": "83bcaa3c07205975",
         "title": "20-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Collegewise Allotments under 2nd & Final Counselling M.Sc(N) Mopup round Web Options Detailed Notification 2026-27 BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round- 2 MSc (Nursing) List of Not Reported candidates after Phase-II",
         "link": "https://drntr.uhsap.in/index/notification/20261120172802573.pdf",
@@ -2362,26 +2382,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-17T21:36:28.129Z"
-      },
-      {
-        "id": "ba529e14e8187fcd",
-        "title": "17-11-2026: BDS-CQ -2026-27- Notification for Web options UNDER Spl Stray Round",
-        "link": "https://drntr.uhsap.in/index/notification/20261117132949417.pdf",
-        "date": "17/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-17T12:55:07.361Z"
-      },
-      {
-        "id": "0551ab956431da1e",
-        "title": "20-11-2026: MPT Entrance Test Held on 17.11.2026 Primary Key Released. B.Sc.(Nursing) 4 YDC 2026-27 - MQ - Collegewise Allotments under 2nd & Final Counselling M.Sc(N) Mopup round Web Options Detailed Notification 2026-27 BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round- 2 MSc (Nursing) List of Not Reported candidates after Phase-II",
-        "link": "https://apntruhs-cbtmpt.aptonline.in/MPTCET/Home/StudentLogin",
-        "date": "17/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-21T14:53:28.765Z"
       }
     ]
   },
@@ -4711,9 +4711,41 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-26T15:40:10.093Z",
+    "lastUpdatedDate": "2026-11-27T18:51:47.748Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "6a5ebeab453e8792",
+        "title": "27 Nov. 2026: छत्तीसगढ़ राज्य के दंत चिकित्सा स्नातकोत्तर (MDS) पाठ्यक्रम में प्रवेश वर्ष 2026 हेतु स्ट्रे वेकेंसी-2 आवंटन सूचना एवं आवंटन सूची.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2386",
+        "date": null,
+        "sortTs": 1795737600000,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "titleEn": "27 Nov. 2026: Stray Vacancy-2 allotment information and allotment list for admission year 2026 in Post Graduate Dental (MDS) course of Chhattisgarh state.....More",
+        "titleLang": "hi",
+        "detectedAt": "2026-11-27T18:51:47.748Z"
+      },
+      {
+        "id": "67753350eab1e63d",
+        "title": ": Chhattisgarh MDS Round 5 (Stray Round-2) Provisional Merit List Session 2026-27 (Round 5 merit list of candidates who have opted for allotment and performed valid choice filling).....More",
+        "link": "https://www.cgdme.in/notice.php?id=2385",
+        "date": "27/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-27T18:51:47.748Z"
+      },
+      {
+        "id": "02c9653b43616ed3",
+        "title": ": CG STATE NEET UG (BDS) COUNSELLING 2026 – SPECIAL STRAY VACANCY ROUND–4 LIST OF CANDIDATES WHO APPEARED FOR DOCUMENT VERIFICATION DATE: 27.11.2026 | TIME: 11:00 AM TO 02:00 PM AND FOUND ELIGIBLE.....More",
+        "link": "https://www.cgdme.in/notice.php?id=2384",
+        "date": "27/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 3,
+        "detectedAt": "2026-11-27T18:51:47.748Z"
+      },
       {
         "id": "4a7f87605c04a693",
         "title": ": प्रवेश वर्ष 2026 बी.एस.सी. नर्सिंग, पोस्ट बेसिक बी.एस.सी. नर्सिंग, एम.एस.सी. नर्सिंग एवं पोस्ट बेसिक डिप्लोमा इन साईकियाट्रिक नर्सिंग पाठ्यक्रम में प्रवेश हेतु स्ट्रे राउण्ड ऑन-लाईन आवेदन सूचना.....More",
@@ -4899,38 +4931,6 @@
         "titleEn": "13 Sep. 2026: In the year 2026, M.B.B.S. First merit list and claim/objection information regarding posting for government service of contractual students who have passed the course.....More",
         "titleLang": "hi",
         "detectedAt": "2026-09-13T14:53:00.707Z"
-      },
-      {
-        "id": "885381f63b294cca",
-        "title": "01 Sep. 2026: CG STATE MDS Round 1 Revised Merit List Session 2026-27.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2176",
-        "date": null,
-        "sortTs": 1788739200000,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-01T06:40:47.626Z"
-      },
-      {
-        "id": "06059afd5b099b18",
-        "title": "04 Sep. 2026: प्रवेश वर्ष 2026 NEET UG (MBBS & BDS) पाठयक्रम के द्वितीय चरण काउंसिलिंग हेतु ऑनलाईन आवेदन एवं पूर्व पंजीकृत अभ्यर्थियों के लिए द्वितीय चरण काउंसिलिंग हेतु संस्था चयन सूचना.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2182",
-        "date": null,
-        "sortTs": 1788393600000,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "titleEn": "04 Sep. 2026: Admission year 2026 Online application for second phase counseling of NEET UG (MBBS & BDS) course and information about institution selection for second phase counseling for pre-registered candidates.....More",
-        "titleLang": "hi",
-        "detectedAt": "2026-09-04T13:19:46.483Z"
-      },
-      {
-        "id": "19aa55f6a3cd7ac0",
-        "title": "01 Sep. 2026: Provisional Eligibility List – Class-3 Posts | New Government Nursing Colleges, Chhattisgarh. Claims & Objections may be submitted up to 03/09/2026, 11:59 PM.....More",
-        "link": "https://www.cgdme.in/notice.php?id=2181",
-        "date": "03/09/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-09-01T19:49:14.636Z"
       }
     ]
   },
@@ -6481,9 +6481,39 @@
     "category": "state",
     "officialLink": "https://fmsc.du.ac.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-25T14:14:48.077Z",
+    "lastUpdatedDate": "2026-11-27T18:54:22.324Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ec191197cd5af0cc",
+        "title": "UG(BAMS/BUMS)- Admission Notice for 3rd SVR Round of Counselling Schedule for Academic Session 2026-2027.",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1795777904864-BAMS_BUMS_3SVR_ADMISSION_SCHDULE.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-27T18:54:22.324Z"
+      },
+      {
+        "id": "f9e0d567a96f8886",
+        "title": "UG(BAMS) - Result of 3rd SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1795776075231-RESULT_OF_3RD_SVR_BAMS.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-27T18:54:22.324Z"
+      },
+      {
+        "id": "984c69bf91931d0f",
+        "title": "UG(BUMS)- Result of 3rd SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
+        "link": "https://storage.googleapis.com/dudocsfmsc/1795776083870-RESULT_OF_3RD_SVR_BUMS.pdf",
+        "date": null,
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 2,
+        "detectedAt": "2026-11-27T18:54:22.324Z"
+      },
       {
         "id": "f9a26fa36f0ab2ee",
         "title": "UG(BHMS) - Result of 3rd SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
@@ -6653,36 +6683,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-10-28T13:27:36.114Z"
-      },
-      {
-        "id": "018312321397d37d",
-        "title": "UG(BHMS)- 1st SVR round of counselling of admission to UG (BHMS) for the AY 2026-27.",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1793073282498-BHMS_1srv_round_schedule.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-27T05:29:37.582Z"
-      },
-      {
-        "id": "8bb7de0334859064",
-        "title": "UG(BHMS) - Result of 1st SVR Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1793015093933-BHMS_1ST_SVR_ROUND_RESULT_-_FINAL.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-10-26T15:02:58.247Z"
-      },
-      {
-        "id": "1761690803e74e4e",
-        "title": "UG(BUMS)- Result of 1st Round of Counselling for admission under 85% Delhi Quota for the session 2026-27 as per merit in order of All India Rank (AIR).",
-        "link": "https://storage.googleapis.com/dudocsfmsc/1793014906757-BUMS_1ST_ROUND_REULST_-_FINAL.pdf",
-        "date": null,
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-10-26T15:02:58.247Z"
       }
     ]
   },
@@ -6693,9 +6693,19 @@
     "category": "state",
     "officialLink": "https://ipu.admissions.nic.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-26T15:41:02.686Z",
+    "lastUpdatedDate": "2026-11-27T18:52:40.133Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "b17e88808b29895e",
+        "title": "CORREGENDUM OF COUNSELLING SCHEDULE – PGAC (CODE 196) & PGHC (CODE 700) (THROUGH AIAPGET 2026) ROUND 01 OFFLINE COUNSELLING.",
+        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/202611271007690748.pdf",
+        "date": "27/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-27T18:52:40.133Z"
+      },
       {
         "id": "37e95fb92540183a",
         "title": "COUNSELLING SCHEDULE – PGAC (CODE 196) & PGHC (CODE 700) (THROUGH AIAPGET 2026) ROUND 01 OFFLINE COUNSELLING A.S.2026-27_dated-26.11.2026",
@@ -6884,16 +6894,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 0,
-        "detectedAt": "2026-11-02T18:47:02.287Z"
-      },
-      {
-        "id": "7f2ad759440e85fd",
-        "title": "BHMS (CODE 154) FOR NEET UG 2026 EXTENDED SCHEDULE OF ACTIVITIES PURSUANT TO THE DECLARATION OF RESULT OF ROUND 03 FOR A.S. 2026-27_dated-02.11.2026",
-        "link": "https://cdnbbsr.s3waas.gov.in/s3ea119a40c1592979f51819b0bd38d39d/uploads/2026/11/20261102649028531.pdf",
-        "date": "02/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
         "detectedAt": "2026-11-02T18:47:02.287Z"
       }
     ]
@@ -7117,9 +7117,19 @@
     "category": "state",
     "officialLink": "https://cee.kerala.gov.in/keam2026/notification",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-26T15:44:04.867Z",
+    "lastUpdatedDate": "2026-11-27T18:55:43.109Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "ebe8fbbbc5135ab9",
+        "title": "ADMISSION TO AYURVEDA/HOMOEO/SIDDHA/UNANI/ MEDICAL ALLIED COURSES- SECOND ROUND STRAY VACANCY ALLOTMENT PUBLISHED",
+        "link": "https://cee.kerala.gov.in/keam2026/noti_view/453/Upload1",
+        "date": "27/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-27T18:55:43.109Z"
+      },
       {
         "id": "6efbcd10377ceb78",
         "title": "ADMISSION TO AYURVEDA [BAMS], HOMOEOPATHY [BHMS], SIDDHA[BSMS] & UNANI[BUMS] COURSES- REVISED FINAL RANK LIST & CATEGORY LIST PUBLISHED",
@@ -7309,16 +7319,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-03T16:34:57.883Z"
-      },
-      {
-        "id": "bc172aefa18b5bb7",
-        "title": "MBBS/BDS - Special Stray Vacancy Filling Allotment - Option Registration Started.",
-        "link": "https://cee.kerala.gov.in/keam2026/noti_view/384/Upload1",
-        "date": "03/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 1,
-        "detectedAt": "2026-11-03T22:01:59.712Z"
       }
     ]
   },
