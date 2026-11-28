@@ -2180,9 +2180,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-28T09:59:11.061Z",
+    "lastUpdatedDate": "2026-11-28T18:07:20.337Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "d95b942aec29b79f",
+        "title": "28-11-2026: MD(Ayurveda) Phase-I College wise allotments 2026-27 MD(Homoeo) Phase-I College wise allotments 2026-27 MPT Notification for Competent Authority Quota seats 2026-27 MPT Prospectus for Competent Authority Quota - 2026-27 PG (Medical) Admissions 2026-27 - Extension Notification for Joining Time of Phase-II Allotted candidates UG AYUSH Courses 2026-27 - AIQ- Stray Vacancy Round 2 College Wise Allotments UG AYUSH Courses 2026-27 - CQ - Stray Vacancy Round 2 College Wise Allotments UG AYUSH Courses 2026-27 - MQ - Stray Vacancy Round 2 College Wise Allotments",
+        "link": "https://drntr.uhsap.in/index/notification/20261128201108150.pdf",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-28T18:07:20.337Z"
+      },
       {
         "id": "c09b4914496d0d8c",
         "title": "28-11-2026: UG AYUSH Courses 2026-27 - AIQ- Stray Vacancy Round 2 College Wise Allotments UG AYUSH Courses 2026-27 - CQ - Stray Vacancy Round 2 College Wise Allotments UG AYUSH Courses 2026-27 - MQ - Stray Vacancy Round 2 College Wise Allotments",
@@ -2372,16 +2382,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-18T20:49:59.375Z"
-      },
-      {
-        "id": "25896d00177a6ffd",
-        "title": "18-11-2026: BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round BDS-2026-27 -CQ-NOTICE FOR EXTENSION OF WEB OPTIONS UNDER SPECIAL STRAY ROUND",
-        "link": "https://drntr.uhsap.in/index/notification/20261118160340757.pdf",
-        "date": "18/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-18T12:08:36.300Z"
       }
     ]
   },
@@ -3647,9 +3647,49 @@
     "category": "state",
     "officialLink": "https://centacpuducherry.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-27T00:31:18.334Z",
+    "lastUpdatedDate": "2026-11-28T18:12:41.529Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OVERALL:40eca0a31228f37e",
+        "title": "NOTICE : ROUND 2 REGISTRATION AND SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR PG MEDICAL (M.D./M.S) COURSES",
+        "link": "https://drive.google.com/file/d/1Q1BQ-iis3IHGpBTz_SYpYCSvokwf9lRl/view?usp=drivesdk",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-28T18:12:41.529Z"
+      },
+      {
+        "id": "OVERALL:63a35ff18437e62d",
+        "title": "PG MEDICAL ADDITIONAL SEAT MATRIX FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/19M2dpUvoy_jaJZ5KxZSKKf7bL-8QL_0J/view?usp=sharing",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-28T18:12:41.529Z"
+      },
+      {
+        "id": "PG MEDICAL:40eca0a31228f37e",
+        "title": "NOTICE : ROUND 2 REGISTRATION AND SUBMISSION OF COURSE PREFERENCES & RESIGNATION OF ROUND 1 ADMITTED SEAT FOR PG MEDICAL (M.D./M.S) COURSES",
+        "link": "https://drive.google.com/file/d/1Q1BQ-iis3IHGpBTz_SYpYCSvokwf9lRl/view?usp=drivesdk",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 409,
+        "detectedAt": "2026-11-28T18:12:41.529Z"
+      },
+      {
+        "id": "PG MEDICAL:63a35ff18437e62d",
+        "title": "PG MEDICAL ADDITIONAL SEAT MATRIX FOR THE ACADEMIC YEAR 2026-2027",
+        "link": "https://drive.google.com/file/d/19M2dpUvoy_jaJZ5KxZSKKf7bL-8QL_0J/view?usp=sharing",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 410,
+        "detectedAt": "2026-11-28T18:12:41.529Z"
+      },
       {
         "id": "OVERALL:485433a39cb2dd41",
         "title": "SPECIAL STRAY TWO PROVISIONAL ALLOTMENT LIST FOR UG NEET - DENTAL - (2026-27)",
@@ -3808,46 +3848,6 @@
         "sortTs": null,
         "source": "Direct from Website",
         "batchIndex": 430,
-        "detectedAt": "2026-11-26T15:44:05.494Z"
-      },
-      {
-        "id": "PG DENTAL:5633816f092fcd38",
-        "title": "NOTICE : STRAY ROUND PROVISIONAL ALLOTMENT LIST FOR PG DENTAL (M.D.S.) COURSES - 2026-2027",
-        "link": "https://drive.google.com/file/d/12HiXrcDyxLgwqMrG8G7K9FOL-_KQAWBt/view?usp=sharing",
-        "date": "26/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 431,
-        "detectedAt": "2026-11-26T15:44:05.494Z"
-      },
-      {
-        "id": "UG NEET:bcfb863e7c3f492a",
-        "title": "SPECIAL STRAY TWO DRAFT ALLOTMENT LIST FOR UG NEET - DENTAL - (2026-27)",
-        "link": "https://drive.google.com/file/d/1HsMTRMdX0kZ_IJf-65RsyPFtfk7UbI5N/view?usp=sharing",
-        "date": "26/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 620,
-        "detectedAt": "2026-11-26T15:44:05.494Z"
-      },
-      {
-        "id": "UG NEET:da85a93e5726a93f",
-        "title": "NOTICE : SPECIAL STRAY-2 ROUND DRAFT ALLOTMENT LIST FOR B.D.S. UNDER MANAGEMENT QUOTA FOR THE ACADEMIC YEAR 2026-2027",
-        "link": "https://drive.google.com/file/d/1usMakuFn0hHsEosZhGK_Eukm76yCXwmf/view?usp=sharing",
-        "date": "26/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 621,
-        "detectedAt": "2026-11-26T15:44:05.494Z"
-      },
-      {
-        "id": "UG NEET:7fd40598f9f6a935",
-        "title": "SPECIAL STRAY TWO DRAFT ALLOTMENT LIST FOR UG NEET - BAMS AYURVEDA - (2026-27)",
-        "link": "https://drive.google.com/file/d/1Npb-sLiJ3RAnRzoqSVCldeIQ8dqIAyRC/view?usp=sharing",
-        "date": "26/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 622,
         "detectedAt": "2026-11-26T15:44:05.494Z"
       },
       {
@@ -4711,7 +4711,7 @@
     "category": "state",
     "officialLink": "https://www.cgdme.in/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-27T18:51:47.748Z",
+    "lastUpdatedDate": "2026-11-28T18:08:30.329Z",
     "pinned": false,
     "notices": [
       {
@@ -4941,9 +4941,19 @@
     "category": "state",
     "officialLink": "https://ojee.nic.in/notices/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-25T14:16:00.707Z",
+    "lastUpdatedDate": "2026-11-28T18:12:31.701Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "OJEE:20544dc67a89238e",
+        "title": "REPORTING SCHEDULE AND INSTRUCTIONS FOR PROVISIONAL ADMISSION TO (2nd ROUND) PG [MD (HOM.)] & PG [MD/MS (AYURVEDIC)] FOR THE SESSION 2026-27",
+        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611281720632143.pdf",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "OJEE",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-28T18:12:31.701Z"
+      },
       {
         "id": "OJEE:3c22f2e3ae9df5e8",
         "title": "REPORTING NOTICE FOR ALL CANDIDATES PARTICIPATED IN STRAY UPGRADATION ROUND BAMS/BHMS COUNSELLING",
@@ -5133,16 +5143,6 @@
         "source": "OJEE",
         "batchIndex": 0,
         "detectedAt": "2026-11-09T18:36:38.260Z"
-      },
-      {
-        "id": "OJEE:af40f0d9ebd06938",
-        "title": "INFORMATION & GUIDELINES FOR COUNSELLING & ADMISSION TO M.D. (HOM.) IN MATERIA MEDICA FOR THE YEAR 2026-27",
-        "link": "https://cdnbbsr.s3waas.gov.in/s36832a7b24bc06775d02b7406880b93fc/uploads/2026/11/202611061760618173.pdf",
-        "date": "06/11/2026",
-        "sortTs": null,
-        "source": "OJEE",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-06T15:53:24.755Z"
       },
       {
         "id": "DME Odisha:f7f24a0fac01aab8",
