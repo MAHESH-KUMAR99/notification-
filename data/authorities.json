@@ -2180,9 +2180,19 @@
     "category": "state",
     "officialLink": "https://drntr.uhsap.in/index/",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-27T18:50:36.028Z",
+    "lastUpdatedDate": "2026-11-28T09:59:11.061Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "c09b4914496d0d8c",
+        "title": "28-11-2026: UG AYUSH Courses 2026-27 - AIQ- Stray Vacancy Round 2 College Wise Allotments UG AYUSH Courses 2026-27 - CQ - Stray Vacancy Round 2 College Wise Allotments UG AYUSH Courses 2026-27 - MQ - Stray Vacancy Round 2 College Wise Allotments",
+        "link": "https://drntr.uhsap.in/index/notification/20261128132130471.pdf",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-28T09:59:11.061Z"
+      },
       {
         "id": "a86e3261ef83fc02",
         "title": "27-11-2026: Allied and Healthcare Courses 2026-27 - CQ - Phase-I College Wise Allotments PG (Medical) MQ 2026-27 - Phase-II College wise Final Allotment List",
@@ -2344,6 +2354,16 @@
         "detectedAt": "2026-11-19T19:25:25.605Z"
       },
       {
+        "id": "9291982df57b92b7",
+        "title": "19-11-2026: MDS MQ 2026-27 - Web Options Notification for Stray vacancy Round MDS CQ 2026-27 - Web Options Notification for Stray vacancy Round MDS MQ 2026-27 - Eligible Candidates List for Stray vacancy Round",
+        "link": "https://drntr.uhsap.in/index/notification/20261119163624877.pdf",
+        "date": "19/11/2026",
+        "sortTs": null,
+        "source": "Direct from Website",
+        "batchIndex": 8,
+        "detectedAt": "2026-11-28T09:59:11.061Z"
+      },
+      {
         "id": "00bfdca48cd31afc",
         "title": "18-11-2026: B.Sc.(Nursing) 4 YDC 2026-27 - CQ Final Mop-up round Counselling - College-wise allotments BNYS Course 2026-27 - CQ - Phase-II College Wise Allotments Allied and Healthcare Courses 2026-27 - Final Merit List of Applied Candidates Allied and Healthcare Courses 2026-27 - CQ - Phase-1 Web Options Notification Allied and Healthcare Courses 2026-27 - List of Candidates whose Documents Verification is Pending Allied and Healthcare Courses 2026-27 - List of Candidates Paid Registration fee but not submitted application Allied and Healthcare Courses 2026-27 - PwBD Eligible & Not-Eligible Candidates List Allied and Healthcare Courses 2026-27 - Not-Eligible Candidates List UG Allied and Healthcare Courses - Seat Matrix - 2026-27 BDS 2026-27 -CQ- Special Stray Round College Wise Allotments BDS - MQ- 2026-27-Notification for Web options under Spl Stray Round BDS-2026-27 -CQ-NOTICE FOR EXTENSION OF WEB OPTIONS UNDER SPECIAL STRAY ROUND",
         "link": "https://drntr.uhsap.in/index/notification/20261118190315263.pdf",
@@ -2362,26 +2382,6 @@
         "source": "Direct from Website",
         "batchIndex": 0,
         "detectedAt": "2026-11-18T12:08:36.300Z"
-      },
-      {
-        "id": "9f29002171d5f57a",
-        "title": "14-11-2026: B.Sc.(nursing) 4 YDC 2026-27 - MQ 2nd & Final Phase- Addendum to the Final Merit List Nursing 4 YDC 2026-27 - CQ Final Mop-up round - Addendcum to Final Merit List B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd - Final Phase - Notice to the candidates for exercising web options B.Sc.(Nursing) 4 YDC 2026-27 - MQ - 2nd &Final Phase - Provisional Final Eligible List PG (Medical) CQ 2026-27 - Non-service Phase-I College wise Provisional Allotment List PG (Medical) CQ 2026-27 - MRC List of Non-service Phase-I PG (Medical) MQ 2026-27 - Phase-I Web Options Notification PG (Medical) MQ Seat Matrix 2026-27 PG (Medical) MQ 2026-27 - List of Eligible Candidates under Institutional (S3) Quota for Phase-I MBBS-MQ-2026-27-College wise allottments under SPECIAL STRAY ROUND-2",
-        "link": "https://drntr.uhsap.in/index/notification/20261118190315277.pdf",
-        "date": "18/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 4,
-        "detectedAt": "2026-11-18T20:49:59.375Z"
-      },
-      {
-        "id": "7f86e0750d88d9e5",
-        "title": "17-11-2026: PG (Medical) MQ 2026-27 - Phase-I College wise Final Allotment List PG (Medical) CQ 2026-27 - Extension Notification for Phase-I Allotted In-service candidates BDS-CQ -2026-27- Notification for Web options UNDER Spl Stray Round",
-        "link": "https://drntr.uhsap.in/index/notification/20261117182744841.pdf",
-        "date": "17/11/2026",
-        "sortTs": null,
-        "source": "Direct from Website",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-17T21:36:28.129Z"
       }
     ]
   },
@@ -2796,9 +2796,29 @@
     "category": "state",
     "officialLink": "https://bceceboard.bihar.gov.in/UGMACIndex.php",
     "latestUpdate": "",
-    "lastUpdatedDate": "2026-11-24T20:51:52.262Z",
+    "lastUpdatedDate": "2026-11-28T10:03:13.745Z",
     "pinned": false,
     "notices": [
+      {
+        "id": "Latest Updates:47d71c74a0b5c1c1",
+        "title": "Notice for Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR)(III))-2026/04 Dated 28.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_04.pdf",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 0,
+        "detectedAt": "2026-11-28T10:03:13.745Z"
+      },
+      {
+        "id": "Latest Updates:b35bb620946111be",
+        "title": "Details of Document Verificatioin for the post of Senior Resident /Tutor Under Health Department (Adv. No. BCECEB(Health(SR)(III))-2026/03 Dated 28.11.2026)",
+        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_3SR26_03.pdf",
+        "date": "28/11/2026",
+        "sortTs": null,
+        "source": "Latest Updates",
+        "batchIndex": 1,
+        "detectedAt": "2026-11-28T10:03:13.745Z"
+      },
       {
         "id": "Latest Updates:407a51c2a6721cda",
         "title": "Important Notice for Online Application and Choice Filling for UGMAC[AYUSH]-2026 Stray Vacancy Round-2(Adv. No. BCECEB[UGMAC(Ayush)]-2026/12 Dated 24.11.2026)",
@@ -2978,26 +2998,6 @@
         "source": "Latest Updates",
         "batchIndex": 5,
         "detectedAt": "2026-11-06T07:51:31.844Z"
-      },
-      {
-        "id": "Latest Updates:ee0958457e845f31",
-        "title": "Details of Registration-cum-Choice Filling for Post Graduate Degree for Post Graduate Degree [PGMAC (Ayush)]-2026 for MD (Homeo) on the basis of AIAPGET[AYUSH]-2026 (Adv. No. BCECEB(PGMAC[AYUSH])-2026/01 Dated 05.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_PGAAC25_01.pdf",
-        "date": "05/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 5,
-        "detectedAt": "2026-11-05T19:55:45.907Z"
-      },
-      {
-        "id": "Latest Updates:6351800e5158002a",
-        "title": "Notice for filling online application form and choice filling for Special Stray Vacancy Round of UGMAC-2026 (Adv. No. BCECEB(UGMAC)-2026/19 Dated 03.11.2026)",
-        "link": "https://bceceboard.bihar.gov.in/pdf_Adv/ADV_UGMAC26_19.pdf",
-        "date": "03/11/2026",
-        "sortTs": null,
-        "source": "Latest Updates",
-        "batchIndex": 0,
-        "detectedAt": "2026-11-03T16:33:29.570Z"
       },
       {
         "id": "UGMAC:6351800e5158002a",
